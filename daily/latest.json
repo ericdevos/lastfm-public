@@ -1,0 +1,265 @@
+{
+  "schema": 1,
+  "generated_at": "2026-10-23T10:05:43+00:00",
+  "date": "2026-10-22",
+  "date_nl": "donderdag 22 oktober 2026",
+  "mail_date": "2026-10-23",
+  "data_until": "2026-10-22T21:07:32+00:00",
+  "sync_ok": true,
+  "import_days_skipped": 1,
+  "yesterday": {
+    "plays": 96,
+    "avg_year": 75,
+    "year": 2026,
+    "verdict": "boven",
+    "line": "Gisteren: 96 nummers — boven je daggemiddelde van 2026 (75)."
+  },
+  "highlights": [
+    {
+      "type": "comeback",
+      "label": "Comeback",
+      "text": "Voor het eerst sinds november 2023 weer Tomáš Dvořák (14× gisteren)."
+    },
+    {
+      "type": "new",
+      "label": "Nieuwe aanwinst",
+      "text": "Je nieuwe aanwinst Kane – Fearless (CD, binnen sinds 21 oktober) draaide je gisteren 13×."
+    },
+    {
+      "type": "waiting",
+      "label": "Nog op de stapel",
+      "text": "Postmen – Revival (CD Album, binnen sinds 7 oktober) wacht nog op zijn eerste draaibeurt."
+    }
+  ],
+  "onthisday": {
+    "lastfm": {
+      "highlights": [
+        {
+          "type": "first-artist",
+          "name": "Watch The Ride",
+          "total": 52,
+          "year": "2019"
+        },
+        {
+          "type": "comeback",
+          "name": "Gotan Project",
+          "gapDays": 521,
+          "since": "2015-05-21",
+          "plays": 11,
+          "before": 422,
+          "year": "2016"
+        },
+        {
+          "type": "m-track",
+          "artist": "Beastie Boys",
+          "title": "B For My Name",
+          "n": 25,
+          "year": "2014"
+        },
+        {
+          "type": "first-track",
+          "artist": "Fred again..",
+          "title": "Turn On The Lights again.. (feat. Future)",
+          "total": 42,
+          "year": "2022"
+        },
+        {
+          "type": "busiest",
+          "year": "2008",
+          "plays": 110,
+          "top": {
+            "name": "Mark Ronson",
+            "plays": 14
+          }
+        },
+        {
+          "type": "quietest",
+          "year": "2005",
+          "plays": 0,
+          "top": null
+        }
+      ],
+      "years": [
+        {
+          "year": "2025",
+          "plays": 29,
+          "top": {
+            "name": "Baby Mammoth",
+            "plays": 28
+          }
+        },
+        {
+          "year": "2024",
+          "plays": 66,
+          "top": {
+            "name": "Izmar",
+            "plays": 13
+          }
+        },
+        {
+          "year": "2023",
+          "plays": 61,
+          "top": {
+            "name": "Max Richter",
+            "plays": 23
+          }
+        },
+        {
+          "year": "2022",
+          "plays": 57,
+          "top": {
+            "name": "Bonobo",
+            "plays": 6
+          }
+        },
+        {
+          "year": "2021",
+          "plays": 42,
+          "top": {
+            "name": "THE ROOP",
+            "plays": 1
+          }
+        },
+        {
+          "year": "2020",
+          "plays": 92,
+          "top": {
+            "name": "Max Richter",
+            "plays": 24
+          }
+        },
+        {
+          "year": "2019",
+          "plays": 48,
+          "top": {
+            "name": "Tosca",
+            "plays": 6
+          }
+        },
+        {
+          "year": "2018",
+          "plays": 29,
+          "top": {
+            "name": "Austin Wintory",
+            "plays": 18
+          }
+        },
+        {
+          "year": "2017",
+          "plays": 15,
+          "top": {
+            "name": "Austin Wintory",
+            "plays": 4
+          }
+        },
+        {
+          "year": "2016",
+          "plays": 52,
+          "top": {
+            "name": "Buena Vista Social Club",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2015",
+          "plays": 18,
+          "top": {
+            "name": "Alex Under",
+            "plays": 5
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 99,
+          "top": {
+            "name": "The Cinematic Orchestra",
+            "plays": 23
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 73,
+          "top": {
+            "name": "Hibernation",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 44,
+          "top": {
+            "name": "Gare du Nord",
+            "plays": 13
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2010",
+          "plays": 66,
+          "top": {
+            "name": "Fleetwood Mac",
+            "plays": 16
+          }
+        },
+        {
+          "year": "2009",
+          "plays": 12,
+          "top": {
+            "name": "Simian Mobile Disco",
+            "plays": 9
+          }
+        },
+        {
+          "year": "2008",
+          "plays": 110,
+          "top": {
+            "name": "Mark Ronson",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2007",
+          "plays": 23,
+          "top": {
+            "name": "Thievery Corporation",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2006",
+          "plays": 59,
+          "top": {
+            "name": "De La Soul",
+            "plays": 17
+          }
+        },
+        {
+          "year": "2005",
+          "plays": 0,
+          "top": null
+        }
+      ]
+    },
+    "lastfm_artists_in_collection": [
+      "Austin Wintory",
+      "Beastie Boys",
+      "Bonobo",
+      "Buena Vista Social Club",
+      "De La Soul",
+      "Fleetwood Mac",
+      "Fred again..",
+      "Gare Du Nord",
+      "Gotan Project",
+      "Izmar",
+      "Mark Ronson",
+      "Max Richter",
+      "Thievery Corporation",
+      "Tosca"
+    ],
+    "discogs": []
+  }
+}
