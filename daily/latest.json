@@ -1,34 +1,34 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-23T10:05:43+00:00",
-  "date": "2026-10-22",
-  "date_nl": "donderdag 22 oktober 2026",
-  "mail_date": "2026-10-23",
-  "data_until": "2026-10-22T21:07:32+00:00",
-  "sync_ok": true,
+  "generated_at": "2026-10-24T05:16:25+00:00",
+  "date": "2026-10-23",
+  "date_nl": "vrijdag 23 oktober 2026",
+  "mail_date": "2026-10-24",
+  "data_until": "2026-10-23T18:03:35+00:00",
+  "sync_ok": false,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 96,
+    "plays": 117,
     "avg_year": 75,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 96 nummers — boven je daggemiddelde van 2026 (75)."
+    "line": "Gisteren: 117 nummers — ruim boven je daggemiddelde van 2026 (75; +56%)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds november 2023 weer Tomáš Dvořák (14× gisteren)."
+      "text": "Voor het eerst sinds april 2024 weer Londonbeat (1× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Kane – Fearless (CD, binnen sinds 21 oktober) draaide je gisteren 13×."
+      "text": "Je nieuwe aanwinst Bebel Gilberto – Bebel Gilberto (CD Album Stereo, binnen sinds 3 september) draaide je gisteren 1×."
     },
     {
-      "type": "waiting",
-      "label": "Nog op de stapel",
-      "text": "Postmen – Revival (CD Album, binnen sinds 7 oktober) wacht nog op zijn eerste draaibeurt."
+      "type": "milestone",
+      "label": "Mijlpaal",
+      "text": "Richie Hawtin ging gisteren over de 250 plays (nu 257, eerst gehoord in oktober 2008)."
     }
   ],
   "onthisday": {
@@ -36,40 +36,41 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Watch The Ride",
-          "total": 52,
-          "year": "2019"
-        },
-        {
-          "type": "comeback",
-          "name": "Gotan Project",
-          "gapDays": 521,
-          "since": "2015-05-21",
-          "plays": 11,
-          "before": 422,
-          "year": "2016"
+          "name": "Sticks",
+          "total": 101,
+          "year": "2023"
         },
         {
           "type": "m-track",
-          "artist": "Beastie Boys",
-          "title": "B For My Name",
+          "artist": "Brown Feather Sparrow",
+          "title": "Nothing Else On My Mind",
           "n": 25,
-          "year": "2014"
+          "year": "2011"
         },
         {
-          "type": "first-track",
-          "artist": "Fred again..",
-          "title": "Turn On The Lights again.. (feat. Future)",
-          "total": 42,
-          "year": "2022"
+          "type": "repeat",
+          "artist": "Groove Armada",
+          "title": "Drop That Thing",
+          "n": 3,
+          "year": "2007"
+        },
+        {
+          "type": "kast",
+          "year": "2025",
+          "artist": "Röyksopp",
+          "title": "True Electric",
+          "release_id": 33953274,
+          "medium": "CD",
+          "plays": 180,
+          "sameDay": 6
         },
         {
           "type": "busiest",
-          "year": "2008",
-          "plays": 110,
+          "year": "2025",
+          "plays": 107,
           "top": {
-            "name": "Mark Ronson",
-            "plays": 14
+            "name": "The Beatles",
+            "plays": 30
           }
         },
         {
@@ -82,159 +83,153 @@
       "years": [
         {
           "year": "2025",
-          "plays": 29,
+          "plays": 107,
           "top": {
-            "name": "Baby Mammoth",
-            "plays": 28
+            "name": "The Beatles",
+            "plays": 30
           }
         },
         {
           "year": "2024",
-          "plays": 66,
+          "plays": 33,
           "top": {
-            "name": "Izmar",
-            "plays": 13
+            "name": "Baby Mammoth",
+            "plays": 21
           }
         },
         {
           "year": "2023",
-          "plays": 61,
+          "plays": 65,
           "top": {
-            "name": "Max Richter",
-            "plays": 23
-          }
-        },
-        {
-          "year": "2022",
-          "plays": 57,
-          "top": {
-            "name": "Bonobo",
-            "plays": 6
-          }
-        },
-        {
-          "year": "2021",
-          "plays": 42,
-          "top": {
-            "name": "THE ROOP",
-            "plays": 1
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 92,
-          "top": {
-            "name": "Max Richter",
-            "plays": 24
-          }
-        },
-        {
-          "year": "2019",
-          "plays": 48,
-          "top": {
-            "name": "Tosca",
-            "plays": 6
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 29,
-          "top": {
-            "name": "Austin Wintory",
-            "plays": 18
-          }
-        },
-        {
-          "year": "2017",
-          "plays": 15,
-          "top": {
-            "name": "Austin Wintory",
-            "plays": 4
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 52,
-          "top": {
-            "name": "Buena Vista Social Club",
-            "plays": 14
-          }
-        },
-        {
-          "year": "2015",
-          "plays": 18,
-          "top": {
-            "name": "Alex Under",
-            "plays": 5
-          }
-        },
-        {
-          "year": "2014",
-          "plays": 99,
-          "top": {
-            "name": "The Cinematic Orchestra",
-            "plays": 23
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 73,
-          "top": {
-            "name": "Hibernation",
-            "plays": 14
-          }
-        },
-        {
-          "year": "2012",
-          "plays": 44,
-          "top": {
-            "name": "Gare du Nord",
-            "plays": 13
-          }
-        },
-        {
-          "year": "2011",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2010",
-          "plays": 66,
-          "top": {
-            "name": "Fleetwood Mac",
+            "name": "Thievery Corporation",
             "plays": 16
           }
         },
         {
-          "year": "2009",
-          "plays": 12,
+          "year": "2022",
+          "plays": 50,
           "top": {
-            "name": "Simian Mobile Disco",
-            "plays": 9
+            "name": "Röyksopp",
+            "plays": 13
           }
         },
         {
-          "year": "2008",
-          "plays": 110,
+          "year": "2021",
+          "plays": 33,
           "top": {
-            "name": "Mark Ronson",
+            "name": "Stereophonics",
+            "plays": 2
+          }
+        },
+        {
+          "year": "2020",
+          "plays": 41,
+          "top": {
+            "name": "Al Bano",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2019",
+          "plays": 65,
+          "top": {
+            "name": "Nils Frahm",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2018",
+          "plays": 47,
+          "top": {
+            "name": "Justin Hurwitz",
+            "plays": 8
+          }
+        },
+        {
+          "year": "2017",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2016",
+          "plays": 20,
+          "top": {
+            "name": "Joan as Police Woman",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2015",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2014",
+          "plays": 97,
+          "top": {
+            "name": "Bill Elm & Woody Jackson",
+            "plays": 15
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 17,
+          "top": {
+            "name": "Small Night Orchestra",
+            "plays": 11
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 8,
+          "top": {
+            "name": "Orbital",
+            "plays": 8
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 26,
+          "top": {
+            "name": "Colbie Caillat",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 64,
+          "top": {
+            "name": "Jazzamor",
             "plays": 14
+          }
+        },
+        {
+          "year": "2009",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2008",
+          "plays": 88,
+          "top": {
+            "name": "Santigold",
+            "plays": 12
           }
         },
         {
           "year": "2007",
-          "plays": 23,
+          "plays": 61,
           "top": {
-            "name": "Thievery Corporation",
-            "plays": 14
+            "name": "Groove Armada",
+            "plays": 35
           }
         },
         {
           "year": "2006",
-          "plays": 59,
+          "plays": 1,
           "top": {
-            "name": "De La Soul",
-            "plays": 17
+            "name": "Delerium",
+            "plays": 1
           }
         },
         {
@@ -245,21 +240,38 @@
       ]
     },
     "lastfm_artists_in_collection": [
-      "Austin Wintory",
-      "Beastie Boys",
-      "Bonobo",
-      "Buena Vista Social Club",
-      "De La Soul",
-      "Fleetwood Mac",
-      "Fred again..",
-      "Gare Du Nord",
-      "Gotan Project",
-      "Izmar",
-      "Mark Ronson",
-      "Max Richter",
-      "Thievery Corporation",
-      "Tosca"
+      "Colbie Caillat",
+      "Groove Armada",
+      "Joan As Police Woman",
+      "Röyksopp",
+      "The Beatles",
+      "Thievery Corporation"
     ],
-    "discogs": []
+    "discogs": [
+      {
+        "years_ago": 1,
+        "text": "Vandaag 1 jaar geleden kwam Everything But The Girl – Missing (The Remix EP) (1994, CD EP) in je collectie."
+      },
+      {
+        "years_ago": 1,
+        "text": "Vandaag 1 jaar geleden kwam Stone Temple Pilots – Purple (1994, CD Album) in je collectie."
+      },
+      {
+        "years_ago": 1,
+        "text": "Vandaag 1 jaar geleden kwam Acda en de Munnik – Liedjes Van Lenny (Limited Edition) (2004, CD Album / DVD Limited Edition) in je collectie."
+      },
+      {
+        "years_ago": 1,
+        "text": "Vandaag 1 jaar geleden kwam India.Arie – Testimony: Vol. 1, Life & Relationship (2006, CD Album) in je collectie."
+      },
+      {
+        "years_ago": 1,
+        "text": "Vandaag 1 jaar geleden kwam Passenger – All The Little Lights (2012, CD Album) in je collectie."
+      },
+      {
+        "years_ago": 1,
+        "text": "Vandaag 1 jaar geleden kwam Röyksopp – True Electric (2025, CD Album Stereo) in je collectie."
+      }
+    ]
   }
 }
