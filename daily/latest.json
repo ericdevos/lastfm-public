@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-24T11:34:20+00:00",
+  "generated_at": "2026-10-24T12:32:50+00:00",
   "date": "2026-10-23",
   "date_nl": "vrijdag 23 oktober 2026",
   "mail_date": "2026-10-24",
-  "data_until": "2026-10-24T11:29:32+00:00",
+  "data_until": "2026-10-24T12:32:26+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
@@ -31,6 +31,11 @@
       "text": "Richie Hawtin ging gisteren over de 250 plays (nu 257, eerst gehoord in oktober 2008)."
     }
   ],
+  "tip": {
+    "date": "2026-10-24",
+    "faded_line": "Digitalism — 247× gedraaid, piek in 2008, laatst op 18 oktober 2024.",
+    "kast_line": "Ludwig van Beethoven – Klavierkonzert Nr. 5 Es-dur (1962, vinyl), nog nooit gedraaid."
+  },
   "onthisday": {
     "lastfm": {
       "highlights": [
@@ -61,7 +66,7 @@
           "title": "True Electric",
           "release_id": 33953274,
           "medium": "CD",
-          "plays": 180,
+          "plays": 187,
           "sameDay": 6
         },
         {
