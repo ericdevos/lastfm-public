@@ -1,89 +1,75 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-24T21:10:10+00:00",
-  "date": "2026-10-23",
-  "date_nl": "vrijdag 23 oktober 2026",
-  "mail_date": "2026-10-24",
+  "generated_at": "2026-10-24T23:40:34+00:00",
+  "date": "2026-10-24",
+  "date_nl": "zaterdag 24 oktober 2026",
+  "mail_date": "2026-10-25",
   "data_until": "2026-10-24T19:51:58+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 117,
+    "plays": 51,
     "avg_year": 75,
     "year": 2026,
-    "verdict": "boven",
-    "line": "Gisteren: 117 nummers — ruim boven je daggemiddelde van 2026 (75; +56%)."
+    "verdict": "onder",
+    "line": "Gisteren: 51 nummers — onder je daggemiddelde van 2026 (75)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds april 2024 weer Londonbeat (1× gisteren)."
+      "text": "Voor het eerst sinds januari 2014 weer Ian van Dahl (1× gisteren)."
     },
     {
-      "type": "new",
-      "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Bebel Gilberto – Bebel Gilberto (CD Album Stereo, binnen sinds 3 september) draaide je gisteren 1×."
+      "type": "top",
+      "label": "Topper",
+      "text": "Frédéric Chopin was je topper met 21 nummers (vooral Nocturnes); in totaal 123 plays."
     },
     {
-      "type": "milestone",
-      "label": "Mijlpaal",
-      "text": "Richie Hawtin ging gisteren over de 250 plays (nu 257, eerst gehoord in oktober 2008)."
+      "type": "waiting",
+      "label": "Nog op de stapel",
+      "text": "Postmen – Revival (CD Album, binnen sinds 7 oktober) wacht nog op zijn eerste draaibeurt."
     }
   ],
   "tip": {
-    "date": "2026-10-24",
-    "faded_line": "Digitalism — 247× gedraaid, piek in 2008, laatst op 18 oktober 2024.",
-    "kast_line": "Ludwig van Beethoven – Klavierkonzert Nr. 5 Es-dur (1962, vinyl), nog nooit gedraaid."
+    "date": "2026-10-25",
+    "faded_line": "Tipper — 158× gedraaid, piek in 2012, laatst op 23 november 2024.",
+    "kast_line": "Mike Oldfield – Boxed (1976, vinyl), nog nooit gedraaid.",
+    "stats": {
+      "given": 1,
+      "followed": 0
+    }
   },
   "onthisday": {
     "lastfm": {
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Sticks",
-          "total": 101,
-          "year": "2023"
+          "name": "deadmau5",
+          "total": 1143,
+          "year": "2008"
         },
         {
-          "type": "m-track",
-          "artist": "Brown Feather Sparrow",
-          "title": "Nothing Else On My Mind",
-          "n": 25,
-          "year": "2011"
-        },
-        {
-          "type": "repeat",
-          "artist": "Groove Armada",
-          "title": "Drop That Thing",
-          "n": 3,
-          "year": "2007"
-        },
-        {
-          "type": "kast",
-          "year": "2025",
-          "artist": "Röyksopp",
-          "title": "True Electric",
-          "release_id": 33953274,
-          "medium": "CD",
-          "plays": 187,
-          "sameDay": 6
+          "type": "m-artist",
+          "name": "Daft Punk",
+          "n": 1500,
+          "year": "2019"
         },
         {
           "type": "busiest",
-          "year": "2025",
-          "plays": 107,
+          "year": "2024",
+          "plays": 102,
           "top": {
-            "name": "The Beatles",
-            "plays": 30
+            "name": "Jamiroquai",
+            "plays": 19
           }
         },
         {
           "type": "quietest",
-          "year": "2006",
-          "plays": 1,
+          "year": "2008",
+          "plays": 4,
           "top": {
-            "name": "Delerium",
+            "name": "Pink Vs The Vines",
             "plays": 1
           }
         }
@@ -91,79 +77,82 @@
       "years": [
         {
           "year": "2025",
-          "plays": 107,
+          "plays": 95,
           "top": {
-            "name": "The Beatles",
-            "plays": 30
+            "name": "Passenger",
+            "plays": 20
           }
         },
         {
           "year": "2024",
-          "plays": 33,
+          "plays": 102,
           "top": {
-            "name": "Baby Mammoth",
-            "plays": 21
+            "name": "Jamiroquai",
+            "plays": 19
           }
         },
         {
           "year": "2023",
-          "plays": 65,
+          "plays": 66,
           "top": {
-            "name": "Thievery Corporation",
-            "plays": 16
+            "name": "Stars of the Lid",
+            "plays": 9
           }
         },
         {
           "year": "2022",
-          "plays": 50,
+          "plays": 76,
           "top": {
-            "name": "Röyksopp",
-            "plays": 13
+            "name": "Blood Red Shoes",
+            "plays": 16
           }
         },
         {
           "year": "2021",
-          "plays": 33,
+          "plays": 97,
           "top": {
-            "name": "Stereophonics",
-            "plays": 2
+            "name": "Solar Fields",
+            "plays": 14
           }
         },
         {
           "year": "2020",
-          "plays": 41,
+          "plays": 52,
           "top": {
-            "name": "Al Bano",
+            "name": "Pearl Jam",
             "plays": 3
           }
         },
         {
           "year": "2019",
-          "plays": 65,
+          "plays": 82,
           "top": {
-            "name": "Nils Frahm",
-            "plays": 12
+            "name": "Daft Punk",
+            "plays": 36
           }
         },
         {
           "year": "2018",
-          "plays": 47,
+          "plays": 36,
           "top": {
-            "name": "Justin Hurwitz",
-            "plays": 8
+            "name": "Alexandre Desplat",
+            "plays": 3
           }
         },
         {
           "year": "2017",
-          "plays": 0,
-          "top": null
+          "plays": 24,
+          "top": {
+            "name": "Greg Edmonson",
+            "plays": 15
+          }
         },
         {
           "year": "2016",
-          "plays": 20,
+          "plays": 38,
           "top": {
-            "name": "Joan as Police Woman",
-            "plays": 10
+            "name": "Trentemøller",
+            "plays": 12
           }
         },
         {
@@ -173,72 +162,72 @@
         },
         {
           "year": "2014",
-          "plays": 97,
+          "plays": 45,
           "top": {
-            "name": "Bill Elm & Woody Jackson",
-            "plays": 15
+            "name": "Sting",
+            "plays": 9
           }
         },
         {
           "year": "2013",
-          "plays": 17,
+          "plays": 6,
           "top": {
-            "name": "Small Night Orchestra",
-            "plays": 11
+            "name": "Two Door Cinema Club",
+            "plays": 1
           }
         },
         {
           "year": "2012",
           "plays": 8,
           "top": {
-            "name": "Orbital",
+            "name": "The xx",
             "plays": 8
           }
         },
         {
           "year": "2011",
-          "plays": 26,
+          "plays": 20,
           "top": {
-            "name": "Colbie Caillat",
-            "plays": 12
+            "name": "Jack Johnson",
+            "plays": 11
           }
         },
         {
           "year": "2010",
-          "plays": 64,
+          "plays": 17,
           "top": {
-            "name": "Jazzamor",
-            "plays": 14
+            "name": "Yann Tiersen",
+            "plays": 7
           }
         },
         {
           "year": "2009",
-          "plays": 0,
-          "top": null
+          "plays": 38,
+          "top": {
+            "name": "Daniel Ward-Murphy",
+            "plays": 15
+          }
         },
         {
           "year": "2008",
-          "plays": 88,
+          "plays": 4,
           "top": {
-            "name": "Santigold",
-            "plays": 12
+            "name": "Pink Vs The Vines",
+            "plays": 1
           }
         },
         {
           "year": "2007",
-          "plays": 61,
+          "plays": 45,
           "top": {
-            "name": "Groove Armada",
-            "plays": 35
+            "name": "The Roots",
+            "plays": 17
           }
         },
         {
           "year": "2006",
-          "plays": 1,
-          "top": {
-            "name": "Delerium",
-            "plays": 1
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2005",
@@ -248,38 +237,16 @@
       ]
     },
     "lastfm_artists_in_collection": [
-      "Colbie Caillat",
-      "Groove Armada",
-      "Joan As Police Woman",
-      "Röyksopp",
-      "The Beatles",
-      "Thievery Corporation"
+      "Daft Punk",
+      "Daniel Ward-Murphy",
+      "Jack Johnson",
+      "Jamiroquai",
+      "Passenger",
+      "Pearl Jam",
+      "The Roots",
+      "The XX",
+      "Yann Tiersen"
     ],
-    "discogs": [
-      {
-        "years_ago": 1,
-        "text": "Vandaag 1 jaar geleden kwam Everything But The Girl – Missing (The Remix EP) (1994, CD EP) in je collectie."
-      },
-      {
-        "years_ago": 1,
-        "text": "Vandaag 1 jaar geleden kwam Stone Temple Pilots – Purple (1994, CD Album) in je collectie."
-      },
-      {
-        "years_ago": 1,
-        "text": "Vandaag 1 jaar geleden kwam Acda en de Munnik – Liedjes Van Lenny (Limited Edition) (2004, CD Album / DVD Limited Edition) in je collectie."
-      },
-      {
-        "years_ago": 1,
-        "text": "Vandaag 1 jaar geleden kwam India.Arie – Testimony: Vol. 1, Life & Relationship (2006, CD Album) in je collectie."
-      },
-      {
-        "years_ago": 1,
-        "text": "Vandaag 1 jaar geleden kwam Passenger – All The Little Lights (2012, CD Album) in je collectie."
-      },
-      {
-        "years_ago": 1,
-        "text": "Vandaag 1 jaar geleden kwam Röyksopp – True Electric (2025, CD Album Stereo) in je collectie."
-      }
-    ]
+    "discogs": []
   }
 }
