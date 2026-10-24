@@ -1,11 +1,11 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-24T05:16:25+00:00",
+  "generated_at": "2026-10-24T05:18:14+00:00",
   "date": "2026-10-23",
   "date_nl": "vrijdag 23 oktober 2026",
   "mail_date": "2026-10-24",
   "data_until": "2026-10-23T18:03:35+00:00",
-  "sync_ok": false,
+  "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
     "plays": 117,
