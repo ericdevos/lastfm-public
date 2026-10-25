@@ -1,42 +1,42 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-25T21:12:41+00:00",
-  "date": "2026-10-24",
-  "date_nl": "zaterdag 24 oktober 2026",
-  "mail_date": "2026-10-25",
-  "data_until": "2026-10-25T21:03:45+00:00",
+  "generated_at": "2026-10-25T23:31:32+00:00",
+  "date": "2026-10-25",
+  "date_nl": "zondag 25 oktober 2026",
+  "mail_date": "2026-10-26",
+  "data_until": "2026-10-25T21:29:48+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 51,
+    "plays": 116,
     "avg_year": 75,
     "year": 2026,
-    "verdict": "onder",
-    "line": "Gisteren: 51 nummers — onder je daggemiddelde van 2026 (75)."
+    "verdict": "boven",
+    "line": "Gisteren: 116 nummers — ruim boven je daggemiddelde van 2026 (75; +55%)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds januari 2014 weer Ian van Dahl (1× gisteren)."
+      "text": "Voor het eerst sinds november 2024 weer Mano Le Tough (10× gisteren)."
     },
     {
-      "type": "top",
-      "label": "Topper",
-      "text": "Frédéric Chopin was je topper met 21 nummers (vooral Nocturnes); in totaal 123 plays."
+      "type": "new",
+      "label": "Nieuwe aanwinst",
+      "text": "Je nieuwe aanwinst Air – The Virgin Suicides Redux (CD Reissue Stereo / CD Stereo / Blu-ray Blu-ray Audio Album Reissue Stereo Multichannel / All Media Deluxe Edition, binnen sinds 7 oktober) draaide je gisteren 12×."
     },
     {
-      "type": "waiting",
-      "label": "Nog op de stapel",
-      "text": "Postmen – Revival (CD Album, binnen sinds 7 oktober) wacht nog op zijn eerste draaibeurt."
+      "type": "shelf",
+      "label": "Kast × luisteren",
+      "text": "Koop – Koop Islands (CD Album) staat al sinds minstens 2024 in je kast; gisteren 9 nummers van gedraaid."
     }
   ],
   "tip": {
-    "date": "2026-10-25",
-    "faded_line": "Tipper — 158× gedraaid, piek in 2012, laatst op 23 november 2024.",
-    "kast_line": "Mike Oldfield – Boxed (1976, vinyl), nog nooit gedraaid.",
+    "date": "2026-10-26",
+    "faded_line": "London Music Works — 146× gedraaid, piek in 2015, laatst op 22 augustus 2022.",
+    "kast_line": "Eric Clapton – No Reason To Cry (1976, vinyl), nog nooit gedraaid.",
     "stats": {
-      "given": 1,
+      "given": 2,
       "followed": 0
     }
   },
@@ -45,183 +45,194 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "deadmau5",
-          "total": 1143,
-          "year": "2008"
+          "name": "Fatima Yamaha",
+          "total": 323,
+          "year": "2015"
         },
         {
-          "type": "m-artist",
-          "name": "Daft Punk",
-          "n": 1500,
-          "year": "2019"
+          "type": "m-track",
+          "artist": "Chef'Special",
+          "title": "Airplaying",
+          "n": 75,
+          "year": "2023"
+        },
+        {
+          "type": "first-track",
+          "artist": "Angus & Julia Stone",
+          "title": "Grizzly Bear",
+          "total": 107,
+          "year": "2014"
         },
         {
           "type": "busiest",
-          "year": "2024",
-          "plays": 102,
+          "year": "2009",
+          "plays": 120,
           "top": {
-            "name": "Jamiroquai",
-            "plays": 19
+            "name": "Acda en de Munnik",
+            "plays": 24
           }
         },
         {
           "type": "quietest",
-          "year": "2008",
-          "plays": 4,
+          "year": "2021",
+          "plays": 13,
           "top": {
-            "name": "Pink Vs The Vines",
-            "plays": 1
+            "name": "Solar Fields",
+            "plays": 6
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 95,
+          "plays": 52,
           "top": {
-            "name": "Passenger",
-            "plays": 20
-          }
-        },
-        {
-          "year": "2024",
-          "plays": 102,
-          "top": {
-            "name": "Jamiroquai",
-            "plays": 19
-          }
-        },
-        {
-          "year": "2023",
-          "plays": 66,
-          "top": {
-            "name": "Stars of the Lid",
+            "name": "Sigur Rós",
             "plays": 9
           }
         },
         {
-          "year": "2022",
-          "plays": 76,
+          "year": "2024",
+          "plays": 87,
           "top": {
-            "name": "Blood Red Shoes",
-            "plays": 16
+            "name": "Joe Cocker",
+            "plays": 30
+          }
+        },
+        {
+          "year": "2023",
+          "plays": 96,
+          "top": {
+            "name": "Thievery Corporation",
+            "plays": 20
+          }
+        },
+        {
+          "year": "2022",
+          "plays": 69,
+          "top": {
+            "name": "Bonobo",
+            "plays": 20
           }
         },
         {
           "year": "2021",
-          "plays": 97,
+          "plays": 13,
           "top": {
             "name": "Solar Fields",
-            "plays": 14
+            "plays": 6
           }
         },
         {
           "year": "2020",
-          "plays": 52,
+          "plays": 42,
           "top": {
-            "name": "Pearl Jam",
-            "plays": 3
+            "name": "Bicep",
+            "plays": 7
           }
         },
         {
           "year": "2019",
-          "plays": 82,
+          "plays": 28,
           "top": {
-            "name": "Daft Punk",
-            "plays": 36
+            "name": "Fink",
+            "plays": 8
           }
         },
         {
           "year": "2018",
-          "plays": 36,
+          "plays": 18,
           "top": {
-            "name": "Alexandre Desplat",
+            "name": "Fred V & Grafix",
             "plays": 3
           }
         },
         {
           "year": "2017",
-          "plays": 24,
+          "plays": 48,
           "top": {
-            "name": "Greg Edmonson",
-            "plays": 15
+            "name": "Paul Kalkbrenner",
+            "plays": 10
           }
         },
         {
           "year": "2016",
-          "plays": 38,
+          "plays": 50,
           "top": {
-            "name": "Trentemøller",
-            "plays": 12
-          }
-        },
-        {
-          "year": "2015",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2014",
-          "plays": 45,
-          "top": {
-            "name": "Sting",
-            "plays": 9
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 6,
-          "top": {
-            "name": "Two Door Cinema Club",
-            "plays": 1
-          }
-        },
-        {
-          "year": "2012",
-          "plays": 8,
-          "top": {
-            "name": "The xx",
-            "plays": 8
-          }
-        },
-        {
-          "year": "2011",
-          "plays": 20,
-          "top": {
-            "name": "Jack Johnson",
+            "name": "Röyksopp",
             "plays": 11
           }
         },
         {
-          "year": "2010",
-          "plays": 17,
+          "year": "2015",
+          "plays": 73,
           "top": {
-            "name": "Yann Tiersen",
-            "plays": 7
+            "name": "Antonio Vivaldi",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 102,
+          "top": {
+            "name": "Guus Meeuwis",
+            "plays": 13
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 120,
+          "top": {
+            "name": "Ludovico Einaudi",
+            "plays": 20
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 69,
+          "top": {
+            "name": "Dido",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 54,
+          "top": {
+            "name": "M83",
+            "plays": 18
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 22,
+          "top": {
+            "name": "Passion Pit",
+            "plays": 11
           }
         },
         {
           "year": "2009",
-          "plays": 38,
+          "plays": 120,
           "top": {
-            "name": "Daniel Ward-Murphy",
-            "plays": 15
+            "name": "Acda en de Munnik",
+            "plays": 24
           }
         },
         {
           "year": "2008",
-          "plays": 4,
+          "plays": 36,
           "top": {
-            "name": "Pink Vs The Vines",
-            "plays": 1
+            "name": "Jazzamor",
+            "plays": 13
           }
         },
         {
           "year": "2007",
-          "plays": 45,
+          "plays": 56,
           "top": {
-            "name": "The Roots",
-            "plays": 17
+            "name": "Moloko",
+            "plays": 16
           }
         },
         {
@@ -237,15 +248,16 @@
       ]
     },
     "lastfm_artists_in_collection": [
-      "Daft Punk",
-      "Daniel Ward-Murphy",
-      "Jack Johnson",
-      "Jamiroquai",
-      "Passenger",
-      "Pearl Jam",
-      "The Roots",
-      "The XX",
-      "Yann Tiersen"
+      "Acda en de Munnik",
+      "Bonobo",
+      "Chef'Special",
+      "Dido",
+      "Fink",
+      "Joe Cocker",
+      "Moloko",
+      "Röyksopp",
+      "Sigur Rós",
+      "Thievery Corporation"
     ],
     "discogs": []
   }
