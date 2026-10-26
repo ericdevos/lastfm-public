@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-26T08:35:53+00:00",
+ "generated_at": "2026-10-26T09:13:16+00:00",
  "data_until": "2026-10-26T06:57:00+00:00",
  "sync_ok": true,
  "period": {
@@ -469,10 +469,6 @@
   ],
   "new_artists": [
    {
-    "name": "Rose Spearman",
-    "plays": 24
-   },
-   {
     "name": "Asian Zen",
     "plays": 5
    },
@@ -618,11 +614,6 @@
    }
   ],
   "new_albums": [
-   {
-    "artist": "Rose Spearman",
-    "album": "Trust (The Re-issue Philadelphia Recordings)",
-    "plays": 24
-   },
    {
     "artist": "Ludwig Göransson",
     "album": "The Odyssey (Original Motion Picture Soundtrack)",
