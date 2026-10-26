@@ -1,0 +1,1437 @@
+{
+ "schema": 1,
+ "generated_at": "2026-10-26T08:35:53+00:00",
+ "data_until": "2026-10-26T06:57:00+00:00",
+ "sync_ok": true,
+ "period": {
+  "from": "2026-10-19",
+  "to": "2026-10-25",
+  "tz": "Europe/Amsterdam"
+ },
+ "week": {
+  "plays": 677,
+  "unique_artists": 215,
+  "artists": [
+   {
+    "name": "Acda en de Munnik",
+    "plays": 27,
+    "total": 1315,
+    "first_played": "2005-03-22"
+   },
+   {
+    "name": "Air",
+    "plays": 24,
+    "total": 1252,
+    "first_played": "2005-03-03"
+   },
+   {
+    "name": "Rose Spearman",
+    "plays": 24,
+    "total": 24,
+    "first_played": "2026-10-22"
+   },
+   {
+    "name": "Ludwig Göransson",
+    "plays": 23,
+    "total": 499,
+    "first_played": "2017-06-19"
+   },
+   {
+    "name": "Frédéric Chopin",
+    "plays": 21,
+    "total": 134,
+    "first_played": "2008-03-14"
+   },
+   {
+    "name": "Richie Hawtin",
+    "plays": 21,
+    "total": 257,
+    "first_played": "2008-10-21"
+   },
+   {
+    "name": "Charlie Dée",
+    "plays": 18,
+    "total": 196,
+    "first_played": "2007-10-20"
+   },
+   {
+    "name": "Trentemøller",
+    "plays": 16,
+    "total": 719,
+    "first_played": "2007-09-25"
+   },
+   {
+    "name": "Scuba",
+    "plays": 14,
+    "total": 523,
+    "first_played": "2010-07-28"
+   },
+   {
+    "name": "Tomáš Dvořák",
+    "plays": 14,
+    "total": 360,
+    "first_played": "2013-04-17"
+   },
+   {
+    "name": "Feist",
+    "plays": 13,
+    "total": 123,
+    "first_played": "2007-11-05"
+   },
+   {
+    "name": "Kane",
+    "plays": 13,
+    "total": 263,
+    "first_played": "2005-04-07"
+   },
+   {
+    "name": "George Gershwin",
+    "plays": 12,
+    "total": 26,
+    "first_played": "2009-02-01"
+   },
+   {
+    "name": "Linkin Park",
+    "plays": 12,
+    "total": 496,
+    "first_played": "2005-03-30"
+   },
+   {
+    "name": "Phil Collins",
+    "plays": 12,
+    "total": 202,
+    "first_played": "2006-02-03"
+   },
+   {
+    "name": "De La Soul",
+    "plays": 11,
+    "total": 674,
+    "first_played": "2005-03-14"
+   },
+   {
+    "name": "Ital Tek",
+    "plays": 11,
+    "total": 45,
+    "first_played": "2010-07-28"
+   },
+   {
+    "name": "The Robert Cray Band",
+    "plays": 11,
+    "total": 88,
+    "first_played": "2011-11-14"
+   },
+   {
+    "name": "Silverchair",
+    "plays": 11,
+    "total": 40,
+    "first_played": "2006-02-03"
+   },
+   {
+    "name": "Traffic",
+    "plays": 11,
+    "total": 29,
+    "first_played": "2023-04-25"
+   },
+   {
+    "name": "Amon Tobin",
+    "plays": 10,
+    "total": 160,
+    "first_played": "2005-03-18"
+   },
+   {
+    "name": "Floex",
+    "plays": 10,
+    "total": 312,
+    "first_played": "2012-09-20"
+   },
+   {
+    "name": "Mano Le Tough",
+    "plays": 10,
+    "total": 275,
+    "first_played": "2013-08-27"
+   },
+   {
+    "name": "Prince",
+    "plays": 10,
+    "total": 222,
+    "first_played": "2010-09-13"
+   },
+   {
+    "name": "Guns N’ Roses",
+    "plays": 9,
+    "total": 242,
+    "first_played": "2006-01-11"
+   }
+  ],
+  "albums": [
+   {
+    "artist": "Rose Spearman",
+    "album": "Trust (The Re-issue Philadelphia Recordings)",
+    "plays": 24,
+    "total": 24,
+    "first_played": "2026-10-22"
+   },
+   {
+    "artist": "Air",
+    "album": "The Virgin Suicides Redux",
+    "plays": 23,
+    "total": 65,
+    "first_played": "2026-07-22"
+   },
+   {
+    "artist": "Ludwig Göransson",
+    "album": "The Odyssey (Original Motion Picture Soundtrack)",
+    "plays": 22,
+    "total": 22,
+    "first_played": "2026-10-25"
+   },
+   {
+    "artist": "Frédéric Chopin",
+    "album": "Nocturnes",
+    "plays": 21,
+    "total": 31,
+    "first_played": "2026-09-03"
+   },
+   {
+    "artist": "Richie Hawtin",
+    "album": "DE9 | Transitions",
+    "plays": 21,
+    "total": 214,
+    "first_played": "2008-10-21"
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "album": "Hier zijn",
+    "plays": 16,
+    "total": 271,
+    "first_played": "2007-03-01"
+   },
+   {
+    "artist": "Tomáš Dvořák",
+    "album": "Machinarium (Original Game Soundtrack)",
+    "plays": 14,
+    "total": 14,
+    "first_played": "2026-10-22"
+   },
+   {
+    "artist": "Trentemøller",
+    "album": "The Trentemøller Chronicles",
+    "plays": 14,
+    "total": 33,
+    "first_played": "2025-01-30"
+   },
+   {
+    "artist": "Feist",
+    "album": "The Reminder",
+    "plays": 13,
+    "total": 80,
+    "first_played": "2008-10-04"
+   },
+   {
+    "artist": "Kane",
+    "album": "Fearless",
+    "plays": 13,
+    "total": 61,
+    "first_played": "2006-02-22"
+   },
+   {
+    "artist": "George Gershwin",
+    "album": "Rhapsody in Blue / An American in Paris / Piano Concerto in F",
+    "plays": 12,
+    "total": 14,
+    "first_played": "2026-07-09"
+   },
+   {
+    "artist": "Phil Collins",
+    "album": "...But Seriously (Deluxe Edition)",
+    "plays": 12,
+    "total": 28,
+    "first_played": "2018-06-21"
+   },
+   {
+    "artist": "Scuba",
+    "album": "Personality",
+    "plays": 12,
+    "total": 108,
+    "first_played": "2021-04-16"
+   },
+   {
+    "artist": "Charlie Dée",
+    "album": "Where Do Girls Come From",
+    "plays": 11,
+    "total": 14,
+    "first_played": "2026-04-08"
+   },
+   {
+    "artist": "De La Soul",
+    "album": "Stakes Is High",
+    "plays": 11,
+    "total": 26,
+    "first_played": "2008-09-01"
+   },
+   {
+    "artist": "Ital Tek",
+    "album": "Cyclical",
+    "plays": 11,
+    "total": 41,
+    "first_played": "2010-07-28"
+   },
+   {
+    "artist": "The Robert Cray Band",
+    "album": "Midnight Stroll",
+    "plays": 11,
+    "total": 11,
+    "first_played": "2026-10-22"
+   },
+   {
+    "artist": "Silverchair",
+    "album": "Frogstomp",
+    "plays": 11,
+    "total": 37,
+    "first_played": "2017-12-04"
+   },
+   {
+    "artist": "Traffic",
+    "album": "John Barleycorn Must Die",
+    "plays": 11,
+    "total": 22,
+    "first_played": "2026-08-29"
+   },
+   {
+    "artist": "Amon Tobin",
+    "album": "Chaos Theory: The Soundtrack to Tom Clancy’s Splinter Cell: Chaos Theory",
+    "plays": 10,
+    "total": 10,
+    "first_played": "2026-10-20"
+   },
+   {
+    "artist": "Floex",
+    "album": "Zorya",
+    "plays": 10,
+    "total": 286,
+    "first_played": "2012-09-20"
+   },
+   {
+    "artist": "Linkin Park",
+    "album": "From Zero",
+    "plays": 10,
+    "total": 111,
+    "first_played": "2025-04-07"
+   },
+   {
+    "artist": "Mano Le Tough",
+    "album": "Changing Days",
+    "plays": 10,
+    "total": 165,
+    "first_played": "2013-08-27"
+   },
+   {
+    "artist": "Prince",
+    "album": "Batman",
+    "plays": 10,
+    "total": 12,
+    "first_played": "2018-05-08"
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "album": "Live In De Orangerie",
+    "plays": 9,
+    "total": 18,
+    "first_played": "2025-04-09"
+   }
+  ],
+  "tracks": [
+   {
+    "artist": "Trentemøller",
+    "track": "The Forest",
+    "plays": 3
+   },
+   {
+    "artist": "Aaron Smith",
+    "track": "Dancin - Sped Up Version",
+    "plays": 2
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Een Spaanse moslim groet zijn god",
+    "plays": 2
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Ergens zingt een zanger",
+    "plays": 2
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Kees",
+    "plays": 2
+   },
+   {
+    "artist": "Asian Zen",
+    "track": "Aisuru",
+    "plays": 2
+   },
+   {
+    "artist": "George Gershwin",
+    "track": "An American In Paris: Allegretto grazioso",
+    "plays": 2
+   },
+   {
+    "artist": "George Gershwin",
+    "track": "An American In Paris: Andante ma con ritmo deciso",
+    "plays": 2
+   },
+   {
+    "artist": "George Gershwin",
+    "track": "Piano Concerto in F: I. Allegro",
+    "plays": 2
+   },
+   {
+    "artist": "George Gershwin",
+    "track": "Piano Concerto In F: II. Adagio",
+    "plays": 2
+   },
+   {
+    "artist": "George Gershwin",
+    "track": "Piano Concerto in F: III. Allegro agitato",
+    "plays": 2
+   },
+   {
+    "artist": "George Gershwin",
+    "track": "Rhapsody in Blue",
+    "plays": 2
+   },
+   {
+    "artist": "Prince",
+    "track": "Partyman",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "Call Me",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "Come Get The Love",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "Don't Explain",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "Falling in Love Again",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "It's Not Fair",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "Loving You",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "Now That I Found You",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "Power Of One",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "Too Much Woman",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "Ultimate High",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "What It Feels Like",
+    "plays": 2
+   },
+   {
+    "artist": "Rose Spearman",
+    "track": "Why Are You Nervous",
+    "plays": 2
+   }
+  ],
+  "new_artists": [
+   {
+    "name": "Rose Spearman",
+    "plays": 24
+   },
+   {
+    "name": "Asian Zen",
+    "plays": 5
+   },
+   {
+    "name": "ambien",
+    "plays": 3
+   },
+   {
+    "name": "Lunar Skies",
+    "plays": 3
+   },
+   {
+    "name": "Haruki Nang",
+    "plays": 2
+   },
+   {
+    "name": "Koobi",
+    "plays": 2
+   },
+   {
+    "name": "Sugi Zo",
+    "plays": 2
+   },
+   {
+    "name": "Tim Exile",
+    "plays": 2
+   },
+   {
+    "name": "Alex K. & Θάνος Αμοργινός (Greece)",
+    "plays": 1
+   },
+   {
+    "name": "Chano Pozo y Machito",
+    "plays": 1
+   },
+   {
+    "name": "Charles Overton",
+    "plays": 1
+   },
+   {
+    "name": "Chill Riot",
+    "plays": 1
+   },
+   {
+    "name": "Corbon Amodio",
+    "plays": 1
+   },
+   {
+    "name": "Crash Pads",
+    "plays": 1
+   },
+   {
+    "name": "daniel zen",
+    "plays": 1
+   },
+   {
+    "name": "Desi Arnaz",
+    "plays": 1
+   },
+   {
+    "name": "Don Toliver",
+    "plays": 1
+   },
+   {
+    "name": "Earthling",
+    "plays": 1
+   },
+   {
+    "name": "h5wk",
+    "plays": 1
+   },
+   {
+    "name": "Headrillaz",
+    "plays": 1
+   },
+   {
+    "name": "Izabella Effenberg",
+    "plays": 1
+   },
+   {
+    "name": "Jackco",
+    "plays": 1
+   },
+   {
+    "name": "Jiji B",
+    "plays": 1
+   },
+   {
+    "name": "Julie Agassa",
+    "plays": 1
+   },
+   {
+    "name": "JuRu",
+    "plays": 1
+   },
+   {
+    "name": "ktty",
+    "plays": 1
+   },
+   {
+    "name": "Lori Chou",
+    "plays": 1
+   },
+   {
+    "name": "Losa",
+    "plays": 1
+   },
+   {
+    "name": "Lowfy",
+    "plays": 1
+   },
+   {
+    "name": "Mark Bos",
+    "plays": 1
+   },
+   {
+    "name": "Mekon",
+    "plays": 1
+   },
+   {
+    "name": "Morten Georg Gismervik",
+    "plays": 1
+   },
+   {
+    "name": "Project Dreams",
+    "plays": 1
+   },
+   {
+    "name": "Queen & George Michael",
+    "plays": 1
+   },
+   {
+    "name": "Sarah Heneghan",
+    "plays": 1
+   },
+   {
+    "name": "Sun Dusk",
+    "plays": 1
+   },
+   {
+    "name": "Vicentico Valdés",
+    "plays": 1
+   }
+  ],
+  "new_albums": [
+   {
+    "artist": "Rose Spearman",
+    "album": "Trust (The Re-issue Philadelphia Recordings)",
+    "plays": 24
+   },
+   {
+    "artist": "Ludwig Göransson",
+    "album": "The Odyssey (Original Motion Picture Soundtrack)",
+    "plays": 22
+   },
+   {
+    "artist": "Tomáš Dvořák",
+    "album": "Machinarium (Original Game Soundtrack)",
+    "plays": 14
+   },
+   {
+    "artist": "The Robert Cray Band",
+    "album": "Midnight Stroll",
+    "plays": 11
+   },
+   {
+    "artist": "Amon Tobin",
+    "album": "Chaos Theory: The Soundtrack to Tom Clancy’s Splinter Cell: Chaos Theory",
+    "plays": 10
+   },
+   {
+    "artist": "Fryderyk Chopin",
+    "album": "Nocturnes",
+    "plays": 6
+   },
+   {
+    "artist": "Asian Zen",
+    "album": "Sushi Restaurant Classics, Vol. 1",
+    "plays": 4
+   },
+   {
+    "artist": "ambien",
+    "album": "Sushi Restaurant Classics, Vol. 1",
+    "plays": 3
+   },
+   {
+    "artist": "Aaron Smith",
+    "album": "Dancin (Sped Up Version)",
+    "plays": 2
+   },
+   {
+    "artist": "Haruki Nang",
+    "album": "Sushi Restaurant Classics, Vol. 1",
+    "plays": 2
+   },
+   {
+    "artist": "Lunar Skies",
+    "album": "Sushi Restaurant Classics, Vol. 1",
+    "plays": 2
+   },
+   {
+    "artist": "Madison Beer",
+    "album": "locket",
+    "plays": 2
+   },
+   {
+    "artist": "Tim Exile",
+    "album": "Moving Shadow 02.2",
+    "plays": 2
+   },
+   {
+    "artist": "2 Brothers on the 4th Floor",
+    "album": "Foute Cd Van Q-Music, Volume 3",
+    "plays": 1
+   },
+   {
+    "artist": "Alex K. & Θάνος Αμοργινός (Greece)",
+    "album": "Putumayo Presents: Tango Around the World",
+    "plays": 1
+   },
+   {
+    "artist": "Asian Zen",
+    "album": "Sushi Restaurant Music, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "Ayo & Teo",
+    "album": "Fly N Ghetto",
+    "plays": 1
+   },
+   {
+    "artist": "BALTHVS",
+    "album": "Manifest",
+    "plays": 1
+   },
+   {
+    "artist": "Bicep",
+    "album": "Gas / Ultra / Equarium",
+    "plays": 1
+   },
+   {
+    "artist": "Bryan Ferry",
+    "album": "Reflex of the 80’s",
+    "plays": 1
+   },
+   {
+    "artist": "Chano Pozo y Machito",
+    "album": "Music That Inspired Buena Vista Social Club",
+    "plays": 1
+   },
+   {
+    "artist": "Charles Overton",
+    "album": "Belonging",
+    "plays": 1
+   },
+   {
+    "artist": "Chill Riot",
+    "album": "Sushi Restaurant Classics, Vol. 1",
+    "plays": 1
+   },
+   {
+    "artist": "Close II You",
+    "album": "Mega Dance 1998",
+    "plays": 1
+   },
+   {
+    "artist": "Corbon Amodio",
+    "album": "lucy~",
+    "plays": 1
+   },
+   {
+    "artist": "Crash Pads",
+    "album": "Sushi Restaurant Classics, Vol. 1",
+    "plays": 1
+   },
+   {
+    "artist": "daniel zen",
+    "album": "Sushi Restaurant Classics, Vol. 1",
+    "plays": 1
+   },
+   {
+    "artist": "Denis Azor",
+    "album": "The Greatest Summer Collection",
+    "plays": 1
+   },
+   {
+    "artist": "Desi Arnaz",
+    "album": "Music That Inspired Buena Vista Social Club",
+    "plays": 1
+   },
+   {
+    "artist": "Dinand",
+    "album": "Fearless",
+    "plays": 1
+   },
+   {
+    "artist": "Dominic Miller",
+    "album": "Jazz Hotel",
+    "plays": 1
+   },
+   {
+    "artist": "Don Toliver",
+    "album": "Life of a DON",
+    "plays": 1
+   },
+   {
+    "artist": "Drake",
+    "album": "Certified Lover Boy",
+    "plays": 1
+   },
+   {
+    "artist": "Earthling",
+    "album": "Radar (30th Anniversary Edition)",
+    "plays": 1
+   },
+   {
+    "artist": "Gotts Street Park",
+    "album": "Somewhere Between",
+    "plays": 1
+   },
+   {
+    "artist": "Greg Spero",
+    "album": "yellow ochre",
+    "plays": 1
+   },
+   {
+    "artist": "h5wk",
+    "album": "SCUBA JUKE(IT STANKKK)",
+    "plays": 1
+   },
+   {
+    "artist": "Headrillaz",
+    "album": "Block Rockin' Beats: New Directions in Dance",
+    "plays": 1
+   },
+   {
+    "artist": "Ian van Dahl",
+    "album": "Mega Music Dance Experience 2001",
+    "plays": 1
+   },
+   {
+    "artist": "Izabella Effenberg",
+    "album": "Whispering Glass",
+    "plays": 1
+   },
+   {
+    "artist": "Jackco",
+    "album": "Sushi Restaurant Music, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "James Blake",
+    "album": "The Odyssey (Original Motion Picture Soundtrack)",
+    "plays": 1
+   },
+   {
+    "artist": "Jiji B",
+    "album": "Sushi Restaurant Music, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "John Mayer",
+    "album": "Tom and Jerry",
+    "plays": 1
+   },
+   {
+    "artist": "Julie Agassa",
+    "album": "Sushi Restaurant Classics, Vol. 1",
+    "plays": 1
+   },
+   {
+    "artist": "Jungle by Night",
+    "album": "Something About Something",
+    "plays": 1
+   },
+   {
+    "artist": "JuRu",
+    "album": "Sushi Restaurant Music, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "Koobi",
+    "album": "Sushi Restaurant Classics, Vol. 1",
+    "plays": 1
+   },
+   {
+    "artist": "Koobi",
+    "album": "Sushi Restaurant Music, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "ktty",
+    "album": "Sushi Restaurant Music, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "Londonbeat",
+    "album": "100 No. 1 Hits, Volume 2",
+    "plays": 1
+   },
+   {
+    "artist": "Lori Chou",
+    "album": "Sushi Restaurant Music, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "Losa",
+    "album": "Sushi Restaurant Music, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "Lowfy",
+    "album": "Sushi Restaurant Music, Vol. 3",
+    "plays": 1
+   },
+   {
+    "artist": "Ludwig Göransson",
+    "album": "The Mandalorian and Grogu (Boys Noize Remix) [From \"Star Wars: The Mandalorian and Grogu\"]",
+    "plays": 1
+   },
+   {
+    "artist": "Lunar Skies",
+    "album": "Sushi Restaurant Music, Vol. 3",
+    "plays": 1
+   },
+   {
+    "artist": "M.A. Numminen",
+    "album": "Putumayo Presents: Tango Around the World",
+    "plays": 1
+   },
+   {
+    "artist": "Madcon",
+    "album": "Sky Radio ZomerHits - De Zonnigste Hits Uit De Zomerhit Top 101",
+    "plays": 1
+   },
+   {
+    "artist": "Mark Bos",
+    "album": "Sushi Restaurant Music, Vol. 3",
+    "plays": 1
+   },
+   {
+    "artist": "Mekon",
+    "album": "Block Rockin' Beats: New Directions in Dance",
+    "plays": 1
+   },
+   {
+    "artist": "Morten Georg Gismervik",
+    "album": "Starfall",
+    "plays": 1
+   },
+   {
+    "artist": "*NSYNC",
+    "album": "Tmf hitzone: best of 2000",
+    "plays": 1
+   },
+   {
+    "artist": "Percy Sledge",
+    "album": "100 No. 1 Hits, Volume 2",
+    "plays": 1
+   },
+   {
+    "artist": "Project Dreams",
+    "album": "Sushi Restaurant Music, Vol. 3",
+    "plays": 1
+   },
+   {
+    "artist": "Queen & George Michael",
+    "album": "The Platinum Collection: Greatest Hits I, II & III",
+    "plays": 1
+   },
+   {
+    "artist": "René Froger",
+    "album": "Het beste uit De Mega Top 100: ’99",
+    "plays": 1
+   },
+   {
+    "artist": "Robbie Williams",
+    "album": "TMF Hitzone: Best of 2000",
+    "plays": 1
+   },
+   {
+    "artist": "The Rolling Stones",
+    "album": "Who You Callin' Crazy",
+    "plays": 1
+   },
+   {
+    "artist": "Sarah Heneghan",
+    "album": "Tiny Sacred Gaps",
+    "plays": 1
+   },
+   {
+    "artist": "Scuba",
+    "album": "LateNite / LateNite (SCB Edit)",
+    "plays": 1
+   },
+   {
+    "artist": "Spiritualized",
+    "album": "Block Rockin' Beats: New Directions in Dance",
+    "plays": 1
+   },
+   {
+    "artist": "Stan Getz",
+    "album": "Atlantic Jazz Legends",
+    "plays": 1
+   },
+   {
+    "artist": "Sugi Zo",
+    "album": "Sushi Restaurant Classics, Vol. 1",
+    "plays": 1
+   },
+   {
+    "artist": "Sugi Zo",
+    "album": "Sushi Restaurant Music, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "Sun Dusk",
+    "album": "Sushi Restaurant Music, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "TNN",
+    "album": "The Greatest Summer Collection",
+    "plays": 1
+   },
+   {
+    "artist": "Travis Scott",
+    "album": "Birds in the Trap Sing McKnight",
+    "plays": 1
+   },
+   {
+    "artist": "Travis Scott",
+    "album": "HIGHEST IN THE ROOM",
+    "plays": 1
+   },
+   {
+    "artist": "Ultimate Kaos",
+    "album": "Het beste uit de Mega Top 100: ’98",
+    "plays": 1
+   },
+   {
+    "artist": "Vicentico Valdés",
+    "album": "Music That Inspired Buena Vista Social Club",
+    "plays": 1
+   }
+  ]
+ },
+ "month": {
+  "from": "2026-09-26",
+  "to": "2026-10-25",
+  "artists": [
+   {
+    "name": "Air",
+    "plays": 100,
+    "total": 1252
+   },
+   {
+    "name": "Acda en de Munnik",
+    "plays": 71,
+    "total": 1315
+   },
+   {
+    "name": "Moby",
+    "plays": 48,
+    "total": 752
+   },
+   {
+    "name": "Massive Attack",
+    "plays": 38,
+    "total": 879
+   },
+   {
+    "name": "Röyksopp",
+    "plays": 34,
+    "total": 3035
+   },
+   {
+    "name": "Bremer/McCoy",
+    "plays": 29,
+    "total": 156
+   },
+   {
+    "name": "Christian Löffler",
+    "plays": 28,
+    "total": 529
+   },
+   {
+    "name": "Norah Jones",
+    "plays": 27,
+    "total": 823
+   },
+   {
+    "name": "Aphex Twin",
+    "plays": 25,
+    "total": 903
+   },
+   {
+    "name": "Rose Spearman",
+    "plays": 24,
+    "total": 24
+   },
+   {
+    "name": "Ludwig Göransson",
+    "plays": 23,
+    "total": 499
+   },
+   {
+    "name": "Tosca",
+    "plays": 23,
+    "total": 1336
+   },
+   {
+    "name": "Frédéric Chopin",
+    "plays": 21,
+    "total": 134
+   },
+   {
+    "name": "Mike Oldfield",
+    "plays": 21,
+    "total": 323
+   },
+   {
+    "name": "Richie Hawtin",
+    "plays": 21,
+    "total": 257
+   }
+  ],
+  "albums": [
+   {
+    "artist": "Air",
+    "album": "The Virgin Suicides Redux",
+    "plays": 53
+   },
+   {
+    "artist": "Christian Löffler",
+    "album": "Mare",
+    "plays": 28
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "album": "Trilogie, Deel III: It's Only Cabaret but I Like It",
+    "plays": 24
+   },
+   {
+    "artist": "Aphex Twin",
+    "album": "Selected Ambient Works Volume II",
+    "plays": 24
+   },
+   {
+    "artist": "Rose Spearman",
+    "album": "Trust (The Re-issue Philadelphia Recordings)",
+    "plays": 24
+   },
+   {
+    "artist": "Ludwig Göransson",
+    "album": "The Odyssey (Original Motion Picture Soundtrack)",
+    "plays": 22
+   },
+   {
+    "artist": "Frédéric Chopin",
+    "album": "Nocturnes",
+    "plays": 21
+   },
+   {
+    "artist": "Richie Hawtin",
+    "album": "DE9 | Transitions",
+    "plays": 21
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "album": "Trilogie, Deel II: Life Is What Happens to You While You're Busy Making Other Plans - John Lennon",
+    "plays": 19
+   },
+   {
+    "artist": "Bremer/McCoy",
+    "album": "Forsvinder",
+    "plays": 19
+   },
+   {
+    "artist": "Vegyn",
+    "album": "BLUE MOON SAFARI",
+    "plays": 19
+   },
+   {
+    "artist": "Boards of Canada",
+    "album": "Music Has the Right to Children",
+    "plays": 18
+   },
+   {
+    "artist": "Moby",
+    "album": "Wait for Me",
+    "plays": 18
+   },
+   {
+    "artist": "Fleetwood Mac",
+    "album": "The Dance",
+    "plays": 17
+   },
+   {
+    "artist": "Trentemøller",
+    "album": "The Trentemøller Chronicles",
+    "plays": 17
+   }
+  ]
+ },
+ "recent": [
+  {
+   "ts": "2026-10-26T07:57:00+01:00",
+   "artist": "Nas",
+   "track": "Memory Lane (Sittin’ in da Park)",
+   "album": "Illmatic"
+  },
+  {
+   "ts": "2026-10-26T07:52:39+01:00",
+   "artist": "Nas",
+   "track": "Halftime",
+   "album": "Illmatic"
+  },
+  {
+   "ts": "2026-10-26T07:47:49+01:00",
+   "artist": "Nas",
+   "track": "The World Is Yours",
+   "album": "Illmatic"
+  },
+  {
+   "ts": "2026-10-26T07:44:18+01:00",
+   "artist": "Nas",
+   "track": "Life’s a Bitch",
+   "album": "Illmatic"
+  },
+  {
+   "ts": "2026-10-26T07:39:24+01:00",
+   "artist": "Nas",
+   "track": "N.Y. State of Mind",
+   "album": "Illmatic"
+  },
+  {
+   "ts": "2026-10-26T07:37:39+01:00",
+   "artist": "Nas",
+   "track": "The Genesis",
+   "album": "Illmatic"
+  },
+  {
+   "ts": "2026-10-26T07:24:50+01:00",
+   "artist": "Bill Laurance",
+   "track": "Sant Esteve",
+   "album": "Where You Wish You Were"
+  },
+  {
+   "ts": "2026-10-26T07:21:20+01:00",
+   "artist": "Matthew Halsall",
+   "track": "As I Walk",
+   "album": "Into Forever"
+  },
+  {
+   "ts": "2026-10-26T07:18:00+01:00",
+   "artist": "okvsho",
+   "track": "Where moments wait",
+   "album": "Frozen Flashes"
+  },
+  {
+   "ts": "2026-10-26T07:14:49+01:00",
+   "artist": "Luke Sellick",
+   "track": "Sun Sail",
+   "album": "Sun Sail"
+  },
+  {
+   "ts": "2026-10-26T07:11:29+01:00",
+   "artist": "Matt Carmichael",
+   "track": "red sky",
+   "album": "Held in the Dark"
+  },
+  {
+   "ts": "2026-10-26T07:07:39+01:00",
+   "artist": "Bremer/McCoy",
+   "track": "Ordet",
+   "album": "Ordet"
+  },
+  {
+   "ts": "2026-10-26T07:00:09+01:00",
+   "artist": "Miles Davis",
+   "track": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+   "album": "Kind Of Blue (Legacy Edition)"
+  },
+  {
+   "ts": "2026-10-25T22:29:48+01:00",
+   "artist": "Tosca",
+   "track": "Boss on the Boat - Deadbeats",
+   "album": "Suzuki In Dub"
+  },
+  {
+   "ts": "2026-10-25T22:22:12+01:00",
+   "artist": "Tosca",
+   "track": "Busenfreund - philippe lussan dub",
+   "album": "Suzuki In Dub"
+  },
+  {
+   "ts": "2026-10-25T22:15:15+01:00",
+   "artist": "Tosca",
+   "track": "Annanas - Uko Dub",
+   "album": "Suzuki In Dub"
+  },
+  {
+   "ts": "2026-10-25T22:09:44+01:00",
+   "artist": "Tosca",
+   "track": "Busenfreund - Dzhihan + Kamien Dub",
+   "album": "Suzuki In Dub"
+  },
+  {
+   "ts": "2026-10-25T22:03:45+01:00",
+   "artist": "Tosca",
+   "track": "Annanas - Cosmic Rocker Dub",
+   "album": "Suzuki In Dub"
+  },
+  {
+   "ts": "2026-10-25T21:56:14+01:00",
+   "artist": "Tosca",
+   "track": "Busenfreund - Walkner. Moestl Dub",
+   "album": "Suzuki In Dub"
+  },
+  {
+   "ts": "2026-10-25T21:50:53+01:00",
+   "artist": "Tosca",
+   "track": "Orozco - Dubphonic Dub",
+   "album": "Suzuki In Dub"
+  },
+  {
+   "ts": "2026-10-25T21:44:49+01:00",
+   "artist": "Tosca",
+   "track": "Suzuki - Burnt Friedman / Nonplace Dub",
+   "album": "Suzuki In Dub"
+  },
+  {
+   "ts": "2026-10-25T21:40:10+01:00",
+   "artist": "Mano Le Tough",
+   "track": "The Sea Inside",
+   "album": "Changing Days"
+  },
+  {
+   "ts": "2026-10-25T21:33:57+01:00",
+   "artist": "Mano Le Tough",
+   "track": "Moments of Truth",
+   "album": "Changing Days"
+  },
+  {
+   "ts": "2026-10-25T21:28:41+01:00",
+   "artist": "Mano Le Tough",
+   "track": "Please",
+   "album": "Changing Days"
+  },
+  {
+   "ts": "2026-10-25T21:21:36+01:00",
+   "artist": "Mano Le Tough",
+   "track": "Nothing Good Gets Away",
+   "album": "Changing Days"
+  },
+  {
+   "ts": "2026-10-25T21:14:29+01:00",
+   "artist": "Mano Le Tough",
+   "track": "Primative People",
+   "album": "Changing Days"
+  },
+  {
+   "ts": "2026-10-25T21:08:40+01:00",
+   "artist": "Mano Le Tough",
+   "track": "A Thing From Above",
+   "album": "Changing Days"
+  },
+  {
+   "ts": "2026-10-25T21:02:46+01:00",
+   "artist": "Mano Le Tough",
+   "track": "Dreaming Youth",
+   "album": "Changing Days"
+  },
+  {
+   "ts": "2026-10-25T20:58:37+01:00",
+   "artist": "Mano Le Tough",
+   "track": "Changing Days",
+   "album": "Changing Days"
+  },
+  {
+   "ts": "2026-10-25T20:52:21+01:00",
+   "artist": "Mano Le Tough",
+   "track": "Everything You've Done Before",
+   "album": "Changing Days"
+  }
+ ],
+ "kast": {
+  "new_this_week": [
+   {
+    "release_id": 95222,
+    "artist": "Rose",
+    "title": "Trust",
+    "date_added": "2026-10-21",
+    "plays_total": 54,
+    "first_played": "2007-06-27"
+   },
+   {
+    "release_id": 207539,
+    "artist": "Kylie Minogue",
+    "title": "Body Language",
+    "date_added": "2026-10-21",
+    "plays_total": 7,
+    "first_played": "2010-06-14"
+   },
+   {
+    "release_id": 369931,
+    "artist": "Phil Collins",
+    "title": "...But Seriously",
+    "date_added": "2026-10-21",
+    "plays_total": 28,
+    "first_played": "2018-06-21"
+   },
+   {
+    "release_id": 442820,
+    "artist": "Total Touch",
+    "title": "This Way",
+    "date_added": "2026-10-21",
+    "plays_total": 0,
+    "first_played": null
+   },
+   {
+    "release_id": 467107,
+    "artist": "Acda en de Munnik",
+    "title": "Groeten Uit Maaiveld (Luxe Editie)",
+    "date_added": "2026-10-21",
+    "plays_total": 83,
+    "first_played": "2007-10-01"
+   },
+   {
+    "release_id": 498258,
+    "artist": "Kelis",
+    "title": "Tasty",
+    "date_added": "2026-10-21",
+    "plays_total": 9,
+    "first_played": "2010-06-26"
+   },
+   {
+    "release_id": 820252,
+    "artist": "Prince",
+    "title": "Batman (Motion Picture Soundtrack)",
+    "date_added": "2026-10-21",
+    "plays_total": 12,
+    "first_played": "2018-05-08"
+   },
+   {
+    "release_id": 1275659,
+    "artist": "Kane",
+    "title": "Fearless",
+    "date_added": "2026-10-21",
+    "plays_total": 61,
+    "first_played": "2006-02-22"
+   }
+  ],
+  "first_played_this_week": []
+ },
+ "lookup": {
+  "artists_file": "stats/artists.json",
+  "albums_file": "stats/albums.json",
+  "key_rules": "Sleutels: Unicode NFKD, accenten weg, kleine letters, & wordt and, alle leestekens worden spatie, spaties samengevoegd, \"the \" vooraan weg. Albums: artiestsleutel|albumsleutel; bij de albumsleutel vallen haakjes met alleen editie-info of een jaartal weg (deluxe, remaster(ed), expanded, anniversary, edition, bonus, reissue) en ook \"35th Anniversary\" en \"20 Year\". Andere schrijfwijzen van een artiest staan in stats/artists.json onder \"aliases\"."
+ }
+}
