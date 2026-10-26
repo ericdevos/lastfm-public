@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-26T08:31:39+00:00",
+  "generated_at": "2026-10-26T13:30:22+00:00",
   "date": "2026-10-25",
   "date_nl": "zondag 25 oktober 2026",
   "mail_date": "2026-10-26",
-  "data_until": "2026-10-26T06:57:00+00:00",
+  "data_until": "2026-10-26T13:21:13+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
@@ -35,9 +35,10 @@
     "date": "2026-10-26",
     "faded_line": "London Music Works — 146× gedraaid, piek in 2015, laatst op 22 augustus 2022.",
     "kast_line": "Eric Clapton – No Reason To Cry (1976, vinyl), nog nooit gedraaid.",
+    "followup_line": "De tip van 25 oktober heb je opgevolgd: Tipper (13×).",
     "stats": {
       "given": 2,
-      "followed": 0
+      "followed": 2
     }
   },
   "onthisday": {
@@ -46,7 +47,7 @@
         {
           "type": "first-artist",
           "name": "Fatima Yamaha",
-          "total": 323,
+          "total": 330,
           "year": "2015"
         },
         {
