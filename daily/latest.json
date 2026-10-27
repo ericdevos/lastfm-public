@@ -1,43 +1,43 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-26T20:44:35+00:00",
-  "date": "2026-10-25",
-  "date_nl": "zondag 25 oktober 2026",
-  "mail_date": "2026-10-26",
+  "generated_at": "2026-10-27T00:46:40+00:00",
+  "date": "2026-10-26",
+  "date_nl": "maandag 26 oktober 2026",
+  "mail_date": "2026-10-27",
   "data_until": "2026-10-26T20:06:07+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 116,
+    "plays": 81,
     "avg_year": 75,
     "year": 2026,
-    "verdict": "boven",
-    "line": "Gisteren: 116 nummers — ruim boven je daggemiddelde van 2026 (75; +55%)."
+    "verdict": "gelijk",
+    "line": "Gisteren: 81 nummers — ongeveer gelijk aan je daggemiddelde van 2026 (75)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds november 2024 weer Mano Le Tough (10× gisteren)."
+      "text": "Voor het eerst sinds april 2023 weer Barry Leitch (1× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Air – The Virgin Suicides Redux (CD Reissue Stereo / CD Stereo / Blu-ray Blu-ray Audio Album Reissue Stereo Multichannel / All Media Deluxe Edition, binnen sinds 7 oktober) draaide je gisteren 12×."
+      "text": "Je nieuwe aanwinst Nas – Illmatic (Vinyl LP Album Reissue Repress, binnen sinds 30 augustus) draaide je gisteren 10×."
     },
     {
-      "type": "shelf",
-      "label": "Kast × luisteren",
-      "text": "Koop – Koop Islands (CD Album) staat al sinds minstens 2024 in je kast; gisteren 9 nummers van gedraaid."
+      "type": "milestone",
+      "label": "Mijlpaal",
+      "text": "Digitalism ging gisteren over de 250 plays (nu 254, eerst gehoord in september 2007)."
     }
   ],
   "tip": {
-    "date": "2026-10-26",
-    "faded_line": "London Music Works — 146× gedraaid, piek in 2015, laatst op 22 augustus 2022.",
-    "kast_line": "Eric Clapton – No Reason To Cry (1976, vinyl), nog nooit gedraaid.",
+    "date": "2026-10-27",
+    "faded_line": "Disclosure — 263× gedraaid, piek in 2020, laatst op 30 oktober 2024.",
+    "kast_line": "Kinderkoor Prettig Weekend – Prettig Weekend In Rotterdam (2001, cd), nog nooit gedraaid.",
     "followup_line": "De tip van 25 oktober heb je opgevolgd: Tipper (13×).",
     "stats": {
-      "given": 2,
+      "given": 3,
       "followed": 2
     }
   },
@@ -46,219 +46,237 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Fatima Yamaha",
-          "total": 330,
-          "year": "2015"
+          "name": "Brown Feather Sparrow",
+          "total": 722,
+          "year": "2008"
         },
         {
-          "type": "m-track",
-          "artist": "Chef'Special",
-          "title": "Airplaying",
-          "n": 75,
-          "year": "2023"
-        },
-        {
-          "type": "first-track",
-          "artist": "Angus & Julia Stone",
-          "title": "Grizzly Bear",
-          "total": 107,
+          "type": "comeback",
+          "name": "Robag Wruhme",
+          "gapDays": 951,
+          "since": "2012-03-20",
+          "plays": 9,
+          "before": 62,
           "year": "2014"
         },
         {
+          "type": "m-track",
+          "artist": "James Bay",
+          "title": "Let It Go",
+          "n": 50,
+          "year": "2022"
+        },
+        {
+          "type": "repeat",
+          "artist": "Dr. Lektroluv",
+          "title": "Lektroluv - An Elektion Of Elektrifying Elektro Pop",
+          "n": 4,
+          "year": "2025"
+        },
+        {
+          "type": "first-track",
+          "artist": "Brown Feather Sparrow",
+          "title": "We Have To Run",
+          "total": 80,
+          "year": "2008"
+        },
+        {
           "type": "busiest",
-          "year": "2009",
-          "plays": 120,
+          "year": "2024",
+          "plays": 133,
           "top": {
-            "name": "Acda en de Munnik",
-            "plays": 24
+            "name": "David Bowie",
+            "plays": 16
           }
         },
         {
           "type": "quietest",
-          "year": "2021",
-          "plays": 13,
+          "year": "2005",
+          "plays": 3,
           "top": {
-            "name": "Solar Fields",
-            "plays": 6
+            "name": "Chatman",
+            "plays": 3
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 52,
+          "plays": 49,
           "top": {
-            "name": "Sigur Rós",
-            "plays": 9
+            "name": "Ross From Friends",
+            "plays": 12
           }
         },
         {
           "year": "2024",
-          "plays": 87,
+          "plays": 133,
           "top": {
-            "name": "Joe Cocker",
-            "plays": 30
-          }
-        },
-        {
-          "year": "2023",
-          "plays": 96,
-          "top": {
-            "name": "Thievery Corporation",
-            "plays": 20
-          }
-        },
-        {
-          "year": "2022",
-          "plays": 69,
-          "top": {
-            "name": "Bonobo",
-            "plays": 20
-          }
-        },
-        {
-          "year": "2021",
-          "plays": 13,
-          "top": {
-            "name": "Solar Fields",
-            "plays": 6
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 42,
-          "top": {
-            "name": "Bicep",
-            "plays": 7
-          }
-        },
-        {
-          "year": "2019",
-          "plays": 28,
-          "top": {
-            "name": "Fink",
-            "plays": 8
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 18,
-          "top": {
-            "name": "Fred V & Grafix",
-            "plays": 3
-          }
-        },
-        {
-          "year": "2017",
-          "plays": 48,
-          "top": {
-            "name": "Paul Kalkbrenner",
-            "plays": 10
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 50,
-          "top": {
-            "name": "Röyksopp",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2015",
-          "plays": 73,
-          "top": {
-            "name": "Antonio Vivaldi",
-            "plays": 12
-          }
-        },
-        {
-          "year": "2014",
-          "plays": 102,
-          "top": {
-            "name": "Guus Meeuwis",
-            "plays": 13
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 120,
-          "top": {
-            "name": "Ludovico Einaudi",
-            "plays": 20
-          }
-        },
-        {
-          "year": "2012",
-          "plays": 69,
-          "top": {
-            "name": "Dido",
-            "plays": 12
-          }
-        },
-        {
-          "year": "2011",
-          "plays": 54,
-          "top": {
-            "name": "M83",
-            "plays": 18
-          }
-        },
-        {
-          "year": "2010",
-          "plays": 22,
-          "top": {
-            "name": "Passion Pit",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2009",
-          "plays": 120,
-          "top": {
-            "name": "Acda en de Munnik",
-            "plays": 24
-          }
-        },
-        {
-          "year": "2008",
-          "plays": 36,
-          "top": {
-            "name": "Jazzamor",
-            "plays": 13
-          }
-        },
-        {
-          "year": "2007",
-          "plays": 56,
-          "top": {
-            "name": "Moloko",
+            "name": "David Bowie",
             "plays": 16
           }
         },
         {
+          "year": "2023",
+          "plays": 85,
+          "top": {
+            "name": "Thievery Corporation",
+            "plays": 34
+          }
+        },
+        {
+          "year": "2022",
+          "plays": 85,
+          "top": {
+            "name": "Blood Red Shoes",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2021",
+          "plays": 80,
+          "top": {
+            "name": "Gustavo Santaolalla",
+            "plays": 4
+          }
+        },
+        {
+          "year": "2020",
+          "plays": 36,
+          "top": {
+            "name": "Thomas Newman",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2019",
+          "plays": 66,
+          "top": {
+            "name": "Fatima Yamaha",
+            "plays": 2
+          }
+        },
+        {
+          "year": "2018",
+          "plays": 36,
+          "top": {
+            "name": "Tom Odell",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2017",
+          "plays": 15,
+          "top": {
+            "name": "Yori Swart",
+            "plays": 5
+          }
+        },
+        {
+          "year": "2016",
+          "plays": 26,
+          "top": {
+            "name": "Dusty Kid",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2015",
+          "plays": 48,
+          "top": {
+            "name": "Wolfgang Amadeus Mozart",
+            "plays": 28
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 53,
+          "top": {
+            "name": "Robag Wruhme",
+            "plays": 9
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 68,
+          "top": {
+            "name": "Norah Jones",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 28,
+          "top": {
+            "name": "Jack Johnson",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 11,
+          "top": {
+            "name": "Duck Sauce",
+            "plays": 2
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 66,
+          "top": {
+            "name": "Jack Johnson",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2009",
+          "plays": 31,
+          "top": {
+            "name": "Flight of the Conchords",
+            "plays": 11
+          }
+        },
+        {
+          "year": "2008",
+          "plays": 50,
+          "top": {
+            "name": "Jazzamor",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2007",
+          "plays": 31,
+          "top": {
+            "name": "Sticks & Delic",
+            "plays": 17
+          }
+        },
+        {
           "year": "2006",
-          "plays": 0,
-          "top": null
+          "plays": 28,
+          "top": {
+            "name": "Lily Allen",
+            "plays": 11
+          }
         },
         {
           "year": "2005",
-          "plays": 0,
-          "top": null
+          "plays": 3,
+          "top": {
+            "name": "Chatman",
+            "plays": 3
+          }
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Acda en de Munnik",
-      "Bonobo",
-      "Chef'Special",
-      "Dido",
-      "Fink",
-      "Joe Cocker",
-      "Moloko",
-      "Röyksopp",
-      "Sigur Rós",
-      "Thievery Corporation"
+      "David Bowie",
+      "Flight Of The Conchords",
+      "Jack Johnson",
+      "Norah Jones",
+      "Thievery Corporation",
+      "Yori Swart"
     ],
     "discogs": []
   }
