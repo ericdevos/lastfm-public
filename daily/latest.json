@@ -1,43 +1,43 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-27T20:14:01+00:00",
-  "date": "2026-10-26",
-  "date_nl": "maandag 26 oktober 2026",
-  "mail_date": "2026-10-27",
-  "data_until": "2026-10-27T19:21:59+00:00",
+  "generated_at": "2026-10-28T00:43:10+00:00",
+  "date": "2026-10-27",
+  "date_nl": "dinsdag 27 oktober 2026",
+  "mail_date": "2026-10-28",
+  "data_until": "2026-10-27T21:22:13+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 81,
+    "plays": 106,
     "avg_year": 75,
     "year": 2026,
-    "verdict": "gelijk",
-    "line": "Gisteren: 81 nummers — ongeveer gelijk aan je daggemiddelde van 2026 (75)."
+    "verdict": "boven",
+    "line": "Gisteren: 106 nummers — boven je daggemiddelde van 2026 (75)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds april 2023 weer Barry Leitch (1× gisteren)."
+      "text": "Voor het eerst sinds februari 2025 weer Adam Baldych (1× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Nas – Illmatic (Vinyl LP Album Reissue Repress, binnen sinds 30 augustus) draaide je gisteren 10×."
+      "text": "Je nieuwe aanwinst Madvillain – Madvillainy (CD Album Repress, binnen sinds 29 augustus) draaide je gisteren 22×."
     },
     {
       "type": "milestone",
       "label": "Mijlpaal",
-      "text": "Digitalism ging gisteren over de 250 plays (nu 254, eerst gehoord in september 2007)."
+      "text": "DANGERDOOM ging gisteren over de 500 plays (nu 505, eerst gehoord in september 2007)."
     }
   ],
   "tip": {
-    "date": "2026-10-27",
-    "faded_line": "Disclosure — 263× gedraaid, piek in 2020, laatst op 30 oktober 2024.",
-    "kast_line": "Kinderkoor Prettig Weekend – Prettig Weekend In Rotterdam (2001, cd), nog nooit gedraaid.",
+    "date": "2026-10-28",
+    "faded_line": "Solar Fields — 270× gedraaid, piek in 2021, laatst op 22 februari 2025.",
+    "kast_line": "Robbie Williams – Sing When You're Winning (2000, cd), pas 2× gedraaid.",
     "followup_line": "De tip van 25 oktober heb je opgevolgd: Tipper (13×).",
     "stats": {
-      "given": 3,
+      "given": 4,
       "followed": 2
     }
   },
@@ -45,54 +45,48 @@
     "lastfm": {
       "highlights": [
         {
-          "type": "first-artist",
-          "name": "Brown Feather Sparrow",
-          "total": 722,
-          "year": "2008"
-        },
-        {
           "type": "comeback",
-          "name": "Robag Wruhme",
-          "gapDays": 951,
-          "since": "2012-03-20",
-          "plays": 9,
-          "before": 62,
-          "year": "2014"
+          "name": "The Jeff Healey Band",
+          "gapDays": 451,
+          "since": "2023-08-04",
+          "plays": 12,
+          "before": 116,
+          "year": "2024"
         },
         {
-          "type": "m-track",
-          "artist": "James Bay",
-          "title": "Let It Go",
-          "n": 50,
+          "type": "m-album",
+          "artist": "Fat Freddy's Drop",
+          "title": "Based on a True Story",
+          "n": 250,
           "year": "2022"
         },
         {
           "type": "repeat",
-          "artist": "Dr. Lektroluv",
-          "title": "Lektroluv - An Elektion Of Elektrifying Elektro Pop",
-          "n": 4,
-          "year": "2025"
+          "artist": "Chatman",
+          "title": "Hi Bla Bla",
+          "n": 3,
+          "year": "2005"
         },
         {
           "type": "first-track",
-          "artist": "Brown Feather Sparrow",
-          "title": "We Have To Run",
-          "total": 80,
-          "year": "2008"
+          "artist": "Metallica",
+          "title": "Hardwired",
+          "total": 58,
+          "year": "2016"
         },
         {
           "type": "busiest",
-          "year": "2024",
-          "plays": 133,
+          "year": "2019",
+          "plays": 72,
           "top": {
-            "name": "David Bowie",
-            "plays": 16
+            "name": "Jungle by Night",
+            "plays": 17
           }
         },
         {
           "type": "quietest",
           "year": "2005",
-          "plays": 3,
+          "plays": 4,
           "top": {
             "name": "Chatman",
             "plays": 3
@@ -102,167 +96,164 @@
       "years": [
         {
           "year": "2025",
-          "plays": 49,
+          "plays": 43,
           "top": {
-            "name": "Ross From Friends",
-            "plays": 12
-          }
-        },
-        {
-          "year": "2024",
-          "plays": 133,
-          "top": {
-            "name": "David Bowie",
-            "plays": 16
-          }
-        },
-        {
-          "year": "2023",
-          "plays": 85,
-          "top": {
-            "name": "Thievery Corporation",
-            "plays": 34
-          }
-        },
-        {
-          "year": "2022",
-          "plays": 85,
-          "top": {
-            "name": "Blood Red Shoes",
-            "plays": 12
-          }
-        },
-        {
-          "year": "2021",
-          "plays": 80,
-          "top": {
-            "name": "Gustavo Santaolalla",
-            "plays": 4
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 36,
-          "top": {
-            "name": "Thomas Newman",
-            "plays": 3
-          }
-        },
-        {
-          "year": "2019",
-          "plays": 66,
-          "top": {
-            "name": "Fatima Yamaha",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 36,
-          "top": {
-            "name": "Tom Odell",
-            "plays": 10
-          }
-        },
-        {
-          "year": "2017",
-          "plays": 15,
-          "top": {
-            "name": "Yori Swart",
-            "plays": 5
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 26,
-          "top": {
-            "name": "Dusty Kid",
-            "plays": 10
-          }
-        },
-        {
-          "year": "2015",
-          "plays": 48,
-          "top": {
-            "name": "Wolfgang Amadeus Mozart",
-            "plays": 28
-          }
-        },
-        {
-          "year": "2014",
-          "plays": 53,
-          "top": {
-            "name": "Robag Wruhme",
+            "name": "Sticks",
             "plays": 9
           }
         },
         {
-          "year": "2013",
-          "plays": 68,
+          "year": "2024",
+          "plays": 61,
           "top": {
-            "name": "Norah Jones",
+            "name": "Bob Dylan",
             "plays": 14
           }
         },
         {
-          "year": "2012",
-          "plays": 28,
+          "year": "2023",
+          "plays": 53,
           "top": {
-            "name": "Jack Johnson",
-            "plays": 14
+            "name": "Mariah Carey",
+            "plays": 9
           }
         },
         {
-          "year": "2011",
-          "plays": 11,
+          "year": "2022",
+          "plays": 49,
           "top": {
-            "name": "Duck Sauce",
+            "name": "Four Tet",
+            "plays": 5
+          }
+        },
+        {
+          "year": "2021",
+          "plays": 20,
+          "top": {
+            "name": "Skrillex",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2020",
+          "plays": 43,
+          "top": {
+            "name": "The Chemical Brothers",
+            "plays": 11
+          }
+        },
+        {
+          "year": "2019",
+          "plays": 72,
+          "top": {
+            "name": "Jungle by Night",
+            "plays": 17
+          }
+        },
+        {
+          "year": "2018",
+          "plays": 14,
+          "top": {
+            "name": "Karl Jenkins",
+            "plays": 1
+          }
+        },
+        {
+          "year": "2017",
+          "plays": 17,
+          "top": {
+            "name": "Diggy Dex",
             "plays": 2
           }
         },
         {
-          "year": "2010",
-          "plays": 66,
+          "year": "2016",
+          "plays": 35,
           "top": {
-            "name": "Jack Johnson",
-            "plays": 12
+            "name": "Bonobo",
+            "plays": 15
+          }
+        },
+        {
+          "year": "2015",
+          "plays": 25,
+          "top": {
+            "name": "Stephan Bodzin",
+            "plays": 22
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 35,
+          "top": {
+            "name": "M83",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2012",
+          "plays": 8,
+          "top": {
+            "name": "Beastie Boys",
+            "plays": 7
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 26,
+          "top": {
+            "name": "The Beatles",
+            "plays": 17
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 42,
+          "top": {
+            "name": "Michael Bublé",
+            "plays": 16
           }
         },
         {
           "year": "2009",
           "plays": 31,
           "top": {
-            "name": "Flight of the Conchords",
-            "plays": 11
+            "name": "Robbie Williams",
+            "plays": 13
           }
         },
         {
           "year": "2008",
-          "plays": 50,
+          "plays": 51,
           "top": {
-            "name": "Jazzamor",
+            "name": "מוש בן ארי",
             "plays": 10
           }
         },
         {
           "year": "2007",
-          "plays": 31,
+          "plays": 17,
           "top": {
-            "name": "Sticks & Delic",
-            "plays": 17
+            "name": "Red Hot Chili Peppers",
+            "plays": 8
           }
         },
         {
           "year": "2006",
-          "plays": 28,
+          "plays": 6,
           "top": {
-            "name": "Lily Allen",
-            "plays": 11
+            "name": "2Pac",
+            "plays": 1
           }
         },
         {
           "year": "2005",
-          "plays": 3,
+          "plays": 4,
           "top": {
             "name": "Chatman",
             "plays": 3
@@ -271,12 +262,18 @@
       ]
     },
     "lastfm_artists_in_collection": [
-      "David Bowie",
-      "Flight Of The Conchords",
-      "Jack Johnson",
-      "Norah Jones",
-      "Thievery Corporation",
-      "Yori Swart"
+      "Beastie Boys",
+      "Bob Dylan",
+      "Bonobo",
+      "Fat Freddy's Drop",
+      "Mariah Carey",
+      "Metallica",
+      "Michael Bublé",
+      "Red Hot Chili Peppers",
+      "Robbie Williams",
+      "The Beatles",
+      "The Chemical Brothers",
+      "The Jeff Healey Band"
     ],
     "discogs": []
   }
