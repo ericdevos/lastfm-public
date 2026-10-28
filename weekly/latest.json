@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at": "2026-10-26T09:13:16+00:00",
- "data_until": "2026-10-26T06:57:00+00:00",
+ "generated_at": "2026-10-28T13:28:48+00:00",
+ "data_until": "2026-10-27T21:22:13+00:00",
  "sync_ok": true,
  "period": {
   "from": "2026-10-19",
@@ -15,7 +15,7 @@
    {
     "name": "Acda en de Munnik",
     "plays": 27,
-    "total": 1315,
+    "total": 1331,
     "first_played": "2005-03-22"
    },
    {
@@ -210,8 +210,8 @@
     "artist": "Tomáš Dvořák",
     "album": "Machinarium (Original Game Soundtrack)",
     "plays": 14,
-    "total": 14,
-    "first_played": "2026-10-22"
+    "total": 30,
+    "first_played": "2014-07-23"
    },
    {
     "artist": "Trentemøller",
@@ -620,11 +620,6 @@
     "plays": 22
    },
    {
-    "artist": "Tomáš Dvořák",
-    "album": "Machinarium (Original Game Soundtrack)",
-    "plays": 14
-   },
-   {
     "artist": "The Robert Cray Band",
     "album": "Midnight Stroll",
     "plays": 11
@@ -1023,7 +1018,7 @@
    {
     "name": "Acda en de Munnik",
     "plays": 71,
-    "total": 1315
+    "total": 1331
    },
    {
     "name": "Moby",
@@ -1171,184 +1166,184 @@
  },
  "recent": [
   {
-   "ts": "2026-10-26T07:57:00+01:00",
-   "artist": "Nas",
-   "track": "Memory Lane (Sittin’ in da Park)",
-   "album": "Illmatic"
+   "ts": "2026-10-27T22:22:13+01:00",
+   "artist": "MF DOOM",
+   "track": "Kon Karne",
+   "album": "MM..FOOD"
   },
   {
-   "ts": "2026-10-26T07:52:39+01:00",
-   "artist": "Nas",
-   "track": "Halftime",
-   "album": "Illmatic"
+   "ts": "2026-10-27T22:16:15+01:00",
+   "artist": "Robin Thicke",
+   "track": "Can U Believe",
+   "album": "The Evolution of Robin Thicke"
   },
   {
-   "ts": "2026-10-26T07:47:49+01:00",
-   "artist": "Nas",
-   "track": "The World Is Yours",
-   "album": "Illmatic"
+   "ts": "2026-10-27T22:13:06+01:00",
+   "artist": "Life of Agony",
+   "track": "Through and Through",
+   "album": "River Runs Red"
   },
   {
-   "ts": "2026-10-26T07:44:18+01:00",
-   "artist": "Nas",
-   "track": "Life’s a Bitch",
-   "album": "Illmatic"
+   "ts": "2026-10-27T20:21:59+01:00",
+   "artist": "Life of Agony",
+   "track": "River Runs Red",
+   "album": "River Runs Red"
   },
   {
-   "ts": "2026-10-26T07:39:24+01:00",
-   "artist": "Nas",
-   "track": "N.Y. State of Mind",
-   "album": "Illmatic"
+   "ts": "2026-10-27T20:17:00+01:00",
+   "artist": "Life of Agony",
+   "track": "Underground",
+   "album": "River Runs Red"
   },
   {
-   "ts": "2026-10-26T07:37:39+01:00",
-   "artist": "Nas",
-   "track": "The Genesis",
-   "album": "Illmatic"
+   "ts": "2026-10-27T20:11:18+01:00",
+   "artist": "Life of Agony",
+   "track": "This Time",
+   "album": "River Runs Red"
   },
   {
-   "ts": "2026-10-26T07:24:50+01:00",
-   "artist": "Bill Laurance",
-   "track": "Sant Esteve",
-   "album": "Where You Wish You Were"
+   "ts": "2026-10-27T20:08:24+01:00",
+   "artist": "Robin Thicke",
+   "track": "Ask Myself",
+   "album": "The Evolution of Robin Thicke"
   },
   {
-   "ts": "2026-10-26T07:21:20+01:00",
-   "artist": "Matthew Halsall",
-   "track": "As I Walk",
-   "album": "Into Forever"
+   "ts": "2026-10-27T19:04:36+01:00",
+   "artist": "Your Brother's Keeper",
+   "track": "Ground Loop",
+   "album": "Where Rivers Meet"
   },
   {
-   "ts": "2026-10-26T07:18:00+01:00",
-   "artist": "okvsho",
-   "track": "Where moments wait",
-   "album": "Frozen Flashes"
+   "ts": "2026-10-27T19:01:16+01:00",
+   "artist": "Sven Wunder",
+   "track": "Misty Shore",
+   "album": "Daybreak"
   },
   {
-   "ts": "2026-10-26T07:14:49+01:00",
-   "artist": "Luke Sellick",
-   "track": "Sun Sail",
-   "album": "Sun Sail"
+   "ts": "2026-10-27T18:57:56+01:00",
+   "artist": "Nils Petter Molvær",
+   "track": "True Love Waits (Radiohead)",
+   "album": "Stitches"
   },
   {
-   "ts": "2026-10-26T07:11:29+01:00",
-   "artist": "Matt Carmichael",
-   "track": "red sky",
-   "album": "Held in the Dark"
+   "ts": "2026-10-27T18:54:16+01:00",
+   "artist": "Jazzbois",
+   "track": "Kulka - Jbhq Version",
+   "album": "Montreal"
   },
   {
-   "ts": "2026-10-26T07:07:39+01:00",
-   "artist": "Bremer/McCoy",
-   "track": "Ordet",
-   "album": "Ordet"
+   "ts": "2026-10-27T18:50:46+01:00",
+   "artist": "Phi-Psonics",
+   "track": "There's Still Hope",
+   "album": "Expanding to One"
   },
   {
-   "ts": "2026-10-26T07:00:09+01:00",
-   "artist": "Miles Davis",
-   "track": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
-   "album": "Kind Of Blue (Legacy Edition)"
+   "ts": "2026-10-27T18:48:16+01:00",
+   "artist": "Rachel Kitchlew",
+   "track": "Heady (Reprise)",
+   "album": "Flirty Ghost"
   },
   {
-   "ts": "2026-10-25T22:29:48+01:00",
-   "artist": "Tosca",
-   "track": "Boss on the Boat - Deadbeats",
-   "album": "Suzuki In Dub"
+   "ts": "2026-10-27T18:45:46+01:00",
+   "artist": "Abdullah Ibrahim",
+   "track": "Mindiff",
+   "album": "Solotude"
   },
   {
-   "ts": "2026-10-25T22:22:12+01:00",
-   "artist": "Tosca",
-   "track": "Busenfreund - philippe lussan dub",
-   "album": "Suzuki In Dub"
+   "ts": "2026-10-27T18:42:26+01:00",
+   "artist": "Kansas Smitty's",
+   "track": "The Carpenter",
+   "album": "We're Not in Kansas Anymore"
   },
   {
-   "ts": "2026-10-25T22:15:15+01:00",
-   "artist": "Tosca",
-   "track": "Annanas - Uko Dub",
-   "album": "Suzuki In Dub"
+   "ts": "2026-10-27T18:38:36+01:00",
+   "artist": "Hvalfugl",
+   "track": "Iturevet Almanak",
+   "album": "Bag Vore Øjne Strømmer Drømme Sagte Forbi"
   },
   {
-   "ts": "2026-10-25T22:09:44+01:00",
-   "artist": "Tosca",
-   "track": "Busenfreund - Dzhihan + Kamien Dub",
-   "album": "Suzuki In Dub"
+   "ts": "2026-10-27T18:34:06+01:00",
+   "artist": "Sarah Heneghan",
+   "track": "Heath",
+   "album": "Tiny Sacred Gaps"
   },
   {
-   "ts": "2026-10-25T22:03:45+01:00",
-   "artist": "Tosca",
-   "track": "Annanas - Cosmic Rocker Dub",
-   "album": "Suzuki In Dub"
+   "ts": "2026-10-27T18:29:36+01:00",
+   "artist": "Greg Spero",
+   "track": "yellow ochre",
+   "album": "yellow ochre"
   },
   {
-   "ts": "2026-10-25T21:56:14+01:00",
-   "artist": "Tosca",
-   "track": "Busenfreund - Walkner. Moestl Dub",
-   "album": "Suzuki In Dub"
+   "ts": "2026-10-27T18:14:15+01:00",
+   "artist": "DANGERDOOM",
+   "track": "No Names",
+   "album": "The Mouse & The Mask"
   },
   {
-   "ts": "2026-10-25T21:50:53+01:00",
-   "artist": "Tosca",
-   "track": "Orozco - Dubphonic Dub",
-   "album": "Suzuki In Dub"
+   "ts": "2026-10-27T18:11:08+01:00",
+   "artist": "DANGERDOOM",
+   "track": "Basket Case",
+   "album": "The Mouse & The Mask"
   },
   {
-   "ts": "2026-10-25T21:44:49+01:00",
-   "artist": "Tosca",
-   "track": "Suzuki - Burnt Friedman / Nonplace Dub",
-   "album": "Suzuki In Dub"
+   "ts": "2026-10-27T18:08:34+01:00",
+   "artist": "DANGERDOOM",
+   "track": "A.T.H.F.",
+   "album": "The Mouse & The Mask"
   },
   {
-   "ts": "2026-10-25T21:40:10+01:00",
-   "artist": "Mano Le Tough",
-   "track": "The Sea Inside",
-   "album": "Changing Days"
+   "ts": "2026-10-27T18:05:30+01:00",
+   "artist": "DANGERDOOM",
+   "track": "Old School (Feat. Talib Kweli)",
+   "album": "The Mouse & The Mask"
   },
   {
-   "ts": "2026-10-25T21:33:57+01:00",
-   "artist": "Mano Le Tough",
-   "track": "Moments of Truth",
-   "album": "Changing Days"
+   "ts": "2026-10-27T18:02:50+01:00",
+   "artist": "DANGERDOOM",
+   "track": "Benzie Box (feat. CeeLo Green)",
+   "album": "The Mouse & The Mask"
   },
   {
-   "ts": "2026-10-25T21:28:41+01:00",
-   "artist": "Mano Le Tough",
-   "track": "Please",
-   "album": "Changing Days"
+   "ts": "2026-10-27T17:59:50+01:00",
+   "artist": "DANGERDOOM",
+   "track": "Perfect Hair",
+   "album": "The Mouse & The Mask"
   },
   {
-   "ts": "2026-10-25T21:21:36+01:00",
-   "artist": "Mano Le Tough",
-   "track": "Nothing Good Gets Away",
-   "album": "Changing Days"
+   "ts": "2026-10-27T17:57:46+01:00",
+   "artist": "DANGERDOOM",
+   "track": "The Mask (Feat. Ghostface Killah)",
+   "album": "The Mouse & The Mask"
   },
   {
-   "ts": "2026-10-25T21:14:29+01:00",
-   "artist": "Mano Le Tough",
-   "track": "Primative People",
-   "album": "Changing Days"
+   "ts": "2026-10-27T17:54:34+01:00",
+   "artist": "DANGERDOOM",
+   "track": "Sofa King",
+   "album": "The Mouse & The Mask"
   },
   {
-   "ts": "2026-10-25T21:08:40+01:00",
-   "artist": "Mano Le Tough",
-   "track": "A Thing From Above",
-   "album": "Changing Days"
+   "ts": "2026-10-27T17:51:37+01:00",
+   "artist": "DANGERDOOM",
+   "track": "El Chupa Nibre",
+   "album": "The Mouse & The Mask"
   },
   {
-   "ts": "2026-10-25T21:02:46+01:00",
-   "artist": "Mano Le Tough",
-   "track": "Dreaming Youth",
-   "album": "Changing Days"
+   "ts": "2026-10-27T17:49:06+01:00",
+   "artist": "Madvillain",
+   "track": "Rhinestone Cowboy",
+   "album": "Madvillainy"
   },
   {
-   "ts": "2026-10-25T20:58:37+01:00",
-   "artist": "Mano Le Tough",
-   "track": "Changing Days",
-   "album": "Changing Days"
+   "ts": "2026-10-27T17:45:06+01:00",
+   "artist": "Madvillain",
+   "track": "Great Day",
+   "album": "Madvillainy"
   },
   {
-   "ts": "2026-10-25T20:52:21+01:00",
-   "artist": "Mano Le Tough",
-   "track": "Everything You've Done Before",
-   "album": "Changing Days"
+   "ts": "2026-10-27T17:42:49+01:00",
+   "artist": "Madvillain",
+   "track": "All Caps",
+   "album": "Madvillainy"
   }
  ],
  "kast": {
@@ -1418,11 +1413,845 @@
     "first_played": "2006-02-22"
    }
   ],
-  "first_played_this_week": []
+  "first_played_this_week": [],
+  "recent_additions": [
+   {
+    "release_id": 1275659,
+    "artist": "Kane",
+    "title": "Fearless",
+    "year": 2005,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 61
+   },
+   {
+    "release_id": 820252,
+    "artist": "Prince",
+    "title": "Batman (Motion Picture Soundtrack)",
+    "year": 1989,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 12
+   },
+   {
+    "release_id": 498258,
+    "artist": "Kelis",
+    "title": "Tasty",
+    "year": 2003,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 9
+   },
+   {
+    "release_id": 467107,
+    "artist": "Acda en de Munnik",
+    "title": "Groeten Uit Maaiveld (Luxe Editie)",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 83
+   },
+   {
+    "release_id": 442820,
+    "artist": "Total Touch",
+    "title": "This Way",
+    "year": 1998,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 0
+   },
+   {
+    "release_id": 369931,
+    "artist": "Phil Collins",
+    "title": "...But Seriously",
+    "year": 1989,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 28
+   },
+   {
+    "release_id": 207539,
+    "artist": "Kylie Minogue",
+    "title": "Body Language",
+    "year": 2003,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 7
+   },
+   {
+    "release_id": 95222,
+    "artist": "Rose",
+    "title": "Trust",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 54
+   },
+   {
+    "release_id": 35096396,
+    "artist": "AIR",
+    "title": "The Virgin Suicides Redux",
+    "year": 2000,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 65
+   },
+   {
+    "release_id": 3004639,
+    "artist": "Pearl Jam",
+    "title": "Binaural",
+    "year": 2000,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1417782,
+    "artist": "Rage Against The Machine",
+    "title": "Live & Alive",
+    "year": 1994,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1310539,
+    "artist": "Rage Against The Machine",
+    "title": "Justify Those That Die",
+    "year": 1993,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 469724,
+    "artist": "Audioslave",
+    "title": "Out Of Exile",
+    "year": 2005,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 403095,
+    "artist": "Audioslave",
+    "title": "Audioslave",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 54
+   },
+   {
+    "release_id": 320098,
+    "artist": "Postmen",
+    "title": "Revival",
+    "year": 2001,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 33942180,
+    "artist": "Eric Clapton",
+    "title": "Unplugged - Enhanced Edition",
+    "year": 1992,
+    "format": "CD",
+    "date_added": "2026-10-01",
+    "plays_total": 60
+   },
+   {
+    "release_id": 1460681,
+    "artist": "James Blunt",
+    "title": "Back To Bedlam",
+    "year": 2004,
+    "format": "CD",
+    "date_added": "2026-09-27",
+    "plays_total": 81
+   },
+   {
+    "release_id": 28147666,
+    "artist": "Various",
+    "title": "City Of Angels (Music From And Inspired By The Motion Picture)",
+    "year": 1998,
+    "format": "CD",
+    "date_added": "2026-09-17",
+    "plays_total": 0
+   },
+   {
+    "release_id": 12160054,
+    "artist": "Bruce Springsteen",
+    "title": "High Hopes",
+    "year": 2014,
+    "format": "CD",
+    "date_added": "2026-09-17",
+    "plays_total": 2
+   },
+   {
+    "release_id": 819573,
+    "artist": "Michael Franti And Spearhead",
+    "title": "Yell Fire!",
+    "year": 2006,
+    "format": "CD",
+    "date_added": "2026-09-17",
+    "plays_total": 0
+   },
+   {
+    "release_id": 625969,
+    "artist": "Ryuichi Sakamoto",
+    "title": "High Heels Soundtrack",
+    "year": 1991,
+    "format": "CD",
+    "date_added": "2026-09-17",
+    "plays_total": 0
+   },
+   {
+    "release_id": 17881843,
+    "artist": "Various",
+    "title": "De Mooiste Muziek Uit 20 Onvergetelijke Films",
+    "year": 2009,
+    "format": "CD",
+    "date_added": "2026-09-15",
+    "plays_total": 0
+   },
+   {
+    "release_id": 9371266,
+    "artist": "Everything But The Girl",
+    "title": "The Best Of Everything But The Girl",
+    "year": 1996,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 15
+   },
+   {
+    "release_id": 3114821,
+    "artist": "U2",
+    "title": "Under A Blood Red Sky (Live)",
+    "year": 1983,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1055662,
+    "artist": "NOFX",
+    "title": "Punk In Drublic",
+    "year": 1994,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 190
+   },
+   {
+    "release_id": 580428,
+    "artist": "Brainpower",
+    "title": "Verschil Moet Er Zijn",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 41
+   },
+   {
+    "release_id": 42395,
+    "artist": "Laurent Garnier",
+    "title": "Unreasonable Behaviour",
+    "year": 2000,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 76
+   },
+   {
+    "release_id": 21976,
+    "artist": "Jamiroquai",
+    "title": "A Funk Odyssey",
+    "year": 2001,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 26
+   },
+   {
+    "release_id": 21926749,
+    "artist": "Eels",
+    "title": "Extreme Witchcraft",
+    "year": 2022,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 0
+   },
+   {
+    "release_id": 12651584,
+    "artist": "Tom Morello",
+    "title": "The Atlas Underground",
+    "year": 2018,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 13
+   },
+   {
+    "release_id": 8330443,
+    "artist": "Moderat",
+    "title": "III",
+    "year": 2016,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 231
+   },
+   {
+    "release_id": 2105718,
+    "artist": "The Q4",
+    "title": "Sound Surroundings",
+    "year": 2010,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 167
+   },
+   {
+    "release_id": 1004312,
+    "artist": "The Chemical Brothers",
+    "title": "We Are The Night",
+    "year": 2007,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 182
+   },
+   {
+    "release_id": 857702,
+    "artist": "The Band",
+    "title": "The Last Waltz",
+    "year": 1978,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 7
+   },
+   {
+    "release_id": 489105,
+    "artist": "Fleetwood Mac",
+    "title": "The Dance",
+    "year": 1997,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 53
+   },
+   {
+    "release_id": 471892,
+    "artist": "Kraak & Smaak",
+    "title": "Boogie Angst",
+    "year": 2005,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 234
+   },
+   {
+    "release_id": 410066,
+    "artist": "Arrested Development",
+    "title": "Zingalamaduni",
+    "year": 1994,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 3
+   },
+   {
+    "release_id": 300727,
+    "artist": "Bebel Gilberto",
+    "title": "Bebel Gilberto",
+    "year": 2004,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 141
+   },
+   {
+    "release_id": 10694499,
+    "artist": "Various",
+    "title": "Baby Driver (Music From The Motion Picture)",
+    "year": 2017,
+    "format": "CD",
+    "date_added": "2026-08-31",
+    "plays_total": 0
+   },
+   {
+    "release_id": 5459672,
+    "artist": "Pharrell Williams",
+    "title": "G I R L",
+    "year": 2014,
+    "format": "CD",
+    "date_added": "2026-08-31",
+    "plays_total": 40
+   },
+   {
+    "release_id": 27568578,
+    "artist": "Rage Against The Machine",
+    "title": "Evil Empire",
+    "year": 1996,
+    "format": "Vinyl",
+    "date_added": "2026-08-30",
+    "plays_total": 97
+   },
+   {
+    "release_id": 25744036,
+    "artist": "Wu-Tang Clan",
+    "title": "Enter The Wu-Tang (36 Chambers)",
+    "year": 1993,
+    "format": "Vinyl",
+    "date_added": "2026-08-30",
+    "plays_total": 79
+   },
+   {
+    "release_id": 3502605,
+    "artist": "Flavium",
+    "title": "Against The Grain",
+    "year": 1982,
+    "format": "Vinyl",
+    "date_added": "2026-08-30",
+    "plays_total": 0
+   },
+   {
+    "release_id": 3207332,
+    "artist": "Nas",
+    "title": "Illmatic",
+    "year": 1994,
+    "format": "Vinyl",
+    "date_added": "2026-08-30",
+    "plays_total": 94
+   },
+   {
+    "release_id": 809465,
+    "artist": "Yppah",
+    "title": "You Are Beautiful At All Times",
+    "year": 2006,
+    "format": "CD",
+    "date_added": "2026-08-30",
+    "plays_total": 154
+   },
+   {
+    "release_id": 598257,
+    "artist": "Q65",
+    "title": "Revolution",
+    "year": 1966,
+    "format": "Vinyl",
+    "date_added": "2026-08-30",
+    "plays_total": 0
+   },
+   {
+    "release_id": 482024,
+    "artist": "Cannonball Adderley",
+    "title": "Somethin' Else",
+    "year": 1958,
+    "format": "CD",
+    "date_added": "2026-08-30",
+    "plays_total": 26
+   },
+   {
+    "release_id": 435859,
+    "artist": "John Coltrane",
+    "title": "Blue Train",
+    "year": 1958,
+    "format": "CD",
+    "date_added": "2026-08-30",
+    "plays_total": 19
+   },
+   {
+    "release_id": 368061,
+    "artist": "Miles Davis",
+    "title": "Kind Of Blue",
+    "year": 1959,
+    "format": "CD",
+    "date_added": "2026-08-30",
+    "plays_total": 60
+   },
+   {
+    "release_id": 49594,
+    "artist": "Zero 7",
+    "title": "Simple Things",
+    "year": 2001,
+    "format": "CD",
+    "date_added": "2026-08-30",
+    "plays_total": 160
+   },
+   {
+    "release_id": 13513913,
+    "artist": "Kings Of Convenience",
+    "title": "Declaration Of Dependence",
+    "year": 2009,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 36
+   },
+   {
+    "release_id": 11248533,
+    "artist": "Madvillain",
+    "title": "Madvillainy",
+    "year": 2004,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 167
+   },
+   {
+    "release_id": 7183623,
+    "artist": "Mike Oldfield",
+    "title": "Crises",
+    "year": 1983,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 6
+   },
+   {
+    "release_id": 5564640,
+    "artist": "Traffic",
+    "title": "John Barleycorn Must Die",
+    "year": 1970,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 22
+   },
+   {
+    "release_id": 3574671,
+    "artist": "Jason Mraz",
+    "title": "Love Is A Four Letter Word",
+    "year": 2012,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 135
+   },
+   {
+    "release_id": 3274366,
+    "artist": "White Lies",
+    "title": "To Lose My Life...",
+    "year": 2009,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 124
+   },
+   {
+    "release_id": 1104100,
+    "artist": "Kate Nash",
+    "title": "Made Of Bricks",
+    "year": 2007,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 144
+   },
+   {
+    "release_id": 1033298,
+    "artist": "Feist",
+    "title": "The Reminder",
+    "year": 2007,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 80
+   },
+   {
+    "release_id": 906895,
+    "artist": "Jive Bunny And The Mastermixers",
+    "title": "The Album",
+    "year": 1989,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 1
+   },
+   {
+    "release_id": 777062,
+    "artist": "Various",
+    "title": "Countdown Rockballads",
+    "year": 1992,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 0
+   },
+   {
+    "release_id": 556456,
+    "artist": "Stevie Wonder",
+    "title": "Songs In The Key Of Life",
+    "year": 1976,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 249
+   },
+   {
+    "release_id": 63883,
+    "artist": "Timecode",
+    "title": "02.2",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 0
+   },
+   {
+    "release_id": 58860,
+    "artist": "Various",
+    "title": "Slow Down. Pleasure Up.",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-08-29",
+    "plays_total": 0
+   },
+   {
+    "release_id": 26794253,
+    "artist": "Christophe Héral, Billy Martin",
+    "title": "Rayman Legends (Original Game Soundtrack)",
+    "year": 2013,
+    "format": "File",
+    "date_added": "2026-08-27",
+    "plays_total": 326
+   },
+   {
+    "release_id": 10486201,
+    "artist": "Danger Doom",
+    "title": "The Mouse And The Mask",
+    "year": 2005,
+    "format": "File",
+    "date_added": "2026-08-27",
+    "plays_total": 11
+   }
+  ]
+ },
+ "faded": {
+  "rule": "minstens 100 plays, al ongeveer 18 maanden niet gedraaid",
+  "total": 40,
+  "artists": [
+   {
+    "name": "Mick Gordon",
+    "plays": 347,
+    "peakYear": "2016",
+    "lastPlayed": "2023-10-06"
+   },
+   {
+    "name": "Henry Jackman",
+    "plays": 308,
+    "peakYear": "2019",
+    "lastPlayed": "2021-06-28"
+   },
+   {
+    "name": "AlunaGeorge",
+    "plays": 286,
+    "peakYear": "2013",
+    "lastPlayed": "2025-04-17"
+   },
+   {
+    "name": "Solar Fields",
+    "plays": 270,
+    "peakYear": "2021",
+    "lastPlayed": "2025-02-22"
+   },
+   {
+    "name": "Disclosure",
+    "plays": 263,
+    "peakYear": "2020",
+    "lastPlayed": "2024-10-30"
+   },
+   {
+    "name": "Pennywise",
+    "plays": 251,
+    "peakYear": "2019",
+    "lastPlayed": "2025-04-16"
+   },
+   {
+    "name": "Moneybrother",
+    "plays": 205,
+    "peakYear": "2007",
+    "lastPlayed": "2024-05-14"
+   },
+   {
+    "name": "Michael McCann",
+    "plays": 183,
+    "peakYear": "2018",
+    "lastPlayed": "2019-02-27"
+   },
+   {
+    "name": "Hibernation",
+    "plays": 177,
+    "peakYear": "2013",
+    "lastPlayed": "2020-03-29"
+   },
+   {
+    "name": "Gareth Coker",
+    "plays": 173,
+    "peakYear": "2021",
+    "lastPlayed": "2023-12-04"
+   },
+   {
+    "name": "Bill Elm & Woody Jackson",
+    "plays": 172,
+    "peakYear": "2014",
+    "lastPlayed": "2022-02-01"
+   },
+   {
+    "name": "Bentley Rhythm Ace",
+    "plays": 166,
+    "peakYear": "2015",
+    "lastPlayed": "2025-01-27"
+   },
+   {
+    "name": "Thomas Newman",
+    "plays": 166,
+    "peakYear": "2018",
+    "lastPlayed": "2024-09-28"
+   },
+   {
+    "name": "Leonie Meijer",
+    "plays": 166,
+    "peakYear": "2012",
+    "lastPlayed": "2025-02-28"
+   },
+   {
+    "name": "Soldaat van Oranje Cast",
+    "plays": 165,
+    "peakYear": "2011",
+    "lastPlayed": "2024-09-29"
+   },
+   {
+    "name": "Little Boots",
+    "plays": 161,
+    "peakYear": "2009",
+    "lastPlayed": "2019-03-17"
+   },
+   {
+    "name": "Joris de Man",
+    "plays": 158,
+    "peakYear": "2018",
+    "lastPlayed": "2023-11-24"
+   },
+   {
+    "name": "Roni Size & Reprazent",
+    "plays": 156,
+    "peakYear": "2008",
+    "lastPlayed": "2024-11-19"
+   },
+   {
+    "name": "David García Díaz",
+    "plays": 151,
+    "peakYear": "2019",
+    "lastPlayed": "2023-11-24"
+   },
+   {
+    "name": "London Music Works",
+    "plays": 146,
+    "peakYear": "2015",
+    "lastPlayed": "2022-08-22"
+   },
+   {
+    "name": "The Shapeshifters",
+    "plays": 143,
+    "peakYear": "2007",
+    "lastPlayed": "2024-08-30"
+   },
+   {
+    "name": "Be Svendsen",
+    "plays": 141,
+    "peakYear": "2021",
+    "lastPlayed": "2024-10-31"
+   },
+   {
+    "name": "Kraantje Pappie",
+    "plays": 133,
+    "peakYear": "2012",
+    "lastPlayed": "2024-08-10"
+   },
+   {
+    "name": "Knife Party",
+    "plays": 128,
+    "peakYear": "2013",
+    "lastPlayed": "2024-07-27"
+   },
+   {
+    "name": "Michael Mayer",
+    "plays": 126,
+    "peakYear": "2007",
+    "lastPlayed": "2025-03-31"
+   },
+   {
+    "name": "The Fratellis",
+    "plays": 123,
+    "peakYear": "2007",
+    "lastPlayed": "2023-08-04"
+   },
+   {
+    "name": "Gesaffelstein",
+    "plays": 120,
+    "peakYear": "2014",
+    "lastPlayed": "2022-02-05"
+   },
+   {
+    "name": "Kris Berry",
+    "plays": 119,
+    "peakYear": "2019",
+    "lastPlayed": "2024-12-24"
+   },
+   {
+    "name": "A Perfect Circle",
+    "plays": 118,
+    "peakYear": "2005",
+    "lastPlayed": "2024-09-25"
+   },
+   {
+    "name": "Efdemin",
+    "plays": 118,
+    "peakYear": "2009",
+    "lastPlayed": "2023-09-20"
+   },
+   {
+    "name": "JP Cooper",
+    "plays": 118,
+    "peakYear": "2019",
+    "lastPlayed": "2024-01-27"
+   },
+   {
+    "name": "Goose",
+    "plays": 117,
+    "peakYear": "2007",
+    "lastPlayed": "2021-09-18"
+   },
+   {
+    "name": "Mika",
+    "plays": 112,
+    "peakYear": "2008",
+    "lastPlayed": "2024-08-22"
+   },
+   {
+    "name": "George Ezra",
+    "plays": 112,
+    "peakYear": "2020",
+    "lastPlayed": "2025-03-04"
+   },
+   {
+    "name": "Com Truise",
+    "plays": 112,
+    "peakYear": "2019",
+    "lastPlayed": "2025-01-23"
+   },
+   {
+    "name": "Death Cab for Cutie",
+    "plays": 108,
+    "peakYear": "2009",
+    "lastPlayed": "2024-02-01"
+   },
+   {
+    "name": "Music For Programming",
+    "plays": 106,
+    "peakYear": "2015",
+    "lastPlayed": "2016-08-10"
+   },
+   {
+    "name": "Martin Garrix",
+    "plays": 106,
+    "peakYear": "2018",
+    "lastPlayed": "2024-12-30"
+   },
+   {
+    "name": "PNAU",
+    "plays": 105,
+    "peakYear": "2009",
+    "lastPlayed": "2024-03-22"
+   },
+   {
+    "name": "The Kyteman Orchestra",
+    "plays": 104,
+    "peakYear": "2012",
+    "lastPlayed": "2025-04-12"
+   }
+  ]
  },
  "lookup": {
   "artists_file": "stats/artists.json",
   "albums_file": "stats/albums.json",
+  "overview_file": "stats/overview.json",
   "key_rules": "Sleutels: Unicode NFKD, accenten weg, kleine letters, & wordt and, alle leestekens worden spatie, spaties samengevoegd, \"the \" vooraan weg. Albums: artiestsleutel|albumsleutel; bij de albumsleutel vallen haakjes met alleen editie-info of een jaartal weg (deluxe, remaster(ed), expanded, anniversary, edition, bonus, reissue) en ook \"35th Anniversary\" en \"20 Year\". Andere schrijfwijzen van een artiest staan in stats/artists.json onder \"aliases\"."
  }
 }
