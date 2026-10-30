@@ -1,29 +1,29 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-29T20:32:43+00:00",
-  "date": "2026-10-28",
-  "date_nl": "woensdag 28 oktober 2026",
-  "mail_date": "2026-10-29",
+  "generated_at": "2026-10-30T01:20:27+00:00",
+  "date": "2026-10-29",
+  "date_nl": "donderdag 29 oktober 2026",
+  "mail_date": "2026-10-30",
   "data_until": "2026-10-29T20:22:08+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 28,
+    "plays": 94,
     "avg_year": 75,
     "year": 2026,
-    "verdict": "onder",
-    "line": "Gisteren: 28 nummers — flink onder je daggemiddelde van 2026 (75; −63%)."
+    "verdict": "boven",
+    "line": "Gisteren: 94 nummers — boven je daggemiddelde van 2026 (75)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds april 2025 weer AlunaGeorge (4× gisteren)."
+      "text": "Voor het eerst sinds juni 2021 weer Blanco White (1× gisteren)."
     },
     {
-      "type": "shelf",
-      "label": "Kast × luisteren",
-      "text": "Silk Sonic – An Evening With Silk Sonic (CD Album) staat al sinds maart 2024 in je kast; gisteren 7 nummers van gedraaid."
+      "type": "new",
+      "label": "Nieuwe aanwinst",
+      "text": "Je nieuwe aanwinst MF DOOM – MM..Food (CD Album Reissue Repress, binnen sinds 28 oktober) draaide je gisteren 9×."
     },
     {
       "type": "waiting",
@@ -32,12 +32,12 @@
     }
   ],
   "tip": {
-    "date": "2026-10-29",
-    "faded_line": "Gesaffelstein — 120× gedraaid, piek in 2014, laatst op 5 februari 2022.",
-    "kast_line": "Eric Clapton – Backless (1978, vinyl), pas 4× gedraaid.",
+    "date": "2026-10-30",
+    "faded_line": "Martin Garrix — 106× gedraaid, piek in 2018, laatst op 30 december 2024.",
+    "kast_line": "The Electric Flag – A Long Time Comin' (1968, vinyl), nog nooit gedraaid.",
     "followup_line": "De tip van 25 oktober heb je opgevolgd: Tipper (13×).",
     "stats": {
-      "given": 5,
+      "given": 6,
       "followed": 2
     }
   },
@@ -46,46 +46,55 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Little Computer People",
-          "total": 105,
-          "year": "2007"
+          "name": "Max Richter",
+          "total": 1994,
+          "year": "2008"
         },
         {
-          "type": "m-track",
-          "artist": "Tycho",
-          "title": "Awake",
-          "n": 25,
-          "year": "2019"
+          "type": "comeback",
+          "name": "Brian Eno",
+          "gapDays": 439,
+          "since": "2015-08-18",
+          "plays": 11,
+          "before": 108,
+          "year": "2016"
+        },
+        {
+          "type": "m-album",
+          "artist": "Kyle Dixon & Michael Stein",
+          "title": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+          "n": 250,
+          "year": "2021"
         },
         {
           "type": "repeat",
-          "artist": "The Blues Brothers",
-          "title": "Think",
-          "n": 4,
-          "year": "2019"
+          "artist": "Bicep",
+          "title": "CHROMA 008 TANGZ",
+          "n": 3,
+          "year": "2025"
         },
         {
           "type": "first-track",
-          "artist": "The Blues Brothers",
-          "title": "Think",
-          "total": 49,
-          "year": "2019"
+          "artist": "Brian Eno",
+          "title": "Emerald and Stone",
+          "total": 31,
+          "year": "2016"
         },
         {
           "type": "busiest",
-          "year": "2008",
-          "plays": 82,
+          "year": "2025",
+          "plays": 104,
           "top": {
-            "name": "Joss Stone",
-            "plays": 14
+            "name": "Bicep",
+            "plays": 23
           }
         },
         {
           "type": "quietest",
-          "year": "2017",
+          "year": "2014",
           "plays": 6,
           "top": {
-            "name": "Brace",
+            "name": "Mayer Hawthorne",
             "plays": 1
           }
         }
@@ -93,111 +102,114 @@
       "years": [
         {
           "year": "2025",
-          "plays": 82,
+          "plays": 104,
           "top": {
-            "name": "Manu Chao",
-            "plays": 16
+            "name": "Bicep",
+            "plays": 23
           }
         },
         {
           "year": "2024",
-          "plays": 60,
+          "plays": 100,
           "top": {
-            "name": "The Jeff Healey Band",
-            "plays": 20
+            "name": "Yann Tiersen",
+            "plays": 15
           }
         },
         {
           "year": "2023",
-          "plays": 32,
+          "plays": 87,
           "top": {
-            "name": "UFO",
-            "plays": 5
+            "name": "Enya",
+            "plays": 15
           }
         },
         {
           "year": "2022",
-          "plays": 51,
+          "plays": 98,
           "top": {
-            "name": "Blood Red Shoes",
-            "plays": 5
+            "name": "Bruno Mars",
+            "plays": 4
           }
         },
         {
           "year": "2021",
-          "plays": 38,
+          "plays": 67,
           "top": {
-            "name": "Jungle by Night",
-            "plays": 18
+            "name": "The Blue Aeroplanes",
+            "plays": 3
           }
         },
         {
           "year": "2020",
-          "plays": 58,
+          "plays": 80,
           "top": {
-            "name": "John Williams",
-            "plays": 7
+            "name": "The Beatles",
+            "plays": 24
           }
         },
         {
           "year": "2019",
-          "plays": 51,
+          "plays": 64,
           "top": {
-            "name": "The Blues Brothers",
-            "plays": 39
+            "name": "John Williams",
+            "plays": 18
           }
         },
         {
           "year": "2018",
           "plays": 26,
           "top": {
-            "name": "Yomoti",
-            "plays": 1
+            "name": "Dr. Dre",
+            "plays": 3
           }
         },
         {
           "year": "2017",
-          "plays": 6,
+          "plays": 16,
           "top": {
-            "name": "Brace",
-            "plays": 1
+            "name": "Balmorhea",
+            "plays": 2
           }
         },
         {
           "year": "2016",
-          "plays": 0,
-          "top": null
+          "plays": 21,
+          "top": {
+            "name": "Brian Eno",
+            "plays": 11
+          }
         },
         {
           "year": "2015",
-          "plays": 8,
+          "plays": 52,
           "top": {
-            "name": "Gregor Tresher",
-            "plays": 7
+            "name": "Ennio Morricone",
+            "plays": 20
           }
         },
         {
           "year": "2014",
-          "plays": 73,
+          "plays": 6,
           "top": {
-            "name": "John Williams",
-            "plays": 23
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 13,
-          "top": {
-            "name": "Emok",
+            "name": "Mayer Hawthorne",
             "plays": 1
           }
         },
         {
-          "year": "2012",
-          "plays": 8,
+          "year": "2013",
+          "plays": 38,
           "top": {
-            "name": "Calvin Harris",
-            "plays": 6
+            "name": "Extrawelt",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 7,
+          "top": {
+            "name": "deadmau5",
+            "plays": 4
           }
         },
         {
@@ -207,42 +219,42 @@
         },
         {
           "year": "2010",
-          "plays": 10,
+          "plays": 44,
           "top": {
-            "name": "Roni Size",
-            "plays": 6
-          }
-        },
-        {
-          "year": "2009",
-          "plays": 64,
-          "top": {
-            "name": "The Beatles",
-            "plays": 16
-          }
-        },
-        {
-          "year": "2008",
-          "plays": 82,
-          "top": {
-            "name": "Joss Stone",
+            "name": "Trijntje Oosterhuis",
             "plays": 14
           }
         },
         {
-          "year": "2007",
-          "plays": 27,
+          "year": "2009",
+          "plays": 96,
           "top": {
-            "name": "José González",
-            "plays": 9
+            "name": "Jason Mraz",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2008",
+          "plays": 56,
+          "top": {
+            "name": "Leaf",
+            "plays": 13
+          }
+        },
+        {
+          "year": "2007",
+          "plays": 75,
+          "top": {
+            "name": "Relax",
+            "plays": 17
           }
         },
         {
           "year": "2006",
-          "plays": 46,
+          "plays": 9,
           "top": {
-            "name": "Yann Tiersen",
-            "plays": 22
+            "name": "Beck",
+            "plays": 9
           }
         },
         {
@@ -253,14 +265,17 @@
       ]
     },
     "lastfm_artists_in_collection": [
-      "Calvin Harris",
+      "Beck",
+      "Ennio Morricone",
+      "Enya",
+      "Jason Mraz",
       "John Williams",
-      "Joss Stone",
-      "José González",
-      "Manu Chao",
+      "Leaf",
+      "Max Richter",
+      "Mayer Hawthorne",
+      "Relax",
       "The Beatles",
-      "The Blues Brothers",
-      "The Jeff Healey Band",
+      "Trijntje Oosterhuis",
       "Yann Tiersen"
     ],
     "discogs": []
