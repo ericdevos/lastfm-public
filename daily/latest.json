@@ -1,29 +1,29 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-30T22:38:25+00:00",
-  "date": "2026-10-29",
-  "date_nl": "donderdag 29 oktober 2026",
-  "mail_date": "2026-10-30",
+  "generated_at": "2026-10-31T02:18:19+00:00",
+  "date": "2026-10-30",
+  "date_nl": "vrijdag 30 oktober 2026",
+  "mail_date": "2026-10-31",
   "data_until": "2026-10-30T22:03:22+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 94,
+    "plays": 66,
     "avg_year": 75,
     "year": 2026,
-    "verdict": "boven",
-    "line": "Gisteren: 94 nummers — boven je daggemiddelde van 2026 (75)."
+    "verdict": "onder",
+    "line": "Gisteren: 66 nummers — onder je daggemiddelde van 2026 (75)."
   },
   "highlights": [
     {
-      "type": "comeback",
-      "label": "Comeback",
-      "text": "Voor het eerst sinds juni 2021 weer Blanco White (1× gisteren)."
-    },
-    {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst MF DOOM – MM..Food (CD Album Reissue Repress, binnen sinds 28 oktober) draaide je gisteren 9×."
+      "text": "Je nieuwe aanwinst Jan Akkerman – Profile (Vinyl LP Album, binnen sinds 30 oktober) draaide je gisteren 8×."
+    },
+    {
+      "type": "top",
+      "label": "Topper",
+      "text": "Stars of the Lid was je topper met 18 nummers (vooral and Their Refinement of the Decline); in totaal 312 plays sinds mei 2013."
     },
     {
       "type": "waiting",
@@ -32,12 +32,12 @@
     }
   ],
   "tip": {
-    "date": "2026-10-30",
-    "faded_line": "Martin Garrix — 106× gedraaid, piek in 2018, laatst op 30 december 2024.",
-    "kast_line": "The Electric Flag – A Long Time Comin' (1968, vinyl), nog nooit gedraaid.",
+    "date": "2026-10-31",
+    "faded_line": "Mick Gordon — 347× gedraaid, piek in 2016, laatst op 6 oktober 2023.",
+    "kast_line": "Eric Clapton – Historia de la música rock Eric Clapton (1975, vinyl), nog nooit gedraaid.",
     "followup_line": "De tip van 25 oktober heb je opgevolgd: Tipper (13×).",
     "stats": {
-      "given": 6,
+      "given": 7,
       "followed": 2
     }
   },
@@ -46,216 +46,197 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Max Richter",
-          "total": 1994,
-          "year": "2008"
-        },
-        {
-          "type": "comeback",
-          "name": "Brian Eno",
-          "gapDays": 439,
-          "since": "2015-08-18",
-          "plays": 11,
-          "before": 108,
-          "year": "2016"
+          "name": "Jill Scott",
+          "total": 168,
+          "year": "2011"
         },
         {
           "type": "m-album",
-          "artist": "Kyle Dixon & Michael Stein",
-          "title": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+          "artist": "Thievery Corporation",
+          "title": "The Cosmic Game",
           "n": 250,
-          "year": "2021"
-        },
-        {
-          "type": "repeat",
-          "artist": "Bicep",
-          "title": "CHROMA 008 TANGZ",
-          "n": 3,
-          "year": "2025"
+          "year": "2010"
         },
         {
           "type": "first-track",
-          "artist": "Brian Eno",
-          "title": "Emerald and Stone",
-          "total": 31,
-          "year": "2016"
+          "artist": "Fred again..",
+          "title": "Kammy (Like I Do)",
+          "total": 74,
+          "year": "2022"
         },
         {
           "type": "busiest",
-          "year": "2025",
-          "plays": 104,
+          "year": "2010",
+          "plays": 181,
           "top": {
-            "name": "Bicep",
-            "plays": 23
+            "name": "The Beatles",
+            "plays": 19
           }
         },
         {
           "type": "quietest",
-          "year": "2014",
-          "plays": 6,
+          "year": "2016",
+          "plays": 12,
           "top": {
-            "name": "Mayer Hawthorne",
-            "plays": 1
+            "name": "Pantha du Prince",
+            "plays": 11
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 104,
+          "plays": 35,
           "top": {
-            "name": "Bicep",
-            "plays": 23
+            "name": "Zero 7",
+            "plays": 22
           }
         },
         {
           "year": "2024",
-          "plays": 100,
+          "plays": 112,
           "top": {
-            "name": "Yann Tiersen",
-            "plays": 15
+            "name": "Acda en de Munnik",
+            "plays": 28
           }
         },
         {
           "year": "2023",
-          "plays": 87,
+          "plays": 64,
           "top": {
-            "name": "Enya",
-            "plays": 15
+            "name": "Lena Raine",
+            "plays": 8
           }
         },
         {
           "year": "2022",
-          "plays": 98,
+          "plays": 33,
           "top": {
-            "name": "Bruno Mars",
-            "plays": 4
+            "name": "Fred again..",
+            "plays": 11
           }
         },
         {
           "year": "2021",
-          "plays": 67,
+          "plays": 111,
           "top": {
-            "name": "The Blue Aeroplanes",
-            "plays": 3
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 80,
-          "top": {
-            "name": "The Beatles",
-            "plays": 24
-          }
-        },
-        {
-          "year": "2019",
-          "plays": 64,
-          "top": {
-            "name": "John Williams",
+            "name": "Chris Remo",
             "plays": 18
           }
         },
         {
-          "year": "2018",
+          "year": "2020",
+          "plays": 39,
+          "top": {
+            "name": "Bear's Den",
+            "plays": 2
+          }
+        },
+        {
+          "year": "2019",
           "plays": 26,
           "top": {
-            "name": "Dr. Dre",
-            "plays": 3
+            "name": "Mark Holman",
+            "plays": 1
+          }
+        },
+        {
+          "year": "2018",
+          "plays": 67,
+          "top": {
+            "name": "Modeselektor",
+            "plays": 22
           }
         },
         {
           "year": "2017",
-          "plays": 16,
+          "plays": 68,
           "top": {
-            "name": "Balmorhea",
+            "name": "Freya Ridings",
             "plays": 2
           }
         },
         {
           "year": "2016",
-          "plays": 21,
+          "plays": 12,
           "top": {
-            "name": "Brian Eno",
+            "name": "Pantha du Prince",
             "plays": 11
           }
         },
         {
           "year": "2015",
-          "plays": 52,
-          "top": {
-            "name": "Ennio Morricone",
-            "plays": 20
-          }
-        },
-        {
-          "year": "2014",
-          "plays": 6,
-          "top": {
-            "name": "Mayer Hawthorne",
-            "plays": 1
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 38,
-          "top": {
-            "name": "Extrawelt",
-            "plays": 12
-          }
-        },
-        {
-          "year": "2012",
-          "plays": 7,
-          "top": {
-            "name": "deadmau5",
-            "plays": 4
-          }
-        },
-        {
-          "year": "2011",
           "plays": 0,
           "top": null
         },
         {
-          "year": "2010",
-          "plays": 44,
+          "year": "2014",
+          "plays": 72,
           "top": {
-            "name": "Trijntje Oosterhuis",
-            "plays": 14
+            "name": "Greg Edmonson",
+            "plays": 19
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 14,
+          "top": {
+            "name": "Daft Punk",
+            "plays": 5
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 14,
+          "top": {
+            "name": "Brown Feather Sparrow",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 75,
+          "top": {
+            "name": "Mr. Scruff",
+            "plays": 13
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 181,
+          "top": {
+            "name": "The Beatles",
+            "plays": 19
           }
         },
         {
           "year": "2009",
-          "plays": 96,
+          "plays": 98,
           "top": {
-            "name": "Jason Mraz",
-            "plays": 14
+            "name": "Camiel",
+            "plays": 15
           }
         },
         {
           "year": "2008",
-          "plays": 56,
+          "plays": 70,
           "top": {
-            "name": "Leaf",
+            "name": "Alex Smoke",
             "plays": 13
           }
         },
         {
           "year": "2007",
-          "plays": 75,
+          "plays": 52,
           "top": {
-            "name": "Relax",
-            "plays": 17
+            "name": "Groove Armada",
+            "plays": 12
           }
         },
         {
           "year": "2006",
-          "plays": 9,
-          "top": {
-            "name": "Beck",
-            "plays": 9
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2005",
@@ -265,18 +246,15 @@
       ]
     },
     "lastfm_artists_in_collection": [
-      "Beck",
-      "Ennio Morricone",
-      "Enya",
-      "Jason Mraz",
-      "John Williams",
-      "Leaf",
-      "Max Richter",
-      "Mayer Hawthorne",
-      "Relax",
+      "Acda en de Munnik",
+      "Chris Remo",
+      "Daft Punk",
+      "Fred again..",
+      "Groove Armada",
+      "Jill Scott",
       "The Beatles",
-      "Trijntje Oosterhuis",
-      "Yann Tiersen"
+      "Thievery Corporation",
+      "Zero 7"
     ],
     "discogs": []
   }
