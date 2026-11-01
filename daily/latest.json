@@ -1,29 +1,24 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-31T19:32:19+00:00",
-  "date": "2026-10-30",
-  "date_nl": "vrijdag 30 oktober 2026",
-  "mail_date": "2026-10-31",
+  "generated_at": "2026-11-01T00:24:54+00:00",
+  "date": "2026-10-31",
+  "date_nl": "zaterdag 31 oktober 2026",
+  "mail_date": "2026-11-01",
   "data_until": "2026-10-31T10:47:05+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 66,
+    "plays": 15,
     "avg_year": 75,
     "year": 2026,
     "verdict": "onder",
-    "line": "Gisteren: 66 nummers — onder je daggemiddelde van 2026 (75)."
+    "line": "Gisteren: 15 nummers — flink onder je daggemiddelde van 2026 (75; −80%)."
   },
   "highlights": [
     {
-      "type": "new",
-      "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Jan Akkerman – Profile (Vinyl LP Album, binnen sinds 30 oktober) draaide je gisteren 8×."
-    },
-    {
       "type": "top",
       "label": "Topper",
-      "text": "Stars of the Lid was je topper met 18 nummers (vooral and Their Refinement of the Decline); in totaal 312 plays sinds mei 2013."
+      "text": "Juice WRLD was je topper met 6 nummers (vooral The Party Never Ends 2.0); in totaal 11 plays sinds maart 2019."
     },
     {
       "type": "waiting",
@@ -32,12 +27,12 @@
     }
   ],
   "tip": {
-    "date": "2026-10-31",
-    "faded_line": "Mick Gordon — 347× gedraaid, piek in 2016, laatst op 6 oktober 2023.",
-    "kast_line": "Eric Clapton – Historia de la música rock Eric Clapton (1975, vinyl), nog nooit gedraaid.",
+    "date": "2026-11-01",
+    "faded_line": "Disclosure — 263× gedraaid, piek in 2020, laatst op 30 oktober 2024.",
+    "kast_line": "Jill Scott – Beautifully Human: Words And Sounds Vol. 2 (2004, cd), pas 4× gedraaid.",
     "followup_line": "De tip van 25 oktober heb je opgevolgd: Tipper (13×).",
     "stats": {
-      "given": 7,
+      "given": 8,
       "followed": 2
     }
   },
@@ -46,122 +41,132 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Jill Scott",
-          "total": 168,
-          "year": "2011"
+          "name": "John Legend",
+          "total": 568,
+          "year": "2006"
         },
         {
           "type": "m-album",
-          "artist": "Thievery Corporation",
-          "title": "The Cosmic Game",
+          "artist": "Stephan Bodzin",
+          "title": "Liebe Ist...",
           "n": 250,
-          "year": "2010"
+          "year": "2023"
         },
         {
           "type": "first-track",
-          "artist": "Fred again..",
-          "title": "Kammy (Like I Do)",
-          "total": 74,
-          "year": "2022"
+          "artist": "John Legend",
+          "title": "Save Room",
+          "total": 43,
+          "year": "2006"
+        },
+        {
+          "type": "kast",
+          "year": "2024",
+          "artist": "Röyksopp",
+          "title": "Profound Mysteries",
+          "release_id": 25203502,
+          "medium": "Box Set",
+          "plays": 260,
+          "sameDay": 2
         },
         {
           "type": "busiest",
           "year": "2010",
-          "plays": 181,
+          "plays": 94,
           "top": {
-            "name": "The Beatles",
+            "name": "Guitarra Clásica Española, Spanish Classic Guitar",
             "plays": 19
           }
         },
         {
           "type": "quietest",
-          "year": "2016",
-          "plays": 12,
+          "year": "2005",
+          "plays": 5,
           "top": {
-            "name": "Pantha du Prince",
-            "plays": 11
+            "name": "Stakka & Skynet",
+            "plays": 2
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 35,
+          "plays": 39,
           "top": {
-            "name": "Zero 7",
-            "plays": 22
+            "name": "De-Phazz",
+            "plays": 17
           }
         },
         {
           "year": "2024",
-          "plays": 112,
+          "plays": 82,
           "top": {
-            "name": "Acda en de Munnik",
-            "plays": 28
+            "name": "Moloko",
+            "plays": 15
           }
         },
         {
           "year": "2023",
-          "plays": 64,
+          "plays": 87,
           "top": {
-            "name": "Lena Raine",
-            "plays": 8
+            "name": "Paul Simon",
+            "plays": 6
           }
         },
         {
           "year": "2022",
-          "plays": 33,
+          "plays": 64,
           "top": {
-            "name": "Fred again..",
-            "plays": 11
+            "name": "Blood Red Shoes",
+            "plays": 12
           }
         },
         {
           "year": "2021",
-          "plays": 111,
+          "plays": 92,
           "top": {
-            "name": "Chris Remo",
-            "plays": 18
+            "name": "Thunderstorm Global Project from TraxLab",
+            "plays": 4
           }
         },
         {
           "year": "2020",
-          "plays": 39,
+          "plays": 65,
           "top": {
             "name": "Bear's Den",
-            "plays": 2
+            "plays": 3
           }
         },
         {
           "year": "2019",
-          "plays": 26,
+          "plays": 86,
           "top": {
-            "name": "Mark Holman",
-            "plays": 1
+            "name": "Nirvana",
+            "plays": 14
           }
         },
         {
           "year": "2018",
-          "plays": 67,
+          "plays": 21,
           "top": {
-            "name": "Modeselektor",
-            "plays": 22
-          }
-        },
-        {
-          "year": "2017",
-          "plays": 68,
-          "top": {
-            "name": "Freya Ridings",
+            "name": "Matrix & Futurebound",
             "plays": 2
           }
         },
         {
-          "year": "2016",
-          "plays": 12,
+          "year": "2017",
+          "plays": 40,
           "top": {
-            "name": "Pantha du Prince",
-            "plays": 11
+            "name": "London Music Works",
+            "plays": 13
+          }
+        },
+        {
+          "year": "2016",
+          "plays": 27,
+          "top": {
+            "name": "Brian Eno",
+            "plays": 15
           }
         },
         {
@@ -171,91 +176,107 @@
         },
         {
           "year": "2014",
-          "plays": 72,
+          "plays": 14,
           "top": {
-            "name": "Greg Edmonson",
-            "plays": 19
+            "name": "Queen",
+            "plays": 1
           }
         },
         {
           "year": "2013",
-          "plays": 14,
+          "plays": 29,
           "top": {
-            "name": "Daft Punk",
-            "plays": 5
-          }
-        },
-        {
-          "year": "2012",
-          "plays": 14,
-          "top": {
-            "name": "Brown Feather Sparrow",
-            "plays": 10
-          }
-        },
-        {
-          "year": "2011",
-          "plays": 75,
-          "top": {
-            "name": "Mr. Scruff",
+            "name": "Calvin Harris",
             "plays": 13
           }
         },
         {
-          "year": "2010",
-          "plays": 181,
+          "year": "2012",
+          "plays": 9,
           "top": {
-            "name": "The Beatles",
+            "name": "Chase & Status",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 32,
+          "top": {
+            "name": "Beastie Boys",
+            "plays": 15
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 94,
+          "top": {
+            "name": "Guitarra Clásica Española, Spanish Classic Guitar",
             "plays": 19
           }
         },
         {
           "year": "2009",
-          "plays": 98,
+          "plays": 32,
           "top": {
-            "name": "Camiel",
-            "plays": 15
+            "name": "Jazzamor",
+            "plays": 14
           }
         },
         {
           "year": "2008",
-          "plays": 70,
+          "plays": 20,
           "top": {
-            "name": "Alex Smoke",
-            "plays": 13
+            "name": "Popnoname",
+            "plays": 5
           }
         },
         {
           "year": "2007",
-          "plays": 52,
+          "plays": 78,
           "top": {
-            "name": "Groove Armada",
-            "plays": 12
+            "name": "Yann Tiersen",
+            "plays": 24
           }
         },
         {
           "year": "2006",
-          "plays": 0,
-          "top": null
+          "plays": 32,
+          "top": {
+            "name": "Keane",
+            "plays": 10
+          }
         },
         {
           "year": "2005",
-          "plays": 0,
-          "top": null
+          "plays": 5,
+          "top": {
+            "name": "Stakka & Skynet",
+            "plays": 2
+          }
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Acda en de Munnik",
-      "Chris Remo",
-      "Daft Punk",
-      "Fred again..",
-      "Groove Armada",
-      "Jill Scott",
-      "The Beatles",
-      "Thievery Corporation",
-      "Zero 7"
+      "Beastie Boys",
+      "Calvin Harris",
+      "John Legend",
+      "Keane",
+      "Moloko",
+      "Nirvana",
+      "Paul Simon",
+      "Queen",
+      "Röyksopp",
+      "Yann Tiersen"
     ],
-    "discogs": []
+    "discogs": [
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Stan Getz – Stan Getz (1987, CD Compilation) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Röyksopp – Profound Mysteries (2022, Box Set Compilation Limited Edition / CD Album / CD Album / CD Album) in je collectie."
+      }
+    ]
   }
 }
