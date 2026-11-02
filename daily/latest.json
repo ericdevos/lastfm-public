@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-02T06:42:18+00:00",
+  "generated_at": "2026-11-02T06:46:24+00:00",
   "date": "2026-11-01",
   "date_nl": "zondag 1 november 2026",
   "mail_date": "2026-11-02",
-  "data_until": "2026-11-01T21:48:59+00:00",
+  "data_until": "2026-11-02T06:41:24+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
