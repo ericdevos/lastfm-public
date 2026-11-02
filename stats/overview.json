@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-28T13:28:48+00:00",
- "data_until": "2026-10-27T21:22:13+00:00",
- "asof": "2026-10-26",
+ "generated_at": "2026-11-02T02:25:59+00:00",
+ "data_until": "2026-11-01T21:48:59+00:00",
+ "asof": "2026-11-02",
  "months": [
   {
    "m": "2005-02",
@@ -1042,16 +1042,20 @@
   {
    "m": "2026-09",
    "n": 2518
+  },
+  {
+   "m": "2026-10",
+   "n": 2385
   }
  ],
  "top20": [
   {
    "name": "The Beatles",
-   "n": 3220
+   "n": 3221
   },
   {
    "name": "Röyksopp",
-   "n": 3035
+   "n": 3042
   },
   {
    "name": "Beastie Boys",
@@ -1063,7 +1067,7 @@
   },
   {
    "name": "Jason Mraz",
-   "n": 2148
+   "n": 2150
   },
   {
    "name": "Max Richter",
@@ -1075,7 +1079,7 @@
   },
   {
    "name": "Bonobo",
-   "n": 1662
+   "n": 1664
   },
   {
    "name": "The xx",
@@ -1103,7 +1107,7 @@
   },
   {
    "name": "John Mayer",
-   "n": 1397
+   "n": 1398
   },
   {
    "name": "Tosca",
@@ -1119,7 +1123,7 @@
   },
   {
    "name": "Air",
-   "n": 1252
+   "n": 1260
   },
   {
    "name": "The Cinematic Orchestra",
@@ -1129,47 +1133,47 @@
  "top30d": [
   {
    "name": "Air",
-   "n": 100
-  },
-  {
-   "name": "Acda en de Munnik",
-   "n": 71
+   "n": 77
   },
   {
    "name": "Moby",
-   "n": 48
+   "n": 61
   },
   {
-   "name": "Massive Attack",
-   "n": 38
+   "name": "Acda en de Munnik",
+   "n": 59
+  },
+  {
+   "name": "MF DOOM",
+   "n": 40
   },
   {
    "name": "Röyksopp",
-   "n": 34
+   "n": 37
   },
   {
-   "name": "Bremer/McCoy",
-   "n": 29
+   "name": "Massive Attack",
+   "n": 33
   },
   {
    "name": "Christian Löffler",
    "n": 28
   },
   {
-   "name": "Norah Jones",
-   "n": 27
-  },
-  {
-   "name": "Aphex Twin",
-   "n": 25
-  },
-  {
    "name": "Rose Spearman",
    "n": 24
+  },
+  {
+   "name": "Ludwig Göransson",
+   "n": 23
+  },
+  {
+   "name": "Tosca",
+   "n": 23
   }
  ],
  "top30d_period": {
-  "from": "2026-09-26",
-  "to": "2026-10-25"
+  "from": "2026-10-03",
+  "to": "2026-11-01"
  }
 }

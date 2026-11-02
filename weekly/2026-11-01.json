@@ -1,0 +1,1701 @@
+{
+ "schema": 1,
+ "generated_at": "2026-11-02T02:25:59+00:00",
+ "data_until": "2026-11-01T21:48:59+00:00",
+ "sync_ok": true,
+ "period": {
+  "from": "2026-10-26",
+  "to": "2026-11-01",
+  "tz": "Europe/Amsterdam"
+ },
+ "week": {
+  "plays": 441,
+  "unique_artists": 146,
+  "artists": [
+   {
+    "name": "MF DOOM",
+    "plays": 26,
+    "total": 201,
+    "first_played": "2007-10-06"
+   },
+   {
+    "name": "Madvillain",
+    "plays": 22,
+    "total": 183,
+    "first_played": "2007-09-24"
+   },
+   {
+    "name": "Stevie Wonder",
+    "plays": 21,
+    "total": 529,
+    "first_played": "2008-12-25"
+   },
+   {
+    "name": "Stars of the Lid",
+    "plays": 18,
+    "total": 312,
+    "first_played": "2013-05-23"
+   },
+   {
+    "name": "Acda en de Munnik",
+    "plays": 16,
+    "total": 1331,
+    "first_played": "2005-03-22"
+   },
+   {
+    "name": "Putumayo",
+    "plays": 15,
+    "total": 401,
+    "first_played": "2023-12-16"
+   },
+   {
+    "name": "Mariah Carey",
+    "plays": 14,
+    "total": 316,
+    "first_played": "2005-12-15"
+   },
+   {
+    "name": "Moby",
+    "plays": 13,
+    "total": 765,
+    "first_played": "2005-02-14"
+   },
+   {
+    "name": "Tipper",
+    "plays": 13,
+    "total": 171,
+    "first_played": "2011-12-05"
+   },
+   {
+    "name": "Whitney Houston",
+    "plays": 13,
+    "total": 129,
+    "first_played": "2011-05-05"
+   },
+   {
+    "name": "Daft Punk",
+    "plays": 12,
+    "total": 2365,
+    "first_played": "2005-02-16"
+   },
+   {
+    "name": "Nas",
+    "plays": 10,
+    "total": 241,
+    "first_played": "2005-02-27"
+   },
+   {
+    "name": "DANGERDOOM",
+    "plays": 9,
+    "total": 505,
+    "first_played": "2007-09-23"
+   },
+   {
+    "name": "Air",
+    "plays": 8,
+    "total": 1260,
+    "first_played": "2005-03-03"
+   },
+   {
+    "name": "Jan Akkerman",
+    "plays": 8,
+    "total": 8,
+    "first_played": "2026-10-30"
+   },
+   {
+    "name": "Juice WRLD",
+    "plays": 8,
+    "total": 13,
+    "first_played": "2019-03-10"
+   },
+   {
+    "name": "The Mercury Program",
+    "plays": 8,
+    "total": 222,
+    "first_played": "2012-02-06"
+   },
+   {
+    "name": "Digitalism",
+    "plays": 7,
+    "total": 254,
+    "first_played": "2007-09-23"
+   },
+   {
+    "name": "Fatima Yamaha",
+    "plays": 7,
+    "total": 330,
+    "first_played": "2015-10-26"
+   },
+   {
+    "name": "Röyksopp",
+    "plays": 7,
+    "total": 3042,
+    "first_played": "2005-03-07"
+   },
+   {
+    "name": "Silk Sonic",
+    "plays": 7,
+    "total": 98,
+    "first_played": "2024-03-09"
+   },
+   {
+    "name": "Agnes Obel",
+    "plays": 6,
+    "total": 1093,
+    "first_played": "2011-05-01"
+   },
+   {
+    "name": "Gas",
+    "plays": 5,
+    "total": 50,
+    "first_played": "2018-02-23"
+   },
+   {
+    "name": "Robin Thicke",
+    "plays": 5,
+    "total": 893,
+    "first_played": "2007-07-12"
+   },
+   {
+    "name": "AlunaGeorge",
+    "plays": 4,
+    "total": 290,
+    "first_played": "2013-09-08"
+   }
+  ],
+  "albums": [
+   {
+    "artist": "Madvillain",
+    "album": "Madvillainy",
+    "plays": 22,
+    "total": 167,
+    "first_played": "2007-09-24"
+   },
+   {
+    "artist": "Stevie Wonder",
+    "album": "Songs in the Key of Life",
+    "plays": 21,
+    "total": 249,
+    "first_played": "2008-12-29"
+   },
+   {
+    "artist": "Stars of the Lid",
+    "album": "and Their Refinement of the Decline",
+    "plays": 18,
+    "total": 266,
+    "first_played": "2013-05-23"
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "album": "Op Voorraad",
+    "plays": 16,
+    "total": 18,
+    "first_played": "2026-10-18"
+   },
+   {
+    "artist": "MF DOOM",
+    "album": "MM..FOOD",
+    "plays": 16,
+    "total": 79,
+    "first_played": "2007-10-06"
+   },
+   {
+    "artist": "Mariah Carey",
+    "album": "Rainbow",
+    "plays": 14,
+    "total": 21,
+    "first_played": "2007-05-16"
+   },
+   {
+    "artist": "Tipper",
+    "album": "Broken Soul Jamboree",
+    "plays": 13,
+    "total": 171,
+    "first_played": "2011-12-05"
+   },
+   {
+    "artist": "Whitney Houston",
+    "album": "My Love Is Your Love",
+    "plays": 13,
+    "total": 26,
+    "first_played": "2016-10-16"
+   },
+   {
+    "artist": "Daft Punk",
+    "album": "Alive 2007",
+    "plays": 12,
+    "total": 195,
+    "first_played": "2010-12-17"
+   },
+   {
+    "artist": "MF DOOM",
+    "album": "Born Like This",
+    "plays": 10,
+    "total": 32,
+    "first_played": "2025-02-22"
+   },
+   {
+    "artist": "Moby",
+    "album": "Live Ambient Improvised Recordings, Vol. 1",
+    "plays": 10,
+    "total": 41,
+    "first_played": "2025-01-28"
+   },
+   {
+    "artist": "Nas",
+    "album": "Illmatic",
+    "plays": 10,
+    "total": 94,
+    "first_played": "2005-03-02"
+   },
+   {
+    "artist": "Putumayo",
+    "album": "Island Hopping by Putumayo",
+    "plays": 10,
+    "total": 10,
+    "first_played": "2026-10-29"
+   },
+   {
+    "artist": "DANGERDOOM",
+    "album": "The Mouse & The Mask",
+    "plays": 9,
+    "total": 488,
+    "first_played": "2007-09-23"
+   },
+   {
+    "artist": "Jan Akkerman",
+    "album": "Profile",
+    "plays": 8,
+    "total": 8,
+    "first_played": "2026-10-30"
+   },
+   {
+    "artist": "The Mercury Program",
+    "album": "A Data Learn the Language",
+    "plays": 8,
+    "total": 81,
+    "first_played": "2014-05-19"
+   },
+   {
+    "artist": "Digitalism",
+    "album": "Idealism",
+    "plays": 7,
+    "total": 231,
+    "first_played": "2007-09-23"
+   },
+   {
+    "artist": "Fatima Yamaha",
+    "album": "A Girl Between Two Worlds",
+    "plays": 7,
+    "total": 76,
+    "first_played": "2015-10-26"
+   },
+   {
+    "artist": "Silk Sonic",
+    "album": "An Evening with Silk Sonic",
+    "plays": 7,
+    "total": 98,
+    "first_played": "2024-03-09"
+   },
+   {
+    "artist": "Air",
+    "album": "Premiers Symptômes",
+    "plays": 6,
+    "total": 16,
+    "first_played": "2008-03-05"
+   },
+   {
+    "artist": "Juice WRLD",
+    "album": "The Party Never Ends 2.0",
+    "plays": 6,
+    "total": 8,
+    "first_played": "2025-08-01"
+   },
+   {
+    "artist": "Gas",
+    "album": "Pop",
+    "plays": 5,
+    "total": 50,
+    "first_played": "2018-02-23"
+   },
+   {
+    "artist": "Putumayo",
+    "album": "Global Tranquility by Putumayo",
+    "plays": 5,
+    "total": 38,
+    "first_played": "2026-08-28"
+   },
+   {
+    "artist": "Robin Thicke",
+    "album": "The Evolution of Robin Thicke",
+    "plays": 5,
+    "total": 701,
+    "first_played": "2007-07-12"
+   },
+   {
+    "artist": "AlunaGeorge",
+    "album": "Body Music",
+    "plays": 4,
+    "total": 235,
+    "first_played": "2013-09-08"
+   }
+  ],
+  "tracks": [
+   {
+    "artist": "Juice WRLD",
+    "track": "empty out your pockets",
+    "plays": 6
+   },
+   {
+    "artist": "Hvalfugl",
+    "track": "Iturevet Almanak",
+    "plays": 2
+   },
+   {
+    "artist": "MF DOOM",
+    "track": "Kon Karne",
+    "plays": 2
+   },
+   {
+    "artist": "Röyksopp",
+    "track": "Eple",
+    "plays": 2
+   },
+   {
+    "artist": "Søren Dahl Jeppesen",
+    "track": "Insomnia",
+    "plays": 2
+   },
+   {
+    "artist": "Tigran Hamasyan",
+    "track": "Tsirani tsar",
+    "plays": 2
+   },
+   {
+    "artist": "Abdullah Ibrahim",
+    "track": "Mindiff",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Als het vuur gedoofd is",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Als je bij me weggaat",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Bij haar zijn",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "De kapitein",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Drie keer vallen",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Het geeft niet",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Het regent zonnestralen",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Ik weet het beter",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Lopen tot de zon komt",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Mis ik jou",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Naar huis",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Niemand sterft",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Niet Of Nooit Geweest",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Slaap zacht, Elisabeth",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Vondelpark vannacht",
+    "plays": 1
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "track": "Wennen aan jou",
+    "plays": 1
+   },
+   {
+    "artist": "Adam Baldych",
+    "track": "Gymnopedie",
+    "plays": 1
+   },
+   {
+    "artist": "Agnes Obel",
+    "track": "Citizen of Glass",
+    "plays": 1
+   }
+  ],
+  "new_artists": [
+   {
+    "name": "Jan Akkerman",
+    "plays": 8
+   },
+   {
+    "name": "Kansas Smitty's",
+    "plays": 1
+   },
+   {
+    "name": "Lil Tecca",
+    "plays": 1
+   },
+   {
+    "name": "Luke Sellick",
+    "plays": 1
+   },
+   {
+    "name": "Your Brother's Keeper",
+    "plays": 1
+   }
+  ],
+  "new_albums": [
+   {
+    "artist": "Putumayo",
+    "album": "Island Hopping by Putumayo",
+    "plays": 10
+   },
+   {
+    "artist": "Jan Akkerman",
+    "album": "Profile",
+    "plays": 8
+   },
+   {
+    "artist": "Ilse DeLange",
+    "album": "Live",
+    "plays": 4
+   },
+   {
+    "artist": "Eminem",
+    "album": "Curtain Call 2",
+    "plays": 2
+   },
+   {
+    "artist": "Abdullah Ibrahim",
+    "album": "Solotude",
+    "plays": 1
+   },
+   {
+    "artist": "Alex Gopher",
+    "album": "Premiers Symptômes",
+    "plays": 1
+   },
+   {
+    "artist": "Ayo & Teo",
+    "album": "Lit Right Now",
+    "plays": 1
+   },
+   {
+    "artist": "Blanco White",
+    "album": "Tarifa",
+    "plays": 1
+   },
+   {
+    "artist": "Juice WRLD",
+    "album": "Legends Never Die",
+    "plays": 1
+   },
+   {
+    "artist": "Kansas Smitty's",
+    "album": "We're Not in Kansas Anymore",
+    "plays": 1
+   },
+   {
+    "artist": "Lil Tecca",
+    "album": "We Love You Tecca",
+    "plays": 1
+   },
+   {
+    "artist": "Lords of Lounge",
+    "album": "Cold Open",
+    "plays": 1
+   },
+   {
+    "artist": "Luke Sellick",
+    "album": "Sun Sail",
+    "plays": 1
+   },
+   {
+    "artist": "Matt Carmichael",
+    "album": "Held in the Dark",
+    "plays": 1
+   },
+   {
+    "artist": "Richard Houghten",
+    "album": "Big Waves",
+    "plays": 1
+   },
+   {
+    "artist": "Your Brother's Keeper",
+    "album": "Where Rivers Meet",
+    "plays": 1
+   }
+  ]
+ },
+ "month": {
+  "from": "2026-10-03",
+  "to": "2026-11-01",
+  "artists": [
+   {
+    "name": "Air",
+    "plays": 77,
+    "total": 1260
+   },
+   {
+    "name": "Moby",
+    "plays": 61,
+    "total": 765
+   },
+   {
+    "name": "Acda en de Munnik",
+    "plays": 59,
+    "total": 1331
+   },
+   {
+    "name": "MF DOOM",
+    "plays": 40,
+    "total": 201
+   },
+   {
+    "name": "Röyksopp",
+    "plays": 37,
+    "total": 3042
+   },
+   {
+    "name": "Massive Attack",
+    "plays": 33,
+    "total": 879
+   },
+   {
+    "name": "Christian Löffler",
+    "plays": 28,
+    "total": 529
+   },
+   {
+    "name": "Rose Spearman",
+    "plays": 24,
+    "total": 24
+   },
+   {
+    "name": "Ludwig Göransson",
+    "plays": 23,
+    "total": 499
+   },
+   {
+    "name": "Tosca",
+    "plays": 23,
+    "total": 1336
+   },
+   {
+    "name": "Madvillain",
+    "plays": 22,
+    "total": 183
+   },
+   {
+    "name": "Stevie Wonder",
+    "plays": 22,
+    "total": 529
+   },
+   {
+    "name": "Frédéric Chopin",
+    "plays": 21,
+    "total": 134
+   },
+   {
+    "name": "Jamiroquai",
+    "plays": 21,
+    "total": 466
+   },
+   {
+    "name": "Mike Oldfield",
+    "plays": 21,
+    "total": 323
+   }
+  ],
+  "albums": [
+   {
+    "artist": "Air",
+    "album": "The Virgin Suicides Redux",
+    "plays": 38
+   },
+   {
+    "artist": "Christian Löffler",
+    "album": "Mare",
+    "plays": 28
+   },
+   {
+    "artist": "Rose Spearman",
+    "album": "Trust (The Re-issue Philadelphia Recordings)",
+    "plays": 24
+   },
+   {
+    "artist": "Ludwig Göransson",
+    "album": "The Odyssey (Original Motion Picture Soundtrack)",
+    "plays": 22
+   },
+   {
+    "artist": "Madvillain",
+    "album": "Madvillainy",
+    "plays": 22
+   },
+   {
+    "artist": "Frédéric Chopin",
+    "album": "Nocturnes",
+    "plays": 21
+   },
+   {
+    "artist": "Richie Hawtin",
+    "album": "DE9 | Transitions",
+    "plays": 21
+   },
+   {
+    "artist": "Stevie Wonder",
+    "album": "Songs in the Key of Life",
+    "plays": 21
+   },
+   {
+    "artist": "Acda en de Munnik",
+    "album": "Op Voorraad",
+    "plays": 18
+   },
+   {
+    "artist": "Boards of Canada",
+    "album": "Music Has the Right to Children",
+    "plays": 18
+   },
+   {
+    "artist": "Moby",
+    "album": "Wait for Me",
+    "plays": 18
+   },
+   {
+    "artist": "Stars of the Lid",
+    "album": "and Their Refinement of the Decline",
+    "plays": 18
+   },
+   {
+    "artist": "Fleetwood Mac",
+    "album": "The Dance",
+    "plays": 17
+   },
+   {
+    "artist": "MF DOOM",
+    "album": "MM..FOOD",
+    "plays": 17
+   },
+   {
+    "artist": "Trentemøller",
+    "album": "The Trentemøller Chronicles",
+    "plays": 17
+   }
+  ]
+ },
+ "recent": [
+  {
+   "ts": "2026-11-01T22:48:59+01:00",
+   "artist": "Röyksopp & Pixx",
+   "track": "We Remain Hidden / Consolation",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T22:43:19+01:00",
+   "artist": "Röyksopp & Astrid S",
+   "track": "Waiting Still",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T22:37:59+01:00",
+   "artist": "Röyksopp & Susanne Sundfør",
+   "track": "Beacons",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T22:31:59+01:00",
+   "artist": "Röyksopp & Susanne Sundfør",
+   "track": "Moments We Lost",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T22:26:29+01:00",
+   "artist": "Röyksopp",
+   "track": "Lethargic Shift / The String That Passes Through All Things",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T22:21:19+01:00",
+   "artist": "Röyksopp",
+   "track": "Oh, The Vanity",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T22:17:29+01:00",
+   "artist": "Röyksopp & Jamie Irrepressible",
+   "track": "Flumen Aeternum",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T22:14:29+01:00",
+   "artist": "Röyksopp & Pixx",
+   "track": "Soft Ascension",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T22:10:19+01:00",
+   "artist": "Röyksopp",
+   "track": "The Uxtáca Bridge",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T22:05:59+01:00",
+   "artist": "Röyksopp & Alison Goldfrapp",
+   "track": "We Enter / State Of Awareness",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T22:03:19+01:00",
+   "artist": "Röyksopp",
+   "track": "Slow Fade / R",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T21:59:09+01:00",
+   "artist": "Röyksopp & Astrid S",
+   "track": "Waking Up From A Thousand Year Slumber",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-01T20:22:17+01:00",
+   "artist": "Putumayo",
+   "track": "Breath",
+   "album": "Global Tranquility by Putumayo"
+  },
+  {
+   "ts": "2026-11-01T20:19:17+01:00",
+   "artist": "Putumayo",
+   "track": "Òran an Amadain Bhòidhich",
+   "album": "Global Tranquility by Putumayo"
+  },
+  {
+   "ts": "2026-11-01T20:15:27+01:00",
+   "artist": "Putumayo",
+   "track": "Mahabandh: The Great Lock",
+   "album": "Global Tranquility by Putumayo"
+  },
+  {
+   "ts": "2026-11-01T20:11:37+01:00",
+   "artist": "Putumayo",
+   "track": "Saimavik (Putumayo Version)",
+   "album": "Global Tranquility by Putumayo"
+  },
+  {
+   "ts": "2026-11-01T20:07:37+01:00",
+   "artist": "Putumayo",
+   "track": "Fragile",
+   "album": "Global Tranquility by Putumayo"
+  },
+  {
+   "ts": "2026-11-01T15:12:12+01:00",
+   "artist": "Michael Kiwanuka",
+   "track": "I'll Get Along",
+   "album": "Home Again (Deluxe Version)"
+  },
+  {
+   "ts": "2026-11-01T15:09:22+01:00",
+   "artist": "Michael Kiwanuka",
+   "track": "I'm Getting Ready",
+   "album": "Home Again (Deluxe Version)"
+  },
+  {
+   "ts": "2026-11-01T15:06:02+01:00",
+   "artist": "Michael Kiwanuka",
+   "track": "Tell Me a Tale",
+   "album": "Home Again (Deluxe Version)"
+  },
+  {
+   "ts": "2026-11-01T13:13:32+01:00",
+   "artist": "America",
+   "track": "Ventura Highway",
+   "album": "Homecoming"
+  },
+  {
+   "ts": "2026-11-01T13:09:12+01:00",
+   "artist": "Zero 7",
+   "track": "In the Waiting Line",
+   "album": "Simple Things"
+  },
+  {
+   "ts": "2026-11-01T13:05:40+01:00",
+   "artist": "Röyksopp",
+   "track": "Eple",
+   "album": "Melody A.M."
+  },
+  {
+   "ts": "2026-11-01T13:03:38+01:00",
+   "artist": "Big2",
+   "track": "Leef Een Beetje",
+   "album": "Leef Een Beetje"
+  },
+  {
+   "ts": "2026-11-01T10:32:37+01:00",
+   "artist": "Ayo & Teo",
+   "track": "Lit Right Now",
+   "album": "Lit Right Now"
+  },
+  {
+   "ts": "2026-11-01T10:29:12+01:00",
+   "artist": "Aya Nakamura",
+   "track": "Copines",
+   "album": "NAKAMURA"
+  },
+  {
+   "ts": "2026-11-01T10:26:38+01:00",
+   "artist": "JACKBOYS",
+   "track": "OUT WEST (feat. Young Thug)",
+   "album": "JACKBOYS"
+  },
+  {
+   "ts": "2026-11-01T10:24:13+01:00",
+   "artist": "Ayo & Teo",
+   "track": "Fly N Ghetto",
+   "album": "Fly N Ghetto"
+  },
+  {
+   "ts": "2026-11-01T10:21:15+01:00",
+   "artist": "DaBaby",
+   "track": "ROCKSTAR (feat. Roddy Ricch)",
+   "album": "BLAME IT ON BABY"
+  },
+  {
+   "ts": "2026-11-01T10:10:08+01:00",
+   "artist": "José González",
+   "track": "Teardrop",
+   "album": "In Our Nature"
+  }
+ ],
+ "kast": {
+  "new_this_week": [
+   {
+    "release_id": 1422052,
+    "artist": "Jan Akkerman",
+    "title": "Profile",
+    "date_added": "2026-10-30",
+    "plays_total": 8,
+    "first_played": "2026-10-30"
+   },
+   {
+    "release_id": 1866531,
+    "artist": "The Rolling Stones",
+    "title": "The Rolling Stones",
+    "date_added": "2026-10-30",
+    "plays_total": 0,
+    "first_played": null
+   },
+   {
+    "release_id": 1969714,
+    "artist": "The Rolling Stones",
+    "title": "The Rolling Stones Vol. 2",
+    "date_added": "2026-10-30",
+    "plays_total": 0,
+    "first_played": null
+   },
+   {
+    "release_id": 2311831,
+    "artist": "The Rolling Stones",
+    "title": "Sticky Fingers",
+    "date_added": "2026-10-30",
+    "plays_total": 35,
+    "first_played": "2018-09-26"
+   },
+   {
+    "release_id": 2524809,
+    "artist": "The Rolling Stones",
+    "title": "Out Of Our Heads",
+    "date_added": "2026-10-30",
+    "plays_total": 5,
+    "first_played": "2017-01-01"
+   },
+   {
+    "release_id": 3057093,
+    "artist": "The Rolling Stones",
+    "title": "Aftermath",
+    "date_added": "2026-10-30",
+    "plays_total": 6,
+    "first_played": "2021-09-26"
+   },
+   {
+    "release_id": 3920873,
+    "artist": "The Rolling Stones",
+    "title": "Greatest Hits",
+    "date_added": "2026-10-30",
+    "plays_total": 0,
+    "first_played": null
+   },
+   {
+    "release_id": 11063745,
+    "artist": "The Rolling Stones",
+    "title": "No. 3",
+    "date_added": "2026-10-30",
+    "plays_total": 0,
+    "first_played": null
+   },
+   {
+    "release_id": 223628,
+    "artist": "AIR",
+    "title": "Premiers Symptômes",
+    "date_added": "2026-10-28",
+    "plays_total": 16,
+    "first_played": "2008-03-05"
+   },
+   {
+    "release_id": 32285751,
+    "artist": "MF Doom",
+    "title": "MM..Food",
+    "date_added": "2026-10-28",
+    "plays_total": 79,
+    "first_played": "2007-10-06"
+   }
+  ],
+  "first_played_this_week": [
+   {
+    "release_id": 1422052,
+    "artist": "Jan Akkerman",
+    "title": "Profile",
+    "date_added": "2026-10-30",
+    "first_played": "2026-10-30"
+   },
+   {
+    "release_id": 3611000,
+    "artist": "Ilse DeLange",
+    "title": "Live",
+    "date_added": "2026-07-06",
+    "first_played": "2026-10-26"
+   }
+  ],
+  "recent_additions": [
+   {
+    "release_id": 11063745,
+    "artist": "The Rolling Stones",
+    "title": "No. 3",
+    "year": 1965,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 0
+   },
+   {
+    "release_id": 3920873,
+    "artist": "The Rolling Stones",
+    "title": "Greatest Hits",
+    "year": 1964,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 0
+   },
+   {
+    "release_id": 3057093,
+    "artist": "The Rolling Stones",
+    "title": "Aftermath",
+    "year": 1966,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 6
+   },
+   {
+    "release_id": 2524809,
+    "artist": "The Rolling Stones",
+    "title": "Out Of Our Heads",
+    "year": 1965,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 5
+   },
+   {
+    "release_id": 2311831,
+    "artist": "The Rolling Stones",
+    "title": "Sticky Fingers",
+    "year": 1971,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 35
+   },
+   {
+    "release_id": 1969714,
+    "artist": "The Rolling Stones",
+    "title": "The Rolling Stones Vol. 2",
+    "year": 1965,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1866531,
+    "artist": "The Rolling Stones",
+    "title": "The Rolling Stones",
+    "year": 1964,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1422052,
+    "artist": "Jan Akkerman",
+    "title": "Profile",
+    "year": 1972,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 8
+   },
+   {
+    "release_id": 32285751,
+    "artist": "MF Doom",
+    "title": "MM..Food",
+    "year": 2004,
+    "format": "CD",
+    "date_added": "2026-10-28",
+    "plays_total": 79
+   },
+   {
+    "release_id": 223628,
+    "artist": "AIR",
+    "title": "Premiers Symptômes",
+    "year": 1997,
+    "format": "CD",
+    "date_added": "2026-10-28",
+    "plays_total": 16
+   },
+   {
+    "release_id": 1275659,
+    "artist": "Kane",
+    "title": "Fearless",
+    "year": 2005,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 61
+   },
+   {
+    "release_id": 820252,
+    "artist": "Prince",
+    "title": "Batman (Motion Picture Soundtrack)",
+    "year": 1989,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 12
+   },
+   {
+    "release_id": 498258,
+    "artist": "Kelis",
+    "title": "Tasty",
+    "year": 2003,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 9
+   },
+   {
+    "release_id": 467107,
+    "artist": "Acda en de Munnik",
+    "title": "Groeten Uit Maaiveld (Luxe Editie)",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 83
+   },
+   {
+    "release_id": 442820,
+    "artist": "Total Touch",
+    "title": "This Way",
+    "year": 1998,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 0
+   },
+   {
+    "release_id": 369931,
+    "artist": "Phil Collins",
+    "title": "...But Seriously",
+    "year": 1989,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 28
+   },
+   {
+    "release_id": 207539,
+    "artist": "Kylie Minogue",
+    "title": "Body Language",
+    "year": 2003,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 7
+   },
+   {
+    "release_id": 95222,
+    "artist": "Rose",
+    "title": "Trust",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 54
+   },
+   {
+    "release_id": 35096396,
+    "artist": "AIR",
+    "title": "The Virgin Suicides Redux",
+    "year": 2000,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 65
+   },
+   {
+    "release_id": 3004639,
+    "artist": "Pearl Jam",
+    "title": "Binaural",
+    "year": 2000,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1417782,
+    "artist": "Rage Against The Machine",
+    "title": "Live & Alive",
+    "year": 1994,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1310539,
+    "artist": "Rage Against The Machine",
+    "title": "Justify Those That Die",
+    "year": 1993,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 469724,
+    "artist": "Audioslave",
+    "title": "Out Of Exile",
+    "year": 2005,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 403095,
+    "artist": "Audioslave",
+    "title": "Audioslave",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 54
+   },
+   {
+    "release_id": 320098,
+    "artist": "Postmen",
+    "title": "Revival",
+    "year": 2001,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 33942180,
+    "artist": "Eric Clapton",
+    "title": "Unplugged - Enhanced Edition",
+    "year": 1992,
+    "format": "CD",
+    "date_added": "2026-10-01",
+    "plays_total": 60
+   },
+   {
+    "release_id": 1460681,
+    "artist": "James Blunt",
+    "title": "Back To Bedlam",
+    "year": 2004,
+    "format": "CD",
+    "date_added": "2026-09-27",
+    "plays_total": 81
+   },
+   {
+    "release_id": 28147666,
+    "artist": "Various",
+    "title": "City Of Angels (Music From And Inspired By The Motion Picture)",
+    "year": 1998,
+    "format": "CD",
+    "date_added": "2026-09-17",
+    "plays_total": 0
+   },
+   {
+    "release_id": 12160054,
+    "artist": "Bruce Springsteen",
+    "title": "High Hopes",
+    "year": 2014,
+    "format": "CD",
+    "date_added": "2026-09-17",
+    "plays_total": 2
+   },
+   {
+    "release_id": 819573,
+    "artist": "Michael Franti And Spearhead",
+    "title": "Yell Fire!",
+    "year": 2006,
+    "format": "CD",
+    "date_added": "2026-09-17",
+    "plays_total": 0
+   },
+   {
+    "release_id": 625969,
+    "artist": "Ryuichi Sakamoto",
+    "title": "High Heels Soundtrack",
+    "year": 1991,
+    "format": "CD",
+    "date_added": "2026-09-17",
+    "plays_total": 0
+   },
+   {
+    "release_id": 17881843,
+    "artist": "Various",
+    "title": "De Mooiste Muziek Uit 20 Onvergetelijke Films",
+    "year": 2009,
+    "format": "CD",
+    "date_added": "2026-09-15",
+    "plays_total": 0
+   },
+   {
+    "release_id": 9371266,
+    "artist": "Everything But The Girl",
+    "title": "The Best Of Everything But The Girl",
+    "year": 1996,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 15
+   },
+   {
+    "release_id": 3114821,
+    "artist": "U2",
+    "title": "Under A Blood Red Sky (Live)",
+    "year": 1983,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1055662,
+    "artist": "NOFX",
+    "title": "Punk In Drublic",
+    "year": 1994,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 190
+   },
+   {
+    "release_id": 580428,
+    "artist": "Brainpower",
+    "title": "Verschil Moet Er Zijn",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 41
+   },
+   {
+    "release_id": 42395,
+    "artist": "Laurent Garnier",
+    "title": "Unreasonable Behaviour",
+    "year": 2000,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 76
+   },
+   {
+    "release_id": 21976,
+    "artist": "Jamiroquai",
+    "title": "A Funk Odyssey",
+    "year": 2001,
+    "format": "CD",
+    "date_added": "2026-09-04",
+    "plays_total": 26
+   },
+   {
+    "release_id": 21926749,
+    "artist": "Eels",
+    "title": "Extreme Witchcraft",
+    "year": 2022,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 0
+   },
+   {
+    "release_id": 12651584,
+    "artist": "Tom Morello",
+    "title": "The Atlas Underground",
+    "year": 2018,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 13
+   },
+   {
+    "release_id": 8330443,
+    "artist": "Moderat",
+    "title": "III",
+    "year": 2016,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 231
+   },
+   {
+    "release_id": 2105718,
+    "artist": "The Q4",
+    "title": "Sound Surroundings",
+    "year": 2010,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 167
+   },
+   {
+    "release_id": 1004312,
+    "artist": "The Chemical Brothers",
+    "title": "We Are The Night",
+    "year": 2007,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 182
+   },
+   {
+    "release_id": 857702,
+    "artist": "The Band",
+    "title": "The Last Waltz",
+    "year": 1978,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 7
+   },
+   {
+    "release_id": 489105,
+    "artist": "Fleetwood Mac",
+    "title": "The Dance",
+    "year": 1997,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 53
+   },
+   {
+    "release_id": 471892,
+    "artist": "Kraak & Smaak",
+    "title": "Boogie Angst",
+    "year": 2005,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 234
+   },
+   {
+    "release_id": 410066,
+    "artist": "Arrested Development",
+    "title": "Zingalamaduni",
+    "year": 1994,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 7
+   },
+   {
+    "release_id": 300727,
+    "artist": "Bebel Gilberto",
+    "title": "Bebel Gilberto",
+    "year": 2004,
+    "format": "CD",
+    "date_added": "2026-09-03",
+    "plays_total": 141
+   }
+  ]
+ },
+ "faded": {
+  "rule": "minstens 100 plays, al ongeveer 18 maanden niet gedraaid",
+  "total": 40,
+  "artists": [
+   {
+    "name": "Mick Gordon",
+    "plays": 347,
+    "peakYear": "2016",
+    "lastPlayed": "2023-10-06"
+   },
+   {
+    "name": "Henry Jackman",
+    "plays": 308,
+    "peakYear": "2019",
+    "lastPlayed": "2021-06-28"
+   },
+   {
+    "name": "Solar Fields",
+    "plays": 270,
+    "peakYear": "2021",
+    "lastPlayed": "2025-02-22"
+   },
+   {
+    "name": "Disclosure",
+    "plays": 263,
+    "peakYear": "2020",
+    "lastPlayed": "2024-10-30"
+   },
+   {
+    "name": "Pennywise",
+    "plays": 251,
+    "peakYear": "2019",
+    "lastPlayed": "2025-04-16"
+   },
+   {
+    "name": "Moneybrother",
+    "plays": 205,
+    "peakYear": "2007",
+    "lastPlayed": "2024-05-14"
+   },
+   {
+    "name": "Michael McCann",
+    "plays": 183,
+    "peakYear": "2018",
+    "lastPlayed": "2019-02-27"
+   },
+   {
+    "name": "Hibernation",
+    "plays": 177,
+    "peakYear": "2013",
+    "lastPlayed": "2020-03-29"
+   },
+   {
+    "name": "Gareth Coker",
+    "plays": 173,
+    "peakYear": "2021",
+    "lastPlayed": "2023-12-04"
+   },
+   {
+    "name": "Bill Elm & Woody Jackson",
+    "plays": 172,
+    "peakYear": "2014",
+    "lastPlayed": "2022-02-01"
+   },
+   {
+    "name": "Bentley Rhythm Ace",
+    "plays": 166,
+    "peakYear": "2015",
+    "lastPlayed": "2025-01-27"
+   },
+   {
+    "name": "Thomas Newman",
+    "plays": 166,
+    "peakYear": "2018",
+    "lastPlayed": "2024-09-28"
+   },
+   {
+    "name": "Leonie Meijer",
+    "plays": 166,
+    "peakYear": "2012",
+    "lastPlayed": "2025-02-28"
+   },
+   {
+    "name": "Soldaat van Oranje Cast",
+    "plays": 165,
+    "peakYear": "2011",
+    "lastPlayed": "2024-09-29"
+   },
+   {
+    "name": "Little Boots",
+    "plays": 161,
+    "peakYear": "2009",
+    "lastPlayed": "2019-03-17"
+   },
+   {
+    "name": "Joris de Man",
+    "plays": 158,
+    "peakYear": "2018",
+    "lastPlayed": "2023-11-24"
+   },
+   {
+    "name": "Roni Size & Reprazent",
+    "plays": 156,
+    "peakYear": "2008",
+    "lastPlayed": "2024-11-19"
+   },
+   {
+    "name": "David García Díaz",
+    "plays": 151,
+    "peakYear": "2019",
+    "lastPlayed": "2023-11-24"
+   },
+   {
+    "name": "London Music Works",
+    "plays": 146,
+    "peakYear": "2015",
+    "lastPlayed": "2022-08-22"
+   },
+   {
+    "name": "The Shapeshifters",
+    "plays": 143,
+    "peakYear": "2007",
+    "lastPlayed": "2024-08-30"
+   },
+   {
+    "name": "Be Svendsen",
+    "plays": 141,
+    "peakYear": "2021",
+    "lastPlayed": "2024-10-31"
+   },
+   {
+    "name": "Kraantje Pappie",
+    "plays": 133,
+    "peakYear": "2012",
+    "lastPlayed": "2024-08-10"
+   },
+   {
+    "name": "Knife Party",
+    "plays": 128,
+    "peakYear": "2013",
+    "lastPlayed": "2024-07-27"
+   },
+   {
+    "name": "Michael Mayer",
+    "plays": 126,
+    "peakYear": "2007",
+    "lastPlayed": "2025-03-31"
+   },
+   {
+    "name": "The Fratellis",
+    "plays": 123,
+    "peakYear": "2007",
+    "lastPlayed": "2023-08-04"
+   },
+   {
+    "name": "Yeasayer",
+    "plays": 120,
+    "peakYear": "2010",
+    "lastPlayed": "2025-04-28"
+   },
+   {
+    "name": "Gesaffelstein",
+    "plays": 120,
+    "peakYear": "2014",
+    "lastPlayed": "2022-02-05"
+   },
+   {
+    "name": "Kris Berry",
+    "plays": 119,
+    "peakYear": "2019",
+    "lastPlayed": "2024-12-24"
+   },
+   {
+    "name": "A Perfect Circle",
+    "plays": 118,
+    "peakYear": "2005",
+    "lastPlayed": "2024-09-25"
+   },
+   {
+    "name": "Efdemin",
+    "plays": 118,
+    "peakYear": "2009",
+    "lastPlayed": "2023-09-20"
+   },
+   {
+    "name": "JP Cooper",
+    "plays": 118,
+    "peakYear": "2019",
+    "lastPlayed": "2024-01-27"
+   },
+   {
+    "name": "Goose",
+    "plays": 117,
+    "peakYear": "2007",
+    "lastPlayed": "2021-09-18"
+   },
+   {
+    "name": "Mika",
+    "plays": 112,
+    "peakYear": "2008",
+    "lastPlayed": "2024-08-22"
+   },
+   {
+    "name": "George Ezra",
+    "plays": 112,
+    "peakYear": "2020",
+    "lastPlayed": "2025-03-04"
+   },
+   {
+    "name": "Com Truise",
+    "plays": 112,
+    "peakYear": "2019",
+    "lastPlayed": "2025-01-23"
+   },
+   {
+    "name": "Death Cab for Cutie",
+    "plays": 108,
+    "peakYear": "2009",
+    "lastPlayed": "2024-02-01"
+   },
+   {
+    "name": "Music For Programming",
+    "plays": 106,
+    "peakYear": "2015",
+    "lastPlayed": "2016-08-10"
+   },
+   {
+    "name": "Martin Garrix",
+    "plays": 106,
+    "peakYear": "2018",
+    "lastPlayed": "2024-12-30"
+   },
+   {
+    "name": "PNAU",
+    "plays": 105,
+    "peakYear": "2009",
+    "lastPlayed": "2024-03-22"
+   },
+   {
+    "name": "The Kyteman Orchestra",
+    "plays": 104,
+    "peakYear": "2012",
+    "lastPlayed": "2025-04-12"
+   }
+  ]
+ },
+ "lookup": {
+  "artists_file": "stats/artists.json",
+  "albums_file": "stats/albums.json",
+  "overview_file": "stats/overview.json",
+  "key_rules": "Sleutels: Unicode NFKD, accenten weg, kleine letters, & wordt and, alle leestekens worden spatie, spaties samengevoegd, \"the \" vooraan weg. Albums: artiestsleutel|albumsleutel; bij de albumsleutel vallen haakjes met alleen editie-info of een jaartal weg (deluxe, remaster(ed), expanded, anniversary, edition, bonus, reissue) en ook \"35th Anniversary\" en \"20 Year\". Andere schrijfwijzen van een artiest staan in stats/artists.json onder \"aliases\"."
+ }
+}
