@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at": "2026-11-02T02:25:59+00:00",
- "data_until": "2026-11-01T21:48:59+00:00",
+ "generated_at": "2026-11-02T12:08:47+00:00",
+ "data_until": "2026-11-02T06:41:24+00:00",
  "sync_ok": true,
  "period": {
   "from": "2026-10-26",
@@ -129,7 +129,7 @@
    {
     "name": "Röyksopp",
     "plays": 7,
-    "total": 3042,
+    "total": 3046,
     "first_played": "2005-03-07"
    },
    {
@@ -599,7 +599,7 @@
    {
     "name": "Röyksopp",
     "plays": 37,
-    "total": 3042
+    "total": 3046
    },
    {
     "name": "Massive Attack",
@@ -731,6 +731,42 @@
   ]
  },
  "recent": [
+  {
+   "ts": "2026-11-02T07:41:24+01:00",
+   "artist": "Röyksopp",
+   "track": "The House Of «R»",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-02T07:35:04+01:00",
+   "artist": "Röyksopp & Astrid S",
+   "track": "Misconceptions / The Crux Of It All",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-02T07:31:14+01:00",
+   "artist": "Röyksopp",
+   "track": "The Veil",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-02T07:25:44+01:00",
+   "artist": "Röyksopp & Karen Harding",
+   "track": "Come With Me",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-02T07:20:44+01:00",
+   "artist": "Röyksopp",
+   "track": "I’m There With You",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
+  {
+   "ts": "2026-11-02T07:16:44+01:00",
+   "artist": "Röyksopp",
+   "track": "Beyond Beyond / The Weathered Gate / The Head Of The Statue",
+   "album": "Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries"
+  },
   {
    "ts": "2026-11-01T22:48:59+01:00",
    "artist": "Röyksopp & Pixx",
@@ -874,42 +910,6 @@
    "artist": "Big2",
    "track": "Leef Een Beetje",
    "album": "Leef Een Beetje"
-  },
-  {
-   "ts": "2026-11-01T10:32:37+01:00",
-   "artist": "Ayo & Teo",
-   "track": "Lit Right Now",
-   "album": "Lit Right Now"
-  },
-  {
-   "ts": "2026-11-01T10:29:12+01:00",
-   "artist": "Aya Nakamura",
-   "track": "Copines",
-   "album": "NAKAMURA"
-  },
-  {
-   "ts": "2026-11-01T10:26:38+01:00",
-   "artist": "JACKBOYS",
-   "track": "OUT WEST (feat. Young Thug)",
-   "album": "JACKBOYS"
-  },
-  {
-   "ts": "2026-11-01T10:24:13+01:00",
-   "artist": "Ayo & Teo",
-   "track": "Fly N Ghetto",
-   "album": "Fly N Ghetto"
-  },
-  {
-   "ts": "2026-11-01T10:21:15+01:00",
-   "artist": "DaBaby",
-   "track": "ROCKSTAR (feat. Roddy Ricch)",
-   "album": "BLAME IT ON BABY"
-  },
-  {
-   "ts": "2026-11-01T10:10:08+01:00",
-   "artist": "José González",
-   "track": "Teardrop",
-   "album": "In Our Nature"
   }
  ],
  "kast": {
