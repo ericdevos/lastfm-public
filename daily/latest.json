@@ -1,24 +1,29 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-02T19:45:37+00:00",
-  "date": "2026-11-01",
-  "date_nl": "zondag 1 november 2026",
-  "mail_date": "2026-11-02",
+  "generated_at": "2026-11-03T03:03:08+00:00",
+  "date": "2026-11-02",
+  "date_nl": "maandag 2 november 2026",
+  "mail_date": "2026-11-03",
   "data_until": "2026-11-02T18:58:52+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 42,
+    "plays": 35,
     "avg_year": 74,
     "year": 2026,
     "verdict": "onder",
-    "line": "Gisteren: 42 nummers — onder je daggemiddelde van 2026 (74)."
+    "line": "Gisteren: 35 nummers — flink onder je daggemiddelde van 2026 (74; −53%)."
   },
   "highlights": [
     {
-      "type": "top",
-      "label": "Topper",
-      "text": "Röyksopp was je topper met 5 nummers (vooral Nebulous Nights ‐ An Ambient Excursion Into Profound Mysteries); in totaal 2.907 plays. Dat album staat ook in je kast."
+      "type": "new",
+      "label": "Nieuwe aanwinst",
+      "text": "Je haalde onlangs MF DOOM – MM..Food in huis (28 oktober); gisteren draaide je 2 nummers van MF DOOM."
+    },
+    {
+      "type": "shelf",
+      "label": "Kast × luisteren",
+      "text": "Röyksopp – The Inevitable End (CD Album / CD EP) staat al sinds oktober 2024 in je kast; gisteren 3 nummers van gedraaid."
     },
     {
       "type": "waiting",
@@ -27,12 +32,12 @@
     }
   ],
   "tip": {
-    "date": "2026-11-02",
-    "faded_line": "Kraantje Pappie — 133× gedraaid, piek in 2012, laatst op 10 augustus 2024.",
-    "kast_line": "Mike Oldfield – Platinum (1979, vinyl), nog nooit gedraaid.",
+    "date": "2026-11-03",
+    "faded_line": "Efdemin — 118× gedraaid, piek in 2009, laatst op 20 september 2023.",
+    "kast_line": "Johann Sebastian Bach – The \"Brandenburg\" Concertos Nos. 1, 2 & 3 (cd), nog nooit gedraaid.",
     "followup_line": "De tip van 25 oktober heb je opgevolgd: Tipper (13×).",
     "stats": {
-      "given": 9,
+      "given": 10,
       "followed": 2
     }
   },
@@ -41,55 +46,49 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "David Guetta",
-          "total": 241,
-          "year": "2008"
+          "name": "Bop",
+          "total": 62,
+          "year": "2020"
         },
         {
-          "type": "comeback",
-          "name": "Life of Agony",
-          "gapDays": 490,
-          "since": "2010-06-30",
-          "plays": 13,
-          "before": 159,
-          "year": "2011"
-        },
-        {
-          "type": "m-album",
-          "artist": "Röyksopp",
-          "title": "Junior",
-          "n": 500,
-          "year": "2016"
-        },
-        {
-          "type": "repeat",
-          "artist": "Fred again..",
-          "title": "Marea (We’ve Lost Dancing)",
-          "n": 3,
+          "type": "m-track",
+          "artist": "Bonobo",
+          "title": "Cirrus",
+          "n": 75,
           "year": "2022"
         },
         {
-          "type": "first-track",
-          "artist": "De Jeugd van Tegenwoordig",
-          "title": "Sterrenstof",
-          "total": 64,
-          "year": "2010"
+          "type": "repeat",
+          "artist": "The Beatles",
+          "title": "I Want To Hold Your Hand - Remastered 2015",
+          "n": 4,
+          "year": "2020"
+        },
+        {
+          "type": "kast",
+          "year": "2024",
+          "artist": "De La Soul",
+          "title": "3 Feet High And Rising",
+          "release_id": 2174334,
+          "medium": "CD",
+          "plays": 212,
+          "sameDay": 7
         },
         {
           "type": "busiest",
-          "year": "2009",
-          "plays": 137,
+          "year": "2010",
+          "plays": 102,
           "top": {
-            "name": "The Whitest Boy Alive",
-            "plays": 21
+            "name": "C64 Orchestra",
+            "plays": 11
           }
         },
         {
           "type": "quietest",
-          "year": "2015",
+          "year": "2007",
           "plays": 3,
           "top": {
-            "name": "Small Night Orchestra",
+            "name": "Alter Ego",
             "plays": 2
           }
         }
@@ -97,181 +96,214 @@
       "years": [
         {
           "year": "2025",
-          "plays": 57,
+          "plays": 17,
           "top": {
-            "name": "Röyksopp",
-            "plays": 5
+            "name": "DJ Shadow",
+            "plays": 14
           }
         },
         {
           "year": "2024",
-          "plays": 51,
+          "plays": 25,
           "top": {
-            "name": "Otis Redding",
+            "name": "John Legend",
             "plays": 2
           }
         },
         {
           "year": "2023",
-          "plays": 102,
+          "plays": 57,
           "top": {
-            "name": "The Beatles",
-            "plays": 7
+            "name": "Acda en de Munnik",
+            "plays": 13
           }
         },
         {
           "year": "2022",
-          "plays": 133,
+          "plays": 80,
           "top": {
-            "name": "Beastie Boys",
-            "plays": 42
+            "name": "Yann Tiersen",
+            "plays": 17
           }
         },
         {
           "year": "2021",
-          "plays": 106,
+          "plays": 74,
           "top": {
-            "name": "Modeselektor",
-            "plays": 60
+            "name": "4TLR",
+            "plays": 17
           }
         },
         {
           "year": "2020",
-          "plays": 113,
+          "plays": 75,
           "top": {
-            "name": "Ludwig Göransson",
-            "plays": 5
+            "name": "The Beatles",
+            "plays": 20
           }
         },
         {
           "year": "2019",
-          "plays": 96,
+          "plays": 65,
           "top": {
-            "name": "The Paper Kites",
-            "plays": 4
+            "name": "Kinderkoor Henk van der Velde",
+            "plays": 10
           }
         },
         {
           "year": "2018",
-          "plays": 23,
-          "top": {
-            "name": "Metallica",
-            "plays": 5
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2017",
-          "plays": 16,
+          "plays": 69,
           "top": {
-            "name": "Traveling Wilburys",
-            "plays": 6
+            "name": "Danny Baranowsky",
+            "plays": 21
           }
         },
         {
           "year": "2016",
-          "plays": 53,
+          "plays": 16,
           "top": {
             "name": "Mick Gordon",
-            "plays": 7
+            "plays": 15
           }
         },
         {
           "year": "2015",
-          "plays": 3,
+          "plays": 62,
           "top": {
-            "name": "Small Night Orchestra",
+            "name": "Agnes Obel",
             "plays": 2
           }
         },
         {
           "year": "2014",
-          "plays": 14,
+          "plays": 8,
           "top": {
-            "name": "Ive Mendes",
-            "plays": 2
+            "name": "Joris Voorn",
+            "plays": 3
           }
         },
         {
           "year": "2013",
-          "plays": 0,
-          "top": null
+          "plays": 28,
+          "top": {
+            "name": "Hercules and Love Affair",
+            "plays": 10
+          }
         },
         {
           "year": "2012",
-          "plays": 50,
+          "plays": 34,
           "top": {
-            "name": "Miike Snow",
-            "plays": 14
+            "name": "Fleet Foxes",
+            "plays": 11
           }
         },
         {
           "year": "2011",
-          "plays": 40,
+          "plays": 13,
           "top": {
-            "name": "Greg Edmonson",
-            "plays": 15
+            "name": "Dazzled Kid",
+            "plays": 2
           }
         },
         {
           "year": "2010",
-          "plays": 48,
+          "plays": 102,
           "top": {
-            "name": "Mark Ronson & The Business Intl",
-            "plays": 13
+            "name": "C64 Orchestra",
+            "plays": 11
           }
         },
         {
           "year": "2009",
-          "plays": 137,
+          "plays": 31,
           "top": {
-            "name": "The Whitest Boy Alive",
-            "plays": 21
+            "name": "Passion Pit",
+            "plays": 11
           }
         },
         {
           "year": "2008",
-          "plays": 125,
+          "plays": 49,
           "top": {
-            "name": "Popnoname",
-            "plays": 9
+            "name": "Wir sind Helden",
+            "plays": 13
           }
         },
         {
           "year": "2007",
-          "plays": 72,
+          "plays": 3,
           "top": {
-            "name": "Beastie Boys",
-            "plays": 12
+            "name": "Alter Ego",
+            "plays": 2
           }
         },
         {
           "year": "2006",
-          "plays": 28,
+          "plays": 36,
           "top": {
-            "name": "Technotronic",
-            "plays": 1
+            "name": "Thirteen Senses",
+            "plays": 11
           }
         },
         {
           "year": "2005",
-          "plays": 4,
-          "top": {
-            "name": "Gotan Project",
-            "plays": 3
-          }
+          "plays": 0,
+          "top": null
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Beastie Boys",
-      "Fred again..",
-      "Gotan Project",
-      "Metallica",
-      "Miike Snow",
-      "Röyksopp",
+      "Acda en de Munnik",
+      "Agnes Obel",
+      "Bonobo",
+      "DJ Shadow",
+      "Dazzled Kid",
+      "De La Soul",
+      "Fleet Foxes",
+      "John Legend",
       "The Beatles",
-      "Traveling Wilburys"
+      "Wir Sind Helden",
+      "Yann Tiersen"
     ],
-    "discogs": []
+    "discogs": [
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Led Zeppelin – Untitled (1971, CD Album Reissue Repress) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam De La Soul – 3 Feet High And Rising (1989, CD Album) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Johann Sebastian Bach, Holland Boys Choir, Dutch Baroque Orchestra, Pieter Jan Leusink – Matthäus Passion (1998, CD Album) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Led Zeppelin – Led Zeppelin II (1969, CD Album Reissue Repress Stereo) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Eric Clapton – Unplugged (1992, DVD DVD-Video Multichannel PAL Double Sided Copy Protected Stereo) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam U2 – The Joshua Tree (1987, CD Album) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Red Hot Chili Peppers – Mother's Milk (1989, CD Album) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam U2 – Rattle And Hum (1988, CD Album) in je collectie."
+      }
+    ]
   }
 }
