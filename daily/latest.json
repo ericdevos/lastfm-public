@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-03T07:10:30+00:00",
+  "generated_at": "2026-11-03T11:17:55+00:00",
   "date": "2026-11-02",
   "date_nl": "maandag 2 november 2026",
   "mail_date": "2026-11-03",
-  "data_until": "2026-11-02T18:58:52+00:00",
+  "data_until": "2026-11-03T07:55:32+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 35,
+    "plays": 36,
     "avg_year": 74,
     "year": 2026,
     "verdict": "onder",
-    "line": "Gisteren: 35 nummers — flink onder je daggemiddelde van 2026 (74; −53%)."
+    "line": "Gisteren: 36 nummers — flink onder je daggemiddelde van 2026 (74; −51%)."
   },
   "highlights": [
     {
@@ -28,7 +28,7 @@
     {
       "type": "waiting",
       "label": "Nog op de stapel",
-      "text": "Postmen – Revival (CD Album, binnen sinds 7 oktober) wacht nog op zijn eerste draaibeurt."
+      "text": "Audioslave – Audioslave (CD Album, binnen sinds 7 oktober) wacht nog op zijn eerste draaibeurt."
     }
   ],
   "tip": {
