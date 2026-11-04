@@ -1,29 +1,29 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-03T19:47:25+00:00",
-  "date": "2026-11-02",
-  "date_nl": "maandag 2 november 2026",
-  "mail_date": "2026-11-03",
+  "generated_at": "2026-11-04T01:38:40+00:00",
+  "date": "2026-11-03",
+  "date_nl": "dinsdag 3 november 2026",
+  "mail_date": "2026-11-04",
   "data_until": "2026-11-03T17:25:02+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 36,
+    "plays": 60,
     "avg_year": 74,
     "year": 2026,
     "verdict": "onder",
-    "line": "Gisteren: 36 nummers — flink onder je daggemiddelde van 2026 (74; −51%)."
+    "line": "Gisteren: 60 nummers — onder je daggemiddelde van 2026 (74)."
   },
   "highlights": [
     {
-      "type": "new",
-      "label": "Nieuwe aanwinst",
-      "text": "Je haalde onlangs MF DOOM – MM..Food in huis (28 oktober); gisteren draaide je 2 nummers van MF DOOM."
+      "type": "comeback",
+      "label": "Comeback",
+      "text": "Voor het eerst sinds maart 2024 weer Greydon Park Band (1× gisteren)."
     },
     {
-      "type": "shelf",
-      "label": "Kast × luisteren",
-      "text": "Röyksopp – The Inevitable End (CD Album / CD EP) staat al sinds oktober 2024 in je kast; gisteren 3 nummers van gedraaid."
+      "type": "new",
+      "label": "Nieuwe aanwinst",
+      "text": "Je nieuwe aanwinst Postmen – Revival (CD Album, binnen sinds 7 oktober) draaide je gisteren 17×."
     },
     {
       "type": "waiting",
@@ -32,12 +32,11 @@
     }
   ],
   "tip": {
-    "date": "2026-11-03",
-    "faded_line": "Efdemin — 118× gedraaid, piek in 2009, laatst op 20 september 2023.",
-    "kast_line": "Johann Sebastian Bach – The \"Brandenburg\" Concertos Nos. 1, 2 & 3 (cd), nog nooit gedraaid.",
-    "followup_line": "De tip van 25 oktober heb je opgevolgd: Tipper (13×).",
+    "date": "2026-11-04",
+    "faded_line": "Bentley Rhythm Ace — 166× gedraaid, piek in 2015, laatst op 27 januari 2025.",
+    "kast_line": "Live – V (2001, cd), nog nooit gedraaid.",
     "stats": {
-      "given": 10,
+      "given": 11,
       "followed": 2
     }
   },
@@ -46,264 +45,243 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Bop",
-          "total": 62,
-          "year": "2020"
+          "name": "Claude‐Michel Schönberg",
+          "total": 222,
+          "year": "2008"
+        },
+        {
+          "type": "comeback",
+          "name": "DobaCaracol",
+          "gapDays": 673,
+          "since": "2011-01-01",
+          "plays": 11,
+          "before": 134,
+          "year": "2012"
         },
         {
           "type": "m-track",
-          "artist": "Bonobo",
-          "title": "Cirrus",
-          "n": 75,
-          "year": "2022"
+          "artist": "Massive Attack",
+          "title": "Teardrop",
+          "n": 50,
+          "year": "2023"
         },
         {
           "type": "repeat",
-          "artist": "The Beatles",
-          "title": "I Want To Hold Your Hand - Remastered 2015",
+          "artist": "Merol",
+          "title": "Kus Me Even",
           "n": 4,
+          "year": "2022"
+        },
+        {
+          "type": "first-track",
+          "artist": "Ferr",
+          "title": "Please",
+          "total": 38,
           "year": "2020"
         },
         {
-          "type": "kast",
-          "year": "2024",
-          "artist": "De La Soul",
-          "title": "3 Feet High And Rising",
-          "release_id": 2174334,
-          "medium": "CD",
-          "plays": 212,
-          "sameDay": 7
-        },
-        {
           "type": "busiest",
-          "year": "2010",
-          "plays": 102,
+          "year": "2017",
+          "plays": 138,
           "top": {
-            "name": "C64 Orchestra",
-            "plays": 11
+            "name": "The Beatles",
+            "plays": 14
           }
         },
         {
           "type": "quietest",
-          "year": "2007",
-          "plays": 3,
+          "year": "2015",
+          "plays": 2,
           "top": {
-            "name": "Alter Ego",
-            "plays": 2
+            "name": "David Guetta",
+            "plays": 1
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 17,
+          "plays": 34,
           "top": {
-            "name": "DJ Shadow",
-            "plays": 14
+            "name": "Miike Snow",
+            "plays": 8
           }
         },
         {
           "year": "2024",
-          "plays": 25,
+          "plays": 67,
           "top": {
-            "name": "John Legend",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2023",
-          "plays": 57,
-          "top": {
-            "name": "Acda en de Munnik",
-            "plays": 13
-          }
-        },
-        {
-          "year": "2022",
-          "plays": 80,
-          "top": {
-            "name": "Yann Tiersen",
-            "plays": 17
-          }
-        },
-        {
-          "year": "2021",
-          "plays": 74,
-          "top": {
-            "name": "4TLR",
-            "plays": 17
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 75,
-          "top": {
-            "name": "The Beatles",
+            "name": "De La Soul",
             "plays": 20
           }
         },
         {
+          "year": "2023",
+          "plays": 98,
+          "top": {
+            "name": "Madonna",
+            "plays": 4
+          }
+        },
+        {
+          "year": "2022",
+          "plays": 68,
+          "top": {
+            "name": "The Roots",
+            "plays": 31
+          }
+        },
+        {
+          "year": "2021",
+          "plays": 5,
+          "top": {
+            "name": "Skee Mask",
+            "plays": 4
+          }
+        },
+        {
+          "year": "2020",
+          "plays": 79,
+          "top": {
+            "name": "The Prodigy",
+            "plays": 23
+          }
+        },
+        {
           "year": "2019",
-          "plays": 65,
+          "plays": 23,
           "top": {
-            "name": "Kinderkoor Henk van der Velde",
-            "plays": 10
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2017",
-          "plays": 69,
-          "top": {
-            "name": "Danny Baranowsky",
-            "plays": 21
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 16,
-          "top": {
-            "name": "Mick Gordon",
-            "plays": 15
-          }
-        },
-        {
-          "year": "2015",
-          "plays": 62,
-          "top": {
-            "name": "Agnes Obel",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2014",
-          "plays": 8,
-          "top": {
-            "name": "Joris Voorn",
+            "name": "DJ Shadow",
             "plays": 3
           }
         },
         {
-          "year": "2013",
-          "plays": 28,
+          "year": "2018",
+          "plays": 50,
           "top": {
-            "name": "Hercules and Love Affair",
-            "plays": 10
+            "name": "Coldplay",
+            "plays": 2
+          }
+        },
+        {
+          "year": "2017",
+          "plays": 138,
+          "top": {
+            "name": "The Beatles",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2016",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2015",
+          "plays": 2,
+          "top": {
+            "name": "David Guetta",
+            "plays": 1
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 30,
+          "top": {
+            "name": "Beastie Boys",
+            "plays": 28
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 16,
+          "top": {
+            "name": "Tbilisi Symphony Orchestra",
+            "plays": 2
           }
         },
         {
           "year": "2012",
-          "plays": 34,
+          "plays": 85,
           "top": {
-            "name": "Fleet Foxes",
-            "plays": 11
+            "name": "The Cardigans",
+            "plays": 14
           }
         },
         {
           "year": "2011",
-          "plays": 13,
+          "plays": 6,
           "top": {
-            "name": "Dazzled Kid",
+            "name": "Joker",
             "plays": 2
           }
         },
         {
           "year": "2010",
-          "plays": 102,
+          "plays": 32,
           "top": {
-            "name": "C64 Orchestra",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2009",
-          "plays": 31,
-          "top": {
-            "name": "Passion Pit",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2008",
-          "plays": 49,
-          "top": {
-            "name": "Wir sind Helden",
+            "name": "Ladyhawke",
             "plays": 13
           }
         },
         {
-          "year": "2007",
-          "plays": 3,
+          "year": "2009",
+          "plays": 76,
           "top": {
-            "name": "Alter Ego",
-            "plays": 2
+            "name": "Ennio Morricone",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2008",
+          "plays": 47,
+          "top": {
+            "name": "Claude‐Michel Schönberg",
+            "plays": 17
+          }
+        },
+        {
+          "year": "2007",
+          "plays": 24,
+          "top": {
+            "name": "Róisín Murphy",
+            "plays": 8
           }
         },
         {
           "year": "2006",
-          "plays": 36,
+          "plays": 22,
           "top": {
-            "name": "Thirteen Senses",
-            "plays": 11
+            "name": "Bloc Party",
+            "plays": 14
           }
         },
         {
           "year": "2005",
-          "plays": 0,
-          "top": null
+          "plays": 11,
+          "top": {
+            "name": "Beastie Boys",
+            "plays": 6
+          }
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Acda en de Munnik",
-      "Agnes Obel",
-      "Bonobo",
+      "Beastie Boys",
+      "Bloc Party",
+      "Coldplay",
       "DJ Shadow",
-      "Dazzled Kid",
       "De La Soul",
-      "Fleet Foxes",
-      "John Legend",
+      "Ennio Morricone",
+      "Ladyhawke",
+      "Madonna",
+      "Massive Attack",
+      "Miike Snow",
       "The Beatles",
-      "Wir Sind Helden",
-      "Yann Tiersen"
+      "The Cardigans",
+      "The Prodigy",
+      "The Roots"
     ],
-    "discogs": [
-      {
-        "years_ago": 2,
-        "text": "Vandaag 2 jaar geleden kwam Led Zeppelin – Untitled (1971, CD Album Reissue Repress) in je collectie."
-      },
-      {
-        "years_ago": 2,
-        "text": "Vandaag 2 jaar geleden kwam De La Soul – 3 Feet High And Rising (1989, CD Album) in je collectie."
-      },
-      {
-        "years_ago": 2,
-        "text": "Vandaag 2 jaar geleden kwam Johann Sebastian Bach, Holland Boys Choir, Dutch Baroque Orchestra, Pieter Jan Leusink – Matthäus Passion (1998, CD Album) in je collectie."
-      },
-      {
-        "years_ago": 2,
-        "text": "Vandaag 2 jaar geleden kwam Led Zeppelin – Led Zeppelin II (1969, CD Album Reissue Repress Stereo) in je collectie."
-      },
-      {
-        "years_ago": 2,
-        "text": "Vandaag 2 jaar geleden kwam Eric Clapton – Unplugged (1992, DVD DVD-Video Multichannel PAL Double Sided Copy Protected Stereo) in je collectie."
-      },
-      {
-        "years_ago": 2,
-        "text": "Vandaag 2 jaar geleden kwam U2 – The Joshua Tree (1987, CD Album) in je collectie."
-      },
-      {
-        "years_ago": 2,
-        "text": "Vandaag 2 jaar geleden kwam Red Hot Chili Peppers – Mother's Milk (1989, CD Album) in je collectie."
-      },
-      {
-        "years_ago": 2,
-        "text": "Vandaag 2 jaar geleden kwam U2 – Rattle And Hum (1988, CD Album) in je collectie."
-      }
-    ]
+    "discogs": []
   }
 }
