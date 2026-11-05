@@ -1,43 +1,44 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-04T20:00:29+00:00",
-  "date": "2026-11-03",
-  "date_nl": "dinsdag 3 november 2026",
-  "mail_date": "2026-11-04",
-  "data_until": "2026-11-04T19:57:16+00:00",
+  "generated_at": "2026-11-05T01:46:09+00:00",
+  "date": "2026-11-04",
+  "date_nl": "woensdag 4 november 2026",
+  "mail_date": "2026-11-05",
+  "data_until": "2026-11-04T21:46:14+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 60,
+    "plays": 98,
     "avg_year": 74,
     "year": 2026,
-    "verdict": "onder",
-    "line": "Gisteren: 60 nummers — onder je daggemiddelde van 2026 (74)."
+    "verdict": "boven",
+    "line": "Gisteren: 98 nummers — boven je daggemiddelde van 2026 (74)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds maart 2024 weer Greydon Park Band (1× gisteren)."
+      "text": "Voor het eerst sinds januari 2025 weer Bentley Rhythm Ace (11× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Postmen – Revival (CD Album, binnen sinds 7 oktober) draaide je gisteren 17×."
+      "text": "Je nieuwe aanwinst Rage Against the Machine – Justify Those That Die (CD Unofficial Release Stereo, binnen sinds 7 oktober) draaide je gisteren 6×."
     },
     {
-      "type": "waiting",
-      "label": "Nog op de stapel",
-      "text": "Audioslave – Audioslave (CD Album, binnen sinds 7 oktober) wacht nog op zijn eerste draaibeurt."
+      "type": "shelf",
+      "label": "Kast × luisteren",
+      "text": "Air – 10 000 Hz Legend (CD Album Stereo) staat al sinds januari 2025 in je kast; gisteren 11 nummers van gedraaid."
     }
   ],
   "tip": {
-    "date": "2026-11-04",
-    "faded_line": "Bentley Rhythm Ace.",
-    "kast_line": "Live – V (2001, cd), nog nooit gedraaid.",
+    "date": "2026-11-05",
+    "faded_line": "Michael Mayer — 126× gedraaid, piek in 2007, laatst op 31 maart 2025.",
+    "kast_line": "Bruce Springsteen – Magic (2007, cd), pas 2× gedraaid.",
+    "followup_line": "De tip van 4 november heb je opgevolgd: Bentley Rhythm Ace (11×).",
     "stats": {
-      "given": 11,
-      "followed": 2
+      "given": 12,
+      "followed": 3
     }
   },
   "onthisday": {
@@ -45,55 +46,38 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Claude‐Michel Schönberg",
-          "total": 222,
-          "year": "2008"
+          "name": "Stephan Bodzin",
+          "total": 864,
+          "year": "2007"
         },
         {
-          "type": "comeback",
-          "name": "DobaCaracol",
-          "gapDays": 673,
-          "since": "2011-01-01",
-          "plays": 11,
-          "before": 134,
-          "year": "2012"
-        },
-        {
-          "type": "m-track",
-          "artist": "Massive Attack",
-          "title": "Teardrop",
-          "n": 50,
+          "type": "m-artist",
+          "name": "Izmar",
+          "n": 500,
           "year": "2023"
         },
         {
-          "type": "repeat",
-          "artist": "Merol",
-          "title": "Kus Me Even",
-          "n": 4,
-          "year": "2022"
-        },
-        {
           "type": "first-track",
-          "artist": "Ferr",
-          "title": "Please",
-          "total": 38,
-          "year": "2020"
+          "artist": "Stephan Bodzin",
+          "title": "Mondfahrt",
+          "total": 43,
+          "year": "2007"
         },
         {
           "type": "busiest",
-          "year": "2017",
-          "plays": 138,
+          "year": "2023",
+          "plays": 126,
           "top": {
-            "name": "The Beatles",
-            "plays": 14
+            "name": "Izmar",
+            "plays": 20
           }
         },
         {
           "type": "quietest",
-          "year": "2015",
-          "plays": 2,
+          "year": "2013",
+          "plays": 3,
           "top": {
-            "name": "David Guetta",
+            "name": "CHVRCHES",
             "plays": 1
           }
         }
@@ -101,74 +85,74 @@
       "years": [
         {
           "year": "2025",
-          "plays": 34,
+          "plays": 57,
           "top": {
-            "name": "Miike Snow",
-            "plays": 8
+            "name": "Faithless",
+            "plays": 10
           }
         },
         {
           "year": "2024",
-          "plays": 67,
+          "plays": 120,
           "top": {
-            "name": "De La Soul",
-            "plays": 20
+            "name": "Red Hot Chili Peppers",
+            "plays": 13
           }
         },
         {
           "year": "2023",
-          "plays": 98,
+          "plays": 126,
           "top": {
-            "name": "Madonna",
-            "plays": 4
+            "name": "Izmar",
+            "plays": 20
           }
         },
         {
           "year": "2022",
-          "plays": 68,
+          "plays": 35,
           "top": {
-            "name": "The Roots",
-            "plays": 31
-          }
-        },
-        {
-          "year": "2021",
-          "plays": 5,
-          "top": {
-            "name": "Skee Mask",
-            "plays": 4
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 79,
-          "top": {
-            "name": "The Prodigy",
-            "plays": 23
-          }
-        },
-        {
-          "year": "2019",
-          "plays": 23,
-          "top": {
-            "name": "DJ Shadow",
-            "plays": 3
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 50,
-          "top": {
-            "name": "Coldplay",
+            "name": "Bonobo",
             "plays": 2
           }
         },
         {
-          "year": "2017",
-          "plays": 138,
+          "year": "2021",
+          "plays": 61,
           "top": {
-            "name": "The Beatles",
-            "plays": 14
+            "name": "David García Díaz",
+            "plays": 17
+          }
+        },
+        {
+          "year": "2020",
+          "plays": 40,
+          "top": {
+            "name": "Arovane",
+            "plays": 5
+          }
+        },
+        {
+          "year": "2019",
+          "plays": 57,
+          "top": {
+            "name": "Max Richter",
+            "plays": 8
+          }
+        },
+        {
+          "year": "2018",
+          "plays": 24,
+          "top": {
+            "name": "The Prodigy",
+            "plays": 11
+          }
+        },
+        {
+          "year": "2017",
+          "plays": 9,
+          "top": {
+            "name": "Grizzly Bear",
+            "plays": 1
           }
         },
         {
@@ -178,109 +162,95 @@
         },
         {
           "year": "2015",
-          "plays": 2,
+          "plays": 49,
           "top": {
-            "name": "David Guetta",
-            "plays": 1
+            "name": "Trentemøller",
+            "plays": 15
           }
         },
         {
           "year": "2014",
-          "plays": 30,
+          "plays": 23,
           "top": {
-            "name": "Beastie Boys",
-            "plays": 28
+            "name": "Charlie Smalls",
+            "plays": 17
           }
         },
         {
           "year": "2013",
-          "plays": 16,
+          "plays": 3,
           "top": {
-            "name": "Tbilisi Symphony Orchestra",
-            "plays": 2
+            "name": "CHVRCHES",
+            "plays": 1
           }
         },
         {
           "year": "2012",
-          "plays": 85,
-          "top": {
-            "name": "The Cardigans",
-            "plays": 14
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2011",
-          "plays": 6,
+          "plays": 35,
           "top": {
-            "name": "Joker",
-            "plays": 2
+            "name": "José González",
+            "plays": 11
           }
         },
         {
           "year": "2010",
-          "plays": 32,
+          "plays": 82,
           "top": {
-            "name": "Ladyhawke",
-            "plays": 13
+            "name": "Izmar",
+            "plays": 21
           }
         },
         {
           "year": "2009",
           "plays": 76,
           "top": {
-            "name": "Ennio Morricone",
-            "plays": 14
+            "name": "The Beatles",
+            "plays": 24
           }
         },
         {
           "year": "2008",
-          "plays": 47,
+          "plays": 58,
           "top": {
-            "name": "Claude‐Michel Schönberg",
-            "plays": 17
-          }
-        },
-        {
-          "year": "2007",
-          "plays": 24,
-          "top": {
-            "name": "Róisín Murphy",
-            "plays": 8
-          }
-        },
-        {
-          "year": "2006",
-          "plays": 22,
-          "top": {
-            "name": "Bloc Party",
+            "name": "MC Solaar",
             "plays": 14
           }
         },
         {
-          "year": "2005",
-          "plays": 11,
+          "year": "2007",
+          "plays": 38,
           "top": {
-            "name": "Beastie Boys",
-            "plays": 6
+            "name": "Simian Mobile Disco",
+            "plays": 11
           }
+        },
+        {
+          "year": "2006",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2005",
+          "plays": 0,
+          "top": null
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Beastie Boys",
-      "Bloc Party",
-      "Coldplay",
-      "DJ Shadow",
-      "De La Soul",
-      "Ennio Morricone",
-      "Ladyhawke",
-      "Madonna",
-      "Massive Attack",
-      "Miike Snow",
+      "Bonobo",
+      "Faithless",
+      "Izmar",
+      "José González",
+      "MC Solaar",
+      "Max Richter",
+      "Red Hot Chili Peppers",
       "The Beatles",
-      "The Cardigans",
-      "The Prodigy",
-      "The Roots"
+      "The Prodigy"
     ],
     "discogs": []
   }
