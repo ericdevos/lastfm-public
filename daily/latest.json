@@ -1,43 +1,43 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-05T20:15:11+00:00",
-  "date": "2026-11-04",
-  "date_nl": "woensdag 4 november 2026",
-  "mail_date": "2026-11-05",
-  "data_until": "2026-11-05T20:08:34+00:00",
+  "generated_at": "2026-11-06T01:46:52+00:00",
+  "date": "2026-11-05",
+  "date_nl": "donderdag 5 november 2026",
+  "mail_date": "2026-11-06",
+  "data_until": "2026-11-05T20:53:54+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 98,
-    "avg_year": 74,
+    "plays": 114,
+    "avg_year": 75,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 98 nummers — boven je daggemiddelde van 2026 (74)."
+    "line": "Gisteren: 114 nummers — ruim boven je daggemiddelde van 2026 (75; +52%)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds januari 2025 weer Bentley Rhythm Ace (11× gisteren)."
+      "text": "Voor het eerst sinds augustus 2013 weer Nero (1× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Rage Against the Machine – Justify Those That Die (CD Unofficial Release Stereo, binnen sinds 7 oktober) draaide je gisteren 6×."
+      "text": "Je nieuwe aanwinst Kelis – Tasty (CD Album Copy Protected, binnen sinds 21 oktober) draaide je gisteren 14×."
     },
     {
       "type": "shelf",
       "label": "Kast × luisteren",
-      "text": "Air – 10 000 Hz Legend (CD Album Stereo) staat al sinds januari 2025 in je kast; gisteren 11 nummers van gedraaid."
+      "text": "Pink Floyd – The Dark Side Of The Moon (Vinyl LP Album Repress Stereo) staat al sinds mei 2024 in je kast; gisteren 9 nummers van gedraaid."
     }
   ],
   "tip": {
-    "date": "2026-11-05",
-    "faded_line": "Michael Mayer — 126× gedraaid, piek in 2007, laatst op 31 maart 2025.",
-    "kast_line": "Bruce Springsteen – Magic (2007, cd), pas 2× gedraaid.",
+    "date": "2026-11-06",
+    "faded_line": "Com Truise — 112× gedraaid, piek in 2019, laatst op 23 januari 2025.",
+    "kast_line": "Diana Ross – 20 Golden Greats (1979, vinyl), nog nooit gedraaid.",
     "followup_line": "De tip van 4 november heb je opgevolgd: Bentley Rhythm Ace (11×).",
     "stats": {
-      "given": 12,
+      "given": 13,
       "followed": 3
     }
   },
@@ -46,38 +46,46 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Stephan Bodzin",
-          "total": 864,
-          "year": "2007"
+          "name": "Birdy",
+          "total": 470,
+          "year": "2011"
         },
         {
-          "type": "m-artist",
-          "name": "Izmar",
-          "n": 500,
+          "type": "m-album",
+          "artist": "The Cure",
+          "title": "Greatest Hits",
+          "n": 250,
+          "year": "2024"
+        },
+        {
+          "type": "repeat",
+          "artist": "Tarkan",
+          "title": "Gül Döktüm Yollarina",
+          "n": 3,
           "year": "2023"
         },
         {
           "type": "first-track",
-          "artist": "Stephan Bodzin",
-          "title": "Mondfahrt",
-          "total": 43,
-          "year": "2007"
+          "artist": "Edward Sharpe And The Magnetic Zeros",
+          "title": "Home",
+          "total": 64,
+          "year": "2011"
         },
         {
           "type": "busiest",
-          "year": "2023",
-          "plays": 126,
+          "year": "2008",
+          "plays": 103,
           "top": {
-            "name": "Izmar",
-            "plays": 20
+            "name": "System of a Down",
+            "plays": 28
           }
         },
         {
           "type": "quietest",
-          "year": "2013",
-          "plays": 3,
+          "year": "2012",
+          "plays": 1,
           "top": {
-            "name": "CHVRCHES",
+            "name": "MGMT",
             "plays": 1
           }
         }
@@ -85,147 +93,153 @@
       "years": [
         {
           "year": "2025",
-          "plays": 57,
+          "plays": 44,
           "top": {
-            "name": "Faithless",
-            "plays": 10
+            "name": "The Cure",
+            "plays": 18
           }
         },
         {
           "year": "2024",
-          "plays": 120,
+          "plays": 54,
           "top": {
-            "name": "Red Hot Chili Peppers",
-            "plays": 13
+            "name": "The Cure",
+            "plays": 12
           }
         },
         {
           "year": "2023",
-          "plays": 126,
+          "plays": 79,
           "top": {
-            "name": "Izmar",
-            "plays": 20
+            "name": "Tarkan",
+            "plays": 3
           }
         },
         {
           "year": "2022",
-          "plays": 35,
+          "plays": 42,
           "top": {
-            "name": "Bonobo",
-            "plays": 2
+            "name": "Röyksopp",
+            "plays": 3
           }
         },
         {
           "year": "2021",
-          "plays": 61,
+          "plays": 53,
           "top": {
-            "name": "David García Díaz",
-            "plays": 17
+            "name": "Fleetwood Mac",
+            "plays": 2
           }
         },
         {
           "year": "2020",
-          "plays": 40,
+          "plays": 54,
           "top": {
-            "name": "Arovane",
-            "plays": 5
+            "name": "The Beatles",
+            "plays": 2
           }
         },
         {
           "year": "2019",
-          "plays": 57,
+          "plays": 23,
           "top": {
-            "name": "Max Richter",
-            "plays": 8
+            "name": "deadmau5",
+            "plays": 11
           }
         },
         {
           "year": "2018",
-          "plays": 24,
+          "plays": 36,
           "top": {
-            "name": "The Prodigy",
-            "plays": 11
+            "name": "The Mercury Program",
+            "plays": 9
           }
         },
         {
           "year": "2017",
-          "plays": 9,
+          "plays": 30,
           "top": {
-            "name": "Grizzly Bear",
-            "plays": 1
+            "name": "Kyle Dixon",
+            "plays": 16
           }
         },
         {
           "year": "2016",
-          "plays": 0,
-          "top": null
+          "plays": 33,
+          "top": {
+            "name": "Mayer Hawthorne",
+            "plays": 3
+          }
         },
         {
           "year": "2015",
-          "plays": 49,
+          "plays": 78,
           "top": {
-            "name": "Trentemøller",
-            "plays": 15
+            "name": "Daft Punk",
+            "plays": 37
           }
         },
         {
           "year": "2014",
-          "plays": 23,
+          "plays": 50,
           "top": {
-            "name": "Charlie Smalls",
-            "plays": 17
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 3,
-          "top": {
-            "name": "CHVRCHES",
-            "plays": 1
-          }
-        },
-        {
-          "year": "2012",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2011",
-          "plays": 35,
-          "top": {
-            "name": "José González",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2010",
-          "plays": 82,
-          "top": {
-            "name": "Izmar",
+            "name": "Austin Wintory",
             "plays": 21
           }
         },
         {
-          "year": "2009",
-          "plays": 76,
+          "year": "2013",
+          "plays": 51,
           "top": {
-            "name": "The Beatles",
-            "plays": 24
+            "name": "Fat Freddy's Drop",
+            "plays": 9
           }
         },
         {
-          "year": "2008",
-          "plays": 58,
+          "year": "2012",
+          "plays": 1,
           "top": {
-            "name": "MC Solaar",
+            "name": "MGMT",
+            "plays": 1
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 32,
+          "top": {
+            "name": "Spinvis",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 96,
+          "top": {
+            "name": "Buena Vista Social Club",
             "plays": 14
           }
         },
         {
-          "year": "2007",
-          "plays": 38,
+          "year": "2009",
+          "plays": 41,
           "top": {
-            "name": "Simian Mobile Disco",
+            "name": "Hercules and Love Affair",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2008",
+          "plays": 103,
+          "top": {
+            "name": "System of a Down",
+            "plays": 28
+          }
+        },
+        {
+          "year": "2007",
+          "plays": 26,
+          "top": {
+            "name": "José González",
             "plays": 11
           }
         },
@@ -242,15 +256,19 @@
       ]
     },
     "lastfm_artists_in_collection": [
-      "Bonobo",
-      "Faithless",
-      "Izmar",
+      "Austin Wintory",
+      "Birdy",
+      "Buena Vista Social Club",
+      "Daft Punk",
+      "Fat Freddy's Drop",
+      "Fleetwood Mac",
       "José González",
-      "MC Solaar",
-      "Max Richter",
-      "Red Hot Chili Peppers",
-      "The Beatles",
-      "The Prodigy"
+      "Mayer Hawthorne",
+      "Röyksopp",
+      "Spinvis",
+      "System Of A Down",
+      "Tarkan",
+      "The Beatles"
     ],
     "discogs": []
   }
