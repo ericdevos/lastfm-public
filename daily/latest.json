@@ -1,44 +1,44 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-06T21:46:40+00:00",
-  "date": "2026-11-05",
-  "date_nl": "donderdag 5 november 2026",
-  "mail_date": "2026-11-06",
-  "data_until": "2026-11-06T21:45:22+00:00",
+  "generated_at": "2026-11-07T01:10:24+00:00",
+  "date": "2026-11-06",
+  "date_nl": "vrijdag 6 november 2026",
+  "mail_date": "2026-11-07",
+  "data_until": "2026-11-06T23:01:03+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 114,
+    "plays": 136,
     "avg_year": 75,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 114 nummers — ruim boven je daggemiddelde van 2026 (75; +52%)."
+    "line": "Gisteren: 136 nummers — ruim boven je daggemiddelde van 2026 (75; +81%)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds augustus 2013 weer Nero (1× gisteren)."
+      "text": "Voor het eerst sinds oktober 2018 weer City of the Sun (1× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Kelis – Tasty (CD Album Copy Protected, binnen sinds 21 oktober) draaide je gisteren 14×."
+      "text": "Je nieuwe aanwinst MF DOOM – Operation: Doomsday (CD Album Reissue, binnen sinds 5 november) draaide je gisteren 18×."
     },
     {
-      "type": "shelf",
-      "label": "Kast × luisteren",
-      "text": "Pink Floyd – The Dark Side Of The Moon (Vinyl LP Album Repress Stereo) staat al sinds mei 2024 in je kast; gisteren 9 nummers van gedraaid."
+      "type": "discoveries",
+      "label": "Ontdekkingen",
+      "text": "9 artiesten hoorde je gisteren voor het eerst, o.a. Dumas, Konradsen, Rory Green."
     }
   ],
   "tip": {
-    "date": "2026-11-06",
-    "faded_line": "Com Truise.",
-    "kast_line": "Diana Ross – 20 Golden Greats (1979, vinyl), nog nooit gedraaid.",
-    "followup_line": "De tip van 5 november heb je opgevolgd: Michael Mayer (5×).",
+    "date": "2026-11-07",
+    "faded_line": "Efdemin — 118× gedraaid, piek in 2009, laatst op 20 september 2023.",
+    "kast_line": "Timecode – 02.2 (2002, cd), nog nooit gedraaid.",
+    "followup_line": "De tip van 6 november heb je opgevolgd: Com Truise (7×).",
     "stats": {
-      "given": 13,
-      "followed": 4
+      "given": 14,
+      "followed": 5
     }
   },
   "onthisday": {
@@ -46,229 +46,226 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Birdy",
-          "total": 470,
-          "year": "2011"
+          "name": "Roni Size",
+          "total": 136,
+          "year": "2005"
         },
         {
-          "type": "m-album",
-          "artist": "The Cure",
-          "title": "Greatest Hits",
-          "n": 250,
-          "year": "2024"
+          "type": "comeback",
+          "name": "C-Mon & Kypski",
+          "gapDays": 1352,
+          "since": "2011-02-24",
+          "plays": 9,
+          "before": 105,
+          "year": "2014"
         },
         {
-          "type": "repeat",
-          "artist": "Tarkan",
-          "title": "Gül Döktüm Yollarina",
-          "n": 3,
-          "year": "2023"
+          "type": "m-track",
+          "artist": "The Beatles",
+          "title": "I Want to Hold Your Hand",
+          "n": 50,
+          "year": "2020"
         },
         {
           "type": "first-track",
-          "artist": "Edward Sharpe And The Magnetic Zeros",
-          "title": "Home",
-          "total": 64,
-          "year": "2011"
+          "artist": "Rick Astley",
+          "title": "Never Gonna Give You Up",
+          "total": 30,
+          "year": "2008"
         },
         {
           "type": "busiest",
           "year": "2008",
-          "plays": 103,
+          "plays": 142,
           "top": {
-            "name": "System of a Down",
-            "plays": 28
+            "name": "Ladyhawke",
+            "plays": 12
           }
         },
         {
           "type": "quietest",
-          "year": "2012",
-          "plays": 1,
+          "year": "2019",
+          "plays": 3,
           "top": {
-            "name": "MGMT",
-            "plays": 1
+            "name": "The Prodigy",
+            "plays": 3
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 44,
+          "plays": 47,
           "top": {
-            "name": "The Cure",
-            "plays": 18
+            "name": "Ludwig Göransson",
+            "plays": 14
           }
         },
         {
           "year": "2024",
-          "plays": 54,
+          "plays": 58,
           "top": {
-            "name": "The Cure",
-            "plays": 12
+            "name": "De La Soul",
+            "plays": 16
           }
         },
         {
           "year": "2023",
           "plays": 79,
           "top": {
-            "name": "Tarkan",
-            "plays": 3
+            "name": "Peals",
+            "plays": 23
           }
         },
         {
           "year": "2022",
-          "plays": 42,
+          "plays": 125,
           "top": {
-            "name": "Röyksopp",
-            "plays": 3
+            "name": "The Beatles",
+            "plays": 24
           }
         },
         {
           "year": "2021",
-          "plays": 53,
+          "plays": 34,
           "top": {
-            "name": "Fleetwood Mac",
+            "name": "Earth, Wind & Fire",
             "plays": 2
           }
         },
         {
           "year": "2020",
-          "plays": 54,
+          "plays": 46,
           "top": {
-            "name": "The Beatles",
+            "name": "Angus & Julia Stone",
             "plays": 2
           }
         },
         {
           "year": "2019",
-          "plays": 23,
+          "plays": 3,
           "top": {
-            "name": "deadmau5",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 36,
-          "top": {
-            "name": "The Mercury Program",
-            "plays": 9
-          }
-        },
-        {
-          "year": "2017",
-          "plays": 30,
-          "top": {
-            "name": "Kyle Dixon",
-            "plays": 16
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 33,
-          "top": {
-            "name": "Mayer Hawthorne",
+            "name": "The Prodigy",
             "plays": 3
           }
         },
         {
-          "year": "2015",
-          "plays": 78,
+          "year": "2018",
+          "plays": 25,
           "top": {
-            "name": "Daft Punk",
-            "plays": 37
+            "name": "Metallica",
+            "plays": 2
           }
+        },
+        {
+          "year": "2017",
+          "plays": 41,
+          "top": {
+            "name": "Undervatten",
+            "plays": 6
+          }
+        },
+        {
+          "year": "2016",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2015",
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2014",
-          "plays": 50,
-          "top": {
-            "name": "Austin Wintory",
-            "plays": 21
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 51,
+          "plays": 71,
           "top": {
             "name": "Fat Freddy's Drop",
-            "plays": 9
-          }
-        },
-        {
-          "year": "2012",
-          "plays": 1,
-          "top": {
-            "name": "MGMT",
-            "plays": 1
-          }
-        },
-        {
-          "year": "2011",
-          "plays": 32,
-          "top": {
-            "name": "Spinvis",
-            "plays": 12
-          }
-        },
-        {
-          "year": "2010",
-          "plays": 96,
-          "top": {
-            "name": "Buena Vista Social Club",
             "plays": 14
           }
         },
         {
-          "year": "2009",
-          "plays": 41,
+          "year": "2013",
+          "plays": 18,
           "top": {
-            "name": "Hercules and Love Affair",
-            "plays": 10
+            "name": "DJ Shadow",
+            "plays": 2
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 52,
+          "top": {
+            "name": "Autechre",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2010",
+          "plays": 98,
+          "top": {
+            "name": "Sufjan Stevens",
+            "plays": 19
+          }
+        },
+        {
+          "year": "2009",
+          "plays": 94,
+          "top": {
+            "name": "Yann Tiersen",
+            "plays": 21
           }
         },
         {
           "year": "2008",
-          "plays": 103,
+          "plays": 142,
           "top": {
-            "name": "System of a Down",
-            "plays": 28
+            "name": "Ladyhawke",
+            "plays": 12
           }
         },
         {
           "year": "2007",
-          "plays": 26,
+          "plays": 43,
           "top": {
-            "name": "José González",
-            "plays": 11
+            "name": "Acda en de Munnik",
+            "plays": 13
           }
         },
         {
           "year": "2006",
-          "plays": 0,
-          "top": null
+          "plays": 7,
+          "top": {
+            "name": "JJ Cale & Eric Clapton",
+            "plays": 1
+          }
         },
         {
           "year": "2005",
-          "plays": 0,
-          "top": null
+          "plays": 10,
+          "top": {
+            "name": "Beastie Boys",
+            "plays": 3
+          }
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Austin Wintory",
-      "Birdy",
-      "Buena Vista Social Club",
-      "Daft Punk",
+      "Acda en de Munnik",
+      "Beastie Boys",
+      "DJ Shadow",
+      "De La Soul",
+      "Earth, Wind & Fire",
       "Fat Freddy's Drop",
-      "Fleetwood Mac",
-      "José González",
-      "Mayer Hawthorne",
-      "Röyksopp",
-      "Spinvis",
-      "System Of A Down",
-      "Tarkan",
-      "The Beatles"
+      "Ladyhawke",
+      "Metallica",
+      "The Beatles",
+      "The Prodigy",
+      "Yann Tiersen"
     ],
     "discogs": []
   }
