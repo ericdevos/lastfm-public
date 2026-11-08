@@ -1,43 +1,43 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-07T22:16:11+00:00",
-  "date": "2026-11-06",
-  "date_nl": "vrijdag 6 november 2026",
-  "mail_date": "2026-11-07",
-  "data_until": "2026-11-07T22:13:32+00:00",
+  "generated_at": "2026-11-08T02:23:49+00:00",
+  "date": "2026-11-07",
+  "date_nl": "zaterdag 7 november 2026",
+  "mail_date": "2026-11-08",
+  "data_until": "2026-11-07T22:33:42+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 136,
+    "plays": 126,
     "avg_year": 75,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 136 nummers — ruim boven je daggemiddelde van 2026 (75; +81%)."
+    "line": "Gisteren: 126 nummers — ruim boven je daggemiddelde van 2026 (75; +68%)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds oktober 2018 weer City of the Sun (1× gisteren)."
+      "text": "Voor het eerst sinds mei 2020 weer Jack Peñate (3× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst MF DOOM – Operation: Doomsday (CD Album Reissue, binnen sinds 5 november) draaide je gisteren 18×."
+      "text": "Je nieuwe aanwinst Air – Premiers Symptômes (CD Compilation Reissue, binnen sinds 28 oktober) draaide je gisteren 4×."
     },
     {
-      "type": "discoveries",
-      "label": "Ontdekkingen",
-      "text": "9 artiesten hoorde je gisteren voor het eerst, o.a. Dumas, Konradsen, Rory Green."
+      "type": "shelf",
+      "label": "Kast × luisteren",
+      "text": "Michiel Borstlap – Reflective (CD Album) staat al sinds maart 2024 in je kast; gisteren 16 nummers van gedraaid."
     }
   ],
   "tip": {
-    "date": "2026-11-07",
-    "faded_line": "Efdemin — 118× gedraaid, piek in 2009, laatst op 20 september 2023.",
-    "kast_line": "Timecode – 02.2, nog nooit gedraaid.",
+    "date": "2026-11-08",
+    "faded_line": "The Fratellis — 123× gedraaid, piek in 2007, laatst op 4 augustus 2023.",
+    "kast_line": "Eric Clapton – Guitar Boogie (1971, vinyl), nog nooit gedraaid.",
     "followup_line": "De tip van 6 november heb je opgevolgd: Com Truise (7×).",
     "stats": {
-      "given": 14,
+      "given": 15,
       "followed": 5
     }
   },
@@ -46,129 +46,133 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Roni Size",
-          "total": 136,
-          "year": "2005"
-        },
-        {
-          "type": "comeback",
-          "name": "C-Mon & Kypski",
-          "gapDays": 1352,
-          "since": "2011-02-24",
-          "plays": 9,
-          "before": 105,
-          "year": "2014"
+          "name": "Kyle Dixon & Michael Stein",
+          "total": 878,
+          "year": "2017"
         },
         {
           "type": "m-track",
-          "artist": "The Beatles",
-          "title": "I Want to Hold Your Hand",
+          "artist": "Austin Wintory",
+          "title": "Threshold",
           "n": 50,
-          "year": "2020"
+          "year": "2022"
         },
         {
           "type": "first-track",
-          "artist": "Rick Astley",
-          "title": "Never Gonna Give You Up",
-          "total": 30,
-          "year": "2008"
+          "artist": "Kyle Dixon & Michael Stein",
+          "title": "Stranger Things",
+          "total": 44,
+          "year": "2017"
+        },
+        {
+          "type": "kast",
+          "year": "2024",
+          "artist": "Creedence Clearwater Revival, John Fogerty",
+          "title": "Chronicle (The 20 Greatest Hits)",
+          "release_id": 1578089,
+          "medium": "Vinyl",
+          "plays": 20,
+          "sameDay": 26
         },
         {
           "type": "busiest",
-          "year": "2008",
-          "plays": 142,
+          "year": "2024",
+          "plays": 108,
           "top": {
-            "name": "Ladyhawke",
-            "plays": 12
+            "name": "The Nice",
+            "plays": 14
           }
         },
         {
           "type": "quietest",
-          "year": "2019",
-          "plays": 3,
+          "year": "2016",
+          "plays": 5,
           "top": {
-            "name": "The Prodigy",
-            "plays": 3
+            "name": "Dr. Sounds",
+            "plays": 1
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 47,
+          "plays": 71,
           "top": {
-            "name": "Ludwig Göransson",
-            "plays": 14
+            "name": "Small Faces",
+            "plays": 12
           }
         },
         {
           "year": "2024",
-          "plays": 58,
+          "plays": 108,
           "top": {
-            "name": "De La Soul",
-            "plays": 16
+            "name": "The Nice",
+            "plays": 14
           }
         },
         {
           "year": "2023",
-          "plays": 79,
+          "plays": 42,
           "top": {
-            "name": "Peals",
-            "plays": 23
+            "name": "the champ",
+            "plays": 2
           }
         },
         {
           "year": "2022",
-          "plays": 125,
+          "plays": 42,
           "top": {
-            "name": "The Beatles",
-            "plays": 24
+            "name": "Austin Wintory",
+            "plays": 8
           }
         },
         {
           "year": "2021",
           "plays": 34,
           "top": {
-            "name": "Earth, Wind & Fire",
+            "name": "The Braxtons",
             "plays": 2
           }
         },
         {
           "year": "2020",
-          "plays": 46,
+          "plays": 72,
           "top": {
-            "name": "Angus & Julia Stone",
-            "plays": 2
+            "name": "Max Richter",
+            "plays": 24
           }
         },
         {
           "year": "2019",
-          "plays": 3,
+          "plays": 45,
           "top": {
             "name": "The Prodigy",
-            "plays": 3
+            "plays": 19
           }
         },
         {
           "year": "2018",
-          "plays": 25,
+          "plays": 52,
           "top": {
-            "name": "Metallica",
-            "plays": 2
+            "name": "Justin Hurwitz",
+            "plays": 8
           }
         },
         {
           "year": "2017",
-          "plays": 41,
+          "plays": 38,
           "top": {
-            "name": "Undervatten",
-            "plays": 6
+            "name": "Kyle Dixon & Michael Stein",
+            "plays": 14
           }
         },
         {
           "year": "2016",
-          "plays": 0,
-          "top": null
+          "plays": 5,
+          "top": {
+            "name": "Dr. Sounds",
+            "plays": 1
+          }
         },
         {
           "year": "2015",
@@ -177,95 +181,88 @@
         },
         {
           "year": "2014",
-          "plays": 71,
-          "top": {
-            "name": "Fat Freddy's Drop",
-            "plays": 14
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 18,
-          "top": {
-            "name": "DJ Shadow",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2012",
-          "plays": 52,
-          "top": {
-            "name": "Autechre",
-            "plays": 12
-          }
-        },
-        {
-          "year": "2011",
           "plays": 0,
           "top": null
         },
         {
-          "year": "2010",
-          "plays": 98,
+          "year": "2013",
+          "plays": 29,
           "top": {
-            "name": "Sufjan Stevens",
-            "plays": 19
+            "name": "DJ Shadow",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 8,
+          "top": {
+            "name": "Underworld",
+            "plays": 4
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 29,
+          "top": {
+            "name": "Common",
+            "plays": 11
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 20,
+          "top": {
+            "name": "Booka Shade",
+            "plays": 8
           }
         },
         {
           "year": "2009",
-          "plays": 94,
+          "plays": 25,
           "top": {
-            "name": "Yann Tiersen",
-            "plays": 21
-          }
-        },
-        {
-          "year": "2008",
-          "plays": 142,
-          "top": {
-            "name": "Ladyhawke",
+            "name": "Tosca",
             "plays": 12
           }
         },
         {
-          "year": "2007",
-          "plays": 43,
+          "year": "2008",
+          "plays": 8,
           "top": {
-            "name": "Acda en de Munnik",
-            "plays": 13
+            "name": "José González",
+            "plays": 6
+          }
+        },
+        {
+          "year": "2007",
+          "plays": 27,
+          "top": {
+            "name": "Arctic Monkeys",
+            "plays": 12
           }
         },
         {
           "year": "2006",
-          "plays": 7,
-          "top": {
-            "name": "JJ Cale & Eric Clapton",
-            "plays": 1
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2005",
-          "plays": 10,
-          "top": {
-            "name": "Beastie Boys",
-            "plays": 3
-          }
+          "plays": 0,
+          "top": null
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Acda en de Munnik",
-      "Beastie Boys",
+      "Arctic Monkeys",
+      "Austin Wintory",
+      "Creedence Clearwater Revival, John Fogerty",
       "DJ Shadow",
-      "De La Soul",
-      "Earth, Wind & Fire",
-      "Fat Freddy's Drop",
-      "Ladyhawke",
-      "Metallica",
-      "The Beatles",
+      "José González",
+      "Max Richter",
+      "The Nice",
       "The Prodigy",
-      "Yann Tiersen"
+      "Tosca",
+      "Underworld"
     ],
     "discogs": []
   }
