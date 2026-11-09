@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-02T12:08:47+00:00",
- "data_until": "2026-11-02T06:41:24+00:00",
- "asof": "2026-11-02",
+ "generated_at": "2026-11-09T02:37:59+00:00",
+ "data_until": "2026-11-08T18:48:09+00:00",
+ "asof": "2026-11-09",
  "months": [
   {
    "m": "2005-02",
@@ -1045,21 +1045,21 @@
   },
   {
    "m": "2026-10",
-   "n": 2385
+   "n": 2386
   }
  ],
  "top20": [
   {
    "name": "The Beatles",
-   "n": 3221
+   "n": 3222
   },
   {
    "name": "Röyksopp",
-   "n": 3046
+   "n": 3078
   },
   {
    "name": "Beastie Boys",
-   "n": 2402
+   "n": 2413
   },
   {
    "name": "Daft Punk",
@@ -1079,7 +1079,7 @@
   },
   {
    "name": "Bonobo",
-   "n": 1664
+   "n": 1666
   },
   {
    "name": "The xx",
@@ -1087,7 +1087,7 @@
   },
   {
    "name": "Thievery Corporation",
-   "n": 1603
+   "n": 1622
   },
   {
    "name": "Yann Tiersen",
@@ -1111,53 +1111,53 @@
   },
   {
    "name": "Tosca",
-   "n": 1336
+   "n": 1337
   },
   {
    "name": "Acda en de Munnik",
    "n": 1331
   },
   {
-   "name": "DJ Shadow",
-   "n": 1288
+   "name": "Air",
+   "n": 1311
   },
   {
-   "name": "Air",
-   "n": 1260
+   "name": "DJ Shadow",
+   "n": 1289
   },
   {
    "name": "The Cinematic Orchestra",
-   "n": 1249
+   "n": 1251
   }
  ],
  "top30d": [
   {
    "name": "Air",
-   "n": 77
-  },
-  {
-   "name": "Moby",
-   "n": 61
-  },
-  {
-   "name": "Acda en de Munnik",
-   "n": 59
-  },
-  {
-   "name": "MF DOOM",
-   "n": 40
+   "n": 99
   },
   {
    "name": "Röyksopp",
-   "n": 37
+   "n": 53
   },
   {
-   "name": "Massive Attack",
-   "n": 33
+   "name": "MF DOOM",
+   "n": 50
   },
   {
-   "name": "Christian Löffler",
-   "n": 28
+   "name": "Moby",
+   "n": 47
+  },
+  {
+   "name": "Acda en de Munnik",
+   "n": 44
+  },
+  {
+   "name": "Trentemøller",
+   "n": 31
+  },
+  {
+   "name": "Bremer/McCoy",
+   "n": 26
   },
   {
    "name": "Rose Spearman",
@@ -1168,12 +1168,12 @@
    "n": 23
   },
   {
-   "name": "Tosca",
+   "name": "Madvillain",
    "n": 23
   }
  ],
  "top30d_period": {
-  "from": "2026-10-03",
-  "to": "2026-11-01"
+  "from": "2026-10-10",
+  "to": "2026-11-08"
  }
 }
