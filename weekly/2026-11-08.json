@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at": "2026-11-09T02:37:59+00:00",
- "data_until": "2026-11-08T18:48:09+00:00",
+ "generated_at": "2026-11-09T12:40:22+00:00",
+ "data_until": "2026-11-09T12:02:13+00:00",
  "sync_ok": true,
  "period": {
   "from": "2026-11-02",
@@ -27,7 +27,7 @@
    {
     "name": "MF DOOM",
     "plays": 22,
-    "total": 223,
+    "total": 224,
     "first_played": "2007-10-06"
    },
    {
@@ -168,7 +168,7 @@
     "artist": "MF DOOM",
     "album": "Operation: Doomsday",
     "plays": 19,
-    "total": 30,
+    "total": 31,
     "first_played": "2026-10-08"
    },
    {
@@ -955,7 +955,7 @@
    {
     "name": "MF DOOM",
     "plays": 50,
-    "total": 223
+    "total": 224
    },
    {
     "name": "Moby",
@@ -1005,7 +1005,7 @@
    {
     "name": "Putumayo",
     "plays": 22,
-    "total": 408
+    "total": 409
    },
    {
     "name": "Stevie Wonder",
@@ -1097,6 +1097,84 @@
   ]
  },
  "recent": [
+  {
+   "ts": "2026-11-09T13:02:13+01:00",
+   "artist": "Gotan Project",
+   "track": "Tríptico",
+   "album": "La Revancha del Tango"
+  },
+  {
+   "ts": "2026-11-09T10:26:51+01:00",
+   "artist": "Gotan Project",
+   "track": "Chunga's Revenge",
+   "album": "La Revancha del Tango"
+  },
+  {
+   "ts": "2026-11-09T10:21:49+01:00",
+   "artist": "Gotan Project",
+   "track": "Época",
+   "album": "La Revancha del Tango"
+  },
+  {
+   "ts": "2026-11-09T10:17:25+01:00",
+   "artist": "MF DOOM",
+   "track": "Doomsday",
+   "album": "Operation: Doomsday"
+  },
+  {
+   "ts": "2026-11-09T10:10:28+01:00",
+   "artist": "Gotan Project",
+   "track": "Queremos paz",
+   "album": "La Revancha del Tango"
+  },
+  {
+   "ts": "2026-11-09T08:51:47+01:00",
+   "artist": "Matthew Halsall",
+   "track": "The Sun In September",
+   "album": "Fletcher Moss Park"
+  },
+  {
+   "ts": "2026-11-09T08:48:12+01:00",
+   "artist": "Khruangbin",
+   "track": "White Gloves",
+   "album": "The Universe Smiles Upon You"
+  },
+  {
+   "ts": "2026-11-09T08:40:56+01:00",
+   "artist": "Matthew Halsall",
+   "track": "Cherry Blossom",
+   "album": "Fletcher Moss Park"
+  },
+  {
+   "ts": "2026-11-09T08:37:19+01:00",
+   "artist": "Okonski",
+   "track": "Vista",
+   "album": "Entrance Music"
+  },
+  {
+   "ts": "2026-11-09T08:34:08+01:00",
+   "artist": "Joe Pass",
+   "track": "A Time For Us",
+   "album": "Late Night Tales: Belle and Sebastian, Vol. 2"
+  },
+  {
+   "ts": "2026-11-09T08:31:04+01:00",
+   "artist": "Hermanos Gutiérrez",
+   "track": "Low Sun",
+   "album": "Sonido Cósmico"
+  },
+  {
+   "ts": "2026-11-09T08:25:59+01:00",
+   "artist": "Kruder & Dorfmeister",
+   "track": "Definition",
+   "album": "G-Stoned"
+  },
+  {
+   "ts": "2026-11-09T08:22:05+01:00",
+   "artist": "Putumayo",
+   "track": "Lua Vai, Lua Vem",
+   "album": "Women of the World by Putumayo"
+  },
   {
    "ts": "2026-11-08T19:48:09+01:00",
    "artist": "Ali Farka Touré",
@@ -1198,84 +1276,6 @@
    "artist": "Abou Diarra",
    "track": "Aboubono",
    "album": "Sabou"
-  },
-  {
-   "ts": "2026-11-08T18:37:59+01:00",
-   "artist": "Nato (FR)",
-   "track": "Jelassi - Radio Edit",
-   "album": "Jelassi (Radio Edit)"
-  },
-  {
-   "ts": "2026-11-08T18:32:43+01:00",
-   "artist": "Putumayo",
-   "track": "Porte 13",
-   "album": "French Bossa Nova by Putumayo"
-  },
-  {
-   "ts": "2026-11-08T18:29:07+01:00",
-   "artist": "The Bongo Hop",
-   "track": "San Gabriel",
-   "album": "Satingarona Pt. 2"
-  },
-  {
-   "ts": "2026-11-08T18:24:25+01:00",
-   "artist": "Cheikh Lô",
-   "track": "Il N'est Jamais Trop Tard",
-   "album": "Jamm"
-  },
-  {
-   "ts": "2026-11-08T18:19:54+01:00",
-   "artist": "Me and My Friends",
-   "track": "Many Miles Away",
-   "album": "Bring Summer"
-  },
-  {
-   "ts": "2026-11-08T18:15:57+01:00",
-   "artist": "Nasiri",
-   "track": "Jardins",
-   "album": "Jardins"
-  },
-  {
-   "ts": "2026-11-08T18:11:38+01:00",
-   "artist": "Putumayo",
-   "track": "Mopanaqui",
-   "album": "Coffee Culture by Putumayo"
-  },
-  {
-   "ts": "2026-11-08T17:32:56+01:00",
-   "artist": "Prince",
-   "track": "I Wanna Be Your Lover",
-   "album": "Prince"
-  },
-  {
-   "ts": "2026-11-08T17:28:41+01:00",
-   "artist": "Stevie Wonder",
-   "track": "I Wish",
-   "album": "Songs in the Key of Life"
-  },
-  {
-   "ts": "2026-11-08T17:24:30+01:00",
-   "artist": "Mayer Hawthorne",
-   "track": "Henny & Gingerale - bonus track",
-   "album": "How Do You Do"
-  },
-  {
-   "ts": "2026-11-08T15:21:50+01:00",
-   "artist": "Massive Attack",
-   "track": "Unfinished Sympathy - 2012 Mix/Master",
-   "album": "Blue Lines (2012 Mix/Master)"
-  },
-  {
-   "ts": "2026-11-08T14:25:05+01:00",
-   "artist": "Linkin Park",
-   "track": "Heavy Is the Crown",
-   "album": "From Zero"
-  },
-  {
-   "ts": "2026-11-08T14:21:16+01:00",
-   "artist": "Linkin Park",
-   "track": "Cut the Bridge",
-   "album": "From Zero"
   }
  ],
  "kast": {
@@ -1293,7 +1293,7 @@
     "artist": "MF Doom",
     "title": "Operation: Doomsday",
     "date_added": "2026-11-05",
-    "plays_total": 82,
+    "plays_total": 83,
     "first_played": "2022-06-16"
    }
   ],
@@ -1328,7 +1328,7 @@
     "year": 1999,
     "format": "CD",
     "date_added": "2026-11-05",
-    "plays_total": 82
+    "plays_total": 83
    },
    {
     "release_id": 1608112,
