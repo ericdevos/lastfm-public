@@ -1,43 +1,43 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-08T19:56:25+00:00",
-  "date": "2026-11-07",
-  "date_nl": "zaterdag 7 november 2026",
-  "mail_date": "2026-11-08",
+  "generated_at": "2026-11-09T01:12:24+00:00",
+  "date": "2026-11-08",
+  "date_nl": "zondag 8 november 2026",
+  "mail_date": "2026-11-09",
   "data_until": "2026-11-08T18:48:09+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 126,
+    "plays": 87,
     "avg_year": 75,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 126 nummers — ruim boven je daggemiddelde van 2026 (75; +68%)."
+    "line": "Gisteren: 87 nummers — boven je daggemiddelde van 2026 (75)."
   },
   "highlights": [
     {
-      "type": "comeback",
-      "label": "Comeback",
-      "text": "Voor het eerst sinds mei 2020 weer Jack Peñate (3× gisteren)."
-    },
-    {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Air – Premiers Symptômes (CD Compilation Reissue, binnen sinds 28 oktober) draaide je gisteren 4×."
+      "text": "Je nieuwe aanwinst MF DOOM – Operation: Doomsday (CD Album Reissue, binnen sinds 5 november) draaide je gisteren 1×."
+    },
+    {
+      "type": "milestone",
+      "label": "Mijlpaal",
+      "text": "Room Eleven ging gisteren over de 250 plays (nu 254, eerst gehoord in september 2008)."
     },
     {
       "type": "shelf",
       "label": "Kast × luisteren",
-      "text": "Michiel Borstlap – Reflective (CD Album) staat al sinds maart 2024 in je kast; gisteren 16 nummers van gedraaid."
+      "text": "Sade – The Best Of Sade (CD Compilation Stereo) staat al sinds februari 2024 in je kast; gisteren 16 nummers van gedraaid."
     }
   ],
   "tip": {
-    "date": "2026-11-08",
-    "faded_line": "The Fratellis — 123× gedraaid, piek in 2007, laatst op 4 augustus 2023.",
-    "kast_line": "Eric Clapton – Guitar Boogie (1971, vinyl), nog nooit gedraaid.",
+    "date": "2026-11-09",
+    "faded_line": "George Ezra — 112× gedraaid, piek in 2020, laatst op 4 maart 2025.",
+    "kast_line": "Red Hot Chili Peppers – Live In Hyde Park (2004, cd), pas 2× gedraaid.",
     "followup_line": "De tip van 6 november heb je opgevolgd: Com Truise (7×).",
     "stats": {
-      "given": 15,
+      "given": 16,
       "followed": 5
     }
   },
@@ -46,49 +46,46 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Kyle Dixon & Michael Stein",
-          "total": 878,
-          "year": "2017"
+          "name": "Spinvis",
+          "total": 175,
+          "year": "2007"
         },
         {
-          "type": "m-track",
-          "artist": "Austin Wintory",
-          "title": "Threshold",
-          "n": 50,
-          "year": "2022"
+          "type": "m-album",
+          "artist": "Thievery Corporation",
+          "title": "The Cosmic Game",
+          "n": 500,
+          "year": "2024"
+        },
+        {
+          "type": "repeat",
+          "artist": "Calvin Harris",
+          "title": "merrymaking at my home place (deadmau5 remix)",
+          "n": 3,
+          "year": "2008"
         },
         {
           "type": "first-track",
-          "artist": "Kyle Dixon & Michael Stein",
-          "title": "Stranger Things",
-          "total": 44,
-          "year": "2017"
-        },
-        {
-          "type": "kast",
-          "year": "2024",
-          "artist": "Creedence Clearwater Revival, John Fogerty",
-          "title": "Chronicle (The 20 Greatest Hits)",
-          "release_id": 1578089,
-          "medium": "Vinyl",
-          "plays": 20,
-          "sameDay": 26
+          "artist": "Anouk",
+          "title": "For Bitter or Worse",
+          "total": 33,
+          "year": "2009"
         },
         {
           "type": "busiest",
           "year": "2024",
-          "plays": 108,
+          "plays": 143,
           "top": {
-            "name": "The Nice",
-            "plays": 14
+            "name": "Thievery Corporation",
+            "plays": 9
           }
         },
         {
           "type": "quietest",
-          "year": "2016",
-          "plays": 5,
+          "year": "2005",
+          "plays": 4,
           "top": {
-            "name": "Dr. Sounds",
+            "name": "The Alan Parsons Project",
             "plays": 1
           }
         }
@@ -96,173 +93,185 @@
       "years": [
         {
           "year": "2025",
-          "plays": 71,
+          "plays": 37,
           "top": {
-            "name": "Small Faces",
-            "plays": 12
+            "name": "Roy Buchanan",
+            "plays": 8
           }
         },
         {
           "year": "2024",
-          "plays": 108,
+          "plays": 143,
           "top": {
-            "name": "The Nice",
-            "plays": 14
+            "name": "Thievery Corporation",
+            "plays": 9
           }
         },
         {
           "year": "2023",
-          "plays": 42,
+          "plays": 13,
           "top": {
-            "name": "the champ",
-            "plays": 2
+            "name": "Goldfrapp",
+            "plays": 1
           }
         },
         {
           "year": "2022",
           "plays": 42,
           "top": {
-            "name": "Austin Wintory",
-            "plays": 8
-          }
-        },
-        {
-          "year": "2021",
-          "plays": 34,
-          "top": {
-            "name": "The Braxtons",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 72,
-          "top": {
-            "name": "Max Richter",
-            "plays": 24
-          }
-        },
-        {
-          "year": "2019",
-          "plays": 45,
-          "top": {
-            "name": "The Prodigy",
-            "plays": 19
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 52,
-          "top": {
-            "name": "Justin Hurwitz",
-            "plays": 8
-          }
-        },
-        {
-          "year": "2017",
-          "plays": 38,
-          "top": {
-            "name": "Kyle Dixon & Michael Stein",
-            "plays": 14
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 5,
-          "top": {
-            "name": "Dr. Sounds",
-            "plays": 1
-          }
-        },
-        {
-          "year": "2015",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2014",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2013",
-          "plays": 29,
-          "top": {
-            "name": "DJ Shadow",
+            "name": "Bruno Mars",
             "plays": 10
           }
         },
         {
-          "year": "2012",
-          "plays": 8,
+          "year": "2021",
+          "plays": 72,
           "top": {
-            "name": "Underworld",
-            "plays": 4
+            "name": "Skee Mask",
+            "plays": 22
           }
         },
         {
-          "year": "2011",
-          "plays": 29,
+          "year": "2020",
+          "plays": 68,
           "top": {
-            "name": "Common",
+            "name": "Bicep",
             "plays": 11
           }
         },
         {
-          "year": "2010",
-          "plays": 20,
+          "year": "2019",
+          "plays": 57,
           "top": {
-            "name": "Booka Shade",
-            "plays": 8
+            "name": "Kings of Leon",
+            "plays": 2
+          }
+        },
+        {
+          "year": "2018",
+          "plays": 22,
+          "top": {
+            "name": "The Beatles",
+            "plays": 19
+          }
+        },
+        {
+          "year": "2017",
+          "plays": 51,
+          "top": {
+            "name": "Kyle Dixon & Michael Stein",
+            "plays": 28
+          }
+        },
+        {
+          "year": "2016",
+          "plays": 28,
+          "top": {
+            "name": "Bebe Rexha",
+            "plays": 2
+          }
+        },
+        {
+          "year": "2015",
+          "plays": 28,
+          "top": {
+            "name": "Paco de Lucía",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 36,
+          "top": {
+            "name": "Elton John",
+            "plays": 21
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 11,
+          "top": {
+            "name": "Lavinia Meijer",
+            "plays": 11
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 9,
+          "top": {
+            "name": "Prodıgy",
+            "plays": 9
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 15,
+          "top": {
+            "name": "Santigold",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 10,
+          "top": {
+            "name": "Natalie Imbruglia",
+            "plays": 1
           }
         },
         {
           "year": "2009",
-          "plays": 25,
+          "plays": 47,
           "top": {
-            "name": "Tosca",
-            "plays": 12
+            "name": "Anouk",
+            "plays": 27
           }
         },
         {
           "year": "2008",
-          "plays": 8,
+          "plays": 57,
           "top": {
-            "name": "José González",
-            "plays": 6
-          }
-        },
-        {
-          "year": "2007",
-          "plays": 27,
-          "top": {
-            "name": "Arctic Monkeys",
+            "name": "Alex Smoke",
             "plays": 12
           }
         },
         {
+          "year": "2007",
+          "plays": 22,
+          "top": {
+            "name": "The Sheer",
+            "plays": 5
+          }
+        },
+        {
           "year": "2006",
-          "plays": 0,
-          "top": null
+          "plays": 54,
+          "top": {
+            "name": "Massive Attack",
+            "plays": 2
+          }
         },
         {
           "year": "2005",
-          "plays": 0,
-          "top": null
+          "plays": 4,
+          "top": {
+            "name": "The Alan Parsons Project",
+            "plays": 1
+          }
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Arctic Monkeys",
-      "Austin Wintory",
-      "Creedence Clearwater Revival, John Fogerty",
-      "DJ Shadow",
-      "José González",
-      "Max Richter",
-      "The Nice",
-      "The Prodigy",
-      "Tosca",
-      "Underworld"
+      "Anouk",
+      "Calvin Harris",
+      "Goldfrapp",
+      "Massive Attack",
+      "Natalie Imbruglia",
+      "Paco De Lucía",
+      "Spinvis",
+      "The Beatles",
+      "The Sheer",
+      "Thievery Corporation"
     ],
     "discogs": []
   }
