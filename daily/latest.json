@@ -1,43 +1,43 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-10T17:16:21+00:00",
-  "date": "2026-11-09",
-  "date_nl": "maandag 9 november 2026",
-  "mail_date": "2026-11-10",
-  "data_until": "2026-11-10T15:24:22+00:00",
+  "generated_at": "2026-11-10T23:42:29+00:00",
+  "date": "2026-11-10",
+  "date_nl": "dinsdag 10 november 2026",
+  "mail_date": "2026-11-11",
+  "data_until": "2026-11-10T21:56:15+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 60,
+    "plays": 114,
     "avg_year": 75,
     "year": 2026,
-    "verdict": "onder",
-    "line": "Gisteren: 60 nummers — onder je daggemiddelde van 2026 (75)."
+    "verdict": "boven",
+    "line": "Gisteren: 114 nummers — ruim boven je daggemiddelde van 2026 (75; +52%)."
   },
   "highlights": [
     {
-      "type": "comeback",
-      "label": "Comeback",
-      "text": "Voor het eerst sinds april 2025 weer Joe Pass (1× gisteren)."
-    },
-    {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst MF DOOM – Operation: Doomsday (CD Album Reissue, binnen sinds 5 november) draaide je gisteren 2×."
+      "text": "Je nieuwe aanwinst Air – Premiers Symptômes (CD Compilation Reissue, binnen sinds 28 oktober) draaide je gisteren 6×."
     },
     {
       "type": "shelf",
       "label": "Kast × luisteren",
-      "text": "The Robert Cray Band – Don't Be Afraid Of The Dark (CD Album) staat al sinds mei 2024 in je kast; gisteren 10 nummers van gedraaid."
+      "text": "Chris Remo – Firewatch Original Soundtrack (File MP3 Album / File FLAC Album) staat al sinds augustus 2025 in je kast; gisteren 18 nummers van gedraaid."
+    },
+    {
+      "type": "waiting",
+      "label": "Nog op de stapel",
+      "text": "Nirvana – In Utero (CD Album Reissue Stereo, binnen sinds 5 november) wacht nog op zijn eerste draaibeurt."
     }
   ],
   "tip": {
-    "date": "2026-11-10",
-    "faded_line": "Daryl Hall & John Oates — 104× gedraaid, piek in 2023, laatst op 21 juli 2024.",
-    "kast_line": "Nirvana – Incesticide (1992, cd), pas 1× gedraaid.",
+    "date": "2026-11-11",
+    "faded_line": "4TLR — 207× gedraaid, piek in 2021, laatst op 10 mei 2025.",
+    "kast_line": "Eric Clapton – Eric Clapton's Rainbow Concert (1973, vinyl), nog nooit gedraaid.",
     "followup_line": "De tip van 6 november heb je opgevolgd: Com Truise (7×).",
     "stats": {
-      "given": 17,
+      "given": 18,
       "followed": 5
     }
   },
@@ -46,118 +46,122 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Toto",
-          "total": 151,
-          "year": "2009"
+          "name": "Passenger",
+          "total": 173,
+          "year": "2012"
         },
         {
-          "type": "m-track",
-          "artist": "The Magic Numbers",
-          "title": "You Never Had It",
-          "n": 25,
-          "year": "2009"
+          "type": "comeback",
+          "name": "Alexandre Desplat",
+          "gapDays": 711,
+          "since": "2021-11-30",
+          "plays": 14,
+          "before": 82,
+          "year": "2023"
         },
         {
-          "type": "repeat",
-          "artist": "Blood Red Shoes",
-          "title": "It's Getting Boring By The Sea",
-          "n": 3,
-          "year": "2022"
+          "type": "m-artist",
+          "name": "Ralph Myerz and the Jack Herren Band",
+          "n": 500,
+          "year": "2012"
         },
         {
           "type": "first-track",
-          "artist": "P!nk",
-          "title": "Raise Your Glass - Explicit Version",
-          "total": 36,
-          "year": "2010"
+          "artist": "Passenger",
+          "title": "Let Her Go",
+          "total": 48,
+          "year": "2012"
         },
         {
           "type": "busiest",
-          "year": "2022",
-          "plays": 121,
+          "year": "2019",
+          "plays": 94,
           "top": {
-            "name": "The Beatles",
-            "plays": 65
+            "name": "Joris de Man",
+            "plays": 15
           }
         },
         {
           "type": "quietest",
-          "year": "2005",
-          "plays": 3,
+          "year": "2007",
+          "plays": 2,
           "top": {
-            "name": "DJ Sandstorm",
-            "plays": 2
+            "name": "Spinvis",
+            "plays": 1
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 19,
+          "plays": 71,
           "top": {
-            "name": "Brand X",
-            "plays": 3
+            "name": "Shy FX",
+            "plays": 13
           }
         },
         {
           "year": "2024",
-          "plays": 100,
+          "plays": 65,
           "top": {
-            "name": "Stephan Bodzin",
-            "plays": 13
+            "name": "Stan Getz",
+            "plays": 12
           }
         },
         {
           "year": "2023",
-          "plays": 40,
+          "plays": 83,
           "top": {
-            "name": "The Beatles",
-            "plays": 7
+            "name": "The xx",
+            "plays": 26
           }
         },
         {
           "year": "2022",
-          "plays": 121,
+          "plays": 62,
           "top": {
-            "name": "The Beatles",
-            "plays": 65
+            "name": "Modeselektor",
+            "plays": 12
           }
         },
         {
           "year": "2021",
-          "plays": 67,
+          "plays": 21,
           "top": {
-            "name": "Michael Jackson",
-            "plays": 2
+            "name": "Janne Schra",
+            "plays": 3
           }
         },
         {
           "year": "2020",
-          "plays": 48,
+          "plays": 66,
           "top": {
-            "name": "Solomun",
-            "plays": 3
+            "name": "Johann Sebastian Bach",
+            "plays": 28
           }
         },
         {
           "year": "2019",
-          "plays": 90,
+          "plays": 94,
           "top": {
-            "name": "Cowboy Billie Boem",
-            "plays": 3
+            "name": "Joris de Man",
+            "plays": 15
           }
         },
         {
           "year": "2018",
-          "plays": 0,
-          "top": null
+          "plays": 61,
+          "top": {
+            "name": "Charlie Puth",
+            "plays": 3
+          }
         },
         {
           "year": "2017",
-          "plays": 105,
+          "plays": 46,
           "top": {
-            "name": "The Magic Numbers",
-            "plays": 13
+            "name": "The Postal Service",
+            "plays": 10
           }
         },
         {
@@ -167,105 +171,89 @@
         },
         {
           "year": "2015",
-          "plays": 28,
-          "top": {
-            "name": "John Williams",
-            "plays": 26
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2014",
-          "plays": 26,
-          "top": {
-            "name": "Foo Fighters",
-            "plays": 6
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2013",
-          "plays": 14,
-          "top": {
-            "name": "Tim Knol",
-            "plays": 11
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2012",
-          "plays": 9,
+          "plays": 68,
           "top": {
-            "name": "St Germain",
-            "plays": 9
-          }
-        },
-        {
-          "year": "2011",
-          "plays": 46,
-          "top": {
-            "name": "Beastie Boys",
-            "plays": 15
-          }
-        },
-        {
-          "year": "2010",
-          "plays": 120,
-          "top": {
-            "name": "The Beatles",
-            "plays": 19
-          }
-        },
-        {
-          "year": "2009",
-          "plays": 85,
-          "top": {
-            "name": "Elbow",
+            "name": "Jazzamor",
             "plays": 13
           }
         },
         {
-          "year": "2008",
-          "plays": 63,
+          "year": "2011",
+          "plays": 5,
           "top": {
-            "name": "Digitalism",
-            "plays": 15
+            "name": "Birdy",
+            "plays": 5
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 15,
+          "top": {
+            "name": "Lawrence",
+            "plays": 9
+          }
+        },
+        {
+          "year": "2009",
+          "plays": 11,
+          "top": {
+            "name": "Friendly Fires",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2008",
+          "plays": 78,
+          "top": {
+            "name": "Joss Stone",
+            "plays": 14
           }
         },
         {
           "year": "2007",
-          "plays": 9,
+          "plays": 2,
           "top": {
-            "name": "Alter Ego",
-            "plays": 2
+            "name": "Spinvis",
+            "plays": 1
           }
         },
         {
           "year": "2006",
-          "plays": 61,
-          "top": {
-            "name": "Arctic Monkeys",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2005",
           "plays": 3,
           "top": {
             "name": "DJ Sandstorm",
             "plays": 2
           }
+        },
+        {
+          "year": "2005",
+          "plays": 0,
+          "top": null
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Arctic Monkeys",
-      "Beastie Boys",
-      "Elbow",
-      "Foo Fighters",
-      "John Williams",
-      "Michael Jackson",
-      "St Germain",
-      "The Beatles",
-      "The Magic Numbers",
-      "Toto"
+      "Birdy",
+      "Joss Stone",
+      "Passenger",
+      "Spinvis",
+      "Stan Getz",
+      "The XX"
     ],
     "discogs": []
   }
