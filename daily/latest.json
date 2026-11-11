@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-11T14:09:34+00:00",
+  "generated_at": "2026-11-11T17:26:11+00:00",
   "date": "2026-11-10",
   "date_nl": "dinsdag 10 november 2026",
   "mail_date": "2026-11-11",
-  "data_until": "2026-11-11T13:19:15+00:00",
+  "data_until": "2026-11-11T17:22:44+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
@@ -35,10 +35,10 @@
     "date": "2026-11-11",
     "faded_line": "4TLR — 207× gedraaid, piek in 2021, laatst op 10 mei 2025.",
     "kast_line": "Eric Clapton – Eric Clapton's Rainbow Concert (1973, vinyl), nog nooit gedraaid.",
-    "followup_line": "De tip van 6 november heb je opgevolgd: Com Truise (7×).",
+    "followup_line": "De tip van 7 november heb je opgevolgd: Efdemin (8×).",
     "stats": {
       "given": 18,
-      "followed": 5
+      "followed": 7
     }
   },
   "onthisday": {
