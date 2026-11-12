@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T14:48:23+00:00",
+  "generated_at": "2026-11-12T16:33:52+00:00",
   "date": "2026-11-11",
   "date_nl": "woensdag 11 november 2026",
   "mail_date": "2026-11-12",
-  "data_until": "2026-11-12T14:30:01+00:00",
+  "data_until": "2026-11-12T16:15:32+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 103,
+    "plays": 104,
     "avg_year": 75,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 103 nummers — boven je daggemiddelde van 2026 (75)."
+    "line": "Gisteren: 104 nummers — boven je daggemiddelde van 2026 (75)."
   },
   "highlights": [
     {
