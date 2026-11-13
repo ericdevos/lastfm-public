@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T07:07:51+00:00",
+  "generated_at": "2026-11-13T11:47:34+00:00",
   "date": "2026-11-12",
   "date_nl": "donderdag 12 november 2026",
   "mail_date": "2026-11-13",
-  "data_until": "2026-11-12T22:02:52+00:00",
+  "data_until": "2026-11-13T11:46:26+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 102,
+    "plays": 103,
     "avg_year": 75,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 102 nummers — boven je daggemiddelde van 2026 (75)."
+    "line": "Gisteren: 103 nummers — boven je daggemiddelde van 2026 (75)."
   },
   "highlights": [
     {
@@ -28,7 +28,7 @@
     {
       "type": "top",
       "label": "Topper",
-      "text": "Daft Punk was je topper met 25 nummers (vooral Tron: Legacy: Original Motion Picture Soundtrack); in totaal 2.390 plays sinds februari 2005. Van Daft Punk staan 4 platen in je kast, maar Tron: Legacy: Original Motion Picture Soundtrack niet."
+      "text": "Daft Punk was je topper met 26 nummers (vooral Tron: Legacy: Original Motion Picture Soundtrack); in totaal 2.391 plays sinds februari 2005. Van Daft Punk staan 4 platen in je kast, maar Tron: Legacy: Original Motion Picture Soundtrack niet."
     }
   ],
   "tip": {
