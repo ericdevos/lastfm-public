@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at": "2026-11-09T12:40:22+00:00",
- "data_until": "2026-11-09T12:02:13+00:00",
+ "generated_at": "2026-11-13T09:00:27+00:00",
+ "data_until": "2026-11-12T22:02:52+00:00",
  "sync_ok": true,
  "period": {
   "from": "2026-11-02",
@@ -9,32 +9,38 @@
   "tz": "Europe/Amsterdam"
  },
  "week": {
-  "plays": 657,
-  "unique_artists": 232,
+  "plays": 665,
+  "unique_artists": 231,
   "artists": [
    {
     "name": "Air",
     "plays": 51,
-    "total": 1311,
+    "total": 1325,
     "first_played": "2005-03-03"
    },
    {
     "name": "Röyksopp",
-    "plays": 36,
-    "total": 3078,
+    "plays": 38,
+    "total": 3102,
     "first_played": "2005-03-07"
    },
    {
     "name": "MF DOOM",
     "plays": 22,
-    "total": 224,
+    "total": 225,
     "first_played": "2007-10-06"
    },
    {
     "name": "The Roots",
-    "plays": 20,
-    "total": 963,
+    "plays": 21,
+    "total": 965,
     "first_played": "2005-04-11"
+   },
+   {
+    "name": "Merol",
+    "plays": 19,
+    "total": 135,
+    "first_played": "2019-02-21"
    },
    {
     "name": "Thievery Corporation",
@@ -49,12 +55,6 @@
     "first_played": "2005-03-08"
    },
    {
-    "name": "Merol",
-    "plays": 17,
-    "total": 133,
-    "first_played": "2019-02-21"
-   },
-   {
     "name": "Michiel Borstlap",
     "plays": 16,
     "total": 178,
@@ -63,7 +63,7 @@
    {
     "name": "Sade",
     "plays": 16,
-    "total": 329,
+    "total": 332,
     "first_played": "2010-01-04"
    },
    {
@@ -167,9 +167,9 @@
    {
     "artist": "MF DOOM",
     "album": "Operation: Doomsday",
-    "plays": 19,
-    "total": 31,
-    "first_played": "2026-10-08"
+    "plays": 21,
+    "total": 83,
+    "first_played": "2022-06-16"
    },
    {
     "artist": "Postmen",
@@ -189,7 +189,7 @@
     "artist": "Sade",
     "album": "The Best of Sade",
     "plays": 16,
-    "total": 155,
+    "total": 157,
     "first_played": "2010-03-02"
    },
    {
@@ -228,10 +228,17 @@
     "first_played": "2005-03-02"
    },
    {
+    "artist": "The Roots",
+    "album": "The Roots Come Alive Too: DYWM30 Live at Blue Note NYC",
+    "plays": 14,
+    "total": 14,
+    "first_played": "2026-11-04"
+   },
+   {
     "artist": "Air",
     "album": "Talkie Walkie",
     "plays": 13,
-    "total": 104,
+    "total": 105,
     "first_played": "2005-06-06"
    },
    {
@@ -240,13 +247,6 @@
     "plays": 13,
     "total": 170,
     "first_played": "2008-09-12"
-   },
-   {
-    "artist": "The Roots",
-    "album": "The Roots Come Alive Too: DYWM30 Live at Blue Note NYC",
-    "plays": 13,
-    "total": 13,
-    "first_played": "2026-11-04"
    },
    {
     "artist": "Alanis Morissette",
@@ -333,11 +333,11 @@
     "first_played": "2010-06-14"
    },
    {
-    "artist": "Air",
-    "album": "The Virgin Suicides Redux",
-    "plays": 7,
-    "total": 72,
-    "first_played": "2026-07-22"
+    "artist": "Röyksopp",
+    "album": "Nebulous Nights - An Ambient Excursion into Profound Mysteries",
+    "plays": 8,
+    "total": 483,
+    "first_played": "2024-12-15"
    }
   ],
   "tracks": [
@@ -394,6 +394,11 @@
    {
     "artist": "Constantinople",
     "track": "Denkilo",
+    "plays": 2
+   },
+   {
+    "artist": "Massive Attack",
+    "track": "Unfinished Sympathy - 2012 Mix/Master",
     "plays": 2
    },
    {
@@ -459,11 +464,6 @@
    {
     "artist": "Air",
     "track": "African Velvet",
-    "plays": 1
-   },
-   {
-    "artist": "Air",
-    "track": "Afternoon Sister",
     "plays": 1
    }
   ],
@@ -594,7 +594,7 @@
    {
     "artist": "The Roots",
     "album": "The Roots Come Alive Too: DYWM30 Live at Blue Note NYC",
-    "plays": 13
+    "plays": 14
    },
    {
     "artist": "Rage Against the Machine",
@@ -782,6 +782,11 @@
     "plays": 1
    },
    {
+    "artist": "Little Simz",
+    "album": "NO THANK YOU",
+    "plays": 1
+   },
+   {
     "artist": "Mandevilla",
     "album": "Moving Circles",
     "plays": 1
@@ -936,7 +941,184 @@
     "album": "Roses",
     "plays": 1
    }
-  ]
+  ],
+  "risers": {
+   "rule": "plek aller tijden na deze week tegenover ervoor; alleen wie nu in de top 1000 staat en deze week gedraaid is; previous_rank null = nieuw in de ranglijst",
+   "artists": [
+    {
+     "name": "The Band",
+     "rank": 997,
+     "previous_rank": 1248,
+     "gained": 251,
+     "plays_week": 14,
+     "total": 57
+    },
+    {
+     "name": "Postmen",
+     "rank": 750,
+     "previous_rank": 912,
+     "gained": 162,
+     "plays_week": 18,
+     "total": 82
+    },
+    {
+     "name": "Kelis",
+     "rank": 798,
+     "previous_rank": 939,
+     "gained": 141,
+     "plays_week": 14,
+     "total": 76
+    },
+    {
+     "name": "Merol",
+     "rank": 505,
+     "previous_rank": 570,
+     "gained": 65,
+     "plays_week": 19,
+     "total": 135
+    },
+    {
+     "name": "MF DOOM",
+     "rank": 315,
+     "previous_rank": 355,
+     "gained": 40,
+     "plays_week": 22,
+     "total": 223
+    },
+    {
+     "name": "Michiel Borstlap",
+     "rank": 398,
+     "previous_rank": 436,
+     "gained": 38,
+     "plays_week": 16,
+     "total": 178
+    },
+    {
+     "name": "Bentley Rhythm Ace",
+     "rank": 399,
+     "previous_rank": 426,
+     "gained": 27,
+     "plays_week": 11,
+     "total": 177
+    },
+    {
+     "name": "Bremer/McCoy",
+     "rank": 427,
+     "previous_rank": 451,
+     "gained": 24,
+     "plays_week": 11,
+     "total": 167
+    },
+    {
+     "name": "Skunk Anansie",
+     "rank": 390,
+     "previous_rank": 412,
+     "gained": 22,
+     "plays_week": 11,
+     "total": 182
+    },
+    {
+     "name": "Com Truise",
+     "rank": 561,
+     "previous_rank": 582,
+     "gained": 21,
+     "plays_week": 7,
+     "total": 119
+    }
+   ],
+   "albums": [
+    {
+     "artist": "MF DOOM",
+     "album": "Operation: Doomsday",
+     "rank": 706,
+     "previous_rank": 960,
+     "gained": 254,
+     "plays_week": 21,
+     "total": 82
+    },
+    {
+     "artist": "Moloko",
+     "album": "Things to Make and Do",
+     "rank": 964,
+     "previous_rank": 1168,
+     "gained": 204,
+     "plays_week": 11,
+     "total": 61
+    },
+    {
+     "artist": "Bremer/McCoy",
+     "album": "Ordet",
+     "rank": 954,
+     "previous_rank": 1125,
+     "gained": 171,
+     "plays_week": 10,
+     "total": 61
+    },
+    {
+     "artist": "Alanis Morissette",
+     "album": "MTV Unplugged",
+     "rank": 819,
+     "previous_rank": 962,
+     "gained": 143,
+     "plays_week": 12,
+     "total": 72
+    },
+    {
+     "artist": "Skunk Anansie",
+     "album": "Paranoid & Sunburnt",
+     "rank": 765,
+     "previous_rank": 898,
+     "gained": 133,
+     "plays_week": 11,
+     "total": 77
+    },
+    {
+     "artist": "Michiel Borstlap",
+     "album": "Reflective",
+     "rank": 565,
+     "previous_rank": 695,
+     "gained": 130,
+     "plays_week": 16,
+     "total": 99
+    },
+    {
+     "artist": "Air",
+     "album": "Talkie Walkie",
+     "rank": 524,
+     "previous_rank": 619,
+     "gained": 95,
+     "plays_week": 13,
+     "total": 104
+    },
+    {
+     "artist": "Air",
+     "album": "The Virgin Suicides Redux",
+     "rank": 818,
+     "previous_rank": 901,
+     "gained": 83,
+     "plays_week": 7,
+     "total": 72
+    },
+    {
+     "artist": "The Roots",
+     "album": "Do You Want More?!!!??!",
+     "rank": 805,
+     "previous_rank": 886,
+     "gained": 81,
+     "plays_week": 7,
+     "total": 74
+    },
+    {
+     "artist": "Pink Floyd",
+     "album": "The Dark Side of the Moon",
+     "rank": 529,
+     "previous_rank": 594,
+     "gained": 65,
+     "plays_week": 9,
+     "total": 104
+    }
+   ]
+  }
  },
  "month": {
   "from": "2026-10-10",
@@ -945,22 +1127,22 @@
    {
     "name": "Air",
     "plays": 99,
-    "total": 1311
+    "total": 1325
    },
    {
     "name": "Röyksopp",
-    "plays": 53,
-    "total": 3078
+    "plays": 63,
+    "total": 3102
    },
    {
     "name": "MF DOOM",
     "plays": 50,
-    "total": 224
+    "total": 225
    },
    {
     "name": "Moby",
     "plays": 47,
-    "total": 766
+    "total": 767
    },
    {
     "name": "Acda en de Munnik",
@@ -978,6 +1160,11 @@
     "total": 167
    },
    {
+    "name": "The Roots",
+    "plays": 24,
+    "total": 965
+   },
+   {
     "name": "Rose Spearman",
     "plays": 24,
     "total": 24
@@ -990,12 +1177,7 @@
    {
     "name": "Madvillain",
     "plays": 23,
-    "total": 184
-   },
-   {
-    "name": "The Roots",
-    "plays": 23,
-    "total": 963
+    "total": 185
    },
    {
     "name": "Thievery Corporation",
@@ -1005,7 +1187,7 @@
    {
     "name": "Putumayo",
     "plays": 22,
-    "total": 409
+    "total": 419
    },
    {
     "name": "Stevie Wonder",
@@ -1045,6 +1227,11 @@
     "plays": 22
    },
    {
+    "artist": "Röyksopp",
+    "album": "Nebulous Nights - An Ambient Excursion into Profound Mysteries",
+    "plays": 22
+   },
+   {
     "artist": "Stevie Wonder",
     "album": "Songs in the Key of Life",
     "plays": 22
@@ -1060,14 +1247,14 @@
     "plays": 21
    },
    {
-    "artist": "Richie Hawtin",
-    "album": "DE9 | Transitions",
+    "artist": "MF DOOM",
+    "album": "Operation: Doomsday",
     "plays": 21
    },
    {
-    "artist": "MF DOOM",
-    "album": "Operation: Doomsday",
-    "plays": 19
+    "artist": "Richie Hawtin",
+    "album": "DE9 | Transitions",
+    "plays": 21
    },
    {
     "artist": "Röyksopp",
@@ -1088,194 +1275,189 @@
     "artist": "Moby",
     "album": "Wait for Me",
     "plays": 18
-   },
-   {
-    "artist": "Stars of the Lid",
-    "album": "and Their Refinement of the Decline",
-    "plays": 18
    }
   ]
  },
  "recent": [
   {
-   "ts": "2026-11-09T13:02:13+01:00",
-   "artist": "Gotan Project",
-   "track": "Tríptico",
-   "album": "La Revancha del Tango"
+   "ts": "2026-11-12T23:02:52+01:00",
+   "artist": "Jungle by Night",
+   "track": "Camel",
+   "album": "Jungle By Night"
   },
   {
-   "ts": "2026-11-09T10:26:51+01:00",
-   "artist": "Gotan Project",
-   "track": "Chunga's Revenge",
-   "album": "La Revancha del Tango"
+   "ts": "2026-11-12T22:56:12+01:00",
+   "artist": "Jungle by Night",
+   "track": "Great Wide Open",
+   "album": "Jungle By Night"
   },
   {
-   "ts": "2026-11-09T10:21:49+01:00",
-   "artist": "Gotan Project",
-   "track": "Época",
-   "album": "La Revancha del Tango"
+   "ts": "2026-11-12T22:50:32+01:00",
+   "artist": "Jungle by Night",
+   "track": "Get 5",
+   "album": "Jungle By Night"
   },
   {
-   "ts": "2026-11-09T10:17:25+01:00",
-   "artist": "MF DOOM",
-   "track": "Doomsday",
-   "album": "Operation: Doomsday"
+   "ts": "2026-11-12T22:44:42+01:00",
+   "artist": "Jungle by Night",
+   "track": "Afro Blue",
+   "album": "Jungle By Night"
   },
   {
-   "ts": "2026-11-09T10:10:28+01:00",
-   "artist": "Gotan Project",
-   "track": "Queremos paz",
-   "album": "La Revancha del Tango"
+   "ts": "2026-11-12T22:39:32+01:00",
+   "artist": "Jungle by Night",
+   "track": "Termite",
+   "album": "Jungle By Night"
   },
   {
-   "ts": "2026-11-09T08:51:47+01:00",
-   "artist": "Matthew Halsall",
-   "track": "The Sun In September",
-   "album": "Fletcher Moss Park"
+   "ts": "2026-11-12T22:33:31+01:00",
+   "artist": "Jungle by Night",
+   "track": "Hot Mama Hot",
+   "album": "Jungle By Night"
   },
   {
-   "ts": "2026-11-09T08:48:12+01:00",
-   "artist": "Khruangbin",
-   "track": "White Gloves",
-   "album": "The Universe Smiles Upon You"
+   "ts": "2026-11-12T20:45:30+01:00",
+   "artist": "Stereophonics",
+   "track": "Maybe Tomorrow",
+   "album": "You Gotta Go There to Come Back"
   },
   {
-   "ts": "2026-11-09T08:40:56+01:00",
-   "artist": "Matthew Halsall",
-   "track": "Cherry Blossom",
-   "album": "Fletcher Moss Park"
+   "ts": "2026-11-12T20:41:30+01:00",
+   "artist": "Ace",
+   "track": "How Long",
+   "album": "Five-A-Side"
   },
   {
-   "ts": "2026-11-09T08:37:19+01:00",
-   "artist": "Okonski",
-   "track": "Vista",
-   "album": "Entrance Music"
+   "ts": "2026-11-12T20:37:40+01:00",
+   "artist": "Xavier Rudd",
+   "track": "Follow the Sun",
+   "album": "Spirit Bird"
   },
   {
-   "ts": "2026-11-09T08:34:08+01:00",
-   "artist": "Joe Pass",
-   "track": "A Time For Us",
-   "album": "Late Night Tales: Belle and Sebastian, Vol. 2"
+   "ts": "2026-11-12T20:34:00+01:00",
+   "artist": "Neil Young",
+   "track": "Heart of Gold - 2009 Remaster",
+   "album": "Harvest (2009 Remaster)"
   },
   {
-   "ts": "2026-11-09T08:31:04+01:00",
-   "artist": "Hermanos Gutiérrez",
-   "track": "Low Sun",
-   "album": "Sonido Cósmico"
+   "ts": "2026-11-12T20:30:30+01:00",
+   "artist": "Son Little",
+   "track": "Lay Down",
+   "album": "Son Little (Deluxe Edition)"
   },
   {
-   "ts": "2026-11-09T08:25:59+01:00",
-   "artist": "Kruder & Dorfmeister",
-   "track": "Definition",
-   "album": "G-Stoned"
+   "ts": "2026-11-12T20:26:20+01:00",
+   "artist": "Simply Red",
+   "track": "Holding Back the Years - 2008 Remaster",
+   "album": "Picture Book (Expanded Version)"
   },
   {
-   "ts": "2026-11-09T08:22:05+01:00",
-   "artist": "Putumayo",
-   "track": "Lua Vai, Lua Vem",
-   "album": "Women of the World by Putumayo"
+   "ts": "2026-11-12T20:21:30+01:00",
+   "artist": "Boz Scaggs",
+   "track": "Lowdown (2023 Remaster)",
+   "album": "Silk Degrees (2023 Remaster)"
   },
   {
-   "ts": "2026-11-08T19:48:09+01:00",
-   "artist": "Ali Farka Touré",
-   "track": "Monsieur Le Maire De Niafunké",
-   "album": "In the Heart of the Moon"
+   "ts": "2026-11-12T20:17:00+01:00",
+   "artist": "The Zombies",
+   "track": "Time of the Season - Mono Remastered",
+   "album": "Odessey and Oracle (Mono Remastered)"
   },
   {
-   "ts": "2026-11-08T19:44:11+01:00",
-   "artist": "Constantinople",
-   "track": "Denkilo",
-   "album": "Traversées"
+   "ts": "2026-11-12T20:12:40+01:00",
+   "artist": "B.B. King",
+   "track": "The Thrill Is Gone",
+   "album": "Completely Well"
   },
   {
-   "ts": "2026-11-08T19:38:47+01:00",
-   "artist": "Roberto Fonseca",
-   "track": "Kachucha",
-   "album": "Yesun"
+   "ts": "2026-11-12T20:08:00+01:00",
+   "artist": "David Bowie",
+   "track": "This Is Not America (with The Pat Metheny Group) - 2014 Remaster",
+   "album": "Nothing Has Changed (The Best Of David Bowie) [Deluxe Edition]"
   },
   {
-   "ts": "2026-11-08T19:34:36+01:00",
-   "artist": "Putumayo",
-   "track": "Latido Ancestral",
-   "album": "Latido Ancestral"
+   "ts": "2026-11-12T20:03:30+01:00",
+   "artist": "Portishead",
+   "track": "Glory Box",
+   "album": "Dummy"
   },
   {
-   "ts": "2026-11-08T19:31:19+01:00",
-   "artist": "Me and My Friends",
-   "track": "Cumbria",
-   "album": "Bring Summer"
+   "ts": "2026-11-12T19:59:09+01:00",
+   "artist": "Leon Bridges",
+   "track": "Coming Home",
+   "album": "Coming Home (Deluxe)"
   },
   {
-   "ts": "2026-11-08T19:27:38+01:00",
-   "artist": "Afrocubism",
-   "track": "Jarabi",
-   "album": "Afrocubism"
+   "ts": "2026-11-12T19:55:09+01:00",
+   "artist": "London Grammar",
+   "track": "Strong",
+   "album": "If You Wait (Deluxe Version)"
   },
   {
-   "ts": "2026-11-08T19:21:41+01:00",
-   "artist": "Rumbo Tumba",
-   "track": "De pecho al fuego",
-   "album": "Cordillera Latiendo"
+   "ts": "2026-11-12T19:49:59+01:00",
+   "artist": "John Lee Hooker",
+   "track": "The Healer - feat. Carlos Santana & The Santana Band",
+   "album": "The Healer"
   },
   {
-   "ts": "2026-11-08T19:18:37+01:00",
-   "artist": "Sona Jobarteh",
-   "track": "Dunoo",
-   "album": "Badinyaa Kumoo"
+   "ts": "2026-11-12T19:45:19+01:00",
+   "artist": "Bob Dylan",
+   "track": "Don't Think Twice, It's All Right",
+   "album": "The Freewheelin' Bob Dylan"
   },
   {
-   "ts": "2026-11-08T19:14:13+01:00",
-   "artist": "Putumayo",
-   "track": "Raj3een Tany",
-   "album": "Cultural Crossroads by Putumayo"
+   "ts": "2026-11-12T19:41:49+01:00",
+   "artist": "Simon & Garfunkel",
+   "track": "Scarborough Fair / Canticle",
+   "album": "Parsley, Sage, Rosemary And Thyme"
   },
   {
-   "ts": "2026-11-08T19:11:10+01:00",
-   "artist": "Mathias Duplessy",
-   "track": "Good Morning Guangzhou",
-   "album": "Brothers of String"
+   "ts": "2026-11-12T19:38:19+01:00",
+   "artist": "Carole King",
+   "track": "It's Too Late",
+   "album": "Tapestry"
   },
   {
-   "ts": "2026-11-08T19:07:22+01:00",
-   "artist": "Ignacio Maria Gomez",
-   "track": "Tchen Dorò",
-   "album": "Belesia"
+   "ts": "2026-11-12T19:34:39+01:00",
+   "artist": "Paul Weller",
+   "track": "Wild Wood",
+   "album": "Wild Wood"
   },
   {
-   "ts": "2026-11-08T19:03:24+01:00",
-   "artist": "Ali Farka Touré",
-   "track": "ai ga bani",
-   "album": "In the Heart of the Moon"
+   "ts": "2026-11-12T19:29:49+01:00",
+   "artist": "Paolo Nutini",
+   "track": "Iron Sky",
+   "album": "Caustic Love"
   },
   {
-   "ts": "2026-11-08T18:58:50+01:00",
-   "artist": "Lagartijeando",
-   "track": "Fiesta de las Sierras",
-   "album": "7 Caminos"
+   "ts": "2026-11-12T19:23:49+01:00",
+   "artist": "Steely Dan",
+   "track": "Do It Again",
+   "album": "Can't Buy A Thrill"
   },
   {
-   "ts": "2026-11-08T18:55:09+01:00",
-   "artist": "Putumayo",
-   "track": "Juramento",
-   "album": "Coffee Culture by Putumayo"
+   "ts": "2026-11-12T19:19:19+01:00",
+   "artist": "Dionne Warwick",
+   "track": "Walk On By",
+   "album": "Make Way for Dionne Warwick"
   },
   {
-   "ts": "2026-11-08T18:51:22+01:00",
-   "artist": "Ibrahim Ferrer",
-   "track": "Boliviana",
-   "album": "Buenos Hermanos"
+   "ts": "2026-11-12T19:15:39+01:00",
+   "artist": "Roberta Flack",
+   "track": "The First Time Ever I Saw Your Face",
+   "album": "First Take"
   },
   {
-   "ts": "2026-11-08T18:47:32+01:00",
-   "artist": "Cuba Quartet",
-   "track": "Burro Estable",
-   "album": "Cuba Quartet"
+   "ts": "2026-11-12T19:11:19+01:00",
+   "artist": "Buena Vista Social Club",
+   "track": "Chan Chan",
+   "album": "Buena Vista Social Club"
   },
   {
-   "ts": "2026-11-08T18:43:57+01:00",
-   "artist": "Abou Diarra",
-   "track": "Aboubono",
-   "album": "Sabou"
+   "ts": "2026-11-12T19:07:08+01:00",
+   "artist": "Lou Reed",
+   "track": "Walk on the Wild Side",
+   "album": "Transformer"
   }
  ],
  "kast": {
@@ -1293,7 +1475,7 @@
     "artist": "MF Doom",
     "title": "Operation: Doomsday",
     "date_added": "2026-11-05",
-    "plays_total": 83,
+    "plays_total": 84,
     "first_played": "2022-06-16"
    }
   ],
@@ -1328,7 +1510,7 @@
     "year": 1999,
     "format": "CD",
     "date_added": "2026-11-05",
-    "plays_total": 83
+    "plays_total": 84
    },
    {
     "release_id": 1608112,
@@ -1427,7 +1609,7 @@
     "year": 1997,
     "format": "CD",
     "date_added": "2026-10-28",
-    "plays_total": 20
+    "plays_total": 26
    },
    {
     "release_id": 1275659,
@@ -1499,7 +1681,7 @@
     "year": 2002,
     "format": "CD",
     "date_added": "2026-10-21",
-    "plays_total": 54
+    "plays_total": 62
    },
    {
     "release_id": 35096396,
@@ -1508,7 +1690,7 @@
     "year": 2000,
     "format": "CD",
     "date_added": "2026-10-07",
-    "plays_total": 72
+    "plays_total": 78
    },
    {
     "release_id": 3004639,
@@ -1664,6 +1846,12 @@
     "lastPlayed": "2025-04-16"
    },
    {
+    "name": "4TLR",
+    "plays": 207,
+    "peakYear": "2021",
+    "lastPlayed": "2025-05-10"
+   },
+   {
     "name": "Moneybrother",
     "plays": 205,
     "peakYear": "2007",
@@ -1788,12 +1976,6 @@
     "plays": 118,
     "peakYear": "2005",
     "lastPlayed": "2024-09-25"
-   },
-   {
-    "name": "Efdemin",
-    "plays": 118,
-    "peakYear": "2009",
-    "lastPlayed": "2023-09-20"
    },
    {
     "name": "JP Cooper",

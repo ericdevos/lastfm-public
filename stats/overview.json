@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-11-09T12:40:22+00:00",
- "data_until": "2026-11-09T12:02:13+00:00",
- "asof": "2026-11-09",
+ "generated_at": "2026-11-13T09:00:27+00:00",
+ "data_until": "2026-11-12T22:02:52+00:00",
+ "asof": "2026-11-13",
  "months": [
   {
    "m": "2005-02",
@@ -1055,7 +1055,7 @@
   },
   {
    "name": "Röyksopp",
-   "n": 3078
+   "n": 3102
   },
   {
    "name": "Beastie Boys",
@@ -1063,7 +1063,7 @@
   },
   {
    "name": "Daft Punk",
-   "n": 2365
+   "n": 2390
   },
   {
    "name": "Jason Mraz",
@@ -1071,7 +1071,7 @@
   },
   {
    "name": "Max Richter",
-   "n": 1994
+   "n": 2028
   },
   {
    "name": "Placebo",
@@ -1079,7 +1079,7 @@
   },
   {
    "name": "Bonobo",
-   "n": 1666
+   "n": 1668
   },
   {
    "name": "The xx",
@@ -1111,7 +1111,7 @@
   },
   {
    "name": "Tosca",
-   "n": 1337
+   "n": 1339
   },
   {
    "name": "Acda en de Munnik",
@@ -1119,7 +1119,7 @@
   },
   {
    "name": "Air",
-   "n": 1311
+   "n": 1325
   },
   {
    "name": "DJ Shadow",
@@ -1127,7 +1127,7 @@
   },
   {
    "name": "The Cinematic Orchestra",
-   "n": 1251
+   "n": 1252
   }
  ],
  "top30d": [
@@ -1137,7 +1137,7 @@
   },
   {
    "name": "Röyksopp",
-   "n": 53
+   "n": 63
   },
   {
    "name": "MF DOOM",
@@ -1160,15 +1160,15 @@
    "n": 26
   },
   {
+   "name": "The Roots",
+   "n": 24
+  },
+  {
    "name": "Rose Spearman",
    "n": 24
   },
   {
    "name": "Ludwig Göransson",
-   "n": 23
-  },
-  {
-   "name": "Madvillain",
    "n": 23
   }
  ],
