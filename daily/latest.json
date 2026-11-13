@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T12:56:12+00:00",
+  "generated_at": "2026-11-13T20:00:18+00:00",
   "date": "2026-11-12",
   "date_nl": "donderdag 12 november 2026",
   "mail_date": "2026-11-13",
-  "data_until": "2026-11-13T12:55:13+00:00",
+  "data_until": "2026-11-13T19:57:58+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
@@ -35,10 +35,10 @@
     "date": "2026-11-13",
     "faded_line": "Pennywise — 251× gedraaid, piek in 2019, laatst op 16 april 2025.",
     "kast_line": "Pink Floyd – The Piper At The Gates Of Dawn (1967, vinyl), pas 3× gedraaid.",
-    "followup_line": "De tip van 7 november heb je opgevolgd: Efdemin (8×).",
+    "followup_line": "De tip van 9 november heb je opgevolgd: Red Hot Chili Peppers – Live In Hyde Park (7×).",
     "stats": {
       "given": 20,
-      "followed": 7
+      "followed": 8
     }
   },
   "onthisday": {
