@@ -1,43 +1,43 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T20:24:40+00:00",
-  "date": "2026-11-11",
-  "date_nl": "woensdag 11 november 2026",
-  "mail_date": "2026-11-12",
-  "data_until": "2026-11-12T19:45:30+00:00",
+  "generated_at": "2026-11-13T02:07:02+00:00",
+  "date": "2026-11-12",
+  "date_nl": "donderdag 12 november 2026",
+  "mail_date": "2026-11-13",
+  "data_until": "2026-11-12T22:02:52+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 104,
+    "plays": 102,
     "avg_year": 75,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 104 nummers — boven je daggemiddelde van 2026 (75)."
+    "line": "Gisteren: 102 nummers — boven je daggemiddelde van 2026 (75)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds oktober 2016 weer Carmen Rizzo (1× gisteren)."
+      "text": "Voor het eerst sinds augustus 2024 weer Donny Hathaway (1× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Rose – Trust (CD, binnen sinds 21 oktober) draaide je gisteren 1×."
+      "text": "Je nieuwe aanwinst Rose – Trust (CD, binnen sinds 21 oktober) draaide je gisteren 7×."
     },
     {
-      "type": "shelf",
-      "label": "Kast × luisteren",
-      "text": "Erykah Badu – Live (CD Album) staat al sinds maart 2025 in je kast; gisteren 14 nummers van gedraaid."
+      "type": "top",
+      "label": "Topper",
+      "text": "Daft Punk was je topper met 25 nummers (vooral Tron: Legacy: Original Motion Picture Soundtrack); in totaal 2.390 plays sinds februari 2005. Van Daft Punk staan 4 platen in je kast, maar Tron: Legacy: Original Motion Picture Soundtrack niet."
     }
   ],
   "tip": {
-    "date": "2026-11-12",
-    "faded_line": "Disclosure — 263× gedraaid, piek in 2020, laatst op 30 oktober 2024.",
-    "kast_line": "DJ Muggs – Soul Assassins II (2000, cd), pas 1× gedraaid.",
+    "date": "2026-11-13",
+    "faded_line": "Pennywise — 251× gedraaid, piek in 2019, laatst op 16 april 2025.",
+    "kast_line": "Pink Floyd – The Piper At The Gates Of Dawn (1967, vinyl), pas 3× gedraaid.",
     "followup_line": "De tip van 7 november heb je opgevolgd: Efdemin (8×).",
     "stats": {
-      "given": 19,
+      "given": 20,
       "followed": 7
     }
   },
@@ -46,217 +46,232 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Joe Manish",
-          "total": 125,
-          "year": "2008"
+          "name": "Calvin Harris",
+          "total": 904,
+          "year": "2007"
         },
         {
-          "type": "m-artist",
-          "name": "Jason Mraz",
-          "n": 1000,
-          "year": "2010"
+          "type": "comeback",
+          "name": "Digitalism",
+          "gapDays": 696,
+          "since": "2013-12-17",
+          "plays": 5,
+          "before": 214,
+          "year": "2015"
+        },
+        {
+          "type": "m-track",
+          "artist": "The xx",
+          "title": "Night Time",
+          "n": 25,
+          "year": "2011"
         },
         {
           "type": "repeat",
-          "artist": "DuvelDuvel",
-          "title": "Wie Is Ut?",
+          "artist": "DJ Shadow",
+          "title": "Organ Donor - Extended Overhaul",
           "n": 3,
-          "year": "2005"
+          "year": "2021"
+        },
+        {
+          "type": "first-track",
+          "artist": "Klaxons",
+          "title": "Golden Skans",
+          "total": 64,
+          "year": "2007"
         },
         {
           "type": "busiest",
-          "year": "2020",
-          "plays": 117,
+          "year": "2024",
+          "plays": 109,
           "top": {
-            "name": "The Beatles",
+            "name": "Johann Sebastian Bach",
             "plays": 10
           }
         },
         {
           "type": "quietest",
-          "year": "2013",
-          "plays": 6,
+          "year": "2015",
+          "plays": 9,
           "top": {
-            "name": "Ellie Goulding",
-            "plays": 2
+            "name": "Digitalism",
+            "plays": 5
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 112,
+          "plays": 90,
           "top": {
-            "name": "Simon & Garfunkel",
-            "plays": 25
+            "name": "De La Soul",
+            "plays": 13
           }
         },
         {
           "year": "2024",
-          "plays": 59,
+          "plays": 109,
           "top": {
-            "name": "The Beatles",
-            "plays": 9
+            "name": "Johann Sebastian Bach",
+            "plays": 10
           }
         },
         {
           "year": "2023",
-          "plays": 81,
+          "plays": 56,
           "top": {
-            "name": "Wu-Tang Clan",
-            "plays": 17
+            "name": "Bonobo",
+            "plays": 11
           }
         },
         {
           "year": "2022",
-          "plays": 35,
+          "plays": 26,
           "top": {
-            "name": "Pietenkidz",
-            "plays": 8
+            "name": "Kevin Morby",
+            "plays": 2
           }
         },
         {
           "year": "2021",
-          "plays": 77,
+          "plays": 31,
           "top": {
-            "name": "Aretha Franklin",
+            "name": "DJ Shadow",
             "plays": 3
           }
         },
         {
           "year": "2020",
-          "plays": 117,
+          "plays": 83,
           "top": {
             "name": "The Beatles",
-            "plays": 10
+            "plays": 55
           }
         },
         {
           "year": "2019",
-          "plays": 16,
+          "plays": 58,
           "top": {
-            "name": "Max Cooper",
-            "plays": 6
+            "name": "Henry Jackman",
+            "plays": 22
           }
         },
         {
           "year": "2018",
-          "plays": 50,
+          "plays": 33,
           "top": {
-            "name": "Booka Shade",
-            "plays": 3
-          }
-        },
-        {
-          "year": "2017",
-          "plays": 24,
-          "top": {
-            "name": "Agung Munthe",
-            "plays": 1
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2015",
-          "plays": 39,
-          "top": {
-            "name": "John Williams",
-            "plays": 14
-          }
-        },
-        {
-          "year": "2014",
-          "plays": 11,
-          "top": {
-            "name": "Steve Margoshes",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 6,
-          "top": {
-            "name": "Ellie Goulding",
+            "name": "Kllo",
             "plays": 2
           }
         },
         {
-          "year": "2012",
-          "plays": 8,
+          "year": "2017",
+          "plays": 47,
           "top": {
-            "name": "Prodıgy",
+            "name": "Austin Wintory",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2016",
+          "plays": 55,
+          "top": {
+            "name": "Laura Gibson",
             "plays": 1
           }
         },
         {
-          "year": "2011",
-          "plays": 88,
+          "year": "2015",
+          "plays": 9,
           "top": {
-            "name": "Michael Jackson",
-            "plays": 16
+            "name": "Digitalism",
+            "plays": 5
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 32,
+          "top": {
+            "name": "Bastille",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 43,
+          "top": {
+            "name": "Agnes Obel",
+            "plays": 11
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2011",
+          "plays": 36,
+          "top": {
+            "name": "Kings of Leon",
+            "plays": 11
           }
         },
         {
           "year": "2010",
-          "plays": 74,
+          "plays": 25,
           "top": {
-            "name": "Fever Ray",
-            "plays": 13
-          }
-        },
-        {
-          "year": "2009",
-          "plays": 48,
-          "top": {
-            "name": "Brian Wilson",
-            "plays": 18
-          }
-        },
-        {
-          "year": "2008",
-          "plays": 21,
-          "top": {
-            "name": "Digitalism",
-            "plays": 15
-          }
-        },
-        {
-          "year": "2007",
-          "plays": 12,
-          "top": {
-            "name": "Sticks & Delic",
+            "name": "Jochem van Gelder",
             "plays": 10
           }
         },
         {
-          "year": "2006",
-          "plays": 11,
+          "year": "2009",
+          "plays": 34,
           "top": {
-            "name": "Lily Allen",
-            "plays": 7
+            "name": "NOFX",
+            "plays": 13
           }
         },
         {
-          "year": "2005",
-          "plays": 8,
+          "year": "2008",
+          "plays": 82,
           "top": {
-            "name": "DuvelDuvel",
-            "plays": 8
+            "name": "Arctic Monkeys",
+            "plays": 25
           }
+        },
+        {
+          "year": "2007",
+          "plays": 58,
+          "top": {
+            "name": "Digitalism",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2006",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2005",
+          "plays": 0,
+          "top": null
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Jason Mraz",
-      "John Williams",
-      "Michael Jackson",
-      "Simon & Garfunkel",
+      "Agnes Obel",
+      "Arctic Monkeys",
+      "Austin Wintory",
+      "Bonobo",
+      "Calvin Harris",
+      "DJ Shadow",
+      "De La Soul",
+      "NOFX",
       "The Beatles",
-      "Wu-Tang Clan"
+      "The XX"
     ],
     "discogs": []
   }
