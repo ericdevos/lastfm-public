@@ -1,43 +1,43 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T22:54:13+00:00",
-  "date": "2026-11-12",
-  "date_nl": "donderdag 12 november 2026",
-  "mail_date": "2026-11-13",
+  "generated_at": "2026-11-14T01:44:34+00:00",
+  "date": "2026-11-13",
+  "date_nl": "vrijdag 13 november 2026",
+  "mail_date": "2026-11-14",
   "data_until": "2026-11-13T22:14:30+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 104,
+    "plays": 152,
     "avg_year": 75,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 104 nummers — boven je daggemiddelde van 2026 (75)."
+    "line": "Gisteren: 152 nummers — ruim boven je daggemiddelde van 2026 (75; +103%)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds augustus 2024 weer Donny Hathaway (1× gisteren)."
+      "text": "Voor het eerst sinds december 2023 weer Gareth Coker (22× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Rose – Trust (CD, binnen sinds 21 oktober) draaide je gisteren 7×."
+      "text": "Je nieuwe aanwinst Kylie Minogue – Body Language (CD Album Copy Protected, binnen sinds 21 oktober) draaide je gisteren 4×."
     },
     {
-      "type": "top",
-      "label": "Topper",
-      "text": "Daft Punk was je topper met 26 nummers (vooral Tron: Legacy: Original Motion Picture Soundtrack); in totaal 2.391 plays sinds februari 2005. Van Daft Punk staan 4 platen in je kast, maar Tron: Legacy: Original Motion Picture Soundtrack niet."
+      "type": "milestone",
+      "label": "Mijlpaal",
+      "text": "Koji Kondo ging gisteren over de 100 plays (nu 101, eerst gehoord in maart 2014)."
     }
   ],
   "tip": {
-    "date": "2026-11-13",
-    "faded_line": "Pennywise — 251× gedraaid, piek in 2019, laatst op 16 april 2025.",
-    "kast_line": "Pink Floyd – The Piper At The Gates Of Dawn (1967, vinyl), pas 3× gedraaid.",
+    "date": "2026-11-14",
+    "faded_line": "Soldaat van Oranje Cast — 165× gedraaid, piek in 2011, laatst op 29 september 2024.",
+    "kast_line": "Bryan Adams – Unplugged (1997, cd), pas 1× gedraaid.",
     "followup_line": "De tip van 9 november heb je opgevolgd: Red Hot Chili Peppers – Live In Hyde Park (7×).",
     "stats": {
-      "given": 20,
+      "given": 21,
       "followed": 8
     }
   },
@@ -46,213 +46,206 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Calvin Harris",
-          "total": 904,
-          "year": "2007"
+          "name": "Simon & Garfunkel",
+          "total": 733,
+          "year": "2008"
         },
         {
           "type": "comeback",
-          "name": "Digitalism",
-          "gapDays": 696,
-          "since": "2013-12-17",
-          "plays": 5,
-          "before": 214,
-          "year": "2015"
+          "name": "London Music Works",
+          "gapDays": 399,
+          "since": "2015-10-12",
+          "plays": 7,
+          "before": 80,
+          "year": "2016"
         },
         {
-          "type": "m-track",
-          "artist": "The xx",
-          "title": "Night Time",
-          "n": 25,
-          "year": "2011"
-        },
-        {
-          "type": "repeat",
-          "artist": "DJ Shadow",
-          "title": "Organ Donor - Extended Overhaul",
-          "n": 3,
-          "year": "2021"
+          "type": "m-album",
+          "artist": "Jason Mraz",
+          "title": "We Sing. We Dance. We Steal Things.",
+          "n": 750,
+          "year": "2017"
         },
         {
           "type": "first-track",
-          "artist": "Klaxons",
-          "title": "Golden Skans",
-          "total": 64,
-          "year": "2007"
+          "artist": "Metallica",
+          "title": "Atlas, Rise!",
+          "total": 65,
+          "year": "2016"
         },
         {
           "type": "busiest",
           "year": "2024",
-          "plays": 109,
+          "plays": 88,
           "top": {
-            "name": "Johann Sebastian Bach",
-            "plays": 10
+            "name": "Burial",
+            "plays": 13
           }
         },
         {
           "type": "quietest",
-          "year": "2015",
-          "plays": 9,
+          "year": "2006",
+          "plays": 4,
           "top": {
-            "name": "Digitalism",
-            "plays": 5
+            "name": "Razorlight",
+            "plays": 3
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 90,
+          "plays": 59,
           "top": {
-            "name": "De La Soul",
-            "plays": 13
+            "name": "VOF de Kunst",
+            "plays": 19
           }
         },
         {
           "year": "2024",
-          "plays": 109,
+          "plays": 88,
           "top": {
-            "name": "Johann Sebastian Bach",
-            "plays": 10
+            "name": "Burial",
+            "plays": 13
           }
         },
         {
           "year": "2023",
-          "plays": 56,
+          "plays": 55,
           "top": {
-            "name": "Bonobo",
-            "plays": 11
+            "name": "Stephan Bodzin",
+            "plays": 17
           }
         },
         {
           "year": "2022",
-          "plays": 26,
+          "plays": 61,
           "top": {
-            "name": "Kevin Morby",
-            "plays": 2
+            "name": "Laurent Garnier",
+            "plays": 10
           }
         },
         {
           "year": "2021",
-          "plays": 31,
+          "plays": 25,
           "top": {
-            "name": "DJ Shadow",
-            "plays": 3
+            "name": "Bruce Hornsby",
+            "plays": 1
           }
         },
         {
           "year": "2020",
-          "plays": 83,
-          "top": {
-            "name": "The Beatles",
-            "plays": 55
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2019",
-          "plays": 58,
+          "plays": 46,
           "top": {
-            "name": "Henry Jackman",
-            "plays": 22
+            "name": "Austin Wintory",
+            "plays": 18
           }
         },
         {
           "year": "2018",
-          "plays": 33,
+          "plays": 23,
           "top": {
-            "name": "Kllo",
+            "name": "Norah Jones",
             "plays": 2
           }
         },
         {
           "year": "2017",
-          "plays": 47,
+          "plays": 76,
           "top": {
-            "name": "Austin Wintory",
-            "plays": 14
+            "name": "Jason Mraz",
+            "plays": 10
           }
         },
         {
           "year": "2016",
-          "plays": 55,
+          "plays": 39,
           "top": {
-            "name": "Laura Gibson",
-            "plays": 1
+            "name": "London Music Works",
+            "plays": 7
           }
         },
         {
           "year": "2015",
-          "plays": 9,
-          "top": {
-            "name": "Digitalism",
-            "plays": 5
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2014",
-          "plays": 32,
+          "plays": 33,
           "top": {
-            "name": "Bastille",
-            "plays": 3
+            "name": "Aphex Twin",
+            "plays": 10
           }
         },
         {
           "year": "2013",
-          "plays": 43,
+          "plays": 17,
+          "top": {
+            "name": "deadmau5",
+            "plays": 1
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 4,
+          "top": {
+            "name": "Paul de Munnik & Maarten van Roozendaal",
+            "plays": 4
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 29,
           "top": {
             "name": "Agnes Obel",
             "plays": 11
           }
         },
         {
-          "year": "2012",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2011",
-          "plays": 36,
-          "top": {
-            "name": "Kings of Leon",
-            "plays": 11
-          }
-        },
-        {
           "year": "2010",
-          "plays": 25,
+          "plays": 15,
           "top": {
-            "name": "Jochem van Gelder",
-            "plays": 10
+            "name": "Cast",
+            "plays": 1
           }
         },
         {
           "year": "2009",
-          "plays": 34,
+          "plays": 70,
           "top": {
-            "name": "NOFX",
-            "plays": 13
+            "name": "Franz Ferdinand",
+            "plays": 12
           }
         },
         {
           "year": "2008",
-          "plays": 82,
+          "plays": 87,
           "top": {
-            "name": "Arctic Monkeys",
-            "plays": 25
+            "name": "Simon & Garfunkel",
+            "plays": 20
           }
         },
         {
           "year": "2007",
-          "plays": 58,
+          "plays": 15,
           "top": {
-            "name": "Digitalism",
-            "plays": 14
+            "name": "Common",
+            "plays": 2
           }
         },
         {
           "year": "2006",
-          "plays": 0,
-          "top": null
+          "plays": 4,
+          "top": {
+            "name": "Razorlight",
+            "plays": 3
+          }
         },
         {
           "year": "2005",
@@ -263,15 +256,13 @@
     },
     "lastfm_artists_in_collection": [
       "Agnes Obel",
-      "Arctic Monkeys",
       "Austin Wintory",
-      "Bonobo",
-      "Calvin Harris",
-      "DJ Shadow",
-      "De La Soul",
-      "NOFX",
-      "The Beatles",
-      "The XX"
+      "Franz Ferdinand",
+      "Jason Mraz",
+      "Laurent Garnier",
+      "Metallica",
+      "Norah Jones",
+      "Simon & Garfunkel"
     ],
     "discogs": []
   }
