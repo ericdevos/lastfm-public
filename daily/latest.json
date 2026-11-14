@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T21:44:13+00:00",
+  "generated_at": "2026-11-14T21:51:14+00:00",
   "date": "2026-11-13",
   "date_nl": "vrijdag 13 november 2026",
   "mail_date": "2026-11-14",
@@ -28,7 +28,7 @@
     {
       "type": "milestone",
       "label": "Mijlpaal",
-      "text": "Koji Kondo ging gisteren over de 100 plays (nu 102, eerst gehoord in maart 2014)."
+      "text": "Koji Kondo ging gisteren over de 100 plays (nu 101, eerst gehoord in maart 2014)."
     }
   ],
   "tip": {
