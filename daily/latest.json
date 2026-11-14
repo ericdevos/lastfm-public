@@ -1,43 +1,43 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T21:51:14+00:00",
-  "date": "2026-11-13",
-  "date_nl": "vrijdag 13 november 2026",
-  "mail_date": "2026-11-14",
-  "data_until": "2026-11-14T21:42:16+00:00",
+  "generated_at": "2026-11-14T23:22:46+00:00",
+  "date": "2026-11-14",
+  "date_nl": "zaterdag 14 november 2026",
+  "mail_date": "2026-11-15",
+  "data_until": "2026-11-14T23:19:41+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 153,
-    "avg_year": 75,
+    "plays": 136,
+    "avg_year": 76,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 153 nummers — ruim boven je daggemiddelde van 2026 (75; +104%)."
+    "line": "Gisteren: 136 nummers — ruim boven je daggemiddelde van 2026 (76; +79%)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds december 2023 weer Gareth Coker (22× gisteren)."
+      "text": "Voor het eerst sinds december 2023 weer De Gouden Nachtegaaltjes (11× gisteren)."
     },
     {
-      "type": "new",
-      "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Kylie Minogue – Body Language (CD Album Copy Protected, binnen sinds 21 oktober) draaide je gisteren 4×."
+      "type": "top",
+      "label": "Topper",
+      "text": "ROSALÍA was je topper met 18 nummers (vooral LUX); in totaal 119 plays. Dat album staat ook in je kast."
     },
     {
-      "type": "milestone",
-      "label": "Mijlpaal",
-      "text": "Koji Kondo ging gisteren over de 100 plays (nu 101, eerst gehoord in maart 2014)."
+      "type": "waiting",
+      "label": "Nog op de stapel",
+      "text": "Nirvana – In Utero (CD Album Reissue Stereo, binnen sinds 5 november) wacht nog op zijn eerste draaibeurt."
     }
   ],
   "tip": {
-    "date": "2026-11-14",
-    "faded_line": "Soldaat van Oranje Cast — 165× gedraaid, piek in 2011, laatst op 29 september 2024.",
-    "kast_line": "Bryan Adams – Unplugged (1997, cd), pas 1× gedraaid.",
+    "date": "2026-11-15",
+    "faded_line": "David García Díaz — 151× gedraaid, piek in 2019, laatst op 24 november 2023.",
+    "kast_line": "Live – Birds Of Pray (2003, cd), pas 4× gedraaid.",
     "followup_line": "De tip van 9 november heb je opgevolgd: Red Hot Chili Peppers – Live In Hyde Park (7×).",
     "stats": {
-      "given": 21,
+      "given": 22,
       "followed": 8
     }
   },
@@ -46,128 +46,138 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Simon & Garfunkel",
-          "total": 733,
-          "year": "2008"
+          "name": "Danny Byrd",
+          "total": 153,
+          "year": "2010"
         },
         {
           "type": "comeback",
-          "name": "London Music Works",
-          "gapDays": 399,
-          "since": "2015-10-12",
-          "plays": 7,
-          "before": 80,
-          "year": "2016"
-        },
-        {
-          "type": "m-album",
-          "artist": "Jason Mraz",
-          "title": "We Sing. We Dance. We Steal Things.",
-          "n": 750,
+          "name": "!!!",
+          "gapDays": 1007,
+          "since": "2015-02-12",
+          "plays": 5,
+          "before": 158,
           "year": "2017"
         },
         {
+          "type": "m-album",
+          "artist": "Rom Di Prisco",
+          "title": "Guacamelee! Original Soundtrack",
+          "n": 500,
+          "year": "2017"
+        },
+        {
+          "type": "repeat",
+          "artist": "Digitalism",
+          "title": "Digitalism In Cairo",
+          "n": 3,
+          "year": "2007"
+        },
+        {
           "type": "first-track",
-          "artist": "Metallica",
-          "title": "Atlas, Rise!",
-          "total": 65,
-          "year": "2016"
+          "artist": "Avicii",
+          "title": "Levels - Radio Edit",
+          "total": 31,
+          "year": "2011"
         },
         {
           "type": "busiest",
-          "year": "2024",
-          "plays": 88,
+          "year": "2018",
+          "plays": 121,
           "top": {
-            "name": "Burial",
-            "plays": 13
+            "name": "Daft Punk",
+            "plays": 22
           }
         },
         {
           "type": "quietest",
-          "year": "2006",
-          "plays": 4,
+          "year": "2016",
+          "plays": 10,
           "top": {
-            "name": "Razorlight",
-            "plays": 3
+            "name": "Antonio Vivaldi",
+            "plays": 10
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 59,
+          "plays": 47,
           "top": {
-            "name": "VOF de Kunst",
-            "plays": 19
+            "name": "Eric Clapton",
+            "plays": 15
           }
         },
         {
           "year": "2024",
-          "plays": 88,
+          "plays": 116,
           "top": {
-            "name": "Burial",
-            "plays": 13
-          }
-        },
-        {
-          "year": "2023",
-          "plays": 55,
-          "top": {
-            "name": "Stephan Bodzin",
-            "plays": 17
-          }
-        },
-        {
-          "year": "2022",
-          "plays": 61,
-          "top": {
-            "name": "Laurent Garnier",
-            "plays": 10
-          }
-        },
-        {
-          "year": "2021",
-          "plays": 25,
-          "top": {
-            "name": "Bruce Hornsby",
-            "plays": 1
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2019",
-          "plays": 46,
-          "top": {
-            "name": "Austin Wintory",
+            "name": "Tosca",
             "plays": 18
           }
         },
         {
-          "year": "2018",
-          "plays": 23,
+          "year": "2023",
+          "plays": 27,
           "top": {
-            "name": "Norah Jones",
-            "plays": 2
+            "name": "Hugh Hardie",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2022",
+          "plays": 27,
+          "top": {
+            "name": "Faithless",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2021",
+          "plays": 16,
+          "top": {
+            "name": "Arovane",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2020",
+          "plays": 89,
+          "top": {
+            "name": "José González",
+            "plays": 6
+          }
+        },
+        {
+          "year": "2019",
+          "plays": 51,
+          "top": {
+            "name": "Joris Voorn",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2018",
+          "plays": 121,
+          "top": {
+            "name": "Daft Punk",
+            "plays": 22
           }
         },
         {
           "year": "2017",
-          "plays": 76,
+          "plays": 59,
           "top": {
-            "name": "Jason Mraz",
-            "plays": 10
+            "name": "Chris Remo",
+            "plays": 18
           }
         },
         {
           "year": "2016",
-          "plays": 39,
+          "plays": 10,
           "top": {
-            "name": "London Music Works",
-            "plays": 7
+            "name": "Antonio Vivaldi",
+            "plays": 10
           }
         },
         {
@@ -177,92 +187,93 @@
         },
         {
           "year": "2014",
-          "plays": 33,
+          "plays": 11,
           "top": {
-            "name": "Aphex Twin",
-            "plays": 10
+            "name": "VOF de Kunst",
+            "plays": 6
           }
         },
         {
           "year": "2013",
-          "plays": 17,
+          "plays": 38,
           "top": {
-            "name": "deadmau5",
-            "plays": 1
+            "name": "Keane",
+            "plays": 16
           }
         },
         {
           "year": "2012",
-          "plays": 4,
+          "plays": 24,
           "top": {
-            "name": "Paul de Munnik & Maarten van Roozendaal",
-            "plays": 4
-          }
-        },
-        {
-          "year": "2011",
-          "plays": 29,
-          "top": {
-            "name": "Agnes Obel",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2010",
-          "plays": 15,
-          "top": {
-            "name": "Cast",
-            "plays": 1
-          }
-        },
-        {
-          "year": "2009",
-          "plays": 70,
-          "top": {
-            "name": "Franz Ferdinand",
+            "name": "Vitalic",
             "plays": 12
           }
         },
         {
-          "year": "2008",
-          "plays": 87,
+          "year": "2011",
+          "plays": 18,
           "top": {
-            "name": "Simon & Garfunkel",
-            "plays": 20
+            "name": "Michael Jackson",
+            "plays": 9
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 45,
+          "top": {
+            "name": "Vitalic",
+            "plays": 9
+          }
+        },
+        {
+          "year": "2009",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2008",
+          "plays": 13,
+          "top": {
+            "name": "Baby Mammoth",
+            "plays": 9
           }
         },
         {
           "year": "2007",
-          "plays": 15,
+          "plays": 61,
           "top": {
-            "name": "Common",
-            "plays": 2
+            "name": "Opgeduveld",
+            "plays": 9
           }
         },
         {
           "year": "2006",
-          "plays": 4,
+          "plays": 24,
           "top": {
-            "name": "Razorlight",
-            "plays": 3
+            "name": "Editors",
+            "plays": 13
           }
         },
         {
           "year": "2005",
-          "plays": 0,
-          "top": null
+          "plays": 23,
+          "top": {
+            "name": "Feeder",
+            "plays": 12
+          }
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Agnes Obel",
-      "Austin Wintory",
-      "Franz Ferdinand",
-      "Jason Mraz",
-      "Laurent Garnier",
-      "Metallica",
-      "Norah Jones",
-      "Simon & Garfunkel"
+      "Chris Remo",
+      "Daft Punk",
+      "Editors",
+      "Eric Clapton",
+      "Faithless",
+      "José González",
+      "Keane",
+      "Michael Jackson",
+      "Tosca"
     ],
     "discogs": []
   }
