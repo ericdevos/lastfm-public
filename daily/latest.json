@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-14T19:58:36+00:00",
+  "generated_at": "2026-11-14T21:44:13+00:00",
   "date": "2026-11-13",
   "date_nl": "vrijdag 13 november 2026",
   "mail_date": "2026-11-14",
-  "data_until": "2026-11-14T19:56:41+00:00",
+  "data_until": "2026-11-14T21:42:16+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 152,
+    "plays": 153,
     "avg_year": 75,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 152 nummers — ruim boven je daggemiddelde van 2026 (75; +103%)."
+    "line": "Gisteren: 153 nummers — ruim boven je daggemiddelde van 2026 (75; +104%)."
   },
   "highlights": [
     {
@@ -28,7 +28,7 @@
     {
       "type": "milestone",
       "label": "Mijlpaal",
-      "text": "Koji Kondo ging gisteren over de 100 plays (nu 101, eerst gehoord in maart 2014)."
+      "text": "Koji Kondo ging gisteren over de 100 plays (nu 102, eerst gehoord in maart 2014)."
     }
   ],
   "tip": {
