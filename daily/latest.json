@@ -1,43 +1,43 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T16:34:15+00:00",
-  "date": "2026-11-14",
-  "date_nl": "zaterdag 14 november 2026",
-  "mail_date": "2026-11-15",
-  "data_until": "2026-11-15T13:39:12+00:00",
+  "generated_at": "2026-11-15T23:09:36+00:00",
+  "date": "2026-11-15",
+  "date_nl": "zondag 15 november 2026",
+  "mail_date": "2026-11-16",
+  "data_until": "2026-11-15T21:37:55+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 136,
+    "plays": 84,
     "avg_year": 76,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 136 nummers — ruim boven je daggemiddelde van 2026 (76; +79%)."
+    "line": "Gisteren: 84 nummers — boven je daggemiddelde van 2026 (76)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds december 2023 weer De Gouden Nachtegaaltjes (11× gisteren)."
+      "text": "Voor het eerst sinds april 2024 weer Megan Thee Stallion (1× gisteren)."
+    },
+    {
+      "type": "new",
+      "label": "Nieuwe aanwinst",
+      "text": "Je haalde onlangs Kylie Minogue – Body Language in huis (21 oktober); gisteren draaide je 1 nummers van Kylie Minogue."
     },
     {
       "type": "top",
       "label": "Topper",
-      "text": "ROSALÍA was je topper met 18 nummers (vooral LUX); in totaal 119 plays. Dat album staat ook in je kast."
-    },
-    {
-      "type": "waiting",
-      "label": "Nog op de stapel",
-      "text": "Nirvana – In Utero (CD Album Reissue Stereo, binnen sinds 5 november) wacht nog op zijn eerste draaibeurt."
+      "text": "Kettel was je topper met 20 nummers (vooral Ibb & Obb (Original Soundtrack)); in totaal 812 plays sinds maart 2005."
     }
   ],
   "tip": {
-    "date": "2026-11-15",
-    "faded_line": "David García Díaz — 151× gedraaid, piek in 2019, laatst op 24 november 2023.",
-    "kast_line": "Live – Birds Of Pray (2003, cd), pas 4× gedraaid.",
+    "date": "2026-11-16",
+    "faded_line": "Sam Hulick — 158× gedraaid, piek in 2014, laatst op 13 februari 2023.",
+    "kast_line": "Eric Clapton – Edge Of Darkness (1985, vinyl), nog nooit gedraaid.",
     "followup_line": "De tip van 9 november heb je opgevolgd: Red Hot Chili Peppers – Live In Hyde Park (7×).",
     "stats": {
-      "given": 22,
+      "given": 23,
       "followed": 8
     }
   },
@@ -46,234 +46,228 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Danny Byrd",
-          "total": 153,
+          "name": "Steve Margoshes",
+          "total": 102,
           "year": "2010"
         },
         {
-          "type": "comeback",
-          "name": "!!!",
-          "gapDays": 1007,
-          "since": "2015-02-12",
-          "plays": 5,
-          "before": 158,
-          "year": "2017"
-        },
-        {
           "type": "m-album",
-          "artist": "Rom Di Prisco",
-          "title": "Guacamelee! Original Soundtrack",
-          "n": 500,
-          "year": "2017"
+          "artist": "José González",
+          "title": "Veneer",
+          "n": 250,
+          "year": "2014"
         },
         {
           "type": "repeat",
-          "artist": "Digitalism",
-          "title": "Digitalism In Cairo",
+          "artist": "Passenger",
+          "title": "Let Her Go",
           "n": 3,
-          "year": "2007"
+          "year": "2012"
         },
         {
           "type": "first-track",
-          "artist": "Avicii",
-          "title": "Levels - Radio Edit",
-          "total": 31,
-          "year": "2011"
+          "artist": "John Mayer",
+          "title": "Clarity",
+          "total": 36,
+          "year": "2005"
         },
         {
           "type": "busiest",
-          "year": "2018",
-          "plays": 121,
+          "year": "2023",
+          "plays": 116,
           "top": {
-            "name": "Daft Punk",
-            "plays": 22
+            "name": "John Paesano",
+            "plays": 2
           }
         },
         {
           "type": "quietest",
           "year": "2016",
-          "plays": 10,
+          "plays": 17,
           "top": {
-            "name": "Antonio Vivaldi",
-            "plays": 10
+            "name": "Peter Schmalfuss",
+            "plays": 2
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 47,
+          "plays": 50,
           "top": {
-            "name": "Eric Clapton",
-            "plays": 15
+            "name": "Joni Mitchell",
+            "plays": 7
           }
         },
         {
           "year": "2024",
-          "plays": 116,
+          "plays": 39,
           "top": {
-            "name": "Tosca",
-            "plays": 18
+            "name": "Alles Kids",
+            "plays": 6
           }
         },
         {
           "year": "2023",
-          "plays": 27,
+          "plays": 116,
           "top": {
-            "name": "Hugh Hardie",
-            "plays": 3
+            "name": "John Paesano",
+            "plays": 2
           }
         },
         {
           "year": "2022",
-          "plays": 27,
+          "plays": 32,
           "top": {
-            "name": "Faithless",
-            "plays": 3
+            "name": "Aphex Twin",
+            "plays": 15
           }
         },
         {
           "year": "2021",
-          "plays": 16,
+          "plays": 21,
           "top": {
-            "name": "Arovane",
-            "plays": 3
+            "name": "Nils Frahm",
+            "plays": 1
           }
         },
         {
           "year": "2020",
-          "plays": 89,
+          "plays": 82,
           "top": {
-            "name": "José González",
-            "plays": 6
+            "name": "The Beatles",
+            "plays": 37
           }
         },
         {
           "year": "2019",
-          "plays": 51,
+          "plays": 57,
           "top": {
-            "name": "Joris Voorn",
-            "plays": 14
+            "name": "Diego",
+            "plays": 4
           }
         },
         {
           "year": "2018",
-          "plays": 121,
+          "plays": 36,
           "top": {
-            "name": "Daft Punk",
-            "plays": 22
+            "name": "Jack Johnson",
+            "plays": 4
           }
         },
         {
           "year": "2017",
-          "plays": 59,
+          "plays": 23,
           "top": {
-            "name": "Chris Remo",
-            "plays": 18
+            "name": "Calum Graham",
+            "plays": 1
           }
         },
         {
           "year": "2016",
-          "plays": 10,
+          "plays": 17,
           "top": {
-            "name": "Antonio Vivaldi",
-            "plays": 10
+            "name": "Peter Schmalfuss",
+            "plays": 2
           }
         },
         {
           "year": "2015",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2014",
-          "plays": 11,
+          "plays": 21,
           "top": {
-            "name": "VOF de Kunst",
+            "name": "Max Frost",
             "plays": 6
           }
         },
         {
-          "year": "2013",
-          "plays": 38,
+          "year": "2014",
+          "plays": 61,
           "top": {
-            "name": "Keane",
-            "plays": 16
+            "name": "The xx",
+            "plays": 11
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 18,
+          "top": {
+            "name": "Coole Piet Diego",
+            "plays": 5
           }
         },
         {
           "year": "2012",
-          "plays": 24,
+          "plays": 54,
           "top": {
-            "name": "Vitalic",
-            "plays": 12
+            "name": "Tipper",
+            "plays": 13
           }
         },
         {
           "year": "2011",
-          "plays": 18,
+          "plays": 41,
           "top": {
             "name": "Michael Jackson",
-            "plays": 9
+            "plays": 15
           }
         },
         {
           "year": "2010",
-          "plays": 45,
+          "plays": 89,
           "top": {
-            "name": "Vitalic",
-            "plays": 9
+            "name": "Michael Jackson",
+            "plays": 24
           }
         },
         {
           "year": "2009",
-          "plays": 0,
-          "top": null
+          "plays": 70,
+          "top": {
+            "name": "Anouk",
+            "plays": 43
+          }
         },
         {
           "year": "2008",
-          "plays": 13,
+          "plays": 40,
           "top": {
-            "name": "Baby Mammoth",
-            "plays": 9
+            "name": "Jazzamor",
+            "plays": 22
           }
         },
         {
           "year": "2007",
-          "plays": 61,
-          "top": {
-            "name": "Opgeduveld",
-            "plays": 9
-          }
-        },
-        {
-          "year": "2006",
-          "plays": 24,
+          "plays": 33,
           "top": {
             "name": "Editors",
             "plays": 13
           }
         },
         {
+          "year": "2006",
+          "plays": 0,
+          "top": null
+        },
+        {
           "year": "2005",
           "plays": 23,
           "top": {
-            "name": "Feeder",
-            "plays": 12
+            "name": "John Mayer",
+            "plays": 13
           }
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Chris Remo",
-      "Daft Punk",
+      "Anouk",
       "Editors",
-      "Eric Clapton",
-      "Faithless",
+      "Jack Johnson",
+      "John Mayer",
       "José González",
-      "Keane",
       "Michael Jackson",
-      "Tosca"
+      "Passenger",
+      "The Beatles",
+      "The XX"
     ],
     "discogs": []
   }
