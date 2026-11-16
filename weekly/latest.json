@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at": "2026-11-16T02:42:51+00:00",
- "data_until": "2026-11-15T21:37:55+00:00",
+ "generated_at": "2026-11-16T12:32:24+00:00",
+ "data_until": "2026-11-16T07:06:18+00:00",
  "sync_ok": true,
  "period": {
   "from": "2026-11-09",
@@ -33,7 +33,7 @@
    {
     "name": "Koji Kondo",
     "plays": 24,
-    "total": 102,
+    "total": 103,
     "first_played": "2014-03-19"
    },
    {
@@ -45,7 +45,7 @@
    {
     "name": "Kettel",
     "plays": 20,
-    "total": 812,
+    "total": 817,
     "first_played": "2005-03-17"
    },
    {
@@ -189,7 +189,7 @@
     "artist": "Kettel",
     "album": "Ibb & Obb (Original Soundtrack)",
     "plays": 20,
-    "total": 464,
+    "total": 469,
     "first_played": "2013-12-09"
    },
    {
@@ -770,7 +770,7 @@
    {
     "name": "Koji Kondo",
     "plays": 24,
-    "total": 102
+    "total": 103
    },
    {
     "name": "Madvillain",
@@ -867,6 +867,66 @@
   ]
  },
  "recent": [
+  {
+   "ts": "2026-11-16T08:06:18+01:00",
+   "artist": "Nobuo Uematsu",
+   "track": "Final Fantasy VIII: Liberi Fatali",
+   "album": "The Greatest Video Game Music"
+  },
+  {
+   "ts": "2026-11-16T08:03:01+01:00",
+   "artist": "Ari Pulkkinen",
+   "track": "Angry Birds: Main Theme",
+   "album": "The Greatest Video Game Music"
+  },
+  {
+   "ts": "2026-11-16T07:59:13+01:00",
+   "artist": "Hans Zimmer",
+   "track": "Call of Duty, Modern Warfare 2: Theme",
+   "album": "The Greatest Video Game Music"
+  },
+  {
+   "ts": "2026-11-16T07:54:52+01:00",
+   "artist": "Koji Kondo",
+   "track": "Legend of Zelda: Suite",
+   "album": "The Greatest Video Game Music"
+  },
+  {
+   "ts": "2026-11-16T07:51:03+01:00",
+   "artist": "Emmanuel Fratianni",
+   "track": "Advent Rising: Muse",
+   "album": "The Greatest Video Game Music"
+  },
+  {
+   "ts": "2026-11-16T07:38:19+01:00",
+   "artist": "Kettel",
+   "track": "Krabs",
+   "album": "Ibb & Obb (Original Soundtrack)"
+  },
+  {
+   "ts": "2026-11-16T07:35:39+01:00",
+   "artist": "Kettel",
+   "track": "Secret Dewuko",
+   "album": "Ibb & Obb (Original Soundtrack)"
+  },
+  {
+   "ts": "2026-11-16T07:32:59+01:00",
+   "artist": "Kettel",
+   "track": "Secret Amanda",
+   "album": "Ibb & Obb (Original Soundtrack)"
+  },
+  {
+   "ts": "2026-11-16T07:29:49+01:00",
+   "artist": "Kettel",
+   "track": "Secret Baby",
+   "album": "Ibb & Obb (Original Soundtrack)"
+  },
+  {
+   "ts": "2026-11-16T07:27:09+01:00",
+   "artist": "Kettel",
+   "track": "Ghost Hop",
+   "album": "Ibb & Obb (Original Soundtrack)"
+  },
   {
    "ts": "2026-11-15T22:37:55+01:00",
    "artist": "Kettel",
@@ -986,66 +1046,6 @@
    "artist": "Kettel",
    "track": "Clear",
    "album": "Ibb & Obb (Original Soundtrack)"
-  },
-  {
-   "ts": "2026-11-15T13:38:15+01:00",
-   "artist": "Kettel",
-   "track": "Clara",
-   "album": "Ibb & Obb (Original Soundtrack)"
-  },
-  {
-   "ts": "2026-11-15T13:35:35+01:00",
-   "artist": "Kettel",
-   "track": "Clarity",
-   "album": "Ibb & Obb (Original Soundtrack)"
-  },
-  {
-   "ts": "2026-11-15T13:33:25+01:00",
-   "artist": "Kettel",
-   "track": "Welcome to Ibb & Obb",
-   "album": "Ibb & Obb (Original Soundtrack)"
-  },
-  {
-   "ts": "2026-11-15T13:30:45+01:00",
-   "artist": "The Staves",
-   "track": "Best Friend",
-   "album": "Good Woman"
-  },
-  {
-   "ts": "2026-11-15T13:26:45+01:00",
-   "artist": "The Staves",
-   "track": "Good Woman",
-   "album": "Good Woman"
-  },
-  {
-   "ts": "2026-11-15T13:22:55+01:00",
-   "artist": "The Staves",
-   "track": "Sadness Don't Own Me",
-   "album": "If I Was"
-  },
-  {
-   "ts": "2026-11-15T13:18:15+01:00",
-   "artist": "The Staves",
-   "track": "Make It Holy",
-   "album": "If I Was"
-  },
-  {
-   "ts": "2026-11-15T13:14:05+01:00",
-   "artist": "The Staves",
-   "track": "Teeth White",
-   "album": "If I Was"
-  },
-  {
-   "ts": "2026-11-15T13:10:54+01:00",
-   "artist": "The Staves",
-   "track": "Horizons",
-   "album": "If I Was"
-  },
-  {
-   "ts": "2026-11-15T13:08:04+01:00",
-   "artist": "The Staves",
-   "track": "Don't You Call Me Anymore",
-   "album": "If I Was"
   }
  ],
  "kast": {
