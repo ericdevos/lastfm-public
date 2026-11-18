@@ -1,44 +1,54 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-17T16:27:27+00:00",
-  "date": "2026-11-16",
-  "date_nl": "maandag 16 november 2026",
-  "mail_date": "2026-11-17",
-  "data_until": "2026-11-17T16:24:54+00:00",
+  "generated_at": "2026-11-18T01:17:21+00:00",
+  "date": "2026-11-17",
+  "date_nl": "dinsdag 17 november 2026",
+  "mail_date": "2026-11-18",
+  "data_until": "2026-11-17T21:43:49+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 151,
+    "plays": 104,
     "avg_year": 76,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 151 nummers — ruim boven je daggemiddelde van 2026 (76; +99%)."
+    "line": "Gisteren: 104 nummers — boven je daggemiddelde van 2026 (76)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds juli 2023 weer Octogen (12× gisteren)."
+      "text": "Voor het eerst sinds maart 2019 weer Alex Couture (1× gisteren)."
     },
     {
       "type": "milestone",
       "label": "Mijlpaal",
-      "text": "Ennio Morricone ging gisteren over de 1.000 plays (nu 1.020, eerst gehoord in maart 2005)."
+      "text": "Recondite ging gisteren over de 100 plays (nu 100, eerst gehoord in december 2015)."
     },
     {
-      "type": "top",
-      "label": "Topper",
-      "text": "Joris de Man was je topper met 31 nummers (vooral Horizon Zero Dawn (Original Soundtrack)); in totaal 189 plays sinds december 2017."
+      "type": "discoveries",
+      "label": "Ontdekkingen",
+      "text": "9 artiesten hoorde je gisteren voor het eerst, o.a. DJ Hell, Mr Velcro Fastener, Soul Center."
     }
   ],
   "tip": {
-    "date": "2026-11-17",
-    "faded_line": "Gesaffelstein — 120× gedraaid, piek in 2014, laatst op 5 februari 2022.",
-    "kast_line": "Guns N' Roses – \"The Spaghetti Incident?\" (1993, cd), nog nooit gedraaid.",
-    "followup_line": "De tip van 9 november heb je opgevolgd: Red Hot Chili Peppers – Live In Hyde Park (7×).",
+    "date": "2026-11-18",
+    "faded_line": "Various Artists – Mass Effect 3 — 432× gedraaid, piek in 2014, laatst op 13 februari 2023.",
+    "faded": {
+      "type": "album",
+      "artist": "Various Artists",
+      "album": "Mass Effect 3",
+      "plays": 432,
+      "peak_year": 2014,
+      "last_played": "2023-02-13",
+      "rank": 40,
+      "in_collection": false
+    },
+    "kast_line": "Ilse DeLange – Live (2007, cd), pas 4× gedraaid.",
+    "followup_line": "De tip van 11 november heb je opgevolgd: 4TLR (2×).",
     "stats": {
-      "given": 24,
-      "followed": 8
+      "given": 25,
+      "followed": 9
     }
   },
   "onthisday": {
@@ -46,207 +56,223 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Bicep",
-          "total": 695,
-          "year": "2017"
+          "name": "Oi Va Voi",
+          "total": 85,
+          "year": "2007"
         },
         {
-          "type": "m-track",
-          "artist": "The xx",
-          "title": "Angels",
-          "n": 50,
-          "year": "2019"
+          "type": "comeback",
+          "name": "Stars of the Lid",
+          "gapDays": 388,
+          "since": "2015-10-27",
+          "plays": 18,
+          "before": 80,
+          "year": "2016"
+        },
+        {
+          "type": "m-album",
+          "artist": "Justin Hurwitz",
+          "title": "La La Land: Original Motion Picture Soundtrack",
+          "n": 500,
+          "year": "2018"
         },
         {
           "type": "repeat",
-          "artist": "Eliza Rose",
-          "title": "B.O.T.A. (Baddest Of Them All) - Edit",
-          "n": 3,
-          "year": "2022"
+          "artist": "N‐Trance",
+          "title": "Set You Free",
+          "n": 4,
+          "year": "2007"
         },
         {
           "type": "first-track",
-          "artist": "Ennio Morricone",
-          "title": "Gabriel's Oboe",
-          "total": 33,
-          "year": "2008"
+          "artist": "Röyksopp",
+          "title": "Stay Awhile",
+          "total": 64,
+          "year": "2022"
+        },
+        {
+          "type": "kast",
+          "year": "2024",
+          "artist": "Empire Of The Sun",
+          "title": "Walking On A Dream",
+          "release_id": 1660035,
+          "medium": "CD",
+          "plays": 323,
+          "sameDay": 11
         },
         {
           "type": "busiest",
-          "year": "2009",
-          "plays": 124,
+          "year": "2024",
+          "plays": 92,
           "top": {
-            "name": "Beastie Boys",
-            "plays": 21
+            "name": "The Beatles",
+            "plays": 31
           }
         },
         {
           "type": "quietest",
-          "year": "2016",
-          "plays": 5,
+          "year": "2017",
+          "plays": 7,
           "top": {
-            "name": "Brian Eno",
-            "plays": 5
+            "name": "Isaiah",
+            "plays": 1
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 26,
+          "plays": 42,
           "top": {
-            "name": "Extince",
-            "plays": 8
-          }
-        },
-        {
-          "year": "2024",
-          "plays": 59,
-          "top": {
-            "name": "Jason Mraz",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2023",
-          "plays": 62,
-          "top": {
-            "name": "Daft Punk",
+            "name": "Fever Ray",
             "plays": 11
           }
         },
         {
-          "year": "2022",
-          "plays": 91,
+          "year": "2024",
+          "plays": 92,
           "top": {
-            "name": "Aphex Twin",
-            "plays": 5
+            "name": "The Beatles",
+            "plays": 31
           }
         },
         {
-          "year": "2021",
-          "plays": 108,
+          "year": "2023",
+          "plays": 56,
           "top": {
             "name": "Thievery Corporation",
-            "plays": 29
+            "plays": 40
           }
         },
         {
-          "year": "2020",
-          "plays": 89,
+          "year": "2022",
+          "plays": 57,
           "top": {
-            "name": "Austin Wintory",
+            "name": "Fred again..",
             "plays": 24
           }
         },
         {
-          "year": "2019",
-          "plays": 34,
+          "year": "2021",
+          "plays": 41,
           "top": {
-            "name": "Janne Schra",
-            "plays": 4
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 43,
-          "top": {
-            "name": "Dennis",
-            "plays": 3
-          }
-        },
-        {
-          "year": "2017",
-          "plays": 20,
-          "top": {
-            "name": "Mano Le Tough",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 5,
-          "top": {
-            "name": "Brian Eno",
+            "name": "Tosca",
             "plays": 5
           }
         },
         {
-          "year": "2015",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2014",
-          "plays": 39,
+          "year": "2020",
+          "plays": 49,
           "top": {
-            "name": "Sam Hulick",
-            "plays": 8
+            "name": "Ramses Shaffy",
+            "plays": 6
           }
         },
         {
-          "year": "2013",
-          "plays": 26,
+          "year": "2019",
+          "plays": 38,
           "top": {
-            "name": "Sinterklaas",
-            "plays": 14
+            "name": "Everything But the Girl",
+            "plays": 17
           }
         },
         {
-          "year": "2012",
-          "plays": 14,
+          "year": "2018",
+          "plays": 38,
           "top": {
-            "name": "Lana Del Rey",
+            "name": "Fleetwood Mac",
+            "plays": 23
+          }
+        },
+        {
+          "year": "2017",
+          "plays": 7,
+          "top": {
+            "name": "Isaiah",
             "plays": 1
           }
         },
         {
-          "year": "2011",
-          "plays": 20,
+          "year": "2016",
+          "plays": 36,
           "top": {
-            "name": "Michael Bublé",
-            "plays": 13
+            "name": "Stars of the Lid",
+            "plays": 18
           }
         },
         {
-          "year": "2010",
-          "plays": 39,
+          "year": "2015",
+          "plays": 9,
           "top": {
-            "name": "Phil Collins",
+            "name": "Pennywise",
+            "plays": 7
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 69,
+          "top": {
+            "name": "Austin Wintory",
+            "plays": 18
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 14,
+          "top": {
+            "name": "Band of Horses",
+            "plays": 5
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 60,
+          "top": {
+            "name": "Jack Johnson",
             "plays": 14
           }
         },
         {
-          "year": "2009",
-          "plays": 124,
+          "year": "2011",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2010",
+          "plays": 48,
           "top": {
-            "name": "Beastie Boys",
-            "plays": 21
+            "name": "P!nk",
+            "plays": 15
+          }
+        },
+        {
+          "year": "2009",
+          "plays": 19,
+          "top": {
+            "name": "The xx",
+            "plays": 11
           }
         },
         {
           "year": "2008",
-          "plays": 116,
+          "plays": 59,
           "top": {
-            "name": "Ennio Morricone",
-            "plays": 19
+            "name": "Yann Tiersen",
+            "plays": 24
           }
         },
         {
           "year": "2007",
-          "plays": 13,
+          "plays": 40,
           "top": {
-            "name": "Trentemøller",
-            "plays": 9
+            "name": "Alphawezen",
+            "plays": 11
           }
         },
         {
           "year": "2006",
-          "plays": 46,
-          "top": {
-            "name": "The Beatles",
-            "plays": 13
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2005",
@@ -257,16 +283,63 @@
     },
     "lastfm_artists_in_collection": [
       "Austin Wintory",
-      "Beastie Boys",
-      "Daft Punk",
-      "Ennio Morricone",
-      "Jason Mraz",
-      "Michael Bublé",
-      "Phil Collins",
+      "Empire Of The Sun",
+      "Everything But The Girl",
+      "Fleetwood Mac",
+      "Fred again..",
+      "Jack Johnson",
+      "Röyksopp",
       "The Beatles",
       "The XX",
-      "Thievery Corporation"
+      "Thievery Corporation",
+      "Tosca",
+      "Yann Tiersen"
     ],
-    "discogs": []
+    "discogs": [
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam The Police – Their Greatest Hits (1990, CD Compilation) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Empire Of The Sun – Walking On A Dream (2008, CD Album) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam The Doors – The Doors (1967, CD Album Reissue) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Foreigner – The Definitive (2002, CD Compilation Remastered) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Terence Trent D'Arby – Introducing The Hardline According To Terence Trent D'Arby (1987, CD Album Reissue) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam The Beatles – The Beatles (1968, CD Album Reissue) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Limp Bizkit – Significant Other (1999, CD Album Enhanced) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Al Di Meola, John McLaughlin, Paco De Lucía – Friday Night In San Francisco - Live -  (1981, CD Album Reissue) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Paul McCartney – All The Best! (1987, CD Compilation Reissue Stereo) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam Al Di Meola – Elegant Gypsy (1977, CD Album Reissue) in je collectie."
+      },
+      {
+        "years_ago": 2,
+        "text": "Vandaag 2 jaar geleden kwam The Doors – L.A. Woman (1971, CD Album Reissue Remastered) in je collectie."
+      }
+    ]
   }
 }
