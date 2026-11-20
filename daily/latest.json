@@ -1,29 +1,29 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-19T20:57:33+00:00",
-  "date": "2026-11-18",
-  "date_nl": "woensdag 18 november 2026",
-  "mail_date": "2026-11-19",
+  "generated_at": "2026-11-20T02:34:52+00:00",
+  "date": "2026-11-19",
+  "date_nl": "donderdag 19 november 2026",
+  "mail_date": "2026-11-20",
   "data_until": "2026-11-19T18:37:19+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 37,
+    "plays": 66,
     "avg_year": 76,
     "year": 2026,
     "verdict": "onder",
-    "line": "Gisteren: 37 nummers — flink onder je daggemiddelde van 2026 (76; −51%)."
+    "line": "Gisteren: 66 nummers — onder je daggemiddelde van 2026 (76)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds april 2025 weer Oliver Nelson (2× gisteren)."
+      "text": "Voor het eerst sinds januari 2022 weer Video Game Players (1× gisteren)."
     },
     {
       "type": "top",
       "label": "Topper",
-      "text": "Michiel Borstlap was je topper met 15 nummers (vooral Eldorado); in totaal 208 plays sinds oktober 2013. Van Michiel Borstlap staat 1 plaat in je kast, maar Eldorado niet."
+      "text": "Koji Kondo was je topper met 26 nummers (vooral A Link to the Past); in totaal 131 plays sinds maart 2014."
     },
     {
       "type": "waiting",
@@ -32,125 +32,148 @@
     }
   ],
   "tip": {
-    "date": "2026-11-19",
-    "faded_line": "The Magic Numbers – Those The Brokes (2006) — 431× gedraaid, piek in 2007, laatst op 15 juni 2025, staat in je kast.",
+    "date": "2026-11-20",
+    "faded_line": "Justin Nozuka – Holly — 420× gedraaid, piek in 2007, laatst op 25 november 2024.",
     "faded": {
       "type": "album",
-      "artist": "The Magic Numbers",
-      "album": "Those The Brokes",
-      "plays": 431,
+      "artist": "Justin Nozuka",
+      "album": "Holly",
+      "plays": 420,
       "peak_year": 2007,
-      "last_played": "2025-06-15",
-      "rank": 41,
-      "in_collection": true
+      "last_played": "2024-11-25",
+      "rank": 43,
+      "in_collection": false
     },
-    "kast_line": "Eric Clapton – No Reason To Cry (1976, vinyl), nog nooit gedraaid.",
-    "followup_line": "De tip van 11 november heb je opgevolgd: 4TLR (2×).",
+    "kast_line": "India.Arie – Testimony: Vol. 1, Life & Relationship (2006, cd), pas 1× gedraaid.",
+    "followup_line": "De tip van 19 november heb je opgevolgd: The Magic Numbers – Those The Brokes (1×).",
     "stats": {
-      "given": 26,
-      "followed": 9
+      "given": 27,
+      "followed": 10
     }
   },
   "onthisday": {
     "lastfm": {
       "highlights": [
         {
-          "type": "m-track",
-          "artist": "Jason Mraz",
-          "title": "Coyotes",
-          "n": 75,
-          "year": "2019"
+          "type": "comeback",
+          "name": "Róisín Murphy",
+          "gapDays": 440,
+          "since": "2010-09-06",
+          "plays": 6,
+          "before": 104,
+          "year": "2011"
+        },
+        {
+          "type": "m-album",
+          "artist": "St. Germain",
+          "title": "Tourist",
+          "n": 250,
+          "year": "2022"
+        },
+        {
+          "type": "repeat",
+          "artist": "Bicep",
+          "title": "Saku",
+          "n": 3,
+          "year": "2020"
+        },
+        {
+          "type": "first-track",
+          "artist": "Bicep",
+          "title": "Aura",
+          "total": 59,
+          "year": "2017"
         },
         {
           "type": "busiest",
-          "year": "2009",
-          "plays": 99,
+          "year": "2024",
+          "plays": 94,
           "top": {
-            "name": "Norah Jones",
-            "plays": 14
+            "name": "Terence Trent D'Arby",
+            "plays": 11
           }
         },
         {
           "type": "quietest",
-          "year": "2015",
-          "plays": 7,
+          "year": "2005",
+          "plays": 9,
           "top": {
-            "name": "Pennywise",
-            "plays": 1
+            "name": "John Mayer",
+            "plays": 4
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 64,
+          "plays": 45,
           "top": {
-            "name": "Daft Punk",
-            "plays": 22
+            "name": "Babylon Circus",
+            "plays": 11
           }
         },
         {
           "year": "2024",
           "plays": 94,
           "top": {
-            "name": "The Police",
-            "plays": 15
+            "name": "Terence Trent D'Arby",
+            "plays": 11
           }
         },
         {
           "year": "2023",
-          "plays": 88,
+          "plays": 35,
           "top": {
-            "name": "Christian Löffler",
-            "plays": 4
+            "name": "Jungle by Night",
+            "plays": 5
           }
         },
         {
           "year": "2022",
-          "plays": 50,
+          "plays": 44,
           "top": {
-            "name": "Nas",
-            "plays": 17
+            "name": "Fred again..",
+            "plays": 13
           }
         },
         {
           "year": "2021",
-          "plays": 76,
+          "plays": 31,
           "top": {
-            "name": "Solar Fields",
-            "plays": 21
+            "name": "Dr. Hook",
+            "plays": 2
           }
         },
         {
           "year": "2020",
-          "plays": 67,
+          "plays": 60,
           "top": {
-            "name": "Christian Löffler",
-            "plays": 31
+            "name": "Underworld",
+            "plays": 9
           }
         },
         {
           "year": "2019",
-          "plays": 51,
+          "plays": 84,
           "top": {
-            "name": "Jason Mraz",
-            "plays": 4
+            "name": "Barry Leitch",
+            "plays": 19
           }
         },
         {
           "year": "2018",
-          "plays": 64,
+          "plays": 52,
           "top": {
-            "name": "Fleetwood Mac",
-            "plays": 18
+            "name": "Metallica",
+            "plays": 10
           }
         },
         {
           "year": "2017",
-          "plays": 65,
+          "plays": 41,
           "top": {
-            "name": "Fat Freddy's Drop",
-            "plays": 7
+            "name": "Mano Le Tough",
+            "plays": 5
           }
         },
         {
@@ -160,101 +183,101 @@
         },
         {
           "year": "2015",
-          "plays": 7,
+          "plays": 47,
           "top": {
-            "name": "Pennywise",
-            "plays": 1
+            "name": "Alex Smoke",
+            "plays": 13
           }
         },
         {
           "year": "2014",
-          "plays": 38,
+          "plays": 82,
           "top": {
-            "name": "Röyksopp",
-            "plays": 16
+            "name": "Arovane",
+            "plays": 27
           }
         },
         {
           "year": "2013",
-          "plays": 9,
-          "top": {
-            "name": "Weezer",
-            "plays": 1
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2012",
-          "plays": 39,
+          "plays": 24,
           "top": {
-            "name": "Zero 7",
-            "plays": 12
+            "name": "The Kyteman Orchestra",
+            "plays": 8
           }
         },
         {
           "year": "2011",
-          "plays": 52,
+          "plays": 47,
           "top": {
-            "name": "Maria Mena",
-            "plays": 26
+            "name": "Ralph Myerz and the Jack Herren Band",
+            "plays": 10
           }
         },
         {
           "year": "2010",
-          "plays": 56,
+          "plays": 79,
           "top": {
-            "name": "Vera Mann",
-            "plays": 16
+            "name": "The Cure",
+            "plays": 18
           }
         },
         {
           "year": "2009",
-          "plays": 99,
+          "plays": 60,
           "top": {
-            "name": "Norah Jones",
-            "plays": 14
+            "name": "Ennio Morricone",
+            "plays": 16
           }
         },
         {
           "year": "2008",
-          "plays": 43,
+          "plays": 65,
           "top": {
-            "name": "The Beatles",
-            "plays": 22
+            "name": "Opgezwolle",
+            "plays": 15
           }
         },
         {
           "year": "2007",
-          "plays": 48,
+          "plays": 37,
           "top": {
-            "name": "Kate Nash",
-            "plays": 12
+            "name": "Howard Shore",
+            "plays": 17
           }
         },
         {
           "year": "2006",
-          "plays": 0,
-          "top": null
+          "plays": 24,
+          "top": {
+            "name": "Thievery Corporation",
+            "plays": 16
+          }
         },
         {
           "year": "2005",
-          "plays": 0,
-          "top": null
+          "plays": 9,
+          "top": {
+            "name": "John Mayer",
+            "plays": 4
+          }
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Daft Punk",
-      "Fat Freddy's Drop",
-      "Fleetwood Mac",
-      "Jason Mraz",
-      "Kate Nash",
-      "Maria Mena",
-      "Nas",
-      "Norah Jones",
-      "Röyksopp",
-      "The Beatles",
-      "The Police",
-      "Zero 7"
+      "Ennio Morricone",
+      "Fred again..",
+      "Howard Shore",
+      "John Mayer",
+      "Metallica",
+      "Terence Trent D'Arby",
+      "The Kyteman Orchestra",
+      "Thievery Corporation",
+      "Underworld"
     ],
     "discogs": []
   }
