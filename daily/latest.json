@@ -1,53 +1,53 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-20T20:42:46+00:00",
-  "date": "2026-11-19",
-  "date_nl": "donderdag 19 november 2026",
-  "mail_date": "2026-11-20",
-  "data_until": "2026-11-20T19:21:46+00:00",
+  "generated_at": "2026-11-21T02:48:45+00:00",
+  "date": "2026-11-20",
+  "date_nl": "vrijdag 20 november 2026",
+  "mail_date": "2026-11-21",
+  "data_until": "2026-11-20T21:23:00+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 67,
+    "plays": 121,
     "avg_year": 76,
     "year": 2026,
-    "verdict": "onder",
-    "line": "Gisteren: 67 nummers — onder je daggemiddelde van 2026 (76)."
+    "verdict": "boven",
+    "line": "Gisteren: 121 nummers — ruim boven je daggemiddelde van 2026 (76; +59%)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds januari 2022 weer Video Game Players (1× gisteren)."
+      "text": "Voor het eerst sinds september 2011 weer Bobby Montez (1× gisteren)."
     },
     {
-      "type": "top",
-      "label": "Topper",
-      "text": "Koji Kondo was je topper met 26 nummers (vooral A Link to the Past); in totaal 131 plays sinds maart 2014."
+      "type": "new",
+      "label": "Nieuwe aanwinst",
+      "text": "Je nieuwe aanwinst MF DOOM – MM..Food (CD Album Reissue Repress, binnen sinds 28 oktober) draaide je gisteren 1×."
     },
     {
-      "type": "waiting",
-      "label": "Nog op de stapel",
-      "text": "Nirvana – In Utero (CD Album Reissue Stereo, binnen sinds 5 november) wacht nog op zijn eerste draaibeurt."
+      "type": "milestone",
+      "label": "Mijlpaal",
+      "text": "Justin Hurwitz ging gisteren over de 500 plays (nu 508, eerst gehoord in februari 2017)."
     }
   ],
   "tip": {
-    "date": "2026-11-20",
-    "faded_line": "Justin Nozuka – Holly — 420× gedraaid, piek in 2007, laatst op 25 november 2024.",
+    "date": "2026-11-21",
+    "faded_line": "Kyteman – The Hermit Sessions (2009) — 365× gedraaid, piek in 2009, laatst op 24 mei 2025, staat in je kast.",
     "faded": {
       "type": "album",
-      "artist": "Justin Nozuka",
-      "album": "Holly",
-      "plays": 420,
-      "peak_year": 2007,
-      "last_played": "2024-11-25",
-      "rank": 43,
-      "in_collection": false
+      "artist": "Kyteman",
+      "album": "The Hermit Sessions",
+      "plays": 365,
+      "peak_year": 2009,
+      "last_played": "2025-05-24",
+      "rank": 66,
+      "in_collection": true
     },
-    "kast_line": "India.Arie – Testimony: Vol. 1, Life & Relationship (2006, cd), pas 1× gedraaid.",
+    "kast_line": "Steve Winwood – Steve Winwood (1977, vinyl), nog nooit gedraaid.",
     "followup_line": "De tip van 19 november heb je opgevolgd: The Magic Numbers – Those The Brokes (1×).",
     "stats": {
-      "given": 27,
+      "given": 28,
       "followed": 10
     }
   },
@@ -55,229 +55,235 @@
     "lastfm": {
       "highlights": [
         {
-          "type": "comeback",
-          "name": "Róisín Murphy",
-          "gapDays": 440,
-          "since": "2010-09-06",
-          "plays": 6,
-          "before": 104,
-          "year": "2011"
+          "type": "first-artist",
+          "name": "Ásgeir",
+          "total": 143,
+          "year": "2013"
         },
         {
-          "type": "m-album",
-          "artist": "St. Germain",
-          "title": "Tourist",
-          "n": 250,
-          "year": "2022"
+          "type": "comeback",
+          "name": "Them Crooked Vultures",
+          "gapDays": 631,
+          "since": "2013-02-28",
+          "plays": 5,
+          "before": 50,
+          "year": "2014"
+        },
+        {
+          "type": "m-track",
+          "artist": "Editors",
+          "title": "All Sparks",
+          "n": 25,
+          "year": "2008"
         },
         {
           "type": "repeat",
-          "artist": "Bicep",
-          "title": "Saku",
-          "n": 3,
-          "year": "2020"
+          "artist": "Eliza Rose",
+          "title": "B.O.T.A. (Baddest Of Them All) - Edit",
+          "n": 4,
+          "year": "2022"
         },
         {
           "type": "first-track",
-          "artist": "Bicep",
-          "title": "Aura",
-          "total": 59,
-          "year": "2017"
+          "artist": "Ásgeir",
+          "title": "King and Cross",
+          "total": 54,
+          "year": "2013"
         },
         {
           "type": "busiest",
-          "year": "2024",
-          "plays": 94,
+          "year": "2010",
+          "plays": 124,
           "top": {
-            "name": "Terence Trent D'Arby",
-            "plays": 11
+            "name": "Gebroeders KO",
+            "plays": 18
           }
         },
         {
           "type": "quietest",
-          "year": "2005",
-          "plays": 9,
+          "year": "2012",
+          "plays": 13,
           "top": {
-            "name": "John Mayer",
-            "plays": 4
+            "name": "deadmau5",
+            "plays": 6
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 45,
+          "plays": 120,
           "top": {
-            "name": "Babylon Circus",
-            "plays": 11
+            "name": "Erik Satie",
+            "plays": 31
           }
         },
         {
           "year": "2024",
-          "plays": 94,
+          "plays": 25,
           "top": {
-            "name": "Terence Trent D'Arby",
-            "plays": 11
+            "name": "Wu-Tang Clan",
+            "plays": 3
           }
         },
         {
           "year": "2023",
-          "plays": 35,
+          "plays": 103,
           "top": {
-            "name": "Jungle by Night",
-            "plays": 5
+            "name": "Downset.",
+            "plays": 15
           }
         },
         {
           "year": "2022",
-          "plays": 44,
+          "plays": 79,
           "top": {
-            "name": "Fred again..",
-            "plays": 13
+            "name": "The Beatles",
+            "plays": 14
           }
         },
         {
           "year": "2021",
-          "plays": 31,
+          "plays": 47,
           "top": {
-            "name": "Dr. Hook",
-            "plays": 2
+            "name": "Birdy",
+            "plays": 7
           }
         },
         {
           "year": "2020",
-          "plays": 60,
+          "plays": 33,
           "top": {
-            "name": "Underworld",
-            "plays": 9
+            "name": "Agnes Obel",
+            "plays": 3
           }
         },
         {
           "year": "2019",
-          "plays": 84,
+          "plays": 33,
           "top": {
-            "name": "Barry Leitch",
-            "plays": 19
+            "name": "The Police",
+            "plays": 2
           }
         },
         {
           "year": "2018",
-          "plays": 52,
+          "plays": 60,
           "top": {
-            "name": "Metallica",
-            "plays": 10
+            "name": "Todd Baker",
+            "plays": 28
           }
         },
         {
           "year": "2017",
-          "plays": 41,
+          "plays": 15,
           "top": {
-            "name": "Mano Le Tough",
-            "plays": 5
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2015",
-          "plays": 47,
-          "top": {
-            "name": "Alex Smoke",
-            "plays": 13
-          }
-        },
-        {
-          "year": "2014",
-          "plays": 82,
-          "top": {
-            "name": "Arovane",
-            "plays": 27
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2012",
-          "plays": 24,
-          "top": {
-            "name": "The Kyteman Orchestra",
-            "plays": 8
-          }
-        },
-        {
-          "year": "2011",
-          "plays": 47,
-          "top": {
-            "name": "Ralph Myerz and the Jack Herren Band",
+            "name": "Röyksopp",
             "plays": 10
           }
         },
         {
-          "year": "2010",
-          "plays": 79,
+          "year": "2016",
+          "plays": 58,
           "top": {
-            "name": "The Cure",
+            "name": "Hibernation",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2015",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2014",
+          "plays": 67,
+          "top": {
+            "name": "Yann Tiersen",
+            "plays": 23
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 63,
+          "top": {
+            "name": "Brown Feather Sparrow",
+            "plays": 11
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 13,
+          "top": {
+            "name": "deadmau5",
+            "plays": 6
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 46,
+          "top": {
+            "name": "The Beatles",
+            "plays": 18
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 124,
+          "top": {
+            "name": "Gebroeders KO",
             "plays": 18
           }
         },
         {
           "year": "2009",
-          "plays": 60,
+          "plays": 50,
           "top": {
-            "name": "Ennio Morricone",
-            "plays": 16
-          }
-        },
-        {
-          "year": "2008",
-          "plays": 65,
-          "top": {
-            "name": "Opgezwolle",
-            "plays": 15
-          }
-        },
-        {
-          "year": "2007",
-          "plays": 37,
-          "top": {
-            "name": "Howard Shore",
+            "name": "The Cure",
             "plays": 17
           }
         },
         {
-          "year": "2006",
-          "plays": 24,
+          "year": "2008",
+          "plays": 60,
           "top": {
-            "name": "Thievery Corporation",
+            "name": "Ben’s Brother",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2007",
+          "plays": 22,
+          "top": {
+            "name": "Just Jack",
+            "plays": 13
+          }
+        },
+        {
+          "year": "2006",
+          "plays": 16,
+          "top": {
+            "name": "Wu-Tang Clan",
             "plays": 16
           }
         },
         {
           "year": "2005",
-          "plays": 9,
-          "top": {
-            "name": "John Mayer",
-            "plays": 4
-          }
+          "plays": 0,
+          "top": null
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Ennio Morricone",
-      "Fred again..",
-      "Howard Shore",
-      "John Mayer",
-      "Metallica",
-      "Terence Trent D'Arby",
-      "The Kyteman Orchestra",
-      "Thievery Corporation",
-      "Underworld"
+      "Agnes Obel",
+      "Birdy",
+      "Editors",
+      "Just Jack",
+      "Röyksopp",
+      "The Beatles",
+      "The Police",
+      "Wu-Tang Clan",
+      "Yann Tiersen"
     ],
     "discogs": []
   }
