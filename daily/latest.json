@@ -1,18 +1,18 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T08:03:15+00:00",
+  "generated_at": "2026-11-22T11:57:31+00:00",
   "date": "2026-11-21",
   "date_nl": "zaterdag 21 november 2026",
   "mail_date": "2026-11-22",
-  "data_until": "2026-11-21T18:49:37+00:00",
+  "data_until": "2026-11-22T11:31:05+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 131,
+    "plays": 132,
     "avg_year": 76,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 131 nummers — ruim boven je daggemiddelde van 2026 (76; +72%)."
+    "line": "Gisteren: 132 nummers — ruim boven je daggemiddelde van 2026 (76; +74%)."
   },
   "highlights": [
     {
@@ -44,11 +44,11 @@
       "rank": 85,
       "in_collection": false
     },
-    "kast_line": "Robbie Williams – Sing When You're Winning (2000, cd), pas 2× gedraaid.",
+    "kast_line": "Robbie Williams – Sing When You're Winning (2000, cd), pas 3× gedraaid.",
     "followup_line": "De tip van 19 november heb je opgevolgd: The Magic Numbers – Those The Brokes (1×).",
     "stats": {
       "given": 29,
-      "followed": 10
+      "followed": 11
     }
   },
   "onthisday": {
