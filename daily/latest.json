@@ -1,53 +1,53 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-21T19:45:41+00:00",
-  "date": "2026-11-20",
-  "date_nl": "vrijdag 20 november 2026",
-  "mail_date": "2026-11-21",
+  "generated_at": "2026-11-22T01:32:51+00:00",
+  "date": "2026-11-21",
+  "date_nl": "zaterdag 21 november 2026",
+  "mail_date": "2026-11-22",
   "data_until": "2026-11-21T18:49:37+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 122,
+    "plays": 131,
     "avg_year": 76,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 122 nummers — ruim boven je daggemiddelde van 2026 (76; +61%)."
+    "line": "Gisteren: 131 nummers — ruim boven je daggemiddelde van 2026 (76; +72%)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds september 2011 weer Bobby Montez (1× gisteren)."
+      "text": "Voor het eerst sinds juni 2021 weer Jackyl (1× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst MF DOOM – MM..Food (CD Album Reissue Repress, binnen sinds 28 oktober) draaide je gisteren 1×."
+      "text": "Je nieuwe aanwinst Total Touch – This Way (CD Album, binnen sinds 21 oktober) draaide je gisteren 1×."
     },
     {
-      "type": "milestone",
-      "label": "Mijlpaal",
-      "text": "Justin Hurwitz ging gisteren over de 500 plays (nu 508, eerst gehoord in februari 2017)."
+      "type": "discoveries",
+      "label": "Ontdekkingen",
+      "text": "5 artiesten hoorde je gisteren voor het eerst, o.a. The Beatles with Billy Preston, Jessica Folcker, Tom Jones with the James Taylor Quartet."
     }
   ],
   "tip": {
-    "date": "2026-11-21",
-    "faded_line": "Kyteman – The Hermit Sessions (2009) — 365× gedraaid, piek in 2009, laatst op 24 mei 2025, staat in je kast.",
+    "date": "2026-11-22",
+    "faded_line": "Disasterpeace – Fez — 332× gedraaid, piek in 2015, laatst op 16 november 2023.",
     "faded": {
       "type": "album",
-      "artist": "Kyteman",
-      "album": "The Hermit Sessions",
-      "plays": 365,
-      "peak_year": 2009,
-      "last_played": "2025-05-24",
-      "rank": 66,
-      "in_collection": true
+      "artist": "Disasterpeace",
+      "album": "Fez",
+      "plays": 332,
+      "peak_year": 2015,
+      "last_played": "2023-11-16",
+      "rank": 85,
+      "in_collection": false
     },
-    "kast_line": "Steve Winwood – Steve Winwood (1977, vinyl), nog nooit gedraaid.",
+    "kast_line": "Robbie Williams – Sing When You're Winning (2000, cd), pas 2× gedraaid.",
     "followup_line": "De tip van 19 november heb je opgevolgd: The Magic Numbers – Those The Brokes (1×).",
     "stats": {
-      "given": 28,
+      "given": 29,
       "followed": 10
     }
   },
@@ -56,138 +56,131 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Ásgeir",
-          "total": 143,
-          "year": "2013"
+          "name": "Frankie Valli",
+          "total": 52,
+          "year": "2020"
         },
         {
           "type": "comeback",
-          "name": "Them Crooked Vultures",
-          "gapDays": 631,
-          "since": "2013-02-28",
+          "name": "Tipper",
+          "gapDays": 1174,
+          "since": "2013-09-05",
           "plays": 5,
-          "before": 50,
-          "year": "2014"
+          "before": 88,
+          "year": "2016"
         },
         {
           "type": "m-track",
-          "artist": "Editors",
-          "title": "All Sparks",
-          "n": 25,
-          "year": "2008"
-        },
-        {
-          "type": "repeat",
-          "artist": "Eliza Rose",
-          "title": "B.O.T.A. (Baddest Of Them All) - Edit",
-          "n": 4,
+          "artist": "Meduza",
+          "title": "Piece of Your Heart",
+          "n": 50,
           "year": "2022"
         },
         {
           "type": "first-track",
-          "artist": "Ásgeir",
-          "title": "King and Cross",
-          "total": 54,
-          "year": "2013"
+          "artist": "The Blue Aeroplanes",
+          "title": "Fun",
+          "total": 55,
+          "year": "2006"
         },
         {
           "type": "busiest",
-          "year": "2010",
-          "plays": 124,
+          "year": "2013",
+          "plays": 125,
           "top": {
-            "name": "Gebroeders KO",
-            "plays": 18
+            "name": "AlunaGeorge",
+            "plays": 19
           }
         },
         {
           "type": "quietest",
-          "year": "2012",
-          "plays": 13,
+          "year": "2011",
+          "plays": 17,
           "top": {
-            "name": "deadmau5",
-            "plays": 6
+            "name": "Justice",
+            "plays": 10
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 120,
+          "plays": 49,
           "top": {
-            "name": "Erik Satie",
-            "plays": 31
+            "name": "Wagon Christ",
+            "plays": 9
           }
         },
         {
           "year": "2024",
-          "plays": 25,
+          "plays": 97,
           "top": {
-            "name": "Wu-Tang Clan",
-            "plays": 3
+            "name": "Trijntje Oosterhuis",
+            "plays": 24
           }
         },
         {
           "year": "2023",
-          "plays": 103,
+          "plays": 79,
           "top": {
-            "name": "Downset.",
-            "plays": 15
+            "name": "Aphex Twin",
+            "plays": 13
           }
         },
         {
           "year": "2022",
-          "plays": 79,
+          "plays": 102,
           "top": {
-            "name": "The Beatles",
-            "plays": 14
+            "name": "Fred again..",
+            "plays": 30
           }
         },
         {
           "year": "2021",
-          "plays": 47,
+          "plays": 32,
           "top": {
-            "name": "Birdy",
-            "plays": 7
+            "name": "Hardfloor",
+            "plays": 9
           }
         },
         {
           "year": "2020",
-          "plays": 33,
+          "plays": 70,
           "top": {
-            "name": "Agnes Obel",
-            "plays": 3
-          }
-        },
-        {
-          "year": "2019",
-          "plays": 33,
-          "top": {
-            "name": "The Police",
+            "name": "Stevie Wonder",
             "plays": 2
           }
         },
         {
-          "year": "2018",
-          "plays": 60,
+          "year": "2019",
+          "plays": 85,
           "top": {
-            "name": "Todd Baker",
-            "plays": 28
+            "name": "Ennio Morricone",
+            "plays": 29
+          }
+        },
+        {
+          "year": "2018",
+          "plays": 25,
+          "top": {
+            "name": "Des McMahon",
+            "plays": 4
           }
         },
         {
           "year": "2017",
-          "plays": 15,
+          "plays": 69,
           "top": {
-            "name": "Röyksopp",
-            "plays": 10
+            "name": "Gramatik",
+            "plays": 3
           }
         },
         {
           "year": "2016",
-          "plays": 58,
+          "plays": 26,
           "top": {
             "name": "Hibernation",
-            "plays": 14
+            "plays": 10
           }
         },
         {
@@ -197,74 +190,74 @@
         },
         {
           "year": "2014",
-          "plays": 67,
+          "plays": 57,
           "top": {
-            "name": "Yann Tiersen",
-            "plays": 23
+            "name": "Jochem van Gelder",
+            "plays": 16
           }
         },
         {
           "year": "2013",
-          "plays": 63,
+          "plays": 125,
           "top": {
-            "name": "Brown Feather Sparrow",
-            "plays": 11
+            "name": "AlunaGeorge",
+            "plays": 19
           }
         },
         {
           "year": "2012",
-          "plays": 13,
+          "plays": 34,
           "top": {
-            "name": "deadmau5",
-            "plays": 6
+            "name": "Stateless",
+            "plays": 9
           }
         },
         {
           "year": "2011",
-          "plays": 46,
+          "plays": 17,
           "top": {
-            "name": "The Beatles",
-            "plays": 18
+            "name": "Justice",
+            "plays": 10
           }
         },
         {
           "year": "2010",
-          "plays": 124,
+          "plays": 63,
           "top": {
-            "name": "Gebroeders KO",
-            "plays": 18
+            "name": "Ben’s Brother",
+            "plays": 9
           }
         },
         {
           "year": "2009",
-          "plays": 50,
+          "plays": 118,
           "top": {
-            "name": "The Cure",
-            "plays": 17
-          }
-        },
-        {
-          "year": "2008",
-          "plays": 60,
-          "top": {
-            "name": "Ben’s Brother",
-            "plays": 12
-          }
-        },
-        {
-          "year": "2007",
-          "plays": 22,
-          "top": {
-            "name": "Just Jack",
+            "name": "Goldmund",
             "plays": 13
           }
         },
         {
-          "year": "2006",
-          "plays": 16,
+          "year": "2008",
+          "plays": 89,
           "top": {
-            "name": "Wu-Tang Clan",
-            "plays": 16
+            "name": "Booka Shade",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2007",
+          "plays": 38,
+          "top": {
+            "name": "José González",
+            "plays": 11
+          }
+        },
+        {
+          "year": "2006",
+          "plays": 39,
+          "top": {
+            "name": "The Blue Aeroplanes",
+            "plays": 22
           }
         },
         {
@@ -275,15 +268,11 @@
       ]
     },
     "lastfm_artists_in_collection": [
-      "Agnes Obel",
-      "Birdy",
-      "Editors",
-      "Just Jack",
-      "Röyksopp",
-      "The Beatles",
-      "The Police",
-      "Wu-Tang Clan",
-      "Yann Tiersen"
+      "Ennio Morricone",
+      "Fred again..",
+      "José González",
+      "Stevie Wonder",
+      "Trijntje Oosterhuis"
     ],
     "discogs": []
   }
