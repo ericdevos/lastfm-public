@@ -1,54 +1,54 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T19:57:40+00:00",
-  "date": "2026-11-21",
-  "date_nl": "zaterdag 21 november 2026",
-  "mail_date": "2026-11-22",
-  "data_until": "2026-11-22T19:55:20+00:00",
+  "generated_at": "2026-11-23T01:57:52+00:00",
+  "date": "2026-11-22",
+  "date_nl": "zondag 22 november 2026",
+  "mail_date": "2026-11-23",
+  "data_until": "2026-11-22T21:26:21+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 132,
+    "plays": 77,
     "avg_year": 76,
     "year": 2026,
-    "verdict": "boven",
-    "line": "Gisteren: 132 nummers — ruim boven je daggemiddelde van 2026 (76; +74%)."
+    "verdict": "gelijk",
+    "line": "Gisteren: 77 nummers — ongeveer gelijk aan je daggemiddelde van 2026 (76)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds juni 2021 weer Jackyl (1× gisteren)."
+      "text": "Voor het eerst sinds september 2018 weer Christine Baranski (1× gisteren)."
     },
     {
       "type": "new",
       "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst Total Touch – This Way (CD Album, binnen sinds 21 oktober) draaide je gisteren 1×."
+      "text": "Je nieuwe aanwinst MF DOOM – Operation: Doomsday (CD Album Reissue, binnen sinds 5 november) draaide je gisteren 1×."
     },
     {
-      "type": "discoveries",
-      "label": "Ontdekkingen",
-      "text": "5 artiesten hoorde je gisteren voor het eerst, o.a. The Beatles with Billy Preston, Jessica Folcker, Tom Jones with the James Taylor Quartet."
+      "type": "milestone",
+      "label": "Mijlpaal",
+      "text": "The Dave Brubeck Quartet ging gisteren over de 250 plays (nu 250, eerst gehoord in januari 2012)."
     }
   ],
   "tip": {
-    "date": "2026-11-22",
-    "faded_line": "Disasterpeace – Fez — 332× gedraaid, piek in 2015, laatst op 16 november 2023.",
+    "date": "2026-11-23",
+    "faded_line": "Groove Armada – Soundboy Rock (2007) — 320× gedraaid, piek in 2007, laatst op 6 september 2025, staat in je kast.",
     "faded": {
       "type": "album",
-      "artist": "Disasterpeace",
-      "album": "Fez",
-      "plays": 332,
-      "peak_year": 2015,
-      "last_played": "2023-11-16",
-      "rank": 85,
-      "in_collection": false
+      "artist": "Groove Armada",
+      "album": "Soundboy Rock",
+      "plays": 320,
+      "peak_year": 2007,
+      "last_played": "2025-09-06",
+      "rank": 97,
+      "in_collection": true
     },
-    "kast_line": "Robbie Williams – Sing When You're Winning (2000, cd), pas 3× gedraaid.",
-    "followup_line": "De tip van 19 november heb je opgevolgd: The Magic Numbers – Those The Brokes (1×).",
+    "kast_line": "Eric Clapton – Backless (1978, vinyl), pas 4× gedraaid.",
+    "followup_line": "De tip van 22 november heb je opgevolgd: Robbie Williams – Sing When You're Winning (1×).",
     "stats": {
-      "given": 29,
-      "followed": 11
+      "given": 30,
+      "followed": 12
     }
   },
   "onthisday": {
@@ -56,223 +56,233 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Frankie Valli",
-          "total": 52,
-          "year": "2020"
-        },
-        {
-          "type": "comeback",
-          "name": "Tipper",
-          "gapDays": 1174,
-          "since": "2013-09-05",
-          "plays": 5,
-          "before": 88,
-          "year": "2016"
-        },
-        {
-          "type": "m-track",
-          "artist": "Meduza",
-          "title": "Piece of Your Heart",
-          "n": 50,
-          "year": "2022"
-        },
-        {
-          "type": "first-track",
-          "artist": "The Blue Aeroplanes",
-          "title": "Fun",
-          "total": 55,
+          "name": "Chaka Khan",
+          "total": 66,
           "year": "2006"
         },
         {
+          "type": "comeback",
+          "name": "Digitalism",
+          "gapDays": 555,
+          "since": "2011-05-18",
+          "plays": 7,
+          "before": 206,
+          "year": "2012"
+        },
+        {
+          "type": "m-track",
+          "artist": "Elbow",
+          "title": "One Day Like This",
+          "n": 25,
+          "year": "2012"
+        },
+        {
+          "type": "repeat",
+          "artist": "Fred again..",
+          "title": "Delilah (Pull Me Out Of This)",
+          "n": 3,
+          "year": "2022"
+        },
+        {
           "type": "busiest",
-          "year": "2013",
-          "plays": 125,
+          "year": "2020",
+          "plays": 119,
           "top": {
-            "name": "AlunaGeorge",
-            "plays": 19
+            "name": "Fatima Yamaha",
+            "plays": 16
           }
         },
         {
           "type": "quietest",
-          "year": "2011",
-          "plays": 17,
+          "year": "2014",
+          "plays": 3,
           "top": {
-            "name": "Justice",
-            "plays": 10
+            "name": "Soldaat van Oranje Cast",
+            "plays": 1
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 49,
+          "plays": 54,
           "top": {
             "name": "Wagon Christ",
-            "plays": 9
+            "plays": 12
           }
         },
         {
           "year": "2024",
-          "plays": 97,
+          "plays": 90,
           "top": {
-            "name": "Trijntje Oosterhuis",
-            "plays": 24
-          }
-        },
-        {
-          "year": "2023",
-          "plays": 79,
-          "top": {
-            "name": "Aphex Twin",
-            "plays": 13
-          }
-        },
-        {
-          "year": "2022",
-          "plays": 102,
-          "top": {
-            "name": "Fred again..",
-            "plays": 30
-          }
-        },
-        {
-          "year": "2021",
-          "plays": 32,
-          "top": {
-            "name": "Hardfloor",
-            "plays": 9
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 70,
-          "top": {
-            "name": "Stevie Wonder",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2019",
-          "plays": 85,
-          "top": {
-            "name": "Ennio Morricone",
-            "plays": 29
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 25,
-          "top": {
-            "name": "Des McMahon",
-            "plays": 4
-          }
-        },
-        {
-          "year": "2017",
-          "plays": 69,
-          "top": {
-            "name": "Gramatik",
-            "plays": 3
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 26,
-          "top": {
-            "name": "Hibernation",
-            "plays": 10
-          }
-        },
-        {
-          "year": "2015",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2014",
-          "plays": 57,
-          "top": {
-            "name": "Jochem van Gelder",
+            "name": "Berlioz",
             "plays": 16
           }
         },
         {
-          "year": "2013",
-          "plays": 125,
+          "year": "2023",
+          "plays": 36,
           "top": {
-            "name": "AlunaGeorge",
-            "plays": 19
+            "name": "Lane 8",
+            "plays": 2
           }
         },
         {
-          "year": "2012",
-          "plays": 34,
+          "year": "2022",
+          "plays": 66,
           "top": {
-            "name": "Stateless",
-            "plays": 9
+            "name": "Fred again..",
+            "plays": 31
           }
         },
         {
-          "year": "2011",
-          "plays": 17,
+          "year": "2021",
+          "plays": 46,
           "top": {
-            "name": "Justice",
-            "plays": 10
+            "name": "Barry Can't Swim",
+            "plays": 1
           }
         },
         {
-          "year": "2010",
-          "plays": 63,
+          "year": "2020",
+          "plays": 119,
           "top": {
-            "name": "Ben’s Brother",
-            "plays": 9
+            "name": "Fatima Yamaha",
+            "plays": 16
           }
         },
         {
-          "year": "2009",
-          "plays": 118,
+          "year": "2019",
+          "plays": 82,
           "top": {
-            "name": "Goldmund",
-            "plays": 13
+            "name": "The xx",
+            "plays": 4
           }
         },
         {
-          "year": "2008",
-          "plays": 89,
+          "year": "2018",
+          "plays": 57,
           "top": {
-            "name": "Booka Shade",
+            "name": "The Chemical Brothers",
             "plays": 14
           }
         },
         {
-          "year": "2007",
-          "plays": 38,
+          "year": "2017",
+          "plays": 6,
           "top": {
-            "name": "José González",
-            "plays": 11
+            "name": "The Waterboys",
+            "plays": 1
           }
         },
         {
-          "year": "2006",
-          "plays": 39,
+          "year": "2016",
+          "plays": 32,
           "top": {
-            "name": "The Blue Aeroplanes",
+            "name": "Aphex Twin",
+            "plays": 9
+          }
+        },
+        {
+          "year": "2015",
+          "plays": 59,
+          "top": {
+            "name": "Rom Di Prisco",
+            "plays": 17
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 3,
+          "top": {
+            "name": "Soldaat van Oranje Cast",
+            "plays": 1
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 28,
+          "top": {
+            "name": "Flooting Grooves",
+            "plays": 8
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 47,
+          "top": {
+            "name": "Digitalism",
+            "plays": 7
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 55,
+          "top": {
+            "name": "Air",
+            "plays": 12
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 45,
+          "top": {
+            "name": "John Kander",
             "plays": 22
           }
         },
         {
+          "year": "2009",
+          "plays": 44,
+          "top": {
+            "name": "Cut Copy",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2008",
+          "plays": 84,
+          "top": {
+            "name": "Jason Mraz",
+            "plays": 34
+          }
+        },
+        {
+          "year": "2007",
+          "plays": 63,
+          "top": {
+            "name": "Groove Armada",
+            "plays": 17
+          }
+        },
+        {
+          "year": "2006",
+          "plays": 82,
+          "top": {
+            "name": "Placebo",
+            "plays": 25
+          }
+        },
+        {
           "year": "2005",
-          "plays": 0,
-          "top": null
+          "plays": 4,
+          "top": {
+            "name": "Beastie Boys",
+            "plays": 1
+          }
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "Ennio Morricone",
+      "AIR",
+      "Beastie Boys",
+      "Elbow",
       "Fred again..",
-      "José González",
-      "Stevie Wonder",
-      "Trijntje Oosterhuis"
+      "Groove Armada",
+      "Jason Mraz",
+      "Placebo",
+      "The Chemical Brothers",
+      "The XX"
     ],
     "discogs": []
   }
