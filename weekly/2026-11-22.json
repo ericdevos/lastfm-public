@@ -1,0 +1,2028 @@
+{
+ "schema": 1,
+ "generated_at": "2026-11-23T01:57:57+00:00",
+ "data_until": "2026-11-22T21:26:21+00:00",
+ "sync_ok": true,
+ "period": {
+  "from": "2026-11-16",
+  "to": "2026-11-22",
+  "tz": "Europe/Amsterdam"
+ },
+ "week": {
+  "plays": 694,
+  "unique_artists": 321,
+  "artists": [
+   {
+    "name": "Justin Hurwitz",
+    "plays": 52,
+    "total": 508,
+    "first_played": "2017-02-03"
+   },
+   {
+    "name": "Joris de Man",
+    "plays": 31,
+    "total": 189,
+    "first_played": "2017-12-01"
+   },
+   {
+    "name": "Koji Kondo",
+    "plays": 29,
+    "total": 131,
+    "first_played": "2014-03-19"
+   },
+   {
+    "name": "Yann Tiersen",
+    "plays": 23,
+    "total": 1562,
+    "first_played": "2005-12-16"
+   },
+   {
+    "name": "Ennio Morricone",
+    "plays": 21,
+    "total": 1020,
+    "first_played": "2005-03-03"
+   },
+   {
+    "name": "Michiel Borstlap",
+    "plays": 15,
+    "total": 208,
+    "first_played": "2013-10-06"
+   },
+   {
+    "name": "Frédéric Chopin",
+    "plays": 14,
+    "total": 148,
+    "first_played": "2008-03-14"
+   },
+   {
+    "name": "Thievery Corporation",
+    "plays": 14,
+    "total": 1637,
+    "first_played": "2005-02-14"
+   },
+   {
+    "name": "Leftfield",
+    "plays": 12,
+    "total": 120,
+    "first_played": "2005-03-28"
+   },
+   {
+    "name": "Octogen",
+    "plays": 12,
+    "total": 97,
+    "first_played": "2009-06-28"
+   },
+   {
+    "name": "Tosca",
+    "plays": 11,
+    "total": 1350,
+    "first_played": "2005-03-22"
+   },
+   {
+    "name": "Colin Benders - Eric Vloeimans",
+    "plays": 9,
+    "total": 39,
+    "first_played": "2011-09-11"
+   },
+   {
+    "name": "Putumayo",
+    "plays": 9,
+    "total": 429,
+    "first_played": "2023-12-16"
+   },
+   {
+    "name": "Placebo",
+    "plays": 8,
+    "total": 1776,
+    "first_played": "2005-03-08"
+   },
+   {
+    "name": "Sex Pistols",
+    "plays": 7,
+    "total": 20,
+    "first_played": "2011-06-30"
+   },
+   {
+    "name": "Thelonious Monk",
+    "plays": 7,
+    "total": 70,
+    "first_played": "2018-07-04"
+   },
+   {
+    "name": "The Flight",
+    "plays": 6,
+    "total": 55,
+    "first_played": "2017-12-01"
+   },
+   {
+    "name": "Orbital",
+    "plays": 6,
+    "total": 317,
+    "first_played": "2007-09-10"
+   },
+   {
+    "name": "Afrika Bambaataa & The Soulsonic Force",
+    "plays": 5,
+    "total": 14,
+    "first_played": "2026-04-10"
+   },
+   {
+    "name": "The Beatles",
+    "plays": 5,
+    "total": 3227,
+    "first_played": "2005-03-02"
+   },
+   {
+    "name": "Charles Mingus",
+    "plays": 5,
+    "total": 32,
+    "first_played": "2015-05-04"
+   },
+   {
+    "name": "Dio",
+    "plays": 5,
+    "total": 80,
+    "first_played": "2007-11-26"
+   },
+   {
+    "name": "Kettel",
+    "plays": 5,
+    "total": 817,
+    "first_played": "2005-03-17"
+   },
+   {
+    "name": "Trentemøller",
+    "plays": 5,
+    "total": 736,
+    "first_played": "2007-09-25"
+   },
+   {
+    "name": "Black Eyed Peas",
+    "plays": 4,
+    "total": 573,
+    "first_played": "2005-02-18"
+   }
+  ],
+  "albums": [
+   {
+    "artist": "Justin Hurwitz",
+    "album": "La La Land: Original Motion Picture Soundtrack",
+    "plays": 42,
+    "total": 447,
+    "first_played": "2017-02-03"
+   },
+   {
+    "artist": "Joris de Man",
+    "album": "Horizon Zero Dawn (Original Soundtrack)",
+    "plays": 31,
+    "total": 174,
+    "first_played": "2017-12-01"
+   },
+   {
+    "artist": "Koji Kondo",
+    "album": "A Link to the Past",
+    "plays": 25,
+    "total": 25,
+    "first_played": "2026-11-19"
+   },
+   {
+    "artist": "Yann Tiersen",
+    "album": "Good Bye Lenin!",
+    "plays": 23,
+    "total": 94,
+    "first_played": "2008-06-26"
+   },
+   {
+    "artist": "Ennio Morricone",
+    "album": "The Very Best Of",
+    "plays": 20,
+    "total": 664,
+    "first_played": "2005-03-03"
+   },
+   {
+    "artist": "Michiel Borstlap",
+    "album": "Eldorado",
+    "plays": 15,
+    "total": 19,
+    "first_played": "2025-03-27"
+   },
+   {
+    "artist": "Frédéric Chopin",
+    "album": "Nocturnes",
+    "plays": 14,
+    "total": 45,
+    "first_played": "2026-09-03"
+   },
+   {
+    "artist": "Thievery Corporation",
+    "album": "The Cosmic Game",
+    "plays": 14,
+    "total": 589,
+    "first_played": "2006-02-03"
+   },
+   {
+    "artist": "Leftfield",
+    "album": "Leftism",
+    "plays": 12,
+    "total": 67,
+    "first_played": "2007-10-29"
+   },
+   {
+    "artist": "Octogen",
+    "album": "Gindofask",
+    "plays": 12,
+    "total": 25,
+    "first_played": "2021-05-14"
+   },
+   {
+    "artist": "Tosca",
+    "album": "Suzuki In Dub",
+    "plays": 11,
+    "total": 351,
+    "first_played": "2007-01-22"
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "album": "Whiplash (Original Motion Picture Soundtrack)",
+    "plays": 10,
+    "total": 21,
+    "first_played": "2017-02-03"
+   },
+   {
+    "artist": "Colin Benders - Eric Vloeimans",
+    "album": "Kytecrash",
+    "plays": 9,
+    "total": 39,
+    "first_played": "2011-09-11"
+   },
+   {
+    "artist": "Putumayo",
+    "album": "Family Gathering by Putumayo",
+    "plays": 9,
+    "total": 9,
+    "first_played": "2026-11-16"
+   },
+   {
+    "artist": "Placebo",
+    "album": "Placebo RE:CREATED",
+    "plays": 7,
+    "total": 7,
+    "first_played": "2026-11-20"
+   },
+   {
+    "artist": "Sex Pistols",
+    "album": "Never Mind the Bollocks Here’s The Sex Pistols",
+    "plays": 7,
+    "total": 18,
+    "first_played": "2019-12-31"
+   },
+   {
+    "artist": "The Flight",
+    "album": "Horizon Zero Dawn (Original Soundtrack)",
+    "plays": 6,
+    "total": 50,
+    "first_played": "2017-12-01"
+   },
+   {
+    "artist": "Afrika Bambaataa & The Soulsonic Force",
+    "album": "Lost Generation",
+    "plays": 5,
+    "total": 14,
+    "first_played": "2026-04-10"
+   },
+   {
+    "artist": "Charles Mingus",
+    "album": "Mingus Ah Um",
+    "plays": 5,
+    "total": 16,
+    "first_played": "2025-01-15"
+   },
+   {
+    "artist": "Dio",
+    "album": "Rock & Roll",
+    "plays": 5,
+    "total": 73,
+    "first_played": "2009-04-22"
+   },
+   {
+    "artist": "Kettel",
+    "album": "Ibb & Obb (Original Soundtrack)",
+    "plays": 5,
+    "total": 469,
+    "first_played": "2013-12-09"
+   },
+   {
+    "artist": "Orbital",
+    "album": "Lush 3",
+    "plays": 5,
+    "total": 51,
+    "first_played": "2008-08-29"
+   },
+   {
+    "artist": "Trentemøller",
+    "album": "Trentemøller",
+    "plays": 5,
+    "total": 5,
+    "first_played": "2026-11-16"
+   },
+   {
+    "artist": "Thelonious Monk",
+    "album": "Genius Of Modern Music (Vol.1, Expanded Edition)",
+    "plays": 4,
+    "total": 26,
+    "first_played": "2024-02-19"
+   },
+   {
+    "artist": "Count Basie",
+    "album": "The Complete Atomic Basie",
+    "plays": 3,
+    "total": 10,
+    "first_played": "2025-01-15"
+   }
+  ],
+  "tracks": [
+   {
+    "artist": "Betty Carter",
+    "track": "Open The Door",
+    "plays": 2
+   },
+   {
+    "artist": "Charles Mingus",
+    "track": "Goodbye Pork Pie Hat",
+    "plays": 2
+   },
+   {
+    "artist": "Dio",
+    "track": "Cool (feat. Reverse & Jayh)",
+    "plays": 2
+   },
+   {
+    "artist": "DJ Hell",
+    "track": "This Is For You (The Terence Fixmer Mix)",
+    "plays": 2
+   },
+   {
+    "artist": "Grant Green",
+    "track": "Hurt So Bad",
+    "plays": 2
+   },
+   {
+    "artist": "Juice WRLD",
+    "track": "Robbery",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Bathroom Mirror / You're Coming Right?",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Bogart & Bergman",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Classic Rope-a-Dope",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Herman’s Habit",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Holy Hell!",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "It Pays",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Mia & Sebastian’s Theme",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Mia & Sebastian’s Theme (Late for the Date)",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Mia Hates Jazz",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Planetarium",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Rialto at Ten",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Stroll Up the Hill",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "Summer Montage / Madeline",
+    "plays": 2
+   },
+   {
+    "artist": "Justin Hurwitz",
+    "track": "There the Whole Time / Twirl",
+    "plays": 2
+   },
+   {
+    "artist": "Kendrick Lamar",
+    "track": "These Walls",
+    "plays": 2
+   },
+   {
+    "artist": "Leftfield",
+    "track": "Melt",
+    "plays": 2
+   },
+   {
+    "artist": "10cc",
+    "track": "Dreadlock Holiday",
+    "plays": 1
+   },
+   {
+    "artist": "2 Unlimited",
+    "track": "Faces",
+    "plays": 1
+   },
+   {
+    "artist": "2 Unlimited",
+    "track": "The Real Thing",
+    "plays": 1
+   }
+  ],
+  "new_artists": [
+   {
+    "name": "DJ Hell",
+    "plays": 2
+   },
+   {
+    "name": "Mr Velcro Fastener",
+    "plays": 2
+   },
+   {
+    "name": "Autonomous Soul",
+    "plays": 1
+   },
+   {
+    "name": "Bayaka",
+    "plays": 1
+   },
+   {
+    "name": "The Beatles with Billy Preston",
+    "plays": 1
+   },
+   {
+    "name": "Buzzy Bus",
+    "plays": 1
+   },
+   {
+    "name": "Chromatix",
+    "plays": 1
+   },
+   {
+    "name": "G-Man",
+    "plays": 1
+   },
+   {
+    "name": "Ikebe Shakedown",
+    "plays": 1
+   },
+   {
+    "name": "Jessica Folcker",
+    "plays": 1
+   },
+   {
+    "name": "Kit Clayton",
+    "plays": 1
+   },
+   {
+    "name": "Matthias Heilbronn",
+    "plays": 1
+   },
+   {
+    "name": "Soul Center",
+    "plays": 1
+   },
+   {
+    "name": "Theta Aum",
+    "plays": 1
+   },
+   {
+    "name": "Tom Jones with the James Taylor Quartet",
+    "plays": 1
+   },
+   {
+    "name": "Woody Jackson",
+    "plays": 1
+   }
+  ],
+  "new_albums": [
+   {
+    "artist": "Koji Kondo",
+    "album": "A Link to the Past",
+    "plays": 25
+   },
+   {
+    "artist": "Putumayo",
+    "album": "Family Gathering by Putumayo",
+    "plays": 9
+   },
+   {
+    "artist": "Placebo",
+    "album": "Placebo RE:CREATED",
+    "plays": 7
+   },
+   {
+    "artist": "Trentemøller",
+    "album": "Trentemøller",
+    "plays": 5
+   },
+   {
+    "artist": "Betty Carter",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 2
+   },
+   {
+    "artist": "DJ Hell",
+    "album": "Tinsel Town",
+    "plays": 2
+   },
+   {
+    "artist": "Grant Green",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 2
+   },
+   {
+    "artist": "Mr Velcro Fastener",
+    "album": "Tinsel Town",
+    "plays": 2
+   },
+   {
+    "artist": "2 Unlimited",
+    "album": "Het Beste Uit De Mega Top 50 Van Het Jaar '94",
+    "plays": 1
+   },
+   {
+    "artist": "2 Unlimited",
+    "album": "Mega Dance 93, Part 3",
+    "plays": 1
+   },
+   {
+    "artist": "ABC",
+    "album": "Reflex Of The 80's",
+    "plays": 1
+   },
+   {
+    "artist": "ADULT.",
+    "album": "Tinsel Town",
+    "plays": 1
+   },
+   {
+    "artist": "Alex Couture",
+    "album": "The Dreaming Sessions",
+    "plays": 1
+   },
+   {
+    "artist": "Andrew Hill",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Aphrodite's Child",
+    "album": "100 No. 1 Hits",
+    "plays": 1
+   },
+   {
+    "artist": "Autonomous Soul",
+    "album": "Tinsel Town",
+    "plays": 1
+   },
+   {
+    "artist": "Bayaka",
+    "album": "Tinsel Town",
+    "plays": 1
+   },
+   {
+    "artist": "The Beatles with Billy Preston",
+    "album": "Past Masters",
+    "plays": 1
+   },
+   {
+    "artist": "Bitty McLean",
+    "album": "100 No. 1 Hits, Volume 2",
+    "plays": 1
+   },
+   {
+    "artist": "Black Eyed Peas",
+    "album": "The E.N.D. (The Energy Never Dies) [Deluxe Version]",
+    "plays": 1
+   },
+   {
+    "artist": "Bob Dorough",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Bobby Hutcherson",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Bobby Montez",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "\"Brother\" Jack McDuff",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Buzzy Bus",
+    "album": "TMF HitZone 6",
+    "plays": 1
+   },
+   {
+    "artist": "Charles Aznavour",
+    "album": "A Tapestry of Dreams",
+    "plays": 1
+   },
+   {
+    "artist": "Christine Baranski",
+    "album": "Mamma Mia! Here We Go Again (Original Motion Picture Soundtrack)",
+    "plays": 1
+   },
+   {
+    "artist": "Chromatix",
+    "album": "Tinsel Town",
+    "plays": 1
+   },
+   {
+    "artist": "Close II You",
+    "album": "Het beste uit de Mega Top 100: '98",
+    "plays": 1
+   },
+   {
+    "artist": "Culture Beat",
+    "album": "Het Beste Uit De Mega Top 50 Van Het Jaar '94",
+    "plays": 1
+   },
+   {
+    "artist": "Culture Beat",
+    "album": "Het Beste Uit De Top 40 Van '91",
+    "plays": 1
+   },
+   {
+    "artist": "DANGERDOOM",
+    "album": "The Mouse and The Mask (Metalface Edition)",
+    "plays": 1
+   },
+   {
+    "artist": "David Bowie & Pat Metheny Group",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Dayton",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Dexys Midnight Runners",
+    "album": "Reflex Of The 80's",
+    "plays": 1
+   },
+   {
+    "artist": "Digable Planets",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "DJ Jean",
+    "album": "TMF Hitzone 6",
+    "plays": 1
+   },
+   {
+    "artist": "Djavan",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Dr. Alban",
+    "album": "Now the Music: Reggae Dance",
+    "plays": 1
+   },
+   {
+    "artist": "Egberto Gismonti",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Emilie-Claire Barlow",
+    "album": "Haven't We Met?",
+    "plays": 1
+   },
+   {
+    "artist": "Extreme",
+    "album": "100 No. 1 Hits",
+    "plays": 1
+   },
+   {
+    "artist": "Faithless",
+    "album": "Het beste uit de Mega Top 100: 1997",
+    "plays": 1
+   },
+   {
+    "artist": "G-Man",
+    "album": "Tinsel Town",
+    "plays": 1
+   },
+   {
+    "artist": "Gary Bartz",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Gene Dunlap",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Het Goede Doel",
+    "album": "Mooi En Onverslijtbaar",
+    "plays": 1
+   },
+   {
+    "artist": "Horace Silver",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Ikebe Shakedown",
+    "album": "Assassin",
+    "plays": 1
+   },
+   {
+    "artist": "Iron Maiden",
+    "album": "Somewhere In Time (2015 Remaster)",
+    "plays": 1
+   },
+   {
+    "artist": "Ivan Lins",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Jacques Brel",
+    "album": "La Valse A Mille Temps (Vol.4)",
+    "plays": 1
+   },
+   {
+    "artist": "Janet Lawson",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Jessica Folcker",
+    "album": "Het beste uit De Mega Top 100: '99",
+    "plays": 1
+   },
+   {
+    "artist": "Joe",
+    "album": "Het beste uit de Mega Top 100: 2000",
+    "plays": 1
+   },
+   {
+    "artist": "Kit Clayton",
+    "album": "Tinsel Town",
+    "plays": 1
+   },
+   {
+    "artist": "Koji Kondo",
+    "album": "Legend of Zelda Collection, Vol. 2",
+    "plays": 1
+   },
+   {
+    "artist": "Kylie Minogue",
+    "album": "Murder Ballads",
+    "plays": 1
+   },
+   {
+    "artist": "Markus Nikolai",
+    "album": "Tinsel Town",
+    "plays": 1
+   },
+   {
+    "artist": "Marlena Shaw",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Matthias Heilbronn",
+    "album": "Tinsel Town",
+    "plays": 1
+   },
+   {
+    "artist": "Maze",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Medeski, Martin & Wood",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "MF DOOM",
+    "album": "Operation: Doomsday (Complete)",
+    "plays": 1
+   },
+   {
+    "artist": "Midnight Oil",
+    "album": "Diesel and Dust",
+    "plays": 1
+   },
+   {
+    "artist": "Momento",
+    "album": "Visions of Sleep and Beyond",
+    "plays": 1
+   },
+   {
+    "artist": "Nina Simone",
+    "album": "Baltimore",
+    "plays": 1
+   },
+   {
+    "artist": "Nobuo Uematsu",
+    "album": "Distant Worlds: Music From Final Fantasy",
+    "plays": 1
+   },
+   {
+    "artist": "Pieces Of A Dream",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "The Pointer Sisters",
+    "album": "Foute CD van Q-Music, Volume 1",
+    "plays": 1
+   },
+   {
+    "artist": "Racoon",
+    "album": "Another Day (Deluxe Version)",
+    "plays": 1
+   },
+   {
+    "artist": "Ratio",
+    "album": "Tinsel Town",
+    "plays": 1
+   },
+   {
+    "artist": "Red Hot Chili Peppers",
+    "album": "Het Beste Uit De Top 40 Van '92",
+    "plays": 1
+   },
+   {
+    "artist": "René & Angela",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Robert Glasper",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Roxette",
+    "album": "Het Beste Uit De Top 40 Van '92",
+    "plays": 1
+   },
+   {
+    "artist": "Shocking Blue",
+    "album": "100 No. 1 Hits, Volume 2",
+    "plays": 1
+   },
+   {
+    "artist": "Small Faces",
+    "album": "100 No. 1 Hits",
+    "plays": 1
+   },
+   {
+    "artist": "Soul Center",
+    "album": "Tinsel Town",
+    "plays": 1
+   },
+   {
+    "artist": "Soulive",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Thelonious Monk",
+    "album": "Monk's Music",
+    "plays": 1
+   },
+   {
+    "artist": "Theta Aum",
+    "album": "Theta Brainwaves For Relaxation",
+    "plays": 1
+   },
+   {
+    "artist": "Tom Jones with the James Taylor Quartet",
+    "album": "Reload",
+    "plays": 1
+   },
+   {
+    "artist": "Total Touch",
+    "album": "This Way",
+    "plays": 1
+   },
+   {
+    "artist": "Total Touch",
+    "album": "TMF Hitzone 3",
+    "plays": 1
+   },
+   {
+    "artist": "Twenty 4 Seven",
+    "album": "Mega Dance '94, Volume 2",
+    "plays": 1
+   },
+   {
+    "artist": "Video Game Players",
+    "album": "Classic Video Game Songs",
+    "plays": 1
+   },
+   {
+    "artist": "The Waters",
+    "album": "Blue Note Trip, Volume 5: Scrambled / Mashed",
+    "plays": 1
+   },
+   {
+    "artist": "Woody Jackson",
+    "album": "The Music of Red Dead Redemption 2 (Original Score)",
+    "plays": 1
+   }
+  ],
+  "risers": {
+   "rule": "plek aller tijden na deze week tegenover ervoor; alleen wie nu in de top 1000 staat en deze week gedraaid is; previous_rank null = nieuw in de ranglijst",
+   "artists": [
+    {
+     "name": "Koji Kondo",
+     "rank": 527,
+     "previous_rank": 638,
+     "gained": 111,
+     "plays_week": 29,
+     "total": 131
+    },
+    {
+     "name": "Joris de Man",
+     "rank": 385,
+     "previous_rank": 453,
+     "gained": 68,
+     "plays_week": 31,
+     "total": 189
+    },
+    {
+     "name": "Octogen",
+     "rank": 663,
+     "previous_rank": 729,
+     "gained": 66,
+     "plays_week": 12,
+     "total": 97
+    },
+    {
+     "name": "Thelonious Monk",
+     "rank": 861,
+     "previous_rank": 927,
+     "gained": 66,
+     "plays_week": 7,
+     "total": 70
+    },
+    {
+     "name": "John Coltrane",
+     "rank": 985,
+     "previous_rank": 1030,
+     "gained": 45,
+     "plays_week": 3,
+     "total": 58
+    },
+    {
+     "name": "Leftfield",
+     "rank": 565,
+     "previous_rank": 607,
+     "gained": 42,
+     "plays_week": 12,
+     "total": 120
+    },
+    {
+     "name": "Dio",
+     "rank": 762,
+     "previous_rank": 801,
+     "gained": 39,
+     "plays_week": 5,
+     "total": 80
+    },
+    {
+     "name": "Frédéric Chopin",
+     "rank": 476,
+     "previous_rank": 511,
+     "gained": 35,
+     "plays_week": 14,
+     "total": 148
+    },
+    {
+     "name": "Michiel Borstlap",
+     "rank": 348,
+     "previous_rank": 379,
+     "gained": 31,
+     "plays_week": 15,
+     "total": 208
+    },
+    {
+     "name": "Maarten van Roozendaal",
+     "rank": 987,
+     "previous_rank": 1015,
+     "gained": 28,
+     "plays_week": 2,
+     "total": 58
+    }
+   ],
+   "albums": [
+    {
+     "artist": "Yann Tiersen",
+     "album": "Good Bye Lenin!",
+     "rank": 627,
+     "previous_rank": 857,
+     "gained": 230,
+     "plays_week": 23,
+     "total": 94
+    },
+    {
+     "artist": "Leftfield",
+     "album": "Leftism",
+     "rank": 905,
+     "previous_rank": 1061,
+     "gained": 156,
+     "plays_week": 12,
+     "total": 67
+    },
+    {
+     "artist": "Joris de Man",
+     "album": "Horizon Zero Dawn (Original Soundtrack)",
+     "rank": 281,
+     "previous_rank": 371,
+     "gained": 90,
+     "plays_week": 31,
+     "total": 174
+    },
+    {
+     "artist": "Dio",
+     "album": "Rock & Roll",
+     "rank": 833,
+     "previous_rank": 890,
+     "gained": 57,
+     "plays_week": 5,
+     "total": 73
+    },
+    {
+     "artist": "Koji Kondo",
+     "album": "The Greatest Video Game Music",
+     "rank": 761,
+     "previous_rank": 792,
+     "gained": 31,
+     "plays_week": 3,
+     "total": 79
+    },
+    {
+     "artist": "Billy Joel",
+     "album": "The Complete Hits Collection: 1973-1997",
+     "rank": 966,
+     "previous_rank": 995,
+     "gained": 29,
+     "plays_week": 2,
+     "total": 61
+    },
+    {
+     "artist": "Michael Jackson",
+     "album": "The Collection",
+     "rank": 975,
+     "previous_rank": 1001,
+     "gained": 26,
+     "plays_week": 2,
+     "total": 61
+    },
+    {
+     "artist": "Rage Against the Machine",
+     "album": "Evil Empire",
+     "rank": 575,
+     "previous_rank": 594,
+     "gained": 19,
+     "plays_week": 3,
+     "total": 101
+    },
+    {
+     "artist": "Black Eyed Peas",
+     "album": "The E.N.D. (The Energy Never Dies)",
+     "rank": 629,
+     "previous_rank": 646,
+     "gained": 17,
+     "plays_week": 2,
+     "total": 93
+    },
+    {
+     "artist": "Robbie Williams",
+     "album": "Greatest Hits",
+     "rank": 882,
+     "previous_rank": 898,
+     "gained": 16,
+     "plays_week": 1,
+     "total": 69
+    }
+   ]
+  }
+ },
+ "month": {
+  "from": "2026-10-24",
+  "to": "2026-11-22",
+  "artists": [
+   {
+    "name": "Air",
+    "plays": 99,
+    "total": 1345
+   },
+   {
+    "name": "Röyksopp",
+    "plays": 69,
+    "total": 3111
+   },
+   {
+    "name": "Justin Hurwitz",
+    "plays": 59,
+    "total": 508
+   },
+   {
+    "name": "Koji Kondo",
+    "plays": 53,
+    "total": 131
+   },
+   {
+    "name": "MF DOOM",
+    "plays": 53,
+    "total": 228
+   },
+   {
+    "name": "Daft Punk",
+    "plays": 51,
+    "total": 2404
+   },
+   {
+    "name": "Michiel Borstlap",
+    "plays": 46,
+    "total": 208
+   },
+   {
+    "name": "Putumayo",
+    "plays": 43,
+    "total": 429
+   },
+   {
+    "name": "Frédéric Chopin",
+    "plays": 35,
+    "total": 148
+   },
+   {
+    "name": "Max Richter",
+    "plays": 34,
+    "total": 2028
+   },
+   {
+    "name": "Thievery Corporation",
+    "plays": 34,
+    "total": 1637
+   },
+   {
+    "name": "Trentemøller",
+    "plays": 33,
+    "total": 736
+   },
+   {
+    "name": "Joris de Man",
+    "plays": 31,
+    "total": 189
+   },
+   {
+    "name": "Stevie Wonder",
+    "plays": 31,
+    "total": 539
+   },
+   {
+    "name": "Kylie Minogue",
+    "plays": 29,
+    "total": 250
+   }
+  ],
+  "albums": [
+   {
+    "artist": "Justin Hurwitz",
+    "album": "La La Land: Original Motion Picture Soundtrack",
+    "plays": 49
+   },
+   {
+    "artist": "Frédéric Chopin",
+    "album": "Nocturnes",
+    "plays": 35
+   },
+   {
+    "artist": "Joris de Man",
+    "album": "Horizon Zero Dawn (Original Soundtrack)",
+    "plays": 31
+   },
+   {
+    "artist": "Thievery Corporation",
+    "album": "The Cosmic Game",
+    "plays": 30
+   },
+   {
+    "artist": "Röyksopp",
+    "album": "Nebulous Nights (An Ambient Excursion into Profound Mysteries)",
+    "plays": 27
+   },
+   {
+    "artist": "Trentemøller",
+    "album": "The Trentemøller Chronicles",
+    "plays": 26
+   },
+   {
+    "artist": "Air",
+    "album": "The Virgin Suicides Redux",
+    "plays": 25
+   },
+   {
+    "artist": "Kettel",
+    "album": "Ibb & Obb (Original Soundtrack)",
+    "plays": 25
+   },
+   {
+    "artist": "Koji Kondo",
+    "album": "A Link to the Past",
+    "plays": 25
+   },
+   {
+    "artist": "Madvillain",
+    "album": "Madvillainy",
+    "plays": 25
+   },
+   {
+    "artist": "Max Richter",
+    "album": "Sleep Circle",
+    "plays": 24
+   },
+   {
+    "artist": "Gareth Coker",
+    "album": "Ori and the Blind Forest (Original Soundtrack)",
+    "plays": 23
+   },
+   {
+    "artist": "Koji Kondo",
+    "album": "Ocarina of Time",
+    "plays": 23
+   },
+   {
+    "artist": "MF DOOM",
+    "album": "Operation: Doomsday",
+    "plays": 23
+   },
+   {
+    "artist": "Yann Tiersen",
+    "album": "Good Bye Lenin!",
+    "plays": 23
+   }
+  ]
+ },
+ "recent": [
+  {
+   "ts": "2026-11-22T22:26:21+01:00",
+   "artist": "Led Zeppelin",
+   "track": "Immigrant Song - Remaster",
+   "album": "Led Zeppelin III (Remaster)"
+  },
+  {
+   "ts": "2026-11-22T22:23:41+01:00",
+   "artist": "Amy Winehouse",
+   "track": "Tears Dry on Their Own",
+   "album": "Back to Black"
+  },
+  {
+   "ts": "2026-11-22T22:20:21+01:00",
+   "artist": "Adele",
+   "track": "Turning Tables",
+   "album": "21"
+  },
+  {
+   "ts": "2026-11-22T22:15:51+01:00",
+   "artist": "Johnny Cash",
+   "track": "Hurt",
+   "album": "American IV: The Man Comes Around"
+  },
+  {
+   "ts": "2026-11-22T22:11:41+01:00",
+   "artist": "Scorpions",
+   "track": "Send Me An Angel",
+   "album": "Crazy World"
+  },
+  {
+   "ts": "2026-11-22T22:07:51+01:00",
+   "artist": "Nielson",
+   "track": "IJskoud",
+   "album": "Diamant"
+  },
+  {
+   "ts": "2026-11-22T22:04:31+01:00",
+   "artist": "Red Hot Chili Peppers",
+   "track": "By the Way",
+   "album": "By the Way"
+  },
+  {
+   "ts": "2026-11-22T21:59:31+01:00",
+   "artist": "Tom Waits",
+   "track": "Tom Traubert's Blues (Four Sheets to the Wind in Copenhagen)",
+   "album": "Small Change (Remastered)"
+  },
+  {
+   "ts": "2026-11-22T21:54:50+01:00",
+   "artist": "Taylor Swift",
+   "track": "We Are Never Ever Getting Back Together (Taylor's Version)",
+   "album": "Red (Taylor's Version)"
+  },
+  {
+   "ts": "2026-11-22T21:51:50+01:00",
+   "artist": "Fleetwood Mac",
+   "track": "Don't Stop",
+   "album": "Greatest Hits"
+  },
+  {
+   "ts": "2026-11-22T21:47:50+01:00",
+   "artist": "Bruce Springsteen",
+   "track": "The River",
+   "album": "The River"
+  },
+  {
+   "ts": "2026-11-22T21:44:10+01:00",
+   "artist": "Acda en de Munnik",
+   "track": "Morgen Wordt Fantastisch",
+   "album": "Morgen Wordt Fantastisch"
+  },
+  {
+   "ts": "2026-11-22T21:39:10+01:00",
+   "artist": "Tame Impala",
+   "track": "Let It Happen",
+   "album": "Currents"
+  },
+  {
+   "ts": "2026-11-22T21:33:30+01:00",
+   "artist": "Jacques Brel",
+   "track": "Ne me quitte pas",
+   "album": "La Valse A Mille Temps (Vol.4)"
+  },
+  {
+   "ts": "2026-11-22T21:29:40+01:00",
+   "artist": "Claw Boys Claw",
+   "track": "Rosie",
+   "album": "Sugar"
+  },
+  {
+   "ts": "2026-11-22T21:22:30+01:00",
+   "artist": "Lynyrd Skynyrd",
+   "track": "Free Bird",
+   "album": "Pronounced' Leh-'Nerd 'Skin-'Nerd"
+  },
+  {
+   "ts": "2026-11-22T21:15:10+01:00",
+   "artist": "Het Goede Doel",
+   "track": "Alles Geprobeerd",
+   "album": "Mooi En Onverslijtbaar"
+  },
+  {
+   "ts": "2026-11-22T21:10:20+01:00",
+   "artist": "Ike & Tina Turner",
+   "track": "River Deep - Mountain High",
+   "album": "River Deep-Mountain High"
+  },
+  {
+   "ts": "2026-11-22T21:07:10+01:00",
+   "artist": "Queens of the Stone Age",
+   "track": "Go With the Flow",
+   "album": "Songs for the Deaf"
+  },
+  {
+   "ts": "2026-11-22T21:04:10+01:00",
+   "artist": "Racoon",
+   "track": "Love You More",
+   "album": "Another Day (Deluxe Version)"
+  },
+  {
+   "ts": "2026-11-22T20:59:50+01:00",
+   "artist": "Coldplay",
+   "track": "Everglow",
+   "album": "A Head Full of Dreams"
+  },
+  {
+   "ts": "2026-11-22T20:55:20+01:00",
+   "artist": "Supertramp",
+   "track": "Dreamer",
+   "album": "The Very Best of Supertramp"
+  },
+  {
+   "ts": "2026-11-22T20:52:10+01:00",
+   "artist": "Smash Mouth",
+   "track": "All Star",
+   "album": "Astro Lounge"
+  },
+  {
+   "ts": "2026-11-22T20:47:40+01:00",
+   "artist": "Duncan Browne",
+   "track": "The Wild Places",
+   "album": "The Wild Places (Expanded Edition)"
+  },
+  {
+   "ts": "2026-11-22T20:42:10+01:00",
+   "artist": "Blue Öyster Cult",
+   "track": "(Don't Fear) The Reaper",
+   "album": "Agents of Fortune"
+  },
+  {
+   "ts": "2026-11-22T20:37:50+01:00",
+   "artist": "Christine Baranski",
+   "track": "Angel Eyes",
+   "album": "Mamma Mia! Here We Go Again (Original Motion Picture Soundtrack)"
+  },
+  {
+   "ts": "2026-11-22T20:34:30+01:00",
+   "artist": "Bee Gees",
+   "track": "Spicks and Specks",
+   "album": "How Can You Mend A Broken Heart"
+  },
+  {
+   "ts": "2026-11-22T20:32:50+01:00",
+   "artist": "Karin Bloemen",
+   "track": "Geen Kind Meer",
+   "album": "Kameleon"
+  },
+  {
+   "ts": "2026-11-22T20:29:10+01:00",
+   "artist": "The Beatles",
+   "track": "Here Comes the Sun - Remastered 2009",
+   "album": "Abbey Road (Remastered 2009)"
+  },
+  {
+   "ts": "2026-11-22T20:25:20+01:00",
+   "artist": "The Police",
+   "track": "Walking on the Moon",
+   "album": "Reggatta de Blanc (Remastered 2003)"
+  }
+ ],
+ "kast": {
+  "new_this_week": [],
+  "first_played_this_week": [
+   {
+    "release_id": 442820,
+    "artist": "Total Touch",
+    "title": "This Way",
+    "date_added": "2026-10-21",
+    "first_played": "2026-11-21"
+   }
+  ],
+  "recent_additions": [
+   {
+    "release_id": 27914796,
+    "artist": "MF Doom",
+    "title": "Operation: Doomsday",
+    "year": 1999,
+    "format": "CD",
+    "date_added": "2026-11-05",
+    "plays_total": 85
+   },
+   {
+    "release_id": 1608112,
+    "artist": "Nirvana",
+    "title": "In Utero",
+    "year": 1993,
+    "format": "CD",
+    "date_added": "2026-11-05",
+    "plays_total": 23
+   },
+   {
+    "release_id": 11063745,
+    "artist": "The Rolling Stones",
+    "title": "No. 3",
+    "year": 1965,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 0
+   },
+   {
+    "release_id": 3920873,
+    "artist": "The Rolling Stones",
+    "title": "Greatest Hits",
+    "year": 1964,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 0
+   },
+   {
+    "release_id": 3057093,
+    "artist": "The Rolling Stones",
+    "title": "Aftermath",
+    "year": 1966,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 6
+   },
+   {
+    "release_id": 2524809,
+    "artist": "The Rolling Stones",
+    "title": "Out Of Our Heads",
+    "year": 1965,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 5
+   },
+   {
+    "release_id": 2311831,
+    "artist": "The Rolling Stones",
+    "title": "Sticky Fingers",
+    "year": 1971,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 35
+   },
+   {
+    "release_id": 1969714,
+    "artist": "The Rolling Stones",
+    "title": "The Rolling Stones Vol. 2",
+    "year": 1965,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1866531,
+    "artist": "The Rolling Stones",
+    "title": "The Rolling Stones",
+    "year": 1964,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1422052,
+    "artist": "Jan Akkerman",
+    "title": "Profile",
+    "year": 1972,
+    "format": "Vinyl",
+    "date_added": "2026-10-30",
+    "plays_total": 8
+   },
+   {
+    "release_id": 32285751,
+    "artist": "MF Doom",
+    "title": "MM..Food",
+    "year": 2004,
+    "format": "CD",
+    "date_added": "2026-10-28",
+    "plays_total": 81
+   },
+   {
+    "release_id": 223628,
+    "artist": "AIR",
+    "title": "Premiers Symptômes",
+    "year": 1997,
+    "format": "CD",
+    "date_added": "2026-10-28",
+    "plays_total": 26
+   },
+   {
+    "release_id": 1275659,
+    "artist": "Kane",
+    "title": "Fearless",
+    "year": 2005,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 61
+   },
+   {
+    "release_id": 820252,
+    "artist": "Prince",
+    "title": "Batman (Motion Picture Soundtrack)",
+    "year": 1989,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 12
+   },
+   {
+    "release_id": 498258,
+    "artist": "Kelis",
+    "title": "Tasty",
+    "year": 2003,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 23
+   },
+   {
+    "release_id": 467107,
+    "artist": "Acda en de Munnik",
+    "title": "Groeten Uit Maaiveld (Luxe Editie)",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 84
+   },
+   {
+    "release_id": 442820,
+    "artist": "Total Touch",
+    "title": "This Way",
+    "year": 1998,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 1
+   },
+   {
+    "release_id": 369931,
+    "artist": "Phil Collins",
+    "title": "...But Seriously",
+    "year": 1989,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 28
+   },
+   {
+    "release_id": 207539,
+    "artist": "Kylie Minogue",
+    "title": "Body Language",
+    "year": 2003,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 19
+   },
+   {
+    "release_id": 95222,
+    "artist": "Rose",
+    "title": "Trust",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-10-21",
+    "plays_total": 62
+   },
+   {
+    "release_id": 35096396,
+    "artist": "AIR",
+    "title": "The Virgin Suicides Redux",
+    "year": 2000,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 78
+   },
+   {
+    "release_id": 3004639,
+    "artist": "Pearl Jam",
+    "title": "Binaural",
+    "year": 2000,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1417782,
+    "artist": "Rage Against The Machine",
+    "title": "Live & Alive",
+    "year": 1994,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 1310539,
+    "artist": "Rage Against The Machine",
+    "title": "Justify Those That Die",
+    "year": 1993,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 6
+   },
+   {
+    "release_id": 469724,
+    "artist": "Audioslave",
+    "title": "Out Of Exile",
+    "year": 2005,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 0
+   },
+   {
+    "release_id": 403095,
+    "artist": "Audioslave",
+    "title": "Audioslave",
+    "year": 2002,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 54
+   },
+   {
+    "release_id": 320098,
+    "artist": "Postmen",
+    "title": "Revival",
+    "year": 2001,
+    "format": "CD",
+    "date_added": "2026-10-07",
+    "plays_total": 17
+   },
+   {
+    "release_id": 33942180,
+    "artist": "Eric Clapton",
+    "title": "Unplugged - Enhanced Edition",
+    "year": 1992,
+    "format": "CD",
+    "date_added": "2026-10-01",
+    "plays_total": 60
+   },
+   {
+    "release_id": 1460681,
+    "artist": "James Blunt",
+    "title": "Back To Bedlam",
+    "year": 2004,
+    "format": "CD",
+    "date_added": "2026-09-27",
+    "plays_total": 81
+   }
+  ]
+ },
+ "faded": {
+  "rule": "minstens 100 plays, al ongeveer 18 maanden niet gedraaid",
+  "total": 40,
+  "artists": [
+   {
+    "name": "Mick Gordon",
+    "plays": 347,
+    "peakYear": "2016",
+    "lastPlayed": "2023-10-06"
+   },
+   {
+    "name": "Henry Jackman",
+    "plays": 308,
+    "peakYear": "2019",
+    "lastPlayed": "2021-06-28"
+   },
+   {
+    "name": "Solar Fields",
+    "plays": 270,
+    "peakYear": "2021",
+    "lastPlayed": "2025-02-22"
+   },
+   {
+    "name": "Disclosure",
+    "plays": 263,
+    "peakYear": "2020",
+    "lastPlayed": "2024-10-30"
+   },
+   {
+    "name": "Pennywise",
+    "plays": 251,
+    "peakYear": "2019",
+    "lastPlayed": "2025-04-16"
+   },
+   {
+    "name": "Moneybrother",
+    "plays": 205,
+    "peakYear": "2007",
+    "lastPlayed": "2024-05-14"
+   },
+   {
+    "name": "Michael McCann",
+    "plays": 183,
+    "peakYear": "2018",
+    "lastPlayed": "2019-02-27"
+   },
+   {
+    "name": "Hibernation",
+    "plays": 177,
+    "peakYear": "2013",
+    "lastPlayed": "2020-03-29"
+   },
+   {
+    "name": "Bill Elm & Woody Jackson",
+    "plays": 172,
+    "peakYear": "2014",
+    "lastPlayed": "2022-02-01"
+   },
+   {
+    "name": "Thomas Newman",
+    "plays": 166,
+    "peakYear": "2018",
+    "lastPlayed": "2024-09-28"
+   },
+   {
+    "name": "Leonie Meijer",
+    "plays": 166,
+    "peakYear": "2012",
+    "lastPlayed": "2025-02-28"
+   },
+   {
+    "name": "Soldaat van Oranje Cast",
+    "plays": 165,
+    "peakYear": "2011",
+    "lastPlayed": "2024-09-29"
+   },
+   {
+    "name": "Little Boots",
+    "plays": 161,
+    "peakYear": "2009",
+    "lastPlayed": "2019-03-17"
+   },
+   {
+    "name": "Sam Hulick",
+    "plays": 158,
+    "peakYear": "2014",
+    "lastPlayed": "2023-02-13"
+   },
+   {
+    "name": "David García Díaz",
+    "plays": 151,
+    "peakYear": "2019",
+    "lastPlayed": "2023-11-24"
+   },
+   {
+    "name": "London Music Works",
+    "plays": 146,
+    "peakYear": "2015",
+    "lastPlayed": "2022-08-22"
+   },
+   {
+    "name": "The Shapeshifters",
+    "plays": 143,
+    "peakYear": "2007",
+    "lastPlayed": "2024-08-30"
+   },
+   {
+    "name": "Kraantje Pappie",
+    "plays": 133,
+    "peakYear": "2012",
+    "lastPlayed": "2024-08-10"
+   },
+   {
+    "name": "Knife Party",
+    "plays": 128,
+    "peakYear": "2013",
+    "lastPlayed": "2024-07-27"
+   },
+   {
+    "name": "The Fratellis",
+    "plays": 123,
+    "peakYear": "2007",
+    "lastPlayed": "2023-08-04"
+   },
+   {
+    "name": "Yeasayer",
+    "plays": 120,
+    "peakYear": "2010",
+    "lastPlayed": "2025-04-28"
+   },
+   {
+    "name": "Gesaffelstein",
+    "plays": 120,
+    "peakYear": "2014",
+    "lastPlayed": "2022-02-05"
+   },
+   {
+    "name": "Kris Berry",
+    "plays": 119,
+    "peakYear": "2019",
+    "lastPlayed": "2024-12-24"
+   },
+   {
+    "name": "A Perfect Circle",
+    "plays": 118,
+    "peakYear": "2005",
+    "lastPlayed": "2024-09-25"
+   },
+   {
+    "name": "JP Cooper",
+    "plays": 118,
+    "peakYear": "2019",
+    "lastPlayed": "2024-01-27"
+   },
+   {
+    "name": "Goose",
+    "plays": 117,
+    "peakYear": "2007",
+    "lastPlayed": "2021-09-18"
+   },
+   {
+    "name": "Mika",
+    "plays": 112,
+    "peakYear": "2008",
+    "lastPlayed": "2024-08-22"
+   },
+   {
+    "name": "George Ezra",
+    "plays": 112,
+    "peakYear": "2020",
+    "lastPlayed": "2025-03-04"
+   },
+   {
+    "name": "Music For Programming",
+    "plays": 106,
+    "peakYear": "2015",
+    "lastPlayed": "2016-08-10"
+   },
+   {
+    "name": "Martin Garrix",
+    "plays": 106,
+    "peakYear": "2018",
+    "lastPlayed": "2024-12-30"
+   },
+   {
+    "name": "PNAU",
+    "plays": 105,
+    "peakYear": "2009",
+    "lastPlayed": "2024-03-22"
+   },
+   {
+    "name": "The Kyteman Orchestra",
+    "plays": 104,
+    "peakYear": "2012",
+    "lastPlayed": "2025-04-12"
+   },
+   {
+    "name": "Red Snapper",
+    "plays": 104,
+    "peakYear": "2012",
+    "lastPlayed": "2022-11-03"
+   },
+   {
+    "name": "Daryl Hall & John Oates",
+    "plays": 104,
+    "peakYear": "2023",
+    "lastPlayed": "2024-07-21"
+   },
+   {
+    "name": "Alter Ego",
+    "plays": 103,
+    "peakYear": "2008",
+    "lastPlayed": "2023-09-05"
+   },
+   {
+    "name": "Monique Smit",
+    "plays": 103,
+    "peakYear": "2015",
+    "lastPlayed": "2022-05-29"
+   },
+   {
+    "name": "The Last Shadow Puppets",
+    "plays": 102,
+    "peakYear": "2008",
+    "lastPlayed": "2024-07-30"
+   },
+   {
+    "name": "Steve Margoshes",
+    "plays": 102,
+    "peakYear": "2014",
+    "lastPlayed": "2021-07-20"
+   },
+   {
+    "name": "De Vrolijke Mereltjes",
+    "plays": 102,
+    "peakYear": "2014",
+    "lastPlayed": "2015-01-25"
+   },
+   {
+    "name": "Richard Cheese",
+    "plays": 100,
+    "peakYear": "2007",
+    "lastPlayed": "2009-03-25"
+   }
+  ]
+ },
+ "lookup": {
+  "artists_file": "stats/artists.json",
+  "albums_file": "stats/albums.json",
+  "overview_file": "stats/overview.json",
+  "key_rules": "Sleutels: Unicode NFKD, accenten weg, kleine letters, & wordt and, alle leestekens worden spatie, spaties samengevoegd, \"the \" vooraan weg. Albums: artiestsleutel|albumsleutel; bij de albumsleutel vallen haakjes met alleen editie-info of een jaartal weg (deluxe, remaster(ed), expanded, anniversary, edition, bonus, reissue) en ook \"35th Anniversary\" en \"20 Year\". Andere schrijfwijzen van een artiest staan in stats/artists.json onder \"aliases\"."
+ }
+}
