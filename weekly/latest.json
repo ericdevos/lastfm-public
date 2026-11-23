@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "generated_at": "2026-11-23T10:34:11+00:00",
- "data_until": "2026-11-22T21:26:21+00:00",
+ "generated_at": "2026-11-23T14:13:29+00:00",
+ "data_until": "2026-11-23T11:05:52+00:00",
  "sync_ok": true,
  "period": {
   "from": "2026-11-16",
@@ -241,13 +241,13 @@
   "albums": [
    {
     "artist": "Justin Hurwitz",
-    "album": "La La Land: Original Motion Picture Soundtrack",
-    "plays": 42,
-    "total": 447,
+    "album": "La La Land: Original Motion Picture Score",
+    "plays": 39,
+    "total": 156,
     "first_played": "2017-02-03",
-    "rank": 29,
-    "previous_rank": 42,
-    "gained": 13
+    "rank": 322,
+    "previous_rank": 481,
+    "gained": 159
    },
    {
     "artist": "Joris de Man",
@@ -265,7 +265,7 @@
     "plays": 25,
     "total": 25,
     "first_played": "2026-11-19",
-    "rank": 2260,
+    "rank": 2261,
     "previous_rank": null,
     "gained": null
    },
@@ -275,8 +275,8 @@
     "plays": 23,
     "total": 94,
     "first_played": "2008-06-26",
-    "rank": 627,
-    "previous_rank": 857,
+    "rank": 628,
+    "previous_rank": 858,
     "gained": 230
    },
    {
@@ -296,8 +296,8 @@
     "total": 19,
     "first_played": "2025-03-27",
     "rank": 2940,
-    "previous_rank": 11391,
-    "gained": 8451
+    "previous_rank": 11392,
+    "gained": 8452
    },
    {
     "artist": "Frédéric Chopin",
@@ -305,8 +305,8 @@
     "plays": 14,
     "total": 45,
     "first_played": "2026-09-03",
-    "rank": 1301,
-    "previous_rank": 1849,
+    "rank": 1302,
+    "previous_rank": 1850,
     "gained": 548
    },
    {
@@ -325,8 +325,8 @@
     "plays": 12,
     "total": 67,
     "first_played": "2007-10-29",
-    "rank": 905,
-    "previous_rank": 1061,
+    "rank": 906,
+    "previous_rank": 1062,
     "gained": 156
    },
    {
@@ -335,8 +335,8 @@
     "plays": 12,
     "total": 25,
     "first_played": "2021-05-14",
-    "rank": 2278,
-    "previous_rank": 4128,
+    "rank": 2279,
+    "previous_rank": 4129,
     "gained": 1850
    },
    {
@@ -345,8 +345,8 @@
     "plays": 11,
     "total": 351,
     "first_played": "2007-01-22",
-    "rank": 61,
-    "previous_rank": 68,
+    "rank": 60,
+    "previous_rank": 67,
     "gained": 7
    },
    {
@@ -355,8 +355,8 @@
     "plays": 10,
     "total": 21,
     "first_played": "2017-02-03",
-    "rank": 2697,
-    "previous_rank": 4722,
+    "rank": 2698,
+    "previous_rank": 4723,
     "gained": 2025
    },
    {
@@ -365,8 +365,8 @@
     "plays": 9,
     "total": 39,
     "first_played": "2011-09-11",
-    "rank": 1475,
-    "previous_rank": 1896,
+    "rank": 1476,
+    "previous_rank": 1897,
     "gained": 421
    },
    {
@@ -375,7 +375,7 @@
     "plays": 9,
     "total": 9,
     "first_played": "2026-11-16",
-    "rank": 5727,
+    "rank": 5728,
     "previous_rank": null,
     "gained": null
    },
@@ -385,7 +385,7 @@
     "plays": 7,
     "total": 7,
     "first_played": "2026-11-20",
-    "rank": 7008,
+    "rank": 7009,
     "previous_rank": null,
     "gained": null
    },
@@ -396,8 +396,8 @@
     "total": 18,
     "first_played": "2019-12-31",
     "rank": 3124,
-    "previous_rank": 4844,
-    "gained": 1720
+    "previous_rank": 4845,
+    "gained": 1721
    },
    {
     "artist": "The Flight",
@@ -405,8 +405,8 @@
     "plays": 6,
     "total": 50,
     "first_played": "2017-12-01",
-    "rank": 1167,
-    "previous_rank": 1320,
+    "rank": 1168,
+    "previous_rank": 1321,
     "gained": 153
    },
    {
@@ -415,8 +415,8 @@
     "plays": 5,
     "total": 14,
     "first_played": "2026-04-10",
-    "rank": 3729,
-    "previous_rank": 5344,
+    "rank": 3730,
+    "previous_rank": 5345,
     "gained": 1615
    },
    {
@@ -425,8 +425,8 @@
     "plays": 5,
     "total": 16,
     "first_played": "2025-01-15",
-    "rank": 3353,
-    "previous_rank": 4583,
+    "rank": 3354,
+    "previous_rank": 4584,
     "gained": 1230
    },
    {
@@ -435,8 +435,8 @@
     "plays": 5,
     "total": 73,
     "first_played": "2009-04-22",
-    "rank": 833,
-    "previous_rank": 890,
+    "rank": 834,
+    "previous_rank": 891,
     "gained": 57
    },
    {
@@ -455,8 +455,8 @@
     "plays": 5,
     "total": 51,
     "first_played": "2008-08-29",
-    "rank": 1147,
-    "previous_rank": 1287,
+    "rank": 1148,
+    "previous_rank": 1288,
     "gained": 140
    },
    {
@@ -465,7 +465,7 @@
     "plays": 5,
     "total": 5,
     "first_played": "2026-11-16",
-    "rank": 9734,
+    "rank": 9736,
     "previous_rank": null,
     "gained": null
    },
@@ -475,8 +475,8 @@
     "plays": 4,
     "total": 26,
     "first_played": "2024-02-19",
-    "rank": 2218,
-    "previous_rank": 2619,
+    "rank": 2219,
+    "previous_rank": 2620,
     "gained": 401
    },
    {
@@ -485,8 +485,8 @@
     "plays": 3,
     "total": 10,
     "first_played": "2025-01-15",
-    "rank": 4995,
-    "previous_rank": 6559,
+    "rank": 4996,
+    "previous_rank": 6560,
     "gained": 1564
    }
   ],
@@ -1218,17 +1218,26 @@
     {
      "artist": "Yann Tiersen",
      "album": "Good Bye Lenin!",
-     "rank": 627,
-     "previous_rank": 857,
+     "rank": 628,
+     "previous_rank": 858,
      "gained": 230,
      "plays_week": 23,
      "total": 94
     },
     {
+     "artist": "Justin Hurwitz",
+     "album": "La La Land: Original Motion Picture Score",
+     "rank": 322,
+     "previous_rank": 481,
+     "gained": 159,
+     "plays_week": 39,
+     "total": 156
+    },
+    {
      "artist": "Leftfield",
      "album": "Leftism",
-     "rank": 905,
-     "previous_rank": 1061,
+     "rank": 906,
+     "previous_rank": 1062,
      "gained": 156,
      "plays_week": 12,
      "total": 67
@@ -1245,8 +1254,8 @@
     {
      "artist": "Dio",
      "album": "Rock & Roll",
-     "rank": 833,
-     "previous_rank": 890,
+     "rank": 834,
+     "previous_rank": 891,
      "gained": 57,
      "plays_week": 5,
      "total": 73
@@ -1254,8 +1263,8 @@
     {
      "artist": "Koji Kondo",
      "album": "The Greatest Video Game Music",
-     "rank": 761,
-     "previous_rank": 792,
+     "rank": 762,
+     "previous_rank": 793,
      "gained": 31,
      "plays_week": 3,
      "total": 79
@@ -1263,8 +1272,8 @@
     {
      "artist": "Billy Joel",
      "album": "The Complete Hits Collection: 1973-1997",
-     "rank": 966,
-     "previous_rank": 995,
+     "rank": 967,
+     "previous_rank": 996,
      "gained": 29,
      "plays_week": 2,
      "total": 61
@@ -1272,8 +1281,8 @@
     {
      "artist": "Michael Jackson",
      "album": "The Collection",
-     "rank": 975,
-     "previous_rank": 1001,
+     "rank": 976,
+     "previous_rank": 1002,
      "gained": 26,
      "plays_week": 2,
      "total": 61
@@ -1281,8 +1290,8 @@
     {
      "artist": "Rage Against the Machine",
      "album": "Evil Empire",
-     "rank": 575,
-     "previous_rank": 594,
+     "rank": 576,
+     "previous_rank": 595,
      "gained": 19,
      "plays_week": 3,
      "total": 101
@@ -1290,20 +1299,11 @@
     {
      "artist": "Black Eyed Peas",
      "album": "The E.N.D. (The Energy Never Dies)",
-     "rank": 629,
-     "previous_rank": 646,
+     "rank": 630,
+     "previous_rank": 647,
      "gained": 17,
      "plays_week": 2,
      "total": 93
-    },
-    {
-     "artist": "Robbie Williams",
-     "album": "Greatest Hits",
-     "rank": 882,
-     "previous_rank": 898,
-     "gained": 16,
-     "plays_week": 1,
-     "total": 69
     }
    ]
   }
@@ -1436,18 +1436,18 @@
   "albums": [
    {
     "artist": "Justin Hurwitz",
-    "album": "La La Land: Original Motion Picture Soundtrack",
-    "plays": 49,
-    "rank": 29,
-    "previous_rank": 42,
-    "gained": 13
+    "album": "La La Land: Original Motion Picture Score",
+    "plays": 40,
+    "rank": 322,
+    "previous_rank": 481,
+    "gained": 159
    },
    {
     "artist": "Frédéric Chopin",
     "album": "Nocturnes",
     "plays": 35,
-    "rank": 1301,
-    "previous_rank": 1849,
+    "rank": 1302,
+    "previous_rank": 1850,
     "gained": 548
    },
    {
@@ -1478,16 +1478,16 @@
     "artist": "Trentemøller",
     "album": "The Trentemøller Chronicles",
     "plays": 26,
-    "rank": 430,
+    "rank": 431,
     "previous_rank": 429,
-    "gained": -1
+    "gained": -2
    },
    {
     "artist": "Air",
     "album": "The Virgin Suicides Redux",
     "plays": 25,
-    "rank": 770,
-    "previous_rank": 766,
+    "rank": 771,
+    "previous_rank": 767,
     "gained": -4
    },
    {
@@ -1502,7 +1502,7 @@
     "artist": "Koji Kondo",
     "album": "A Link to the Past",
     "plays": 25,
-    "rank": 2260,
+    "rank": 2261,
     "previous_rank": null,
     "gained": null
    },
@@ -1526,216 +1526,216 @@
     "artist": "Gareth Coker",
     "album": "Ori and the Blind Forest (Original Soundtrack)",
     "plays": 23,
-    "rank": 360,
+    "rank": 361,
     "previous_rank": 363,
-    "gained": 3
+    "gained": 2
    },
    {
     "artist": "Koji Kondo",
     "album": "Ocarina of Time",
     "plays": 23,
-    "rank": 2454,
-    "previous_rank": 2450,
+    "rank": 2455,
+    "previous_rank": 2451,
     "gained": -4
    },
    {
     "artist": "MF DOOM",
     "album": "Operation: Doomsday",
     "plays": 23,
-    "rank": 706,
-    "previous_rank": 704,
+    "rank": 707,
+    "previous_rank": 705,
     "gained": -2
    },
    {
     "artist": "Yann Tiersen",
     "album": "Good Bye Lenin!",
     "plays": 23,
-    "rank": 627,
-    "previous_rank": 857,
+    "rank": 628,
+    "previous_rank": 858,
     "gained": 230
    }
   ]
  },
  "recent": [
   {
-   "ts": "2026-11-22T22:26:21+01:00",
-   "artist": "Led Zeppelin",
-   "track": "Immigrant Song - Remaster",
-   "album": "Led Zeppelin III (Remaster)"
+   "ts": "2026-11-23T12:05:52+01:00",
+   "artist": "Goldmund",
+   "track": "Image-Autumn-Womb",
+   "album": "The Malady Of Elegance"
   },
   {
-   "ts": "2026-11-22T22:23:41+01:00",
-   "artist": "Amy Winehouse",
-   "track": "Tears Dry on Their Own",
-   "album": "Back to Black"
+   "ts": "2026-11-23T12:02:52+01:00",
+   "artist": "Goldmund",
+   "track": "One.",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T22:20:21+01:00",
-   "artist": "Adele",
-   "track": "Turning Tables",
-   "album": "21"
+   "ts": "2026-11-23T12:01:24+01:00",
+   "artist": "Goldmund",
+   "track": "As",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T22:15:51+01:00",
-   "artist": "Johnny Cash",
-   "track": "Hurt",
-   "album": "American IV: The Man Comes Around"
+   "ts": "2026-11-23T11:58:58+01:00",
+   "artist": "Goldmund",
+   "track": "See",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T22:11:41+01:00",
-   "artist": "Scorpions",
-   "track": "Send Me An Angel",
-   "album": "Crazy World"
+   "ts": "2026-11-23T11:57:14+01:00",
+   "artist": "Goldmund",
+   "track": "Will",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T22:07:51+01:00",
-   "artist": "Nielson",
-   "track": "IJskoud",
-   "album": "Diamant"
+   "ts": "2026-11-23T11:54:25+01:00",
+   "artist": "Goldmund",
+   "track": "They",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T22:04:31+01:00",
-   "artist": "Red Hot Chili Peppers",
-   "track": "By the Way",
-   "album": "By the Way"
+   "ts": "2026-11-23T11:52:28+01:00",
+   "artist": "Goldmund",
+   "track": "Shadow",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T21:59:31+01:00",
-   "artist": "Tom Waits",
-   "track": "Tom Traubert's Blues (Four Sheets to the Wind in Copenhagen)",
-   "album": "Small Change (Remastered)"
+   "ts": "2026-11-23T11:50:19+01:00",
+   "artist": "Goldmund",
+   "track": "To",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T21:54:50+01:00",
-   "artist": "Taylor Swift",
-   "track": "We Are Never Ever Getting Back Together (Taylor's Version)",
-   "album": "Red (Taylor's Version)"
+   "ts": "2026-11-23T11:47:10+01:00",
+   "artist": "Goldmund",
+   "track": "Light",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T21:51:50+01:00",
-   "artist": "Fleetwood Mac",
-   "track": "Don't Stop",
-   "album": "Greatest Hits"
+   "ts": "2026-11-23T11:44:11+01:00",
+   "artist": "Goldmund",
+   "track": "From",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T21:47:50+01:00",
-   "artist": "Bruce Springsteen",
-   "track": "The River",
-   "album": "The River"
+   "ts": "2026-11-23T11:42:39+01:00",
+   "artist": "Goldmund",
+   "track": "Then",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T21:44:10+01:00",
-   "artist": "Acda en de Munnik",
-   "track": "Morgen Wordt Fantastisch",
-   "album": "Morgen Wordt Fantastisch"
+   "ts": "2026-11-23T11:40:45+01:00",
+   "artist": "Goldmund",
+   "track": "Leading",
+   "album": "Two Point Discrimination"
   },
   {
-   "ts": "2026-11-22T21:39:10+01:00",
-   "artist": "Tame Impala",
-   "track": "Let It Happen",
-   "album": "Currents"
+   "ts": "2026-11-23T10:30:49+01:00",
+   "artist": "Goldmund",
+   "track": "Anomolie Loop (1960 - 1969)",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T21:33:30+01:00",
-   "artist": "Jacques Brel",
-   "track": "Ne me quitte pas",
-   "album": "La Valse A Mille Temps (Vol.4)"
+   "ts": "2026-11-23T10:23:39+01:00",
+   "artist": "Goldmund",
+   "track": "Yamase",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T21:29:40+01:00",
-   "artist": "Claw Boys Claw",
-   "track": "Rosie",
-   "album": "Sugar"
+   "ts": "2026-11-23T10:19:44+01:00",
+   "artist": "Goldmund",
+   "track": "Parhelia",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T21:22:30+01:00",
-   "artist": "Lynyrd Skynyrd",
-   "track": "Free Bird",
-   "album": "Pronounced' Leh-'Nerd 'Skin-'Nerd"
+   "ts": "2026-11-23T10:13:39+01:00",
+   "artist": "Goldmund",
+   "track": "Provenance",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T21:15:10+01:00",
-   "artist": "Het Goede Doel",
-   "track": "Alles Geprobeerd",
-   "album": "Mooi En Onverslijtbaar"
+   "ts": "2026-11-23T10:10:42+01:00",
+   "artist": "Goldmund",
+   "track": "Larrows of the Field",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T21:10:20+01:00",
-   "artist": "Ike & Tina Turner",
-   "track": "River Deep - Mountain High",
-   "album": "River Deep-Mountain High"
+   "ts": "2026-11-23T10:07:41+01:00",
+   "artist": "Goldmund",
+   "track": "Methusela Tree",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T21:07:10+01:00",
-   "artist": "Queens of the Stone Age",
-   "track": "Go With the Flow",
-   "album": "Songs for the Deaf"
+   "ts": "2026-11-23T10:02:53+01:00",
+   "artist": "Goldmund",
+   "track": "25 Thousand Miles",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T21:04:10+01:00",
-   "artist": "Racoon",
-   "track": "Love You More",
-   "album": "Another Day (Deluxe Version)"
+   "ts": "2026-11-23T09:58:38+01:00",
+   "artist": "Goldmund",
+   "track": "The One Acre",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T20:59:50+01:00",
-   "artist": "Coldplay",
-   "track": "Everglow",
-   "album": "A Head Full of Dreams"
+   "ts": "2026-11-23T09:56:31+01:00",
+   "artist": "Goldmund",
+   "track": "My Neighborhood",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T20:55:20+01:00",
-   "artist": "Supertramp",
-   "track": "Dreamer",
-   "album": "The Very Best of Supertramp"
+   "ts": "2026-11-23T09:51:44+01:00",
+   "artist": "Goldmund",
+   "track": "Downward to Darkness On Extended Wings",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T20:52:10+01:00",
-   "artist": "Smash Mouth",
-   "track": "All Star",
-   "album": "Astro Lounge"
+   "ts": "2026-11-23T09:49:30+01:00",
+   "artist": "Goldmund",
+   "track": "Marching Through Georgia",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T20:47:40+01:00",
-   "artist": "Duncan Browne",
-   "track": "The Wild Places",
-   "album": "The Wild Places (Expanded Edition)"
+   "ts": "2026-11-23T09:48:18+01:00",
+   "artist": "Goldmund",
+   "track": "Door of Our Home",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T20:42:10+01:00",
-   "artist": "Blue Öyster Cult",
-   "track": "(Don't Fear) The Reaper",
-   "album": "Agents of Fortune"
+   "ts": "2026-11-23T09:44:50+01:00",
+   "artist": "Goldmund",
+   "track": "Ba",
+   "album": "Corduroy Road"
   },
   {
-   "ts": "2026-11-22T20:37:50+01:00",
-   "artist": "Christine Baranski",
-   "track": "Angel Eyes",
-   "album": "Mamma Mia! Here We Go Again (Original Motion Picture Soundtrack)"
+   "ts": "2026-11-23T09:43:24+01:00",
+   "artist": "Klaus Badelt",
+   "track": "Fog Bound",
+   "album": "Pirates of the Caribbean: The Curse of the Black Pearl"
   },
   {
-   "ts": "2026-11-22T20:34:30+01:00",
-   "artist": "Bee Gees",
-   "track": "Spicks and Specks",
-   "album": "How Can You Mend A Broken Heart"
+   "ts": "2026-11-23T08:00:19+01:00",
+   "artist": "Ferr",
+   "track": "Away",
+   "album": "As Above So Below"
   },
   {
-   "ts": "2026-11-22T20:32:50+01:00",
-   "artist": "Karin Bloemen",
-   "track": "Geen Kind Meer",
-   "album": "Kameleon"
+   "ts": "2026-11-23T07:56:08+01:00",
+   "artist": "Ferr",
+   "track": "Closer",
+   "album": "As Above So Below"
   },
   {
-   "ts": "2026-11-22T20:29:10+01:00",
-   "artist": "The Beatles",
-   "track": "Here Comes the Sun - Remastered 2009",
-   "album": "Abbey Road (Remastered 2009)"
+   "ts": "2026-11-23T07:51:28+01:00",
+   "artist": "Ferr",
+   "track": "Sehnsucht",
+   "album": "As Above So Below"
   },
   {
-   "ts": "2026-11-22T20:25:20+01:00",
-   "artist": "The Police",
-   "track": "Walking on the Moon",
-   "album": "Reggatta de Blanc (Remastered 2003)"
+   "ts": "2026-11-23T07:46:28+01:00",
+   "artist": "Ferr",
+   "track": "Dark Water",
+   "album": "As Above So Below"
   }
  ],
  "kast": {
@@ -2263,6 +2263,6 @@
   "artists_file": "stats/artists.json",
   "albums_file": "stats/albums.json",
   "overview_file": "stats/overview.json",
-  "key_rules": "Sleutels: Unicode NFKD, accenten weg, kleine letters, & wordt and, alle leestekens worden spatie, spaties samengevoegd, \"the \" vooraan weg. Albums: artiestsleutel|albumsleutel; bij de albumsleutel vallen haakjes met alleen editie-info of een jaartal weg (deluxe, remaster(ed), expanded, anniversary, edition, bonus, reissue) en ook \"35th Anniversary\" en \"20 Year\". Andere schrijfwijzen van een artiest staan in stats/artists.json onder \"aliases\"."
+  "key_rules": "Sleutels: Unicode NFKD, accenten weg, kleine letters, & wordt and, alle leestekens worden spatie, spaties samengevoegd, \"the \" vooraan weg. Albums: artiestsleutel|albumsleutel; bij de albumsleutel vallen haakjes met alleen editie-info of een jaartal weg (deluxe, remaster(ed), expanded, anniversary, edition, bonus, reissue) en ook \"35th Anniversary\" en \"20 Year\". Een soundtrack-toevoeging achteraan valt weg (\"(Original Motion Picture Soundtrack)\", \": Original Soundtrack\", \"OST\"); een score-toevoeging wordt het vaste woord \"score\" (\"La La Land (Original Motion Picture Score)\" wordt \"la la land score\"), zodat score en soundtrack van dezelfde film aparte albums blijven. Staan soundtrack én score in de titel (\"Original Soundtrack and Score\"), dan blijft die zoals hij is. Andere schrijfwijzen van een artiest staan in stats/artists.json onder \"aliases\"."
  }
 }
