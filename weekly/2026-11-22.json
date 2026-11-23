@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-23T03:42:21+00:00",
+ "generated_at": "2026-11-23T10:34:11+00:00",
  "data_until": "2026-11-22T21:26:21+00:00",
  "sync_ok": true,
  "period": {
@@ -16,151 +16,226 @@
     "name": "Justin Hurwitz",
     "plays": 52,
     "total": 508,
-    "first_played": "2017-02-03"
+    "first_played": "2017-02-03",
+    "rank": 116,
+    "previous_rank": 139,
+    "gained": 23
    },
    {
     "name": "Joris de Man",
     "plays": 31,
     "total": 189,
-    "first_played": "2017-12-01"
+    "first_played": "2017-12-01",
+    "rank": 385,
+    "previous_rank": 453,
+    "gained": 68
    },
    {
     "name": "Koji Kondo",
     "plays": 29,
     "total": 131,
-    "first_played": "2014-03-19"
+    "first_played": "2014-03-19",
+    "rank": 527,
+    "previous_rank": 638,
+    "gained": 111
    },
    {
     "name": "Yann Tiersen",
     "plays": 23,
     "total": 1562,
-    "first_played": "2005-12-16"
+    "first_played": "2005-12-16",
+    "rank": 11,
+    "previous_rank": 11,
+    "gained": 0
    },
    {
     "name": "Ennio Morricone",
     "plays": 21,
     "total": 1020,
-    "first_played": "2005-03-03"
+    "first_played": "2005-03-03",
+    "rank": 29,
+    "previous_rank": 29,
+    "gained": 0
    },
    {
     "name": "Michiel Borstlap",
     "plays": 15,
     "total": 208,
-    "first_played": "2013-10-06"
+    "first_played": "2013-10-06",
+    "rank": 348,
+    "previous_rank": 379,
+    "gained": 31
    },
    {
     "name": "Frédéric Chopin",
     "plays": 14,
     "total": 148,
-    "first_played": "2008-03-14"
+    "first_played": "2008-03-14",
+    "rank": 476,
+    "previous_rank": 511,
+    "gained": 35
    },
    {
     "name": "Thievery Corporation",
     "plays": 14,
     "total": 1637,
-    "first_played": "2005-02-14"
+    "first_played": "2005-02-14",
+    "rank": 10,
+    "previous_rank": 10,
+    "gained": 0
    },
    {
     "name": "Leftfield",
     "plays": 12,
     "total": 120,
-    "first_played": "2005-03-28"
+    "first_played": "2005-03-28",
+    "rank": 565,
+    "previous_rank": 607,
+    "gained": 42
    },
    {
     "name": "Octogen",
     "plays": 12,
     "total": 97,
-    "first_played": "2009-06-28"
+    "first_played": "2009-06-28",
+    "rank": 663,
+    "previous_rank": 729,
+    "gained": 66
    },
    {
     "name": "Tosca",
     "plays": 11,
     "total": 1350,
-    "first_played": "2005-03-22"
+    "first_played": "2005-03-22",
+    "rank": 16,
+    "previous_rank": 17,
+    "gained": 1
    },
    {
     "name": "Colin Benders - Eric Vloeimans",
     "plays": 9,
     "total": 39,
-    "first_played": "2011-09-11"
+    "first_played": "2011-09-11",
+    "rank": 1343,
+    "previous_rank": 1672,
+    "gained": 329
    },
    {
     "name": "Putumayo",
     "plays": 9,
     "total": 429,
-    "first_played": "2023-12-16"
+    "first_played": "2023-12-16",
+    "rank": 150,
+    "previous_rank": 153,
+    "gained": 3
    },
    {
     "name": "Placebo",
     "plays": 8,
     "total": 1776,
-    "first_played": "2005-03-08"
+    "first_played": "2005-03-08",
+    "rank": 7,
+    "previous_rank": 7,
+    "gained": 0
    },
    {
     "name": "Sex Pistols",
     "plays": 7,
     "total": 20,
-    "first_played": "2011-06-30"
+    "first_played": "2011-06-30",
+    "rank": 2339,
+    "previous_rank": 3329,
+    "gained": 990
    },
    {
     "name": "Thelonious Monk",
     "plays": 7,
     "total": 70,
-    "first_played": "2018-07-04"
+    "first_played": "2018-07-04",
+    "rank": 861,
+    "previous_rank": 927,
+    "gained": 66
    },
    {
     "name": "The Flight",
     "plays": 6,
     "total": 55,
-    "first_played": "2017-12-01"
+    "first_played": "2017-12-01",
+    "rank": 1029,
+    "previous_rank": 1126,
+    "gained": 97
    },
    {
     "name": "Orbital",
     "plays": 6,
     "total": 317,
-    "first_played": "2007-09-10"
+    "first_played": "2007-09-10",
+    "rank": 210,
+    "previous_rank": 216,
+    "gained": 6
    },
    {
     "name": "Afrika Bambaataa & The Soulsonic Force",
     "plays": 5,
     "total": 14,
-    "first_played": "2026-04-10"
+    "first_played": "2026-04-10",
+    "rank": 3017,
+    "previous_rank": 4142,
+    "gained": 1125
    },
    {
     "name": "The Beatles",
     "plays": 5,
     "total": 3227,
-    "first_played": "2005-03-02"
+    "first_played": "2005-03-02",
+    "rank": 1,
+    "previous_rank": 1,
+    "gained": 0
    },
    {
     "name": "Charles Mingus",
     "plays": 5,
     "total": 32,
-    "first_played": "2015-05-04"
+    "first_played": "2015-05-04",
+    "rank": 1590,
+    "previous_rank": 1820,
+    "gained": 230
    },
    {
     "name": "Dio",
     "plays": 5,
     "total": 80,
-    "first_played": "2007-11-26"
+    "first_played": "2007-11-26",
+    "rank": 762,
+    "previous_rank": 801,
+    "gained": 39
    },
    {
     "name": "Kettel",
     "plays": 5,
     "total": 817,
-    "first_played": "2005-03-17"
+    "first_played": "2005-03-17",
+    "rank": 51,
+    "previous_rank": 52,
+    "gained": 1
    },
    {
     "name": "Trentemøller",
     "plays": 5,
     "total": 736,
-    "first_played": "2007-09-25"
+    "first_played": "2007-09-25",
+    "rank": 64,
+    "previous_rank": 65,
+    "gained": 1
    },
    {
     "name": "Black Eyed Peas",
     "plays": 4,
     "total": 573,
-    "first_played": "2005-02-18"
+    "first_played": "2005-02-18",
+    "rank": 96,
+    "previous_rank": 97,
+    "gained": 1
    }
   ],
   "albums": [
@@ -169,175 +244,250 @@
     "album": "La La Land: Original Motion Picture Soundtrack",
     "plays": 42,
     "total": 447,
-    "first_played": "2017-02-03"
+    "first_played": "2017-02-03",
+    "rank": 29,
+    "previous_rank": 42,
+    "gained": 13
    },
    {
     "artist": "Joris de Man",
     "album": "Horizon Zero Dawn (Original Soundtrack)",
     "plays": 31,
     "total": 174,
-    "first_played": "2017-12-01"
+    "first_played": "2017-12-01",
+    "rank": 281,
+    "previous_rank": 371,
+    "gained": 90
    },
    {
     "artist": "Koji Kondo",
     "album": "A Link to the Past",
     "plays": 25,
     "total": 25,
-    "first_played": "2026-11-19"
+    "first_played": "2026-11-19",
+    "rank": 2260,
+    "previous_rank": null,
+    "gained": null
    },
    {
     "artist": "Yann Tiersen",
     "album": "Good Bye Lenin!",
     "plays": 23,
     "total": 94,
-    "first_played": "2008-06-26"
+    "first_played": "2008-06-26",
+    "rank": 627,
+    "previous_rank": 857,
+    "gained": 230
    },
    {
     "artist": "Ennio Morricone",
     "album": "The Very Best Of",
     "plays": 20,
     "total": 664,
-    "first_played": "2005-03-03"
+    "first_played": "2005-03-03",
+    "rank": 9,
+    "previous_rank": 9,
+    "gained": 0
    },
    {
     "artist": "Michiel Borstlap",
     "album": "Eldorado",
     "plays": 15,
     "total": 19,
-    "first_played": "2025-03-27"
+    "first_played": "2025-03-27",
+    "rank": 2940,
+    "previous_rank": 11391,
+    "gained": 8451
    },
    {
     "artist": "Frédéric Chopin",
     "album": "Nocturnes",
     "plays": 14,
     "total": 45,
-    "first_played": "2026-09-03"
+    "first_played": "2026-09-03",
+    "rank": 1301,
+    "previous_rank": 1849,
+    "gained": 548
    },
    {
     "artist": "Thievery Corporation",
     "album": "The Cosmic Game",
     "plays": 14,
     "total": 589,
-    "first_played": "2006-02-03"
+    "first_played": "2006-02-03",
+    "rank": 13,
+    "previous_rank": 13,
+    "gained": 0
    },
    {
     "artist": "Leftfield",
     "album": "Leftism",
     "plays": 12,
     "total": 67,
-    "first_played": "2007-10-29"
+    "first_played": "2007-10-29",
+    "rank": 905,
+    "previous_rank": 1061,
+    "gained": 156
    },
    {
     "artist": "Octogen",
     "album": "Gindofask",
     "plays": 12,
     "total": 25,
-    "first_played": "2021-05-14"
+    "first_played": "2021-05-14",
+    "rank": 2278,
+    "previous_rank": 4128,
+    "gained": 1850
    },
    {
     "artist": "Tosca",
     "album": "Suzuki In Dub",
     "plays": 11,
     "total": 351,
-    "first_played": "2007-01-22"
+    "first_played": "2007-01-22",
+    "rank": 61,
+    "previous_rank": 68,
+    "gained": 7
    },
    {
     "artist": "Justin Hurwitz",
     "album": "Whiplash (Original Motion Picture Soundtrack)",
     "plays": 10,
     "total": 21,
-    "first_played": "2017-02-03"
+    "first_played": "2017-02-03",
+    "rank": 2697,
+    "previous_rank": 4722,
+    "gained": 2025
    },
    {
     "artist": "Colin Benders - Eric Vloeimans",
     "album": "Kytecrash",
     "plays": 9,
     "total": 39,
-    "first_played": "2011-09-11"
+    "first_played": "2011-09-11",
+    "rank": 1475,
+    "previous_rank": 1896,
+    "gained": 421
    },
    {
     "artist": "Putumayo",
     "album": "Family Gathering by Putumayo",
     "plays": 9,
     "total": 9,
-    "first_played": "2026-11-16"
+    "first_played": "2026-11-16",
+    "rank": 5727,
+    "previous_rank": null,
+    "gained": null
    },
    {
     "artist": "Placebo",
     "album": "Placebo RE:CREATED",
     "plays": 7,
     "total": 7,
-    "first_played": "2026-11-20"
+    "first_played": "2026-11-20",
+    "rank": 7008,
+    "previous_rank": null,
+    "gained": null
    },
    {
     "artist": "Sex Pistols",
     "album": "Never Mind the Bollocks Here’s The Sex Pistols",
     "plays": 7,
     "total": 18,
-    "first_played": "2019-12-31"
+    "first_played": "2019-12-31",
+    "rank": 3124,
+    "previous_rank": 4844,
+    "gained": 1720
    },
    {
     "artist": "The Flight",
     "album": "Horizon Zero Dawn (Original Soundtrack)",
     "plays": 6,
     "total": 50,
-    "first_played": "2017-12-01"
+    "first_played": "2017-12-01",
+    "rank": 1167,
+    "previous_rank": 1320,
+    "gained": 153
    },
    {
     "artist": "Afrika Bambaataa & The Soulsonic Force",
     "album": "Lost Generation",
     "plays": 5,
     "total": 14,
-    "first_played": "2026-04-10"
+    "first_played": "2026-04-10",
+    "rank": 3729,
+    "previous_rank": 5344,
+    "gained": 1615
    },
    {
     "artist": "Charles Mingus",
     "album": "Mingus Ah Um",
     "plays": 5,
     "total": 16,
-    "first_played": "2025-01-15"
+    "first_played": "2025-01-15",
+    "rank": 3353,
+    "previous_rank": 4583,
+    "gained": 1230
    },
    {
     "artist": "Dio",
     "album": "Rock & Roll",
     "plays": 5,
     "total": 73,
-    "first_played": "2009-04-22"
+    "first_played": "2009-04-22",
+    "rank": 833,
+    "previous_rank": 890,
+    "gained": 57
    },
    {
     "artist": "Kettel",
     "album": "Ibb & Obb (Original Soundtrack)",
     "plays": 5,
     "total": 469,
-    "first_played": "2013-12-09"
+    "first_played": "2013-12-09",
+    "rank": 26,
+    "previous_rank": 27,
+    "gained": 1
    },
    {
     "artist": "Orbital",
     "album": "Lush 3",
     "plays": 5,
     "total": 51,
-    "first_played": "2008-08-29"
+    "first_played": "2008-08-29",
+    "rank": 1147,
+    "previous_rank": 1287,
+    "gained": 140
    },
    {
     "artist": "Trentemøller",
     "album": "Trentemøller",
     "plays": 5,
     "total": 5,
-    "first_played": "2026-11-16"
+    "first_played": "2026-11-16",
+    "rank": 9734,
+    "previous_rank": null,
+    "gained": null
    },
    {
     "artist": "Thelonious Monk",
     "album": "Genius Of Modern Music (Vol.1, Expanded Edition)",
     "plays": 4,
     "total": 26,
-    "first_played": "2024-02-19"
+    "first_played": "2024-02-19",
+    "rank": 2218,
+    "previous_rank": 2619,
+    "gained": 401
    },
    {
     "artist": "Count Basie",
     "album": "The Complete Atomic Basie",
     "plays": 3,
     "total": 10,
-    "first_played": "2025-01-15"
+    "first_played": "2025-01-15",
+    "rank": 4995,
+    "previous_rank": 6559,
+    "gained": 1564
    }
   ],
   "tracks": [
@@ -1165,154 +1315,244 @@
    {
     "name": "Air",
     "plays": 99,
-    "total": 1345
+    "total": 1345,
+    "rank": 17,
+    "previous_rank": 16,
+    "gained": -1
    },
    {
     "name": "Röyksopp",
     "plays": 69,
-    "total": 3111
+    "total": 3111,
+    "rank": 2,
+    "previous_rank": 2,
+    "gained": 0
    },
    {
     "name": "Justin Hurwitz",
     "plays": 59,
-    "total": 508
+    "total": 508,
+    "rank": 116,
+    "previous_rank": 139,
+    "gained": 23
    },
    {
     "name": "Koji Kondo",
     "plays": 53,
-    "total": 131
+    "total": 131,
+    "rank": 527,
+    "previous_rank": 638,
+    "gained": 111
    },
    {
     "name": "MF DOOM",
     "plays": 53,
-    "total": 228
+    "total": 228,
+    "rank": 314,
+    "previous_rank": 317,
+    "gained": 3
    },
    {
     "name": "Daft Punk",
     "plays": 51,
-    "total": 2404
+    "total": 2404,
+    "rank": 4,
+    "previous_rank": 4,
+    "gained": 0
    },
    {
     "name": "Michiel Borstlap",
     "plays": 46,
-    "total": 208
+    "total": 208,
+    "rank": 348,
+    "previous_rank": 379,
+    "gained": 31
    },
    {
     "name": "Putumayo",
     "plays": 43,
-    "total": 429
+    "total": 429,
+    "rank": 150,
+    "previous_rank": 153,
+    "gained": 3
    },
    {
     "name": "Frédéric Chopin",
     "plays": 35,
-    "total": 148
+    "total": 148,
+    "rank": 476,
+    "previous_rank": 511,
+    "gained": 35
    },
    {
     "name": "Max Richter",
     "plays": 34,
-    "total": 2028
+    "total": 2028,
+    "rank": 6,
+    "previous_rank": 6,
+    "gained": 0
    },
    {
     "name": "Thievery Corporation",
     "plays": 34,
-    "total": 1637
+    "total": 1637,
+    "rank": 10,
+    "previous_rank": 10,
+    "gained": 0
    },
    {
     "name": "Trentemøller",
     "plays": 33,
-    "total": 736
+    "total": 736,
+    "rank": 64,
+    "previous_rank": 65,
+    "gained": 1
    },
    {
     "name": "Joris de Man",
     "plays": 31,
-    "total": 189
+    "total": 189,
+    "rank": 385,
+    "previous_rank": 453,
+    "gained": 68
    },
    {
     "name": "Stevie Wonder",
     "plays": 31,
-    "total": 539
+    "total": 539,
+    "rank": 106,
+    "previous_rank": 106,
+    "gained": 0
    },
    {
     "name": "Kylie Minogue",
     "plays": 29,
-    "total": 250
+    "total": 250,
+    "rank": 289,
+    "previous_rank": 288,
+    "gained": -1
    }
   ],
   "albums": [
    {
     "artist": "Justin Hurwitz",
     "album": "La La Land: Original Motion Picture Soundtrack",
-    "plays": 49
+    "plays": 49,
+    "rank": 29,
+    "previous_rank": 42,
+    "gained": 13
    },
    {
     "artist": "Frédéric Chopin",
     "album": "Nocturnes",
-    "plays": 35
+    "plays": 35,
+    "rank": 1301,
+    "previous_rank": 1849,
+    "gained": 548
    },
    {
     "artist": "Joris de Man",
     "album": "Horizon Zero Dawn (Original Soundtrack)",
-    "plays": 31
+    "plays": 31,
+    "rank": 281,
+    "previous_rank": 371,
+    "gained": 90
    },
    {
     "artist": "Thievery Corporation",
     "album": "The Cosmic Game",
-    "plays": 30
+    "plays": 30,
+    "rank": 13,
+    "previous_rank": 13,
+    "gained": 0
    },
    {
     "artist": "Röyksopp",
     "album": "Nebulous Nights (An Ambient Excursion into Profound Mysteries)",
-    "plays": 27
+    "plays": 27,
+    "rank": 23,
+    "previous_rank": 23,
+    "gained": 0
    },
    {
     "artist": "Trentemøller",
     "album": "The Trentemøller Chronicles",
-    "plays": 26
+    "plays": 26,
+    "rank": 430,
+    "previous_rank": 429,
+    "gained": -1
    },
    {
     "artist": "Air",
     "album": "The Virgin Suicides Redux",
-    "plays": 25
+    "plays": 25,
+    "rank": 770,
+    "previous_rank": 766,
+    "gained": -4
    },
    {
     "artist": "Kettel",
     "album": "Ibb & Obb (Original Soundtrack)",
-    "plays": 25
+    "plays": 25,
+    "rank": 26,
+    "previous_rank": 27,
+    "gained": 1
    },
    {
     "artist": "Koji Kondo",
     "album": "A Link to the Past",
-    "plays": 25
+    "plays": 25,
+    "rank": 2260,
+    "previous_rank": null,
+    "gained": null
    },
    {
     "artist": "Madvillain",
     "album": "Madvillainy",
-    "plays": 25
+    "plays": 25,
+    "rank": 293,
+    "previous_rank": 294,
+    "gained": 1
    },
    {
     "artist": "Max Richter",
     "album": "Sleep Circle",
-    "plays": 24
+    "plays": 24,
+    "rank": 137,
+    "previous_rank": 136,
+    "gained": -1
    },
    {
     "artist": "Gareth Coker",
     "album": "Ori and the Blind Forest (Original Soundtrack)",
-    "plays": 23
+    "plays": 23,
+    "rank": 360,
+    "previous_rank": 363,
+    "gained": 3
    },
    {
     "artist": "Koji Kondo",
     "album": "Ocarina of Time",
-    "plays": 23
+    "plays": 23,
+    "rank": 2454,
+    "previous_rank": 2450,
+    "gained": -4
    },
    {
     "artist": "MF DOOM",
     "album": "Operation: Doomsday",
-    "plays": 23
+    "plays": 23,
+    "rank": 706,
+    "previous_rank": 704,
+    "gained": -2
    },
    {
     "artist": "Yann Tiersen",
     "album": "Good Bye Lenin!",
-    "plays": 23
+    "plays": 23,
+    "rank": 627,
+    "previous_rank": 857,
+    "gained": 230
    }
   ]
  },
