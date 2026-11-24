@@ -1,53 +1,53 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-23T13:36:54+00:00",
-  "date": "2026-11-22",
-  "date_nl": "zondag 22 november 2026",
-  "mail_date": "2026-11-23",
-  "data_until": "2026-11-23T11:05:52+00:00",
+  "generated_at": "2026-11-24T02:34:04+00:00",
+  "date": "2026-11-23",
+  "date_nl": "maandag 23 november 2026",
+  "mail_date": "2026-11-24",
+  "data_until": "2026-11-23T21:43:21+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 77,
+    "plays": 88,
     "avg_year": 76,
     "year": 2026,
-    "verdict": "gelijk",
-    "line": "Gisteren: 77 nummers — ongeveer gelijk aan je daggemiddelde van 2026 (76)."
+    "verdict": "boven",
+    "line": "Gisteren: 88 nummers — boven je daggemiddelde van 2026 (76)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds september 2018 weer Christine Baranski (1× gisteren)."
+      "text": "Voor het eerst sinds mei 2025 weer Klaus Badelt (1× gisteren)."
     },
     {
-      "type": "new",
-      "label": "Nieuwe aanwinst",
-      "text": "Je nieuwe aanwinst MF DOOM – Operation: Doomsday (CD Album Reissue, binnen sinds 5 november) draaide je gisteren 1×."
+      "type": "shelf",
+      "label": "Kast × luisteren",
+      "text": "John Mayer – Room For Squares (CD Album) staat al sinds april 2024 in je kast; gisteren 8 nummers van gedraaid."
     },
     {
-      "type": "milestone",
-      "label": "Mijlpaal",
-      "text": "The Dave Brubeck Quartet ging gisteren over de 250 plays (nu 250, eerst gehoord in januari 2012)."
+      "type": "top",
+      "label": "Topper",
+      "text": "Goldmund was je topper met 25 nummers (vooral Corduroy Road); in totaal 423 plays sinds september 2009."
     }
   ],
   "tip": {
-    "date": "2026-11-23",
-    "faded_line": "Groove Armada – Soundboy Rock (2007) — 320× gedraaid, piek in 2007, laatst op 6 september 2025, staat in je kast.",
+    "date": "2026-11-24",
+    "faded_line": "Placebo – A Place For Us To Dream — 303× gedraaid, piek in 2020, laatst op 26 mei 2025.",
     "faded": {
       "type": "album",
-      "artist": "Groove Armada",
-      "album": "Soundboy Rock",
-      "plays": 320,
-      "peak_year": 2007,
-      "last_played": "2025-09-06",
-      "rank": 97,
-      "in_collection": true
+      "artist": "Placebo",
+      "album": "A Place For Us To Dream",
+      "plays": 303,
+      "peak_year": 2020,
+      "last_played": "2025-05-26",
+      "rank": 107,
+      "in_collection": false
     },
-    "kast_line": "Eric Clapton – Backless (1978, vinyl), pas 4× gedraaid.",
+    "kast_line": "Al Di Meola – Electric Rendezvous (1982, vinyl), nog nooit gedraaid.",
     "followup_line": "De tip van 22 november heb je opgevolgd: Robbie Williams – Sing When You're Winning (1×).",
     "stats": {
-      "given": 30,
+      "given": 31,
       "followed": 12
     }
   },
@@ -56,233 +56,243 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Chaka Khan",
-          "total": 66,
+          "name": "Automatic",
+          "total": 113,
           "year": "2006"
         },
         {
-          "type": "comeback",
-          "name": "Digitalism",
-          "gapDays": 555,
-          "since": "2011-05-18",
-          "plays": 7,
-          "before": 206,
-          "year": "2012"
-        },
-        {
-          "type": "m-track",
-          "artist": "Elbow",
-          "title": "One Day Like This",
-          "n": 25,
-          "year": "2012"
+          "type": "m-artist",
+          "name": "The Beatles",
+          "n": 500,
+          "year": "2009"
         },
         {
           "type": "repeat",
-          "artist": "Fred again..",
-          "title": "Delilah (Pull Me Out Of This)",
+          "artist": "Automatic",
+          "title": "Monster",
           "n": 3,
-          "year": "2022"
+          "year": "2006"
+        },
+        {
+          "type": "first-track",
+          "artist": "Nas",
+          "title": "If I Ruled the World (Imagine That)",
+          "total": 37,
+          "year": "2010"
+        },
+        {
+          "type": "kast",
+          "year": "2024",
+          "artist": "Fleetwood Mac",
+          "title": "Greatest Hits",
+          "release_id": 3539212,
+          "medium": "CD",
+          "plays": 442,
+          "sameDay": 24
         },
         {
           "type": "busiest",
-          "year": "2020",
-          "plays": 119,
+          "year": "2023",
+          "plays": 134,
           "top": {
-            "name": "Fatima Yamaha",
-            "plays": 16
+            "name": "Gareth Coker",
+            "plays": 51
           }
         },
         {
           "type": "quietest",
-          "year": "2014",
-          "plays": 3,
+          "year": "2007",
+          "plays": 5,
           "top": {
-            "name": "Soldaat van Oranje Cast",
-            "plays": 1
+            "name": "Muse",
+            "plays": 3
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 54,
+          "plays": 43,
           "top": {
-            "name": "Wagon Christ",
-            "plays": 12
+            "name": "Placebo",
+            "plays": 10
           }
         },
         {
           "year": "2024",
-          "plays": 90,
+          "plays": 104,
           "top": {
-            "name": "Berlioz",
-            "plays": 16
+            "name": "Red Hot Chili Peppers",
+            "plays": 28
           }
         },
         {
           "year": "2023",
-          "plays": 36,
+          "plays": 134,
           "top": {
-            "name": "Lane 8",
-            "plays": 2
+            "name": "Gareth Coker",
+            "plays": 51
           }
         },
         {
           "year": "2022",
-          "plays": 66,
+          "plays": 46,
           "top": {
-            "name": "Fred again..",
-            "plays": 31
+            "name": "The Prodigy",
+            "plays": 12
           }
         },
         {
           "year": "2021",
-          "plays": 46,
+          "plays": 80,
           "top": {
-            "name": "Barry Can't Swim",
-            "plays": 1
+            "name": "Yppah",
+            "plays": 5
           }
         },
         {
           "year": "2020",
-          "plays": 119,
+          "plays": 98,
           "top": {
-            "name": "Fatima Yamaha",
-            "plays": 16
+            "name": "The Cardigans",
+            "plays": 12
           }
         },
         {
           "year": "2019",
-          "plays": 82,
+          "plays": 75,
           "top": {
-            "name": "The xx",
+            "name": "Bear's Den",
             "plays": 4
           }
         },
         {
           "year": "2018",
-          "plays": 57,
-          "top": {
-            "name": "The Chemical Brothers",
-            "plays": 14
-          }
+          "plays": 0,
+          "top": null
         },
         {
           "year": "2017",
-          "plays": 6,
+          "plays": 70,
           "top": {
-            "name": "The Waterboys",
-            "plays": 1
+            "name": "Gustavo Santaolalla",
+            "plays": 30
           }
         },
         {
           "year": "2016",
-          "plays": 32,
+          "plays": 6,
           "top": {
-            "name": "Aphex Twin",
-            "plays": 9
+            "name": "Metallica",
+            "plays": 5
           }
         },
         {
           "year": "2015",
-          "plays": 59,
+          "plays": 69,
           "top": {
-            "name": "Rom Di Prisco",
-            "plays": 17
+            "name": "Troufic Farroukh",
+            "plays": 1
           }
         },
         {
           "year": "2014",
-          "plays": 3,
+          "plays": 58,
           "top": {
-            "name": "Soldaat van Oranje Cast",
-            "plays": 1
-          }
-        },
-        {
-          "year": "2013",
-          "plays": 28,
-          "top": {
-            "name": "Flooting Grooves",
-            "plays": 8
-          }
-        },
-        {
-          "year": "2012",
-          "plays": 47,
-          "top": {
-            "name": "Digitalism",
-            "plays": 7
-          }
-        },
-        {
-          "year": "2011",
-          "plays": 55,
-          "top": {
-            "name": "Air",
+            "name": "Austin Wintory",
             "plays": 12
           }
         },
         {
-          "year": "2010",
-          "plays": 45,
+          "year": "2013",
+          "plays": 47,
           "top": {
-            "name": "John Kander",
-            "plays": 22
+            "name": "Coldplay",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 68,
+          "top": {
+            "name": "Jack Johnson",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 43,
+          "top": {
+            "name": "The Beatles",
+            "plays": 16
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 50,
+          "top": {
+            "name": "Kyteman",
+            "plays": 12
           }
         },
         {
           "year": "2009",
-          "plays": 44,
+          "plays": 39,
           "top": {
-            "name": "Cut Copy",
-            "plays": 10
+            "name": "The Beatles",
+            "plays": 11
           }
         },
         {
           "year": "2008",
-          "plays": 84,
+          "plays": 90,
           "top": {
-            "name": "Jason Mraz",
-            "plays": 34
+            "name": "Mark Ronson",
+            "plays": 14
           }
         },
         {
           "year": "2007",
-          "plays": 63,
+          "plays": 5,
           "top": {
-            "name": "Groove Armada",
-            "plays": 17
+            "name": "Muse",
+            "plays": 3
           }
         },
         {
           "year": "2006",
-          "plays": 82,
+          "plays": 64,
           "top": {
-            "name": "Placebo",
-            "plays": 25
+            "name": "Red Hot Chili Peppers",
+            "plays": 28
           }
         },
         {
           "year": "2005",
-          "plays": 4,
+          "plays": 11,
           "top": {
-            "name": "Beastie Boys",
-            "plays": 1
+            "name": "Natalie Imbruglia",
+            "plays": 8
           }
         }
       ]
     },
     "lastfm_artists_in_collection": [
-      "AIR",
-      "Beastie Boys",
-      "Elbow",
-      "Fred again..",
-      "Groove Armada",
-      "Jason Mraz",
+      "Austin Wintory",
+      "Coldplay",
+      "Fleetwood Mac",
+      "Jack Johnson",
+      "Kyteman",
+      "Mark Ronson",
+      "Metallica",
+      "Nas",
+      "Natalie Imbruglia",
       "Placebo",
-      "The Chemical Brothers",
-      "The XX"
+      "Red Hot Chili Peppers",
+      "The Beatles",
+      "The Cardigans",
+      "The Prodigy",
+      "Yppah"
     ],
     "discogs": []
   }
