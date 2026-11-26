@@ -1,53 +1,53 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-25T19:34:21+00:00",
-  "date": "2026-11-24",
-  "date_nl": "dinsdag 24 november 2026",
-  "mail_date": "2026-11-25",
+  "generated_at": "2026-11-26T08:19:44+00:00",
+  "date": "2026-11-25",
+  "date_nl": "woensdag 25 november 2026",
+  "mail_date": "2026-11-26",
   "data_until": "2026-11-25T19:32:50+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 47,
+    "plays": 49,
     "avg_year": 76,
     "year": 2026,
     "verdict": "onder",
-    "line": "Gisteren: 47 nummers — onder je daggemiddelde van 2026 (76)."
+    "line": "Gisteren: 49 nummers — onder je daggemiddelde van 2026 (76)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds juni 2018 weer Gingy (1× gisteren)."
-    },
-    {
-      "type": "discoveries",
-      "label": "Ontdekkingen",
-      "text": "5 artiesten hoorde je gisteren voor het eerst, o.a. Switchshift, Sandy Lobban, Steve Lavers."
+      "text": "Voor het eerst sinds augustus 2025 weer Gacha Bakradze (1× gisteren)."
     },
     {
       "type": "top",
       "label": "Topper",
-      "text": "Thomas Newman was je topper met 19 nummers (vooral American Beauty (Original Motion Picture Score)); in totaal 185 plays sinds december 2008."
+      "text": "Howard Shore was je topper met 18 nummers (vooral The Lord of the Rings: The Two Towers); in totaal 402 plays sinds oktober 2005. Dat album staat ook in je kast."
+    },
+    {
+      "type": "waiting",
+      "label": "Nog op de stapel",
+      "text": "Audioslave – Audioslave (CD Album, binnen sinds 7 oktober) wacht nog op zijn eerste draaibeurt."
     }
   ],
   "tip": {
-    "date": "2026-11-25",
-    "faded_line": "Austin Wintory – Abzu — 301× gedraaid, piek in 2016, laatst op 23 januari 2025.",
+    "date": "2026-11-26",
+    "faded_line": "Ralph Myerz and the Jack Herren Band – A Special Album — 298× gedraaid, piek in 2007, laatst op 14 juni 2025.",
     "faded": {
       "type": "album",
-      "artist": "Austin Wintory",
-      "album": "Abzu",
-      "plays": 301,
-      "peak_year": 2016,
-      "last_played": "2025-01-23",
-      "rank": 109,
+      "artist": "Ralph Myerz and the Jack Herren Band",
+      "album": "A Special Album",
+      "plays": 298,
+      "peak_year": 2007,
+      "last_played": "2025-06-14",
+      "rank": 112,
       "in_collection": false
     },
-    "kast_line": "The Jimi Hendrix Experience – Are You Experienced (1967, vinyl), pas 2× gedraaid.",
+    "kast_line": "Eric Clapton – Money And Cigarettes (1983, vinyl), pas 2× gedraaid.",
     "followup_line": "De tip van 22 november heb je opgevolgd: Robbie Williams – Sing When You're Winning (1×).",
     "stats": {
-      "given": 32,
+      "given": 33,
       "followed": 12
     }
   },
@@ -56,205 +56,195 @@
       "highlights": [
         {
           "type": "first-artist",
-          "name": "Damien Rice",
-          "total": 214,
-          "year": "2006"
+          "name": "Everything But the Girl",
+          "total": 195,
+          "year": "2007"
         },
         {
-          "type": "comeback",
-          "name": "July Skies",
-          "gapDays": 931,
-          "since": "2015-05-09",
-          "plays": 38,
-          "before": 253,
-          "year": "2017"
-        },
-        {
-          "type": "m-album",
-          "artist": "Norah Jones",
-          "title": "Come Away with Me",
-          "n": 250,
-          "year": "2019"
-        },
-        {
-          "type": "repeat",
-          "artist": "Fred again..",
-          "title": "Turn On The Lights again.. (feat. Future)",
-          "n": 3,
-          "year": "2022"
+          "type": "m-track",
+          "artist": "Coldplay",
+          "title": "Trouble",
+          "n": 75,
+          "year": "2023"
         },
         {
           "type": "busiest",
-          "year": "2023",
-          "plays": 94,
+          "year": "2010",
+          "plays": 111,
           "top": {
-            "name": "Moloko",
-            "plays": 15
+            "name": "Kempi",
+            "plays": 19
           }
         },
         {
           "type": "quietest",
           "year": "2012",
-          "plays": 4,
+          "plays": 5,
           "top": {
-            "name": "Underworld",
-            "plays": 4
+            "name": "Yeasayer",
+            "plays": 2
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 87,
+          "plays": 79,
           "top": {
-            "name": "The Beatles",
-            "plays": 32
+            "name": "The Allman Brothers Band",
+            "plays": 13
           }
         },
         {
           "year": "2024",
-          "plays": 83,
+          "plays": 105,
           "top": {
-            "name": "U2",
-            "plays": 21
+            "name": "Bremer/McCoy",
+            "plays": 12
           }
         },
         {
           "year": "2023",
-          "plays": 94,
+          "plays": 95,
           "top": {
-            "name": "Moloko",
-            "plays": 15
+            "name": "The Dave Brubeck Quartet",
+            "plays": 12
           }
         },
         {
           "year": "2022",
-          "plays": 53,
+          "plays": 57,
           "top": {
-            "name": "Stephan Bodzin",
-            "plays": 21
+            "name": "Fred again..",
+            "plays": 24
           }
         },
         {
           "year": "2021",
-          "plays": 40,
+          "plays": 66,
           "top": {
-            "name": "Philip Glass",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 52,
-          "top": {
-            "name": "Lake Malawi",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2019",
-          "plays": 65,
-          "top": {
-            "name": "The xx",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2017",
-          "plays": 58,
-          "top": {
-            "name": "July Skies",
-            "plays": 38
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 17,
-          "top": {
-            "name": "DJ Snake",
-            "plays": 7
-          }
-        },
-        {
-          "year": "2015",
-          "plays": 16,
-          "top": {
-            "name": "Legowelt",
+            "name": "Metallica",
             "plays": 14
           }
         },
         {
-          "year": "2014",
-          "plays": 65,
+          "year": "2020",
+          "plays": 59,
           "top": {
-            "name": "De La Soul",
-            "plays": 17
+            "name": "Ludwig Göransson",
+            "plays": 14
           }
         },
         {
-          "year": "2013",
-          "plays": 0,
-          "top": null
-        },
-        {
-          "year": "2012",
-          "plays": 4,
+          "year": "2019",
+          "plays": 72,
           "top": {
-            "name": "Underworld",
-            "plays": 4
+            "name": "NOFX",
+            "plays": 30
           }
         },
         {
-          "year": "2011",
-          "plays": 22,
+          "year": "2018",
+          "plays": 25,
           "top": {
-            "name": "Anthony Rother",
-            "plays": 8
-          }
-        },
-        {
-          "year": "2010",
-          "plays": 37,
-          "top": {
-            "name": "Far East Movement",
+            "name": "Burial",
             "plays": 7
           }
         },
         {
-          "year": "2009",
-          "plays": 78,
+          "year": "2017",
+          "plays": 28,
           "top": {
-            "name": "Izmar",
-            "plays": 21
+            "name": "test piet",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2016",
+          "plays": 16,
+          "top": {
+            "name": "Zeds Dead",
+            "plays": 4
+          }
+        },
+        {
+          "year": "2015",
+          "plays": 6,
+          "top": {
+            "name": "Dr. Lektroluv",
+            "plays": 2
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 8,
+          "top": {
+            "name": "Andrea Bocelli",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 40,
+          "top": {
+            "name": "Octogen",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 5,
+          "top": {
+            "name": "Yeasayer",
+            "plays": 2
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 43,
+          "top": {
+            "name": "Fugees",
+            "plays": 13
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 111,
+          "top": {
+            "name": "Kempi",
+            "plays": 19
+          }
+        },
+        {
+          "year": "2009",
+          "plays": 30,
+          "top": {
+            "name": "Gossip",
+            "plays": 12
           }
         },
         {
           "year": "2008",
-          "plays": 67,
+          "plays": 45,
           "top": {
-            "name": "The Prodigy",
-            "plays": 16
+            "name": "Yann Tiersen",
+            "plays": 19
           }
         },
         {
           "year": "2007",
-          "plays": 49,
+          "plays": 56,
           "top": {
-            "name": "Ennio Morricone",
-            "plays": 17
+            "name": "Hard‐Fi",
+            "plays": 4
           }
         },
         {
           "year": "2006",
-          "plays": 6,
+          "plays": 20,
           "top": {
-            "name": "Automatic",
-            "plays": 1
+            "name": "Daft Punk",
+            "plays": 10
           }
         },
         {
@@ -265,18 +255,16 @@
       ]
     },
     "lastfm_artists_in_collection": [
-      "Damien Rice",
-      "De La Soul",
-      "Ennio Morricone",
+      "Coldplay",
+      "Daft Punk",
+      "Everything But The Girl",
       "Fred again..",
-      "Izmar",
-      "Moloko",
-      "Norah Jones",
-      "The Beatles",
-      "The Prodigy",
-      "The XX",
-      "U2",
-      "Underworld"
+      "Fugees",
+      "Metallica",
+      "NOFX",
+      "The Allman Brothers Band",
+      "The Dave Brubeck Quartet",
+      "Yann Tiersen"
     ],
     "discogs": []
   }
