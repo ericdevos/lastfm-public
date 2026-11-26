@@ -1,24 +1,24 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-26T08:58:38+00:00",
+  "generated_at": "2026-11-26T13:00:11+00:00",
   "date": "2026-11-25",
   "date_nl": "woensdag 25 november 2026",
   "mail_date": "2026-11-26",
-  "data_until": "2026-11-26T08:57:10+00:00",
+  "data_until": "2026-11-26T12:47:34+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 67,
+    "plays": 68,
     "avg_year": 76,
     "year": 2026,
     "verdict": "onder",
-    "line": "Gisteren: 67 nummers — onder je daggemiddelde van 2026 (76)."
+    "line": "Gisteren: 68 nummers — onder je daggemiddelde van 2026 (76)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds juni 2020 weer Dirty Vegas (1× gisteren)."
+      "text": "Voor het eerst sinds november 2019 weer Chris Cornell (1× gisteren)."
     },
     {
       "type": "top",
