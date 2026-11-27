@@ -1,53 +1,53 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-26T17:16:59+00:00",
-  "date": "2026-11-25",
-  "date_nl": "woensdag 25 november 2026",
-  "mail_date": "2026-11-26",
-  "data_until": "2026-11-26T17:15:21+00:00",
+  "generated_at": "2026-11-27T01:55:37+00:00",
+  "date": "2026-11-26",
+  "date_nl": "donderdag 26 november 2026",
+  "mail_date": "2026-11-27",
+  "data_until": "2026-11-26T19:06:42+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 68,
+    "plays": 131,
     "avg_year": 76,
     "year": 2026,
-    "verdict": "onder",
-    "line": "Gisteren: 68 nummers — onder je daggemiddelde van 2026 (76)."
+    "verdict": "boven",
+    "line": "Gisteren: 131 nummers — ruim boven je daggemiddelde van 2026 (76; +72%)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds november 2019 weer Chris Cornell (1× gisteren)."
+      "text": "Voor het eerst sinds juli 2008 weer Earth and Fire (1× gisteren)."
     },
     {
-      "type": "top",
-      "label": "Topper",
-      "text": "Howard Shore was je topper met 18 nummers (vooral The Lord of the Rings: The Two Towers); in totaal 402 plays sinds oktober 2005. Dat album staat ook in je kast."
+      "type": "new",
+      "label": "Nieuwe aanwinst",
+      "text": "Je haalde onlangs Rage Against the Machine – Justify Those That Die in huis (7 oktober); gisteren draaide je 1 nummers van Rage Against the Machine."
     },
     {
-      "type": "waiting",
-      "label": "Nog op de stapel",
-      "text": "Audioslave – Audioslave (CD Album, binnen sinds 7 oktober) wacht nog op zijn eerste draaibeurt."
+      "type": "shelf",
+      "label": "Kast × luisteren",
+      "text": "The Band – The Last Waltz (DVD DVD-Video PAL Special Edition) staat al sinds september 2024 in je kast; gisteren 3 nummers van gedraaid."
     }
   ],
   "tip": {
-    "date": "2026-11-26",
-    "faded_line": "Ralph Myerz and the Jack Herren Band – A Special Album — 298× gedraaid, piek in 2007, laatst op 14 juni 2025.",
+    "date": "2026-11-27",
+    "faded_line": "Hans Zimmer – Interstellar (Original Motion Picture Soundtrack) — 291× gedraaid, piek in 2022, laatst op 19 juli 2025.",
     "faded": {
       "type": "album",
-      "artist": "Ralph Myerz and the Jack Herren Band",
-      "album": "A Special Album",
-      "plays": 298,
-      "peak_year": 2007,
-      "last_played": "2025-06-14",
-      "rank": 112,
+      "artist": "Hans Zimmer",
+      "album": "Interstellar (Original Motion Picture Soundtrack)",
+      "plays": 291,
+      "peak_year": 2022,
+      "last_played": "2025-07-19",
+      "rank": 122,
       "in_collection": false
     },
-    "kast_line": "Eric Clapton – Money And Cigarettes (1983, vinyl), pas 2× gedraaid.",
+    "kast_line": "Mike Oldfield – Platinum (1979, vinyl), nog nooit gedraaid.",
     "followup_line": "De tip van 22 november heb je opgevolgd: Robbie Williams – Sing When You're Winning (1×).",
     "stats": {
-      "given": 33,
+      "given": 34,
       "followed": 12
     }
   },
@@ -55,196 +55,206 @@
     "lastfm": {
       "highlights": [
         {
-          "type": "first-artist",
-          "name": "Everything But the Girl",
-          "total": 196,
-          "year": "2007"
+          "type": "comeback",
+          "name": "N.A.S.A.",
+          "gapDays": 658,
+          "since": "2010-02-07",
+          "plays": 15,
+          "before": 159,
+          "year": "2011"
         },
         {
           "type": "m-track",
-          "artist": "Coldplay",
-          "title": "Trouble",
-          "n": 75,
-          "year": "2023"
+          "artist": "Röyksopp",
+          "title": "You Don't Have a Clue",
+          "n": 50,
+          "year": "2013"
+        },
+        {
+          "type": "first-track",
+          "artist": "Lit",
+          "title": "My Own Worst Enemy",
+          "total": 50,
+          "year": "2014"
         },
         {
           "type": "busiest",
-          "year": "2010",
-          "plays": 111,
+          "year": "2021",
+          "plays": 119,
           "top": {
-            "name": "Kempi",
-            "plays": 19
+            "name": "Janne Schra",
+            "plays": 6
           }
         },
         {
           "type": "quietest",
-          "year": "2012",
-          "plays": 5,
+          "year": "2015",
+          "plays": 1,
           "top": {
-            "name": "Yeasayer",
-            "plays": 2
+            "name": "Dr. Lektroluv",
+            "plays": 1
           }
         }
       ],
       "years": [
         {
           "year": "2025",
-          "plays": 79,
+          "plays": 53,
           "top": {
-            "name": "The Allman Brothers Band",
-            "plays": 13
+            "name": "Chris Remo",
+            "plays": 18
           }
         },
         {
           "year": "2024",
-          "plays": 105,
+          "plays": 109,
           "top": {
-            "name": "Bremer/McCoy",
-            "plays": 12
+            "name": "The Doors",
+            "plays": 14
           }
         },
         {
           "year": "2023",
-          "plays": 95,
+          "plays": 48,
           "top": {
-            "name": "The Dave Brubeck Quartet",
-            "plays": 12
+            "name": "Jungle by Night",
+            "plays": 11
           }
         },
         {
           "year": "2022",
-          "plays": 57,
+          "plays": 114,
           "top": {
             "name": "Fred again..",
-            "plays": 24
+            "plays": 33
           }
         },
         {
           "year": "2021",
-          "plays": 66,
+          "plays": 119,
           "top": {
-            "name": "Metallica",
-            "plays": 14
+            "name": "Janne Schra",
+            "plays": 6
           }
         },
         {
           "year": "2020",
-          "plays": 59,
+          "plays": 81,
           "top": {
-            "name": "Ludwig Göransson",
-            "plays": 14
+            "name": "Video Games Live",
+            "plays": 4
           }
         },
         {
           "year": "2019",
-          "plays": 72,
+          "plays": 76,
           "top": {
-            "name": "NOFX",
-            "plays": 30
+            "name": "Rage Against the Machine",
+            "plays": 17
           }
         },
         {
           "year": "2018",
-          "plays": 25,
+          "plays": 56,
           "top": {
-            "name": "Burial",
-            "plays": 7
+            "name": "Haevn",
+            "plays": 2
           }
         },
         {
           "year": "2017",
-          "plays": 28,
+          "plays": 34,
           "top": {
-            "name": "test piet",
+            "name": "Balmorhea",
             "plays": 3
           }
         },
         {
           "year": "2016",
-          "plays": 16,
+          "plays": 18,
           "top": {
-            "name": "Zeds Dead",
-            "plays": 4
-          }
-        },
-        {
-          "year": "2015",
-          "plays": 6,
-          "top": {
-            "name": "Dr. Lektroluv",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2014",
-          "plays": 8,
-          "top": {
-            "name": "Andrea Bocelli",
+            "name": "Ta-ku",
             "plays": 3
           }
         },
         {
-          "year": "2013",
-          "plays": 40,
+          "year": "2015",
+          "plays": 1,
           "top": {
-            "name": "Octogen",
-            "plays": 14
+            "name": "Dr. Lektroluv",
+            "plays": 1
+          }
+        },
+        {
+          "year": "2014",
+          "plays": 65,
+          "top": {
+            "name": "Jack Wall",
+            "plays": 25
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 23,
+          "top": {
+            "name": "Röyksopp",
+            "plays": 12
           }
         },
         {
           "year": "2012",
           "plays": 5,
           "top": {
-            "name": "Yeasayer",
+            "name": "Bloc Party",
             "plays": 2
           }
         },
         {
           "year": "2011",
-          "plays": 43,
+          "plays": 49,
           "top": {
-            "name": "Fugees",
-            "plays": 13
+            "name": "N.A.S.A.",
+            "plays": 15
           }
         },
         {
           "year": "2010",
-          "plays": 111,
+          "plays": 28,
           "top": {
-            "name": "Kempi",
-            "plays": 19
+            "name": "The xx",
+            "plays": 11
           }
         },
         {
           "year": "2009",
-          "plays": 30,
+          "plays": 11,
           "top": {
-            "name": "Gossip",
-            "plays": 12
+            "name": "Ralph Myerz and the Jack Herren Band",
+            "plays": 10
           }
         },
         {
           "year": "2008",
-          "plays": 45,
+          "plays": 48,
           "top": {
-            "name": "Yann Tiersen",
-            "plays": 19
+            "name": "De Jeugd van Tegenwoordig",
+            "plays": 20
           }
         },
         {
           "year": "2007",
-          "plays": 56,
+          "plays": 31,
           "top": {
-            "name": "Hard‐Fi",
-            "plays": 4
+            "name": "Coldplay",
+            "plays": 10
           }
         },
         {
           "year": "2006",
-          "plays": 20,
+          "plays": 34,
           "top": {
-            "name": "Daft Punk",
-            "plays": 10
+            "name": "Acda en de Munnik",
+            "plays": 4
           }
         },
         {
@@ -255,16 +265,15 @@
       ]
     },
     "lastfm_artists_in_collection": [
+      "Acda en de Munnik",
+      "Bloc Party",
+      "Chris Remo",
       "Coldplay",
-      "Daft Punk",
-      "Everything But The Girl",
       "Fred again..",
-      "Fugees",
-      "Metallica",
-      "NOFX",
-      "The Allman Brothers Band",
-      "The Dave Brubeck Quartet",
-      "Yann Tiersen"
+      "Rage Against The Machine",
+      "Röyksopp",
+      "The Doors",
+      "The XX"
     ],
     "discogs": []
   }
