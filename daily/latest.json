@@ -1,53 +1,53 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-27T13:04:27+00:00",
-  "date": "2026-11-26",
-  "date_nl": "donderdag 26 november 2026",
-  "mail_date": "2026-11-27",
-  "data_until": "2026-11-27T12:57:16+00:00",
+  "generated_at": "2026-11-27T23:43:12+00:00",
+  "date": "2026-11-27",
+  "date_nl": "vrijdag 27 november 2026",
+  "mail_date": "2026-11-28",
+  "data_until": "2026-11-27T22:16:53+00:00",
   "sync_ok": true,
   "import_days_skipped": 1,
   "yesterday": {
-    "plays": 131,
+    "plays": 101,
     "avg_year": 76,
     "year": 2026,
     "verdict": "boven",
-    "line": "Gisteren: 131 nummers — ruim boven je daggemiddelde van 2026 (76; +72%)."
+    "line": "Gisteren: 101 nummers — boven je daggemiddelde van 2026 (76)."
   },
   "highlights": [
     {
       "type": "comeback",
       "label": "Comeback",
-      "text": "Voor het eerst sinds juli 2008 weer Earth and Fire (1× gisteren)."
+      "text": "Voor het eerst sinds december 2019 weer Édith Piaf (1× gisteren)."
     },
     {
-      "type": "new",
-      "label": "Nieuwe aanwinst",
-      "text": "Je haalde onlangs Rage Against the Machine – Justify Those That Die in huis (7 oktober); gisteren draaide je 1 nummers van Rage Against the Machine."
+      "type": "discoveries",
+      "label": "Ontdekkingen",
+      "text": "10 artiesten hoorde je gisteren voor het eerst, o.a. Jakub Dubik, Jaja, KatzPascale."
     },
     {
       "type": "shelf",
       "label": "Kast × luisteren",
-      "text": "The Band – The Last Waltz (DVD DVD-Video PAL Special Edition) staat al sinds september 2024 in je kast; gisteren 3 nummers van gedraaid."
+      "text": "The Band – The Last Waltz (DVD DVD-Video PAL Special Edition) staat al sinds september 2024 in je kast; gisteren 14 nummers van gedraaid."
     }
   ],
   "tip": {
-    "date": "2026-11-27",
-    "faded_line": "Hans Zimmer – Interstellar (Original Motion Picture Soundtrack) — 291× gedraaid, piek in 2022, laatst op 19 juli 2025.",
+    "date": "2026-11-28",
+    "faded_line": "Henry Jackman – Uncharted 4: A Thief's End (Original Soundtrack) — 244× gedraaid, piek in 2019, laatst op 28 juni 2021.",
     "faded": {
       "type": "album",
-      "artist": "Hans Zimmer",
-      "album": "Interstellar (Original Motion Picture Soundtrack)",
-      "plays": 291,
-      "peak_year": 2022,
-      "last_played": "2025-07-19",
-      "rank": 122,
+      "artist": "Henry Jackman",
+      "album": "Uncharted 4: A Thief's End (Original Soundtrack)",
+      "plays": 244,
+      "peak_year": 2019,
+      "last_played": "2021-06-28",
+      "rank": 180,
       "in_collection": false
     },
-    "kast_line": "Mike Oldfield – Platinum (1979, vinyl), nog nooit gedraaid.",
+    "kast_line": "The Rolling Stones – Steel Wheels (1989, cd), nog nooit gedraaid.",
     "followup_line": "De tip van 22 november heb je opgevolgd: Robbie Williams – Sing When You're Winning (1×).",
     "stats": {
-      "given": 34,
+      "given": 35,
       "followed": 12
     }
   },
@@ -55,43 +55,40 @@
     "lastfm": {
       "highlights": [
         {
-          "type": "comeback",
-          "name": "N.A.S.A.",
-          "gapDays": 658,
-          "since": "2010-02-07",
-          "plays": 15,
-          "before": 159,
-          "year": "2011"
+          "type": "first-artist",
+          "name": "July Skies",
+          "total": 491,
+          "year": "2009"
         },
         {
           "type": "m-track",
-          "artist": "Röyksopp",
-          "title": "You Don't Have a Clue",
-          "n": 50,
-          "year": "2013"
-        },
-        {
-          "type": "first-track",
-          "artist": "Lit",
-          "title": "My Own Worst Enemy",
-          "total": 50,
+          "artist": "Tosca",
+          "title": "Suzuki (Burnt Friedman/Nonplace dub)",
+          "n": 25,
           "year": "2014"
         },
         {
+          "type": "first-track",
+          "artist": "Portishead",
+          "title": "Sour Times",
+          "total": 35,
+          "year": "2008"
+        },
+        {
           "type": "busiest",
-          "year": "2021",
-          "plays": 119,
+          "year": "2019",
+          "plays": 113,
           "top": {
-            "name": "Janne Schra",
-            "plays": 6
+            "name": "Michel de Hey",
+            "plays": 9
           }
         },
         {
           "type": "quietest",
-          "year": "2015",
-          "plays": 1,
+          "year": "2007",
+          "plays": 3,
           "top": {
-            "name": "Dr. Lektroluv",
+            "name": "The Opposites feat. Dio, Willie Wartaal",
             "plays": 1
           }
         }
@@ -99,162 +96,159 @@
       "years": [
         {
           "year": "2025",
-          "plays": 53,
+          "plays": 3,
           "top": {
-            "name": "Chris Remo",
-            "plays": 18
-          }
-        },
-        {
-          "year": "2024",
-          "plays": 109,
-          "top": {
-            "name": "The Doors",
-            "plays": 14
-          }
-        },
-        {
-          "year": "2023",
-          "plays": 48,
-          "top": {
-            "name": "Jungle by Night",
-            "plays": 11
-          }
-        },
-        {
-          "year": "2022",
-          "plays": 114,
-          "top": {
-            "name": "Fred again..",
-            "plays": 33
-          }
-        },
-        {
-          "year": "2021",
-          "plays": 119,
-          "top": {
-            "name": "Janne Schra",
-            "plays": 6
-          }
-        },
-        {
-          "year": "2020",
-          "plays": 81,
-          "top": {
-            "name": "Video Games Live",
-            "plays": 4
-          }
-        },
-        {
-          "year": "2019",
-          "plays": 76,
-          "top": {
-            "name": "Rage Against the Machine",
-            "plays": 17
-          }
-        },
-        {
-          "year": "2018",
-          "plays": 56,
-          "top": {
-            "name": "Haevn",
-            "plays": 2
-          }
-        },
-        {
-          "year": "2017",
-          "plays": 34,
-          "top": {
-            "name": "Balmorhea",
-            "plays": 3
-          }
-        },
-        {
-          "year": "2016",
-          "plays": 18,
-          "top": {
-            "name": "Ta-ku",
-            "plays": 3
-          }
-        },
-        {
-          "year": "2015",
-          "plays": 1,
-          "top": {
-            "name": "Dr. Lektroluv",
+            "name": "Paul Simon",
             "plays": 1
           }
         },
         {
-          "year": "2014",
-          "plays": 65,
+          "year": "2024",
+          "plays": 46,
           "top": {
-            "name": "Jack Wall",
-            "plays": 25
+            "name": "Stanley Jordan",
+            "plays": 7
           }
         },
         {
-          "year": "2013",
-          "plays": 23,
+          "year": "2023",
+          "plays": 73,
           "top": {
-            "name": "Röyksopp",
-            "plays": 12
+            "name": "Jungle by Night",
+            "plays": 50
           }
         },
         {
-          "year": "2012",
-          "plays": 5,
+          "year": "2022",
+          "plays": 37,
           "top": {
-            "name": "Bloc Party",
+            "name": "Calvin Harris",
+            "plays": 13
+          }
+        },
+        {
+          "year": "2021",
+          "plays": 48,
+          "top": {
+            "name": "Marvin Gaye",
             "plays": 2
           }
         },
         {
-          "year": "2011",
-          "plays": 49,
+          "year": "2020",
+          "plays": 77,
           "top": {
-            "name": "N.A.S.A.",
-            "plays": 15
+            "name": "Tosca",
+            "plays": 5
           }
         },
         {
-          "year": "2010",
-          "plays": 28,
+          "year": "2019",
+          "plays": 113,
           "top": {
-            "name": "The xx",
+            "name": "Michel de Hey",
+            "plays": 9
+          }
+        },
+        {
+          "year": "2018",
+          "plays": 37,
+          "top": {
+            "name": "Vincent Diamante",
+            "plays": 10
+          }
+        },
+        {
+          "year": "2017",
+          "plays": 64,
+          "top": {
+            "name": "Elbow",
             "plays": 11
           }
         },
         {
-          "year": "2009",
-          "plays": 11,
+          "year": "2016",
+          "plays": 19,
           "top": {
-            "name": "Ralph Myerz and the Jack Herren Band",
-            "plays": 10
+            "name": "PolyNation",
+            "plays": 6
+          }
+        },
+        {
+          "year": "2015",
+          "plays": 0,
+          "top": null
+        },
+        {
+          "year": "2014",
+          "plays": 56,
+          "top": {
+            "name": "Up, Bustle & Out",
+            "plays": 14
+          }
+        },
+        {
+          "year": "2013",
+          "plays": 28,
+          "top": {
+            "name": "The Knife",
+            "plays": 3
+          }
+        },
+        {
+          "year": "2012",
+          "plays": 15,
+          "top": {
+            "name": "Wagon Christ",
+            "plays": 4
+          }
+        },
+        {
+          "year": "2011",
+          "plays": 9,
+          "top": {
+            "name": "Hans Zimmer",
+            "plays": 9
+          }
+        },
+        {
+          "year": "2010",
+          "plays": 48,
+          "top": {
+            "name": "Paul Kalkbrenner",
+            "plays": 13
+          }
+        },
+        {
+          "year": "2009",
+          "plays": 10,
+          "top": {
+            "name": "Sia",
+            "plays": 1
           }
         },
         {
           "year": "2008",
-          "plays": 48,
+          "plays": 104,
           "top": {
-            "name": "De Jeugd van Tegenwoordig",
-            "plays": 20
+            "name": "Yann Tiersen",
+            "plays": 19
           }
         },
         {
           "year": "2007",
-          "plays": 31,
+          "plays": 3,
           "top": {
-            "name": "Coldplay",
-            "plays": 10
+            "name": "The Opposites feat. Dio, Willie Wartaal",
+            "plays": 1
           }
         },
         {
           "year": "2006",
-          "plays": 34,
+          "plays": 15,
           "top": {
             "name": "Acda en de Munnik",
-            "plays": 4
+            "plays": 8
           }
         },
         {
@@ -266,14 +260,16 @@
     },
     "lastfm_artists_in_collection": [
       "Acda en de Munnik",
-      "Bloc Party",
-      "Chris Remo",
-      "Coldplay",
-      "Fred again..",
-      "Rage Against The Machine",
-      "Röyksopp",
-      "The Doors",
-      "The XX"
+      "Calvin Harris",
+      "Elbow",
+      "Hans Zimmer",
+      "Marvin Gaye",
+      "Michel De Hey",
+      "Paul Simon",
+      "Portishead",
+      "Stanley Jordan",
+      "Tosca",
+      "Yann Tiersen"
     ],
     "discogs": []
   }
